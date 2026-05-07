@@ -1,0 +1,310 @@
+[
+  {
+    "id": 201,
+    "verdict": "PASS"
+  },
+  {
+    "id": 202,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option C is wrong as 65 is not the result of dividing 20 by 4' but option C is p=5, which IS the correct answer. The explanation calls the correct option wrong."
+    ]
+  },
+  {
+    "id": 203,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation discusses a specific numerical answer ($60) rather than justifying why A (the formula 12c=t) is the correct choice. The correct answer is a formula, not a number.",
+      "Rule 8: Explanation references a cost of $5 per ticket which is not stated anywhere in the question. Question text is also truncated ('where c is' is incomplete)."
+    ]
+  },
+  {
+    "id": 204,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation references h=35 and calculates total earnings of $245, but h=35 is not mentioned anywhere in the question. Question text is also truncated ('Let m equal the amount of money Han' is incomplete)."
+    ]
+  },
+  {
+    "id": 205,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says the result 'directly matches the first option' but 130 is option C (the third option), not the first. This misidentifies which option is correct."
+    ]
+  },
+  {
+    "id": 206,
+    "verdict": "PASS"
+  },
+  {
+    "id": 207,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A incorrectly swaps the variables' but option A (4S=5C) IS the correct answer. The explanation contradicts itself by deriving the correct equation then saying it's wrong."
+    ]
+  },
+  {
+    "id": 208,
+    "verdict": "PASS"
+  },
+  {
+    "id": 209,
+    "verdict": "PASS"
+  },
+  {
+    "id": 210,
+    "verdict": "PASS"
+  },
+  {
+    "id": 211,
+    "verdict": "PASS"
+  },
+  {
+    "id": 212,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option B is incorrect as it represents only the coefficient of the first term' but option B is x=10, which IS the correct answer."
+    ]
+  },
+  {
+    "id": 213,
+    "verdict": "PASS"
+  },
+  {
+    "id": 411,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but is a single-step percentage calculation (25% of 200 = 50). No multi-step reasoning or complex calculation required."
+    ]
+  },
+  {
+    "id": 412,
+    "verdict": "PASS"
+  },
+  {
+    "id": 413,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but is simple pattern identification (+2 mg per +10 kg) and one-step application (14+2=16). Not complex reasoning.",
+      "Rule 8: Explanation assigns wrong values to options — says option A suggests 14 mg (A is actually 15 mg) and option D lists 12 mg (D is actually 20 mg)."
+    ]
+  },
+  {
+    "id": 414,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option C correctly identifies this sum' but the correct answer is B (650 mL). Option C also says 650 but B is the designated correct answer.",
+      "Rule 8: Options B and C are identical (both 650 mL), and wrong_answers lists '600 mL' which doesn't appear in the question options."
+    ]
+  },
+  {
+    "id": 415,
+    "verdict": "PASS"
+  },
+  {
+    "id": 416,
+    "verdict": "PASS"
+  },
+  {
+    "id": 417,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Correct answer C ($300) is mathematically wrong. If Food at 30% = $600, then total budget = $2000, and Rent at 50% = $1000. The explanation itself derives $1000 but then supports $300, contradicting its own math."
+    ]
+  },
+  {
+    "id": 418,
+    "verdict": "PASS"
+  },
+  {
+    "id": 419,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option B states 50 bpm, which is correct' but option B is 80 bpm, not 50. The explanation misidentifies option values.",
+      "Rule 8: The correct answer B (80 bpm) is wrong. Walking to Sprinting increase = 150 - 100 = 50 bpm. The correct answer should be A (50 bpm)."
+    ]
+  },
+  {
+    "id": 420,
+    "verdict": "PASS"
+  },
+  {
+    "id": 421,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation correctly calculates 24+24=48 total hours and says 'Option C correctly states this sum' but option C is 64, not 48.",
+      "Rule 8: Correct answer C (64) is wrong. Nurse A = 3×8=24 hrs, Nurse B = 4×6=24 hrs, total = 48. The correct answer should be D (48)."
+    ]
+  },
+  {
+    "id": 422,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option C states 60, which is correct' but the correct answer is B (60). Explanation misidentifies which option letter is correct.",
+      "Rule 8: Options B and C are identical (both 60), making the question ambiguous with duplicate correct answers."
+    ]
+  },
+  {
+    "id": 423,
+    "verdict": "PASS"
+  },
+  {
+    "id": 424,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'expected blood pressure in April is 124 mmHg' but the correct answer is B (122 mmHg). The explanation contradicts the answer.",
+      "Rule 8: Correct answer B (122) is wrong. Trend drops 2 mmHg/month: 126 - 2 = 124 mmHg for April. The correct answer should be A (124 mmHg)."
+    ]
+  },
+  {
+    "id": 425,
+    "verdict": "PASS"
+  },
+  {
+    "id": 426,
+    "verdict": "PASS"
+  },
+  {
+    "id": 427,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'they can buy 25 boxes' and 'Option C states 25' but option C is 18, not 25.",
+      "Rule 8: Correct answer C (18) is wrong. 10 masks × $5 = $50 spent, $50 remaining ÷ $2/glove = 25 boxes. The correct answer should be 25 (not listed as an option)."
+    ]
+  },
+  {
+    "id": 428,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says 'weight lost (30 lbs)' but actual loss is 180 - 170 = 10 lbs. Explanation also says 'yielding 16.7%' but actual percent decrease is 10/180 = 5.56%. The correct answer B (5.56%) is right, but the explanation's math is completely wrong."
+    ]
+  },
+  {
+    "id": 429,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'This yields 125 pills, matching option C' but option C is 100, not 125.",
+      "Rule 8: Correct answer C (100) is wrong. Med B = (150°/360°) × 300 = 125 pills. The correct answer should be 125 (not listed as an option)."
+    ]
+  },
+  {
+    "id": 430,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation correctly derives mean=97.5, range=15, difference=82.5, then says 'Option B matches this calculation' but option B is 10, not 82.5.",
+      "Rule 8: Correct answer B (10) is wrong. Mean of 90,95,100,105 = 97.5; Range = 105-90 = 15; Difference = 97.5 - 15 = 82.5. Wrong_answers array (82.5, 5, 15) also doesn't match options A(0), C(20), D(30)."
+    ]
+  },
+  {
+    "id": 431,
+    "verdict": "PASS"
+  },
+  {
+    "id": 432,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation correctly calculates perimeter as 34 meters and says 'Option C correctly states 34 meters' but option C is 44, not 34.",
+      "Rule 8: Correct answer C (44) is wrong. Perimeter = 2(5+12) = 34 meters. The correct answer should be D (26) if only adding length+width twice... actually 34 is not an option. 2×5+2×12=34, which is not listed. The closest listed answer D (26) is also wrong."
+    ]
+  },
+  {
+    "id": 433,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'multiplying by 1,000, resulting in 3,000 grams' and says option D is correct, but D is 30,000 not 3,000.",
+      "Rule 8: Correct answer D (30,000) is wrong. 3 kg × 1,000 = 3,000 grams. The correct answer should be C (3,000)."
+    ]
+  },
+  {
+    "id": 434,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'multiplying 9 inches by 4 yields 36 inches, making option C the only correct choice' but option C is 81, not 36. Option B is 36.",
+      "Rule 8: Correct answer C (81) is wrong. Perimeter of a square with side 9 = 4×9 = 36 inches. The correct answer should be B (36)."
+    ]
+  },
+  {
+    "id": 435,
+    "verdict": "PASS"
+  },
+  {
+    "id": 436,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'dividing 250 by 1,000 yields 0.25 liters, which matches option B' but option B is 0.025, not 0.25.",
+      "Rule 8: Correct answer B (0.025 L) is wrong. 250 mL ÷ 1,000 = 0.25 L. The correct answer should be A (0.25 L)."
+    ]
+  },
+  {
+    "id": 437,
+    "verdict": "PASS"
+  },
+  {
+    "id": 438,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation correctly calculates area as (10×6)/2 = 30 cm² then says 'Option B correctly states this result' but option B is 60, not 30.",
+      "Rule 8: Correct answer B (60 cm²) is wrong. Triangle area = (base × height)/2 = (10×6)/2 = 30 cm². The correct answer should be A (30 cm²)."
+    ]
+  },
+  {
+    "id": 439,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says '5,000 divided by 100 is exactly 50, only C reflects the proper unit conversion' but option C is 50,000, not 50.",
+      "Rule 8: Correct answer C (50,000) is wrong. 5,000 mm² ÷ 100 mm²/cm² = 50 cm². The correct answer should be A (50)."
+    ]
+  },
+  {
+    "id": 440,
+    "verdict": "PASS"
+  },
+  {
+    "id": 441,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'multiply by 1,000, yielding 5,000 mg. Option D is correct because it states 5,000 mg' but option D is 50,000, not 5,000.",
+      "Rule 8: Correct answer D (50,000 mg) is wrong. 5 g × 1,000 = 5,000 mg. The correct answer should be C (5,000)."
+    ]
+  },
+  {
+    "id": 442,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation calculates perimeter as 17 feet then says 'Option C correctly states this sum' but option C is 24, not 17.",
+      "Rule 8: Correct answer C (24) doesn't match the explanation's derivation of 17 feet. The L-shaped desk perimeter calculation is ambiguous and the explanation contradicts the answer."
+    ]
+  },
+  {
+    "id": 443,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation derives surface area as 48 cm² and says 'Option C states 48 cm²' but option C is 52, not 48.",
+      "Rule 8: Explanation incorrectly calculates 2(6+8+12) = 48 when the actual result is 2(26) = 52. The correct answer C (52) happens to be right but the explanation's math is wrong (52 ≠ 48)."
+    ]
+  },
+  {
+    "id": 444,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option B correctly calculates 300 mg' but option B is 50, not 300.",
+      "Rule 8: Correct answer B (50 mg) is wrong. Concentration is 50mg/5mL = 10mg/mL. In 15mL: 10×15 = 150 mg. The correct answer should be 150 mg (not listed)."
+    ]
+  },
+  {
+    "id": 445,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation derives V = 37.68 cm³ and says 'Option B matches this result' but option B is 37.7 while option A is 37.68. Also says 'Option A is too high because it likely forgets the 1/3 factor' but 37.68 IS the correct exact answer with the 1/3 factor included.",
+      "Rule 8: Explanation incorrectly describes option A (37.68) as forgetting the 1/3 factor. Without 1/3, the answer would be 113.04, not 37.68."
+    ]
+  },
+  {
+    "id": 446,
+    "verdict": "PASS"
+  },
+  {
+    "id": 447,
+    "verdict": "PASS"
+  }
+]

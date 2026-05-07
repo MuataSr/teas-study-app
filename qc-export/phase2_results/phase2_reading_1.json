@@ -1,0 +1,76 @@
+[
+  {"id": 384, "verdict": "PASS"},
+  {"id": 386, "verdict": "PASS"},
+  {"id": 387, "verdict": "PASS"},
+  {"id": 389, "verdict": "PASS"},
+  {"id": 390, "verdict": "PASS"},
+  {"id": 391, "verdict": "PASS"},
+  {"id": 392, "verdict": "PASS"},
+  {"id": 393, "verdict": "PASS"},
+  {"id": 394, "verdict": "PASS"},
+  {"id": 395, "verdict": "PASS"},
+  {
+    "id": 396,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: The explanation states that 'Consequently' links 'the suppression of melatonin and poor sleep quality to the recommendation to turn off screens.' This is incorrect. In the passage, 'Consequently' links melatonin suppression to poor sleep quality ('Consequently, teens who use phones before bed report poorer sleep quality'). The recommendation to turn off screens is introduced by 'Therefore,' not 'Consequently.' The explanation misrepresents what the signal word actually connects."
+    ]
+  },
+  {"id": 397, "verdict": "PASS"},
+  {"id": 399, "verdict": "PASS"},
+  {"id": 400, "verdict": "PASS"},
+  {"id": 401, "verdict": "PASS"},
+  {"id": 402, "verdict": "PASS"},
+  {"id": 403, "verdict": "PASS"},
+  {"id": 404, "verdict": "PASS"},
+  {"id": 405, "verdict": "PASS"},
+  {"id": 406, "verdict": "PASS"},
+  {"id": 407, "verdict": "PASS"},
+  {"id": 408, "verdict": "PASS"},
+  {"id": 409, "verdict": "PASS"},
+  {"id": 410, "verdict": "PASS"},
+  {"id": 1140, "verdict": "PASS"},
+  {
+    "id": 1141,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Rated 'hard' but identifying the author's purpose for a straightforward informational passage about photosynthesis is single-step recognition. The passage plainly presents scientific facts with no persuasive language, comparison, or critique, making it immediately obvious the purpose is to inform. A 'hard' question should require multi-step reasoning, nuanced inference, or synthesis."
+    ]
+  },
+  {"id": 1142, "verdict": "PASS"},
+  {
+    "id": 1143,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Rated 'hard' but the passage directly states 'citizens aged 18 and older are eligible to vote in federal elections.' The question asks who is eligible, and the correct answer is a verbatim recall from a single sentence. This is simple single-step recall, not the multi-step reasoning or complex inference expected of a 'hard' question."
+    ]
+  },
+  {"id": 1144, "verdict": "PASS"},
+  {"id": 1145, "verdict": "PASS"},
+  {"id": 1146, "verdict": "PASS"},
+  {"id": 1147, "verdict": "PASS"},
+  {"id": 1148, "verdict": "PASS"},
+  {"id": 1149, "verdict": "PASS"},
+  {"id": 1150, "verdict": "PASS"},
+  {"id": 1151, "verdict": "PASS"},
+  {"id": 1152, "verdict": "PASS"},
+  {
+    "id": 1153,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Rated 'hard' but the passage uses immediately obvious sequential transition words ('First,' 'Second,' 'Third,' 'Finally'). Identifying the organizational structure as sequential/chronological is single-step recognition of explicit signal words. No analysis or inference is required."
+    ]
+  },
+  {"id": 1154, "verdict": "PASS"},
+  {"id": 1155, "verdict": "PASS"},
+  {"id": 1156, "verdict": "PASS"},
+  {"id": 1157, "verdict": "PASS"},
+  {"id": 1158, "verdict": "PASS"},
+  {"id": 1159, "verdict": "PASS"},
+  {"id": 1160, "verdict": "PASS"},
+  {"id": 1161, "verdict": "PASS"},
+  {"id": 1162, "verdict": "PASS"},
+  {"id": 1163, "verdict": "PASS"},
+  {"id": 1164, "verdict": "PASS"},
+  {"id": 1165, "verdict": "PASS"}
+]

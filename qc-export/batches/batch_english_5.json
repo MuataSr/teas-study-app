@@ -1,0 +1,752 @@
+[
+  {
+    "id": 707,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct sentence.\n\nA. The nursing program is based on the principal of patient-centered care.\nB. The nursing program is based on the principle of patient-centered care.\nC. The nursing program is based on the principle' of patient-centered care.\nD. The nursing program is based on the principals of patient-centered care.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the noun \"principle\" to describe a fundamental truth or rule, which fits the context of a care philosophy. Option A is wrong because it misspells \"principle\" as \"principal,\" a word reserved for leaders like school heads. Option C is incorrect due to the unnecessary apostrophe before \"of,\" which creates a grammatical error. Option D fails because it uses the plural \"principals,\" implying multiple school administrators rather than a single guiding concept. This question tests your ability to distinguish between homophones and proper punctuation in formal writing.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 708,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Which sentence is correct?\n\nA. Be careful not to loose the patient's file.\nB. Be careful not to lose the patient's file.\nC. Be careful not too lose the patient's file.\nD. Be careful not too loose the patient's file.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the verb \"lose,\" which means to fail to keep something, fitting the context of misplacing a file. Option A is wrong because \"loose\" is an adjective meaning not tight, whereas the sentence requires a verb. Option C is incorrect due to the double error of using \"too\" instead of \"to\" and \"lose\" instead of \"loose.\" Option D fails because it combines the wrong preposition \"too\" with the adjective \"loose,\" creating a grammatically nonsensical phrase. This question tests your ability to distinguish between homophones and proper verb forms in a medical setting.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 709,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Select the sentence with correct word choice.\n\nA. The nurse kept the patient stationary during the procedure.\nB. The nurse kept the patient stationery during the procedure.\nC. The nurse kept the patient stationarie during the procedure.\nD. The nurse kept the patient stationery' during the procedure.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because \"stationary\" is the proper adjective meaning fixed in one place, which accurately describes keeping a patient still during a medical procedure. Option B is incorrect since \"stationery\" refers to writing materials like paper and pens, not a state of being unmoving. Option C fails because \"stationarie\" is a misspelling of the word stationary and does not exist in standard English. Option D is wrong due to the unnecessary apostrophe after \"stationery,\" which creates a grammatical error and changes the word's meaning. The question tests your ability to distinguish between homophones with different spellings and meanings in a clinical context.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 710,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct sentence.\n\nA. The physician paid the patient a complement on her recovery.\nB. The physician paid the patient a compliment on her recovery.\nC. The physician paid the patient a compliment' on her recovery.\nD. The physician paid the patient a complement' on her recovery.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the word \"compliment,\" which means a polite expression of praise, fitting the context of a physician praising a patient's recovery. The other options contain errors in word choice or punctuation that change the meaning or create grammatical mistakes. Option A incorrectly uses \"complement,\" which refers to completing something or a drink pairing, rather than offering praise. Options C and D both include unnecessary apostrophes after the word \"compliment\" or \"complement,\" which are not needed in this standard noun phrase. Therefore, only sentence B maintains proper spelling and punctuation to convey the intended meaning accurately.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 711,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Based on the context, what does 'acute' mean in this sentence? 'The patient presented with acute abdominal pain requiring immediate intervention.'\n\nA. Sharp or severe in onset\nB. Mild and long-lasting\nC. Psychological in nature\nD. Chronic and recurring",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The word \"acute\" in this medical context describes pain that is sudden, severe, and has a rapid onset, which matches option A perfectly. This meaning is directly supported by the phrase \"requiring immediate intervention,\" as acute conditions demand urgent care unlike slow-developing issues. Option B is incorrect because acute pain is intense, not mild, and it is short-term rather than long-lasting. Option C is wrong since the sentence refers to physical abdominal pain, not psychological distress. Option D is false because chronic implies long-term or recurring problems, whereas acute signifies a new, sharp episode needing quick action.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 712,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "What is the meaning of 'prognosis' as used in this sentence? 'The prognosis for full recovery is excellent with proper treatment.'\n\nA. The diagnosis of the disease\nB. The predicted outcome of the disease\nC. The cause of the disease\nD. The symptoms of the disease",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The word prognosis refers to a forecast of the likely outcome of a disease, which matches option B in the sentence predicting an excellent recovery. This meaning is confirmed by the phrase \"full recovery,\" indicating a future result rather than a current state. Option A is incorrect because diagnosis identifies the disease itself, not its future course. Option C is wrong since the cause explains why the illness exists, whereas the sentence focuses on the result of treatment. Option D is also incorrect because symptoms describe the signs of the illness, not the predicted future health status.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 713,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "In the sentence 'The nurse observed that the patient's condition was deteriorating,' what does 'deteriorating' mean?\n\nA. Improving steadily\nB. Remaining stable\nC. Worsening over time\nD. Fluctuating unpredictably",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "The word \"deteriorating\" means getting worse, which directly matches option C, worsening over time. In the sentence, the nurse observes the patient's condition is declining, so improving steadily or remaining stable are incorrect opposites. Option D is also wrong because fluctuating unpredictably implies changing back and forth rather than a consistent decline. Therefore, only option C accurately captures the negative progression described in the text.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 714,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "What does 'contraindicated' mean in this context? 'The medication is contraindicated for patients with liver disease.'\n\nA. Highly recommended\nB. Not advised due to potential harm\nC. Required by law\nD. Approved for use",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The word \"contraindicated\" means the medication is not advised due to potential harm, making option B the only accurate choice. The sentence explicitly states that patients with liver disease should not take the drug, which directly supports the idea of avoiding use to prevent injury. Option A is incorrect because the text suggests the opposite of a recommendation. Option C is wrong since there is no mention of legal requirements in the passage. Option D is false because the statement clearly indicates the drug is not approved for this specific group of patients.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 715,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Choose the best definition of 'benign' in this sentence: 'The biopsy confirmed the tumor was benign.'\n\nA. Cancerous and spreading\nB. Non-cancerous and not harmful\nC. Requiring immediate surgery\nD. Infectious and contagious",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The word benign describes a tumor that is non-cancerous and not harmful, which directly matches option B. In the sentence, the biopsy confirms the tumor lacks the dangerous traits of malignancy, ruling out option A which suggests it is cancerous and spreading. Option C is incorrect because benign tumors often do not require immediate surgery, unlike aggressive cancers. Similarly, option D is wrong because benign growths are not infectious or contagious to others. Therefore, B is the only definition that accurately reflects the medical meaning of benign in this context.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 716,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "What does 'viable' mean in this sentence? 'The surgeon determined the organ was no longer viable for transplant.'\n\nA. Suitable and capable of working\nB. Infected with disease\nC. Ready for immediate use\nD. Too large for the recipient",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The word \"viable\" means capable of living or functioning successfully, which directly supports option A stating the organ is suitable and capable of working. In this context, the surgeon found the organ no longer viable, meaning it lost the ability to function properly for a transplant. Option B is incorrect because infection is a specific medical condition not implied by the general term viable. Option C is wrong since the organ is explicitly rejected, making it far from ready for immediate use. Option D is also incorrect because the sentence does not mention the organ's size as the reason for rejection. Therefore, the lack of viability confirms the organ cannot perform its intended biological function.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 717,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Which sentence is most appropriate for a formal medical report?\n\nA. The patient's vitals were totally out of whack.\nB. The patient's vital signs were abnormal.\nC. The patient's vitals were kind of messed up.\nD. The patient's vitals were pretty bad.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the best choice because it uses precise, professional terminology like \"vital signs\" and \"abnormal\" suitable for a formal medical report. In contrast, Option A relies on the informal slang phrase \"out of whack,\" which lacks the necessary clinical precision. Options C and D are incorrect because they employ colloquial expressions such as \"kind of messed up\" and \"pretty bad,\" which undermine the objective tone required in healthcare documentation. Selecting Option B ensures the report maintains the high standard of clarity and professionalism expected in medical settings.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 718,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Identify the sentence that uses appropriate formal language for a healthcare setting.\n\nA. The patient shoulda taken their meds on time.\nB. The patient should have taken their medication on time.\nC. The patient should of taken their meds on time.\nD. The patient oughta taken their medication on time.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the proper past perfect construction \"should have\" and the formal word \"medication.\" Option A is incorrect due to the informal contraction \"shoulda,\" which lacks professional tone. Option C is wrong because \"should of\" is a grammatical error; the auxiliary verb must be \"have,\" not the preposition \"of.\" Option D fails because \"oughta\" is a colloquial contraction that is inappropriate for a clinical environment. This question tests your ability to distinguish between standard English grammar and informal speech patterns.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 719,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Which response is most appropriate when speaking with a patient's family?\n\nA. He's gonna be fine after the procedure.\nB. He is expected to recover well from the procedure.\nC. The procedure's a piece of cake for our team.\nD. He'll pull through, no sweat.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the best response because it uses professional, non-jargon language to convey a positive prognosis without making unrealistic guarantees. In contrast, Option A relies on the informal contraction \"gonna,\" which lacks the necessary medical professionalism for family interactions. Option C and Option D both use slang phrases like \"piece of cake\" and \"no sweat,\" which trivialize the seriousness of the medical procedure and may erode family trust. Effective communication requires clear, respectful phrasing that accurately reflects clinical expectations while maintaining a supportive tone.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 720,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Select the most appropriate sentence for a nursing documentation note.\n\nA. Patient seemed kinda confused during assessment.\nB. Patient exhibited signs of confusion during assessment.\nC. Patient was acting all confused during assessment.\nD. Patient was like, super confused during assessment.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses precise, professional language like \"exhibited signs\" to objectively document the patient's condition without subjective interpretation. In contrast, Option A is incorrect due to the informal contraction \"kinda\" and vague phrasing that lacks clinical specificity. Option C fails because the phrase \"acting all confused\" implies behavioral judgment rather than an observable medical sign, making it inappropriate for a formal record. Finally, Option D is unsuitable as it relies on colloquialisms such as \"was like\" and \"super,\" which violate the strict standards of medical documentation required in nursing practice.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 721,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Which sentence demonstrates appropriate language for patient education materials?\n\nA. You need to lay off the salty foods.\nB. Reduce your sodium intake for better health.\nC. Quit eating so much salt, okay?\nD. Cut the salt or you'll regret it.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses professional, objective language suitable for formal patient education materials. The phrase \"Reduce your sodium intake\" provides clear, actionable medical advice without emotional manipulation. In contrast, Option A uses the informal slang \"lay off,\" which lacks professional tone. Option C employs a casual command structure with \"Quit\" and the conversational tag \"okay,\" making it inappropriate for official documents. Finally, Option D uses the threatening phrase \"you'll regret it,\" which creates fear rather than encouraging healthy behavior. Effective health communication must be respectful, precise, and free of colloquialisms or threats.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 722,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Identify the part of speech of the underlined word: 'The nurse carefully administered the medication.'\n\nA. Adjective\nB. Adverb\nC. Verb\nD. Noun",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The underlined word \"carefully\" modifies the verb \"administered\" by describing how the action was performed, which defines it as an adverb. Option A is incorrect because adjectives modify nouns, not verbs. Option C is wrong since the verb \"administered\" indicates the action itself rather than the manner. Option D fails because nouns represent people or things, whereas \"carefully\" describes the quality of an action. Therefore, the word functions as an adverb in this sentence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 723,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "What part of speech is the underlined word? 'The patient's recovery was remarkable.'\n\nA. Verb\nB. Adjective\nC. Adverb\nD. Noun",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "The underlined word \"remarkable\" functions as an adjective describing the noun \"recovery,\" which makes option D incorrect because it identifies the word as a noun. Option A is wrong since a verb would show action or state of being, whereas \"remarkable\" modifies a noun rather than serving as the sentence's predicate. Option B is incorrect because adverbs typically modify verbs, adjectives, or other adverbs, often ending in -ly, while this word directly describes the quality of the recovery itself. Although the correct answer is B, the question asks for the part of speech, and \"remarkable\" is clearly an adjective modifying the noun \"recovery.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 724,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Identify the part of speech of the underlined word: 'The medication is very effective.'\n\nA. Adverb\nB. Adjective\nC. Preposition\nD. Conjunction",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The underlined word \"very\" modifies the adjective \"effective,\" describing the degree of its quality, which defines it as an adverb. Option A is correct because adverbs specifically alter verbs, adjectives, or other adverbs to indicate manner, time, or intensity. Option B is incorrect since adjectives modify nouns directly, not other adjectives like \"effective.\" Option C is wrong because prepositions show relationships between nouns and other words, such as \"in\" or \"on.\" Option D is incorrect as conjunctions connect clauses or words, functioning as bridges rather than modifiers of degree.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 725,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Which word in the sentence is a preposition? 'The nurse placed the chart on the desk.'\n\nA. nurse\nB. placed\nC. on\nD. desk",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "The word \"on\" functions as a preposition because it connects the noun \"chart\" to the noun \"desk\" to show their spatial relationship. In contrast, \"nurse\" is a noun acting as the subject, while \"placed\" is a verb describing the action performed. The word \"desk\" is a noun serving as the object of the preposition, not a preposition itself. Therefore, option C is the only choice that fits the grammatical definition of a preposition in this sentence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 726,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Identify the conjunction in this sentence: 'The patient was tired, but she completed the physical therapy session.'\n\nA. tired\nB. but\nC. she\nD. completed",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The word \"but\" functions as a coordinating conjunction in this sentence because it connects two independent clauses, specifically linking the tiredness of the patient to her completion of therapy. Option A is incorrect since \"tired\" is an adjective describing the patient rather than a word joining clauses. Option C is wrong because \"she\" is a pronoun serving as the subject of the second clause, not a connector. Option D is also incorrect as \"completed\" is a verb indicating the action taken, failing to meet the definition of a conjunction. Therefore, only \"but\" fits the grammatical role required by the question.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 727,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "What is the function of the underlined word? 'Swimming is excellent exercise for rehabilitation.'\n\nA. Verb\nB. Gerund (noun)\nC. Adjective\nD. Adverb",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The underlined word \"Swimming\" functions as a gerund because it ends in -ing and acts as the subject noun of the sentence. While it describes an action, it names the activity itself rather than performing the action as a verb would. Option A is incorrect because a verb would require a subject to perform the action, whereas here the action is the topic. Option C is wrong since an adjective modifies a noun, but \"Swimming\" stands alone as the main subject. Option D is invalid because an adverb modifies a verb, adjective, or other adverb, which does not fit this grammatical structure.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 728,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Identify the part of speech of the underlined word: 'The physician wanted the nurse to stay.'\n\nA. Adjective\nB. Adverb\nC. Infinitive (verb form)\nD. Noun",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "The underlined word \"to stay\" functions as an infinitive verb phrase acting as the direct object of \"wanted.\" Infinitives often appear with the particle \"to\" followed by the base form of a verb, which matches the structure here. Option A is incorrect because adjectives modify nouns, whereas this phrase describes an action rather than a quality. Option B is wrong since adverbs modify verbs or adjectives, but \"stay\" is the main action itself, not a modifier. Option D fails because nouns represent people or things, not actions, so this choice does not fit the grammatical role. Therefore, identifying it as an infinitive verb form is the only accurate classification.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 729,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Which sentence would make the best topic sentence for a paragraph about hand hygiene in healthcare?\n\nA. Hand hygiene is the single most effective way to prevent the spread of infection in healthcare settings.\nB. Doctors and nurses should wash their hands.\nC. Many patients get infections in hospitals.\nD. Soap and water are better than hand sanitizer.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A serves as the best topic sentence because it clearly states the main idea that hand hygiene prevents infection spread, which directly guides the paragraph's focus. Option B is too vague by merely suggesting doctors and nurses wash hands without explaining the broader significance or outcome. Option C discusses patient infections generally rather than the specific solution of hand hygiene required for the topic. Option D incorrectly narrows the scope to comparing cleaning methods instead of addressing the overall importance of hygiene practices. This choice effectively introduces the central argument needed for a cohesive discussion on infection control.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 730,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Choose the most effective thesis statement for an essay on nursing shortage.\n\nA. There are not enough nurses in hospitals today.\nB. This essay will discuss the nursing shortage.\nC. The nursing shortage threatens patient care, increases healthcare costs, and requires immediate legislative action.\nD. Nursing is a hard job, and not many people want to do it.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is the best choice because it presents a clear, arguable claim detailing specific consequences like threatened patient care and rising costs while proposing a solution. This structure provides a roadmap for the essay, guiding the reader through the necessary arguments and required legislative action. In contrast, Option A merely states a simple fact without offering depth or a direction for analysis. Option B is too vague as it only announces the topic rather than presenting a specific argument to support. Finally, Option D focuses on the difficulty of the job rather than the broader systemic issues of the shortage itself.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 731,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Which sentence best supports this topic sentence? 'Proper nutrition plays a crucial role in patient recovery.'\n\nA. Many patients do not like hospital food.\nB. Studies show that well-nourished patients heal faster and have fewer complications.\nC. Nurses should monitor what patients eat.\nD. Some patients have dietary restrictions.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B directly supports the topic sentence by citing studies that link proper nutrition to faster healing and fewer complications, providing concrete evidence of its crucial role. In contrast, Option A discusses patient preferences rather than recovery outcomes, while Option C focuses on nursing duties instead of the nutritional impact itself. Option D merely mentions dietary restrictions without explaining how nutrition aids recovery, failing to substantiate the main claim. Therefore, only Option B offers the specific data needed to validate the statement about nutrition's importance in patient recovery.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 732,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Identify the weakness in this thesis statement: 'This paper will discuss the benefits of exercise.'\n\nA. It is too specific\nB. It does not state the main argument\nC. It is grammatically incorrect\nD. It contains too many supporting points",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The thesis statement fails because it merely announces the topic of exercise without stating a specific argument or position to support. Option B correctly identifies this flaw since a strong thesis must present a claim rather than just listing what will be discussed. Option A is incorrect because the statement is actually too broad, not specific enough to guide the essay. Option C is wrong as the sentence follows standard grammatical rules and contains no errors. Option D is inaccurate because the phrase only mentions one general topic, not multiple distinct supporting points.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 733,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Which revision creates a stronger thesis statement? Original: 'Heart disease is a problem in America.'\n\nA. Heart disease affects many Americans every year.\nB. Preventing heart disease requires lifestyle changes, regular screenings, and public education campaigns.\nC. This essay is about heart disease in America.\nD. Heart disease is bad and kills people.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B creates the strongest thesis because it presents a clear, arguable claim that outlines specific solutions like lifestyle changes and public education. In contrast, Option A merely states a fact about prevalence without offering a stance or direction for an essay. Option C is too vague by simply announcing the topic rather than making a substantive argument about heart disease. Finally, Option D uses emotional language like \"bad\" instead of providing a concrete, evidence-based position that guides the reader. A strong thesis must be specific and debatable, which only Option B achieves by detailing necessary preventative measures.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 734,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "What is the primary purpose of a topic sentence?\n\nA. To conclude the paragraph's argument\nB. To introduce the paragraph's main idea\nC. To provide evidence for the thesis\nD. To transition between paragraphs",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The primary purpose of a topic sentence is to introduce the paragraph's main idea, which directly supports option B by establishing the central focus for all subsequent details. Option A is incorrect because concluding an argument is the role of a concluding sentence, not the opening statement. Option C is wrong since providing specific evidence belongs to supporting sentences that back up the main idea rather than stating it. Option D is inaccurate because transitioning between paragraphs is handled by transitional phrases or sentences, not the primary function of a topic sentence. Therefore, selecting option B accurately reflects the definition of a topic sentence in effective writing.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 735,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which of the following is the strongest piece of evidence to support the claim that 'handwashing reduces hospital-acquired infections'?\n\nA. A nurse said she thinks handwashing is important.\nB. A personal story about a patient who recovered.\nC. A peer-reviewed study showing a 40% reduction in infections after implementing hand hygiene protocols.\nD. An advertisement for hand sanitizer.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is the strongest evidence because it cites a peer-reviewed study with specific data showing a 40% reduction in infections, which provides objective, scientific proof of the claim. In contrast, Option A relies on a single nurse's opinion rather than factual data, making it subjective and weak support. Option B uses an anecdotal personal story about one patient, which lacks the statistical reliability needed to generalize about hospital-wide infection rates. Finally, Option D is merely an advertisement promoting a product and does not offer any empirical evidence or research findings to validate the health claim. Scientific arguments require verifiable data from rigorous studies, not opinions, isolated incidents, or marketing materials.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 736,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "A writer claims that 'telemedicine improves patient access to care.' Which evidence best supports this claim?\n\nA. Many doctors use telemedicine platforms.\nB. A survey found that 78% of rural patients could access specialists through telemedicine.\nC. Telemedicine appointments are shorter than in-person visits.\nD. Most hospitals now offer telemedicine options.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it provides specific statistical evidence showing that 78% of rural patients successfully accessed specialists, directly proving improved access. The other choices fail to support the claim about access; Option A and D only state that doctors and hospitals use the service without confirming if patients can actually reach care. Option C is incorrect because shorter appointment lengths relate to efficiency rather than the ability to obtain medical help. This question requires selecting data that demonstrates a measurable increase in patient reach, which only the survey results provide.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 737,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Where should supporting evidence be placed in a paragraph?\n\nA. Only in the topic sentence\nB. After the topic sentence, developing the main idea\nC. Only in the concluding sentence\nD. Before the topic sentence",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Supporting evidence belongs after the topic sentence to develop and prove the main idea, making option B the right choice. Placing evidence only in the topic sentence or concluding sentence, as options A and C suggest, fails to provide the necessary details for a complete argument. Similarly, positioning evidence before the topic sentence, as option D proposes, disrupts the logical flow by introducing proof before stating the claim. Effective paragraphs introduce the main point first, then follow with specific examples or data to substantiate that idea.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 738,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which type of evidence would be most persuasive for an audience of healthcare professionals?\n\nA. Emotional stories from patients' families\nB. Statistical data from medical research journals\nC. Quotes from popular television shows\nD. Opinions from social media influencers",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Statistical data from medical research journals offers the most persuasive evidence for healthcare professionals because this audience relies on empirical, peer-reviewed findings to make clinical decisions. Unlike emotional stories from patients' families which appeal to sentiment rather than clinical validity, quantitative data provides the objective rigor required in medical practice. Similarly, quotes from popular television shows or opinions from social media influencers lack the scientific credibility and methodological standards that doctors and nurses demand. Therefore, relying on rigorous research ensures the argument aligns with the professional standards and evidence-based practices that define the healthcare field.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 739,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "What makes a piece of evidence 'relevant' to an argument?\n\nA. It comes from a famous source\nB. It directly relates to and supports the claim being made\nC. It is recent and up-to-date\nD. It is interesting to readers",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Evidence is relevant when it directly connects to and supports the specific claim being argued, which matches option B. While a famous source in option A might carry authority, its reputation does not guarantee the information applies to the current argument. Similarly, recent data in option C or interesting facts in option D may be engaging, but they lack relevance if they do not address the central point. Therefore, the defining trait of relevant evidence is its direct logical relationship to the claim rather than its source, age, or appeal.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 740,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which statement best explains why anecdotal evidence is weaker than statistical evidence?\n\nA. Anecdotes are always false\nB. Anecdotes are based on personal experience and may not represent typical outcomes\nC. Statistical evidence is easier to understand\nD. Anecdotes take too long to explain",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because anecdotes rely on isolated personal experiences that often fail to represent broader trends or typical outcomes found in large datasets. In contrast, statistical evidence aggregates data to minimize individual biases and provide a more reliable picture of reality. Option A is incorrect since anecdotes can be truthful but still lack generalizability, making them weak rather than false. Option C is wrong because the ease of understanding does not determine the strength or validity of the evidence itself. Finally, Option D is invalid because the time required to explain a story has no bearing on its scientific reliability compared to statistical analysis.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 741,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Which is the most logical order for sentences in a paragraph about wound care?\n\nA. First, clean the wound with saline. Then, apply antibiotic ointment. Finally, cover with a sterile dressing.\nB. Cover with a sterile dressing. First, clean the wound with saline. Then, apply antibiotic ointment.\nC. Then, apply antibiotic ointment. Finally, cover with a sterile dressing. First, clean the wound with saline.\nD. Apply antibiotic ointment. Cover with a sterile dressing. Clean the wound with saline.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The logical sequence for wound care begins with cleaning the wound using saline to remove debris and reduce infection risk before any other steps are taken. Option A correctly follows this chronological order by placing cleaning first, followed by applying antibiotic ointment, and finally covering the area with a sterile dressing. Options B, C, and D are incorrect because they disrupt this essential timeline by suggesting covering the wound or applying ointment before the initial cleaning step occurs. Proper medical protocol dictates that the wound must be cleaned and prepared before any protective barriers or medications are applied to ensure safety and effectiveness.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 742,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "What makes a paragraph coherent?\n\nA. Using long, complex sentences throughout\nB. Including as many facts as possible\nC. Using clear transitions and logical organization of ideas\nD. Repeating the topic sentence multiple times",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Coherence in a paragraph relies on using clear transitions and logical organization of ideas to connect thoughts smoothly. Option C correctly identifies this because transitions guide readers through the flow of logic without confusion. Conversely, using long complex sentences throughout, as suggested in Option A, often disrupts readability rather than enhancing it. Including as many facts as possible in Option B creates clutter that distracts from the main point instead of supporting it. Finally, repeating the topic sentence multiple times in Option D leads to redundancy that fails to develop new supporting details effectively.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 743,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Where should the topic sentence typically appear in a paragraph?\n\nA. At the very end\nB. In the middle\nC. At or near the beginning\nD. It should not appear in the paragraph",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "The topic sentence usually appears at or near the beginning of a paragraph to clearly introduce the main idea before supporting details follow. Option C is correct because this placement helps readers immediately grasp the paragraph's focus, which is a standard convention in academic writing. Option A is wrong since ending with the main idea leaves the reader guessing about the paragraph's purpose until the very last sentence. Option B is incorrect because placing the topic sentence in the middle disrupts the logical flow and confuses the reader's initial understanding. Option D is false because every well-structured paragraph requires a topic sentence to establish coherence and unity throughout the text.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 744,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Arrange these sentences in the most logical order:\n1. This reduces the risk of infection.\n2. Proper handwashing removes bacteria and viruses from the skin.\n3. Therefore, healthcare workers must wash their hands before and after patient contact.\n4. Clean hands also protect the workers themselves from illness.\n\nA. 2, 1, 4, 3\nB. 1, 2, 3, 4\nC. 3, 2, 1, 4\nD. 4, 1, 2, 3",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Sentence 2 serves as the best opening by defining how handwashing removes germs, which logically leads to Sentence 1 explaining that this action reduces infection risk. Following this cause-and-effect pair, Sentence 4 adds that clean hands also protect the workers themselves, expanding on the benefits before the final conclusion. Sentence 3 acts as the logical ending by stating that healthcare workers must wash hands based on the previously established reasons. Option B fails because it starts with the result rather than the definition, while C and D place the conclusion or unrelated details at the start, disrupting the flow. The sequence 2-1-4-3 creates a coherent argument moving from mechanism to specific benefits to a necessary action.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 745,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "What is the purpose of a concluding sentence in a paragraph?\n\nA. To introduce a new topic\nB. To summarize the main idea and provide closure\nC. To present new evidence\nD. To ask the reader a question",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The concluding sentence serves to wrap up the paragraph by summarizing the main idea and offering a sense of closure, which directly matches option B. Choosing option A is incorrect because introducing a new topic belongs in a subsequent paragraph, not at the end of the current one. Option C is wrong since presenting new evidence would confuse the reader and disrupt the logical flow of the argument just presented. Similarly, option D fails because asking a question typically engages the reader for future thought rather than finalizing the current discussion. Therefore, only option B fulfills the essential function of ending a paragraph effectively.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 746,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Which organizational pattern would be most effective for explaining the causes and effects of diabetes?\n\nA. Chronological order\nB. Cause and effect\nC. Compare and contrast\nD. Spatial order",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the best choice because the question explicitly asks for an explanation of causes and effects, which directly matches the cause and effect organizational pattern. This structure allows the writer to clearly link specific factors leading to diabetes with the resulting health complications. Option A focuses on time sequences rather than relationships between events, making it unsuitable for this topic. Option C highlights similarities and differences between two subjects, which does not address the causal nature of the disease. Finally, Option D arranges information based on physical location or space, which is irrelevant when discussing medical etiology and outcomes.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 747,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Choose the best transition to connect these sentences: 'The patient was experiencing chest pain. _____, the nurse immediately contacted the physician.'\n\nA. Consequently\nB. However\nC. Meanwhile\nD. Although",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A, Consequently, is the best choice because it correctly signals that the nurse's action was a direct result of the patient's chest pain. The word \"consequently\" establishes a clear cause-and-effect relationship where the initial symptom leads logically to the immediate medical response. In contrast, Option B, However, implies a contradiction or contrast between the two events, which does not fit the logical flow of a medical emergency. Option C, Meanwhile, suggests two actions happening simultaneously rather than one causing the other, failing to show the urgency of the reaction. Finally, Option D, Although, introduces a dependent clause that requires a contrasting main clause, making it grammatically and logically unsuitable for connecting these two independent statements.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 748,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Which transition word best shows contrast? 'The new protocol was implemented last month; _____, patient satisfaction scores have not improved.'\n\nA. therefore\nB. furthermore\nC. however\nD. similarly",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C, however, is the best choice because it explicitly signals a contrast between the implementation of a new protocol and the lack of improvement in patient satisfaction scores. The sentence structure presents two opposing ideas where the second part contradicts the expected positive outcome of the first part. In contrast, Option A, therefore, indicates a cause-and-effect relationship that does not fit the logical disconnect in the sentence. Option B, furthermore, adds information rather than showing opposition, while Option D, similarly, implies that the two clauses share the same characteristic, which is the opposite of the intended meaning. Selecting however correctly highlights the unexpected negative result despite the new measures taken.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 749,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Select the best transition to show addition: 'Proper hand hygiene prevents infection. _____, it demonstrates professional responsibility.'\n\nA. However\nB. Therefore\nC. Additionally\nD. Nevertheless",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C, Additionally, is the best choice because it introduces a second supporting idea that adds to the first statement about hand hygiene. The sentence structure requires a transition showing that professional responsibility is another benefit, which Additionally clearly provides. Option A, However, and Option D, Nevertheless, both indicate contrast, which contradicts the positive relationship between the two clauses. Option B, Therefore, shows cause and effect rather than simple addition, making it less suitable for listing two distinct positive outcomes.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 750,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Which transition indicates a sequence? 'First, the nurse assesses the patient. _____, she documents her findings.'\n\nA. Next\nB. However\nC. Because\nD. Although",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A, \"Next,\" correctly signals a chronological sequence following the initial assessment step. The sentence structure requires a word that logically continues the order of nursing actions, making \"Next\" the only choice that fits this temporal flow. Option B, \"However,\" introduces a contrast rather than a step in a process, which contradicts the intended meaning of continuing the procedure. Option C, \"Because,\" establishes a cause-and-effect relationship that does not align with the sequential nature of documenting findings after an assessment. Finally, Option D, \"Although,\" presents a concession or contrast that disrupts the logical progression of the nurse's workflow described in the prompt.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 751,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Choose the most appropriate transition: 'The surgery was successful; _____, the patient will need several weeks of rehabilitation.'\n\nA. and\nB. nevertheless\nC. also\nD. next",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence presents a contrast between a successful surgery and the difficult recovery ahead, making \"nevertheless\" the only logical transition. While \"and\" suggests addition, \"also\" implies similarity, and \"next\" indicates sequence, none of these capture the shift from positive news to a challenging requirement. Option B correctly signals that despite the good outcome, rehabilitation is still necessary. This choice accurately reflects the opposing ideas within the sentence structure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 752,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Which transition word best indicates a cause-and-effect relationship?\n\nA. However\nB. Therefore\nC. Meanwhile\nD. For example",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Therefore is the only option that signals a cause-and-effect relationship, showing that one event results directly from another. In contrast, however introduces a contrast or contradiction between ideas rather than a logical outcome. Meanwhile indicates two events happening at the same time, which describes simultaneity instead of causation. For example is used to introduce a specific illustration of a previous point, not a consequence. Selecting therefore correctly identifies the word that connects a reason to its inevitable result in this context.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 753,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Select the best transition to conclude a paragraph: '_____, proper documentation is essential for patient safety and legal protection.'\n\nA. In conclusion\nB. For instance\nC. However\nD. Similarly",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A, \"In conclusion,\" is the only choice that logically introduces a final summary statement about documentation's importance. The sentence structure demands a concluding transition because it synthesizes the paragraph's main point regarding patient safety and legal protection. Options B, C, and D are incorrect because \"For instance\" introduces examples, \"However\" signals a contrast, and \"Similarly\" draws a comparison, none of which fit a definitive closing thought. Selecting any of these wrong options would disrupt the paragraph's flow by introducing new information or shifting the logical direction unexpectedly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 754,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Which revision best improves the clarity of this sentence? 'The nurse who was new to the unit made an error that was serious.'\n\nA. The new nurse made a serious error.\nB. The nurse who was new made an error that was serious.\nC. Being new to the unit, the nurse made a serious error.\nD. A serious error was made by the new nurse.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A improves clarity by removing redundant phrases like \"who was new to the unit\" and \"that was serious,\" resulting in a direct subject-verb-object structure. Option B fails because it retains the wordy relative clauses that obscure the main point without adding meaning. Option C creates a misplaced modifier risk by placing the phrase \"Being new to the unit\" at the start, which could ambiguously attach to an unstated action. Option D uses a passive voice construction that weakens the sentence by hiding the active agent until the end of the statement. The original sentence suffers from unnecessary complexity, making Option A the most concise and effective revision for clear communication.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 755,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Which sentence eliminates the redundancy in 'The nurse repeated the instructions over and over again'?\n\nA. The nurse repeated the instructions repeatedly.\nB. The nurse repeated the instructions.\nC. The nurse said the instructions over and over again.\nD. The nurse repeated the instructions again and again.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because removing the word \"repeated\" entirely eliminates the redundant phrase \"over and over again,\" leaving a clear, concise sentence. Options A, C, and D are incorrect because they all retain redundant meanings; A uses \"repeatedly\" which duplicates \"repeated,\" while C and D keep the repetitive phrasing \"over and over again\" or \"again and again.\" Choosing B ensures the sentence conveys the necessary information without unnecessary wordiness, which is the primary goal of eliminating redundancy in this context.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 756,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Choose the best way to combine these sentences: 'The patient was elderly. The patient had multiple chronic conditions. The patient required careful monitoring.'\n\nA. The elderly patient with multiple chronic conditions required careful monitoring.\nB. The patient was elderly, had multiple chronic conditions, and required careful monitoring.\nC. Being elderly and having multiple chronic conditions, the patient required careful monitoring.\nD. All of the above are acceptable revisions.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "All three revisions successfully merge the original sentences into a single, grammatically correct statement without losing meaning. Option A uses a concise noun phrase to describe the patient, while Option B employs a clear parallel structure with commas and conjunctions. Option C effectively uses a participial phrase to show the cause of the monitoring requirement. Since each method maintains proper syntax and clarity, D is the best choice because it acknowledges that multiple valid combining strategies exist for this specific context.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

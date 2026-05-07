@@ -1,0 +1,738 @@
+[
+  {
+    "id": 29,
+    "subject": "math",
+    "original_issues": "The explanation directly states the correct answer '7 2/5' which violates the rule that explanations should NOT give away the answer directly. Additionally, distractors A (14 2/5) and C (12 2/5) are n",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 71,
+    "subject": "math",
+    "original_issues": "The question and answer are correct, but the distractor explanations are factually wrong. Option A explanation says 'subtracts instead of adding' but -4-3=-7 which is the correct answer. Option B expl",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 83,
+    "subject": "math",
+    "original_issues": "The explanation is severely flawed. It contradicts itself mid-explanation and then includes completely irrelevant information about fraction multiplication (1/2 \u00d7 3/8) and negative number addition (-8",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 184,
+    "subject": "math",
+    "original_issues": "The question wording 'What can you say about r' is vague. The major issue is format inconsistency: the correct answer is 'r=15' (an equation) while distractors are just numbers (16, 30, 20). All optio",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 225,
+    "subject": "science",
+    "original_issues": "Option B is not an organelle name and doesn't fit the question format - it's a description of multiple organelles' functions. Option C is a generic 'none of the above' that doesn't test knowledge. The",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 368,
+    "subject": "science",
+    "original_issues": "Option C is a full explanation rather than a proper answer term; mismatch between question text options and distractors JSON (B and C are swapped); explanation explicitly states 'Option A is correct' ",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 412,
+    "subject": "math",
+    "original_issues": "The correct answer field is corrupted/malformed, showing 'C) Wednesday  D) Thursday' instead of just 'C) Wednesday'. Additionally, the question claims to reference a bar graph but provides the data di",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 409,
+    "subject": "reading",
+    "original_issues": "Duplicate option A in the question listing; option B is written as a full explanation rather than a concise answer choice, making it mismatched with other options in length and style; distractors A an",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 450,
+    "subject": "math",
+    "original_issues": "The Correct Answer field is corrupted - it shows 'C) 5000 mcg D) 50000 mcg' which incorrectly includes Option D as part of the correct answer. This would break automated grading systems. The flag abou",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 449,
+    "subject": "math",
+    "original_issues": "The Correct Answer field contains a formatting error showing both C and D as correct. The explanation contains inaccuracies: Option B is wrong because it uses mL instead of cm\u00b3 (not because of a wrong",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 448,
+    "subject": "math",
+    "original_issues": "The Correct Answer field is corrupted - it shows '6 cm  C) 3 cm  D) 8 cm' instead of just 'B) 6 cm'. This formatting error makes it unclear what the intended correct answer is. The flag reasons provid",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 475,
+    "subject": "math",
+    "original_issues": "The question and answer choices are correct, but the explanation contains multiple factual errors when describing why distractors are wrong. It claims Option A suggests 0.0025 (incorrect, A is 250), c",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 481,
+    "subject": "math",
+    "original_issues": "The 'Correct Answer' field is corrupted and contains extra option text. The explanation for distractor A is factually incorrect (10.4 cm is not 31.4 mm). The explanation also gives away the answer dir",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 485,
+    "subject": "math",
+    "original_issues": "Option B is a lazy distractor (same number, just wrong units) that tests unit recognition rather than the math concept. Option C (63.14) doesn't correspond to any plausible student error. The explanat",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 506,
+    "subject": "english",
+    "original_issues": "Options C and D are implausible distractors that no competent test-taker would select. 'Be starting' is obviously non-grammatical, and D mixes plural 'were' with singular 'its' in a way that's clearly",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 487,
+    "subject": "math",
+    "original_issues": "The Correct Answer field is corrupted - it shows both C and D as the answer. Additionally, distractors don't represent common student errors (e.g., forgetting to square the radius, using diameter inst",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 508,
+    "subject": "english",
+    "original_issues": "Question is labeled 'hard' but is elementary-level. The errors in distractors are blatantly obvious (present tense with 'yesterday', impossible 'will walked' construction, missing main verb). Any stud",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 543,
+    "subject": "english",
+    "original_issues": "The explanation directly quotes/repeats the correct answer text, violating the rule that explanations should NOT give away the answer directly. Additionally, there is a subtle accuracy issue: the prom",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 666,
+    "subject": "english",
+    "original_issues": "The explanation incorrectly identifies 'had already been discharged' as 'past perfect continuous tense' when it is actually 'past perfect passive.' Past perfect continuous would be 'had been dischargi",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 698,
+    "subject": "english",
+    "original_issues": "The explanation contains a factual error. It states 'The apostrophe after the 's' in patient's correctly indicates singular possession' but this is wrong - in 'patient's' the apostrophe comes BEFORE t",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 702,
+    "subject": "english",
+    "original_issues": "The explanation contains a factual error. It states Option A 'separates the words with a space' which is incorrect\u2014'Your' is a distinct possessive pronoun, not two words separated by a space. This mis",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 703,
+    "subject": "english",
+    "original_issues": "Distractors C and D are not plausible\u2014they contain obvious grammatical errors ('will not been affect' and 'effecting') that have nothing to do with the affect/effect distinction being tested. A studen",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 706,
+    "subject": "english",
+    "original_issues": "The explanation contains a factual error for Option D - it states D uses 'accept' for excluding, but D actually uses 'except' twice with no 'accept'. Also, the question asks about 'the correct word' b",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 708,
+    "subject": "english",
+    "original_issues": "The explanation contains a factual error when describing Option C. It states C is wrong due to 'lose' instead of 'loose,' but 'lose' is actually the correct verb form. Option C's only error is using '",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 755,
+    "subject": "english",
+    "original_issues": "The explanation contains a factual error: it states option B removes 'the word repeated entirely' when option B actually KEEPS 'repeated' and removes 'over and over again.' This incorrect explanation ",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 805,
+    "subject": "english",
+    "original_issues": "Option B is arguably also correct - placing 'running down the hall' after 'the nurse' actually does fix the dangling modifier since the nurse can logically run. The explanation incorrectly claims B 'f",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 834,
+    "subject": "math",
+    "original_issues": "The explanation for Option D contains an error - it states 'adds 2 to the squared value' which would equal 6, not 10. Option D (10) is also not a clearly plausible distractor as there's no obvious com",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 840,
+    "subject": "math",
+    "original_issues": "The explanation contains a factual error: it claims option D (120) is wrong because adding the dimensions results in 12, which is internally inconsistent since 120 \u2260 12. Additionally, the explanation ",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 838,
+    "subject": "math",
+    "original_issues": "The question and correct answer are fine, but the explanation contains errors. It claims option C (14) comes from subtracting height from base, but 10-4=6, not 14. It claims option D (24) comes from n",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 891,
+    "subject": "math",
+    "original_issues": "Distractor D (355) is weak and doesn't stem from a plausible calculation error. The explanation contains a factual error: it claims Option C (220) 'likely results from adding instead of multiplying' b",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 882,
+    "subject": "math",
+    "original_issues": "The explanation contains a mathematical error stating 'add 18 and 12 inches to get 60 inches' - but 18 + 12 = 30, not 60. This incorrectly teaches the perimeter formula. The flag about Option C being ",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 935,
+    "subject": "math",
+    "original_issues": "The question and correct answer are accurate, but the explanations for why options C and D are wrong contain factual errors. Option C (30) is explained as 'summing all four intervals' but 5+12+18+10=4",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 960,
+    "subject": "science",
+    "original_issues": "Significant word overlap between options A, B, and C - all use 'volume and [modifier] osmolarity' structure making them visually similar and prone to misreading. Additionally, the explanation explicit",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1030,
+    "subject": "science",
+    "original_issues": "The explanation directly gives away the correct answer by stating 'option B correctly states that correlation does not prove causation' and quoting the answer text verbatim, violating the rule that ex",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1048,
+    "subject": "science",
+    "original_issues": "The explanation directly reveals the correct answer by stating 'optimizes alveolar gas exchange efficiency' which is the exact wording of option A. This defeats the purpose of the question if a studen",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1155,
+    "subject": "reading",
+    "original_issues": "Answer options are in wrong order (B, C, D, A instead of A, B, C, D). Option A is not a specific scenario like the other options - it restates the rule from the preamble, making it too obvious and not",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1214,
+    "subject": "reading",
+    "original_issues": "The explanation repeats the correct answer verbatim, directly giving away the answer. Additionally, the correct answer format is unconventional\u2014it reads as an explanation rather than a standard answer",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1221,
+    "subject": "reading",
+    "original_issues": "Options A, B, C are duplicated in the question stem. Option D is formatted as a full sentence while A, B, C are short phrases, breaking parallelism. The explanation begins by repeating the exact corre",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1229,
+    "subject": "reading",
+    "original_issues": "Option D is poorly constructed\u2014it's self-referential and meta ('This directly supports the conclusion that...') rather than stating an actual conclusion. A valid conclusion option should BE a conclusi",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1231,
+    "subject": "reading",
+    "original_issues": "Duplicate option A listed (appears twice), first option set is missing B entirely creating a malformed question; explanation directly quotes the exact correct answer text 'This evidence supports the c",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1240,
+    "subject": "reading",
+    "original_issues": "The correct answer option A is not an actual main idea statement\u2014it's a meta-description of what the passage does ('The passage explicitly states...'). A main idea should be a declarative summary of t",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1260,
+    "subject": "reading",
+    "original_issues": "The explanation contains the exact text of the correct answer ('This balance shows support for the health argument without ignoring real-world constraints'), which gives away the answer rather than te",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1262,
+    "subject": "reading",
+    "original_issues": "Option A is duplicated in the question stem, which would confuse test-takers. The explanation directly repeats the exact wording of the correct answer, giving it away rather than teaching the reasonin",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1276,
+    "subject": "reading",
+    "original_issues": "The explanation contains the exact wording of the correct answer, directly giving it away. Additionally, option D is poorly formatted compared to the other options - it reads like an explanation fragm",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1282,
+    "subject": "reading",
+    "original_issues": "The explanation directly quotes the correct answer verbatim, giving it away. Additionally, the options are duplicated in the question text, which is a formatting error.",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1284,
+    "subject": "reading",
+    "original_issues": "The explanation directly copies the correct answer text verbatim, giving away the answer. Additionally, options A, B, and C are duplicated in the question stem.",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1288,
+    "subject": "reading",
+    "original_issues": "Explanation contains the exact correct answer text, violating the rule that explanations should not give away the answer directly. Additionally, options A-C are duplicated in the question. The distrac",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1297,
+    "subject": "reading",
+    "original_issues": "Correct answer B is not an actual conclusion but a meta-statement about the report ('supports this balanced view') without stating what that view is. Answer choices lack parallel structure - A, C, D a",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1319,
+    "subject": "reading",
+    "original_issues": "Option C is not formatted as a tone descriptor like the other options\u2014it's an explanation of why the tone is sarcastic rather than stating the tone itself. Additionally, the explanation copies the cor",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1328,
+    "subject": "reading",
+    "original_issues": "The explanation begins by restating the correct answer option almost verbatim, which gives away the answer rather than teaching why it's correct. Additionally, options A, B, and C are duplicated in th",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1376,
+    "subject": "reading",
+    "original_issues": "Explanation gives away the answer by starting with the verbatim correct answer text. Distractors are too obviously wrong and don't require critical thinking to eliminate. The correct answer is essenti",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1406,
+    "subject": "reading",
+    "original_issues": "The explanation repeats the correct answer almost verbatim ('The author uses this specific illness as a direct example of a condition where antibiotics fail'), which gives away the answer rather than ",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1409,
+    "subject": "reading",
+    "original_issues": "Answer choices are duplicated (A, B, C appear twice). Option D is formatted as a full sentence rather than a simple label like the other options, creating inconsistent formatting. The explanation repe",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1435,
+    "subject": "reading",
+    "original_issues": "Options are duplicated in the question (A,B,D then A,B,C,D). The correct answer is oddly meta-phrased ('This directly supports the conclusion that...') rather than being an actual conclusion. The expl",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1431,
+    "subject": "reading",
+    "original_issues": "The explanation begins with the exact text of the correct answer, violating the rule that explanations should not give away the answer directly. Additionally, the options are duplicated in the questio",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1440,
+    "subject": "reading",
+    "original_issues": "The correct answer is written as meta-commentary about the text rather than a direct answer to the question. Additionally, the explanation copies the exact phrasing of the correct answer, giving it aw",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1448,
+    "subject": "reading",
+    "original_issues": "The explanation gives away the answer directly by restating the correct answer almost verbatim. Additionally, there is a formatting error where option A appears twice - once in the answer choices and ",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1460,
+    "subject": "reading",
+    "original_issues": "Option A contains the full explanatory answer text instead of just the text structure label, which gives away the answer entirely. The explanation then repeats this same text, failing to teach the con",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1465,
+    "subject": "reading",
+    "original_issues": "Option B is not formatted as a proper answer choice\u2014it's written as a full explanatory statement rather than a concise purpose statement like the other options. Additionally, option A appears twice in",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1471,
+    "subject": "reading",
+    "original_issues": "The explanation directly quotes the correct answer verbatim ('The text argues that eliminating exams fails to address the root causes of low graduation rates among underrepresented groups'), which vio",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1481,
+    "subject": "reading",
+    "original_issues": "Explanation directly reveals the correct answer by repeating option B's exact text ('This contrast highlights the tension between proven evidence and cultural resistance within clinical teams'). Addit",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1490,
+    "subject": "reading",
+    "original_issues": "Distractors are cartoonishly implausible\u2014no student would select 'wants it destroyed' or 'comfortable vacation spot.' These are straw men that don't test real comprehension. Additionally, the explanat",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1512,
+    "subject": "reading",
+    "original_issues": "Option B is not formatted as a proper answer choice\u2014it contains explanation text instead of a purpose statement like 'To persuade readers to adopt healthy lifestyle habits.' The explanation duplicates",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1523,
+    "subject": "reading",
+    "original_issues": "Option A text is missing from the displayed choices - only B, C, D are visible as options. The explanation directly quotes the correct answer ('antibiotic use declined without increasing infection rat",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1575,
+    "subject": "reading",
+    "original_issues": "The 'Correct Answer' field is malformed - it contains 'Humanism C) Science D) Engineering' instead of just 'B) Humanism'. This would break automated grading systems. Additionally, the flag reason abou",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1570,
+    "subject": "reading",
+    "original_issues": "The correct answer field is corrupted showing 'C) Urbanization D) Textile decline' instead of just C. The question is too easy for 'medium' difficulty - the answer 'urbanization' is directly stated in",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1588,
+    "subject": "reading",
+    "original_issues": "Formatting error: option text is mixed into the correct answer field. More critically, this is labeled as a READING question but provides no actual passage to read\u2014only a two-sentence summary. TEAS re",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1587,
+    "subject": "reading",
+    "original_issues": "The correct answer field is malformed - it contains 'Topical C) Narrative D) Argumentative' instead of just 'B) Topical'. This makes the question technically broken as the answer key is corrupted.",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1607,
+    "subject": "reading",
+    "original_issues": "Answer choice A is written as a full explanatory sentence while B, C, and D are concise point-of-view labels, making the correct answer obvious by format alone. The explanation ends with the verbatim ",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1731,
+    "subject": "english",
+    "original_issues": "Significant mismatch between the question options displayed and the distractors field - option B is missing 'then', option C has a comma instead of semicolon, option D is completely different. This da",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1747,
+    "subject": "math",
+    "original_issues": "Typo in correct answer: 'ommutative' missing the 'c'. Additionally, there is a mismatch between the question options (B=Distributive, C=Associative) and the distractors JSON (B=Associative, C=Distribu",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1725,
+    "subject": "english",
+    "original_issues": "Data integrity issue: the distractors JSON does not match the displayed options. Option A in the question shows 'verifying' but the distractors key shows 'verify'. Option D in the question includes 'a",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1755,
+    "subject": "english",
+    "original_issues": "The explanation is poorly written and doesn't match the actual question. It references 'a nursing intervention' which doesn't exist in the sentence (vital signs being stable is not an intervention). I",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1770,
+    "subject": "math",
+    "original_issues": "The explanation contains factual errors: '9' does NOT result from adding 0.9 five times (that equals 4.5), and the explanation mentions '5' as a rounding mistake but the distractor is '5.4', not '5'. ",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1783,
+    "subject": "math",
+    "original_issues": "The explanation contains incorrect letter references. It states 'Answer choice B (15)' but B is actually 14, not 15. It also mentions 'C and D represent the mode or the lowest value' but C is the corr",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1779,
+    "subject": "math",
+    "original_issues": "The explanation contains multiple errors: it references '250 mL' which is not an option, claims '125 mL represents half the correct calculation' which is mathematically incorrect (half of 50 is 25), a",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1782,
+    "subject": "math",
+    "original_issues": "Critical data mismatch: the distractors JSON swaps A and D values compared to the question text (question shows A=100.5, D=99 but distractors show A=99, D=100.5). The explanation also contains errors:",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1787,
+    "subject": "math",
+    "original_issues": "The explanation has critical errors: it states 'Option A (16.0) is incorrect' when A is actually 15.4 (the correct answer), says 'Option B (15.0) is wrong' when B is 14.8, and says 'Option C (14.8) is",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1797,
+    "subject": "science",
+    "original_issues": "The question has a conceptual error: the proximal convoluted tubule reabsorbs the bulk of water, but it does NOT concentrate urine. Water reabsorption in the PCT is isotonic. The loop of Henle and col",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1831,
+    "subject": "science",
+    "original_issues": "Typo in correct answer option C ('lood' instead of 'Blood'). Mismatch between options displayed in question text versus distractors JSON - option A and D text differs between the two. The formulaic st",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1895,
+    "subject": "english",
+    "original_issues": "Explanation directly states the answer ('This is a compound sentence') and contains a factual error in the reasoning about simple sentences - it says 'not simple because it has only one subject-predic",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1900,
+    "subject": "english",
+    "original_issues": "All three distractors test the exact same error (singular verb with plural compound subject), making them not truly distinct. Additionally, this is labeled 'hard' difficulty but tests a basic subject-",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 1925,
+    "subject": "english",
+    "original_issues": "Options A and C test the exact same error (using 'their' with a singular antecedent), making them redundant. A student who recognizes this rule eliminates two options simultaneously, reducing the ques",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1943,
+    "subject": "english",
+    "original_issues": "The question asks for 'correct' modifier placement, but all four options are grammatically correct\u2014they simply convey different meanings. The explanation itself acknowledges 'The correct placement dep",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1976,
+    "subject": "english",
+    "original_issues": "The question stem is incomplete - it asks which sentence 'correctly places the modifier' without specifying what the modifier is intended to modify. Options A, B, and C are all grammatically correct s",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1995,
+    "subject": "english",
+    "original_issues": "Two distractors (C 'pade' and D 'paied') are nonsense misspellings that are not plausible answers. Any student with basic English knowledge would immediately eliminate these, making the question too e",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1991,
+    "subject": "english",
+    "original_issues": "The question asks for the 'correct pronoun' but both B and D contain the correct objective case pronoun 'her.' The actual distinction being tested is stylistic order (courtesy convention), not pronoun",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 1974,
+    "subject": "english",
+    "original_issues": "Option C has 86% word overlap with correct answer A, making it too easy to eliminate by visual pattern matching rather than understanding. Additionally, the explanation has a minor inaccuracy: it stat",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 2021,
+    "subject": "math",
+    "original_issues": "The distractors JSON is inconsistent with the displayed options (A and C values are swapped). Additionally, the explanation contains incorrect reasoning: '9 subtracts instead of adding' is wrong since",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 2027,
+    "subject": "math",
+    "original_issues": "The distractors JSON does not match the question text - Option A shows 7/10 in the question but 1/4 in the JSON, and options C and D are also swapped. Additionally, the explanation incorrectly referen",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  },
+  {
+    "id": 2046,
+    "subject": "math",
+    "original_issues": "The Correct Answer field is corrupted - it lists multiple options instead of just 'B'. The explanation directly states 'Option B is correct' which violates the rule against giving away the answer dire",
+    "fixes": [
+      "Removed answer-revealing sentence from explanation"
+    ]
+  },
+  {
+    "id": 2068,
+    "subject": "math",
+    "original_issues": "The explanation contains two significant errors: (1) it states '12 appears four times' when it actually appears three times in the dataset, and (2) the option references are wrong - 'Option A is wrong",
+    "fixes": [
+      "NO_AUTO_FIX \u2014 needs LLM review"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Sign Up — TEAS Study{% endblock %}
+{% block bottom_nav %}{% endblock %}
+
+{% block content %}
+<div class="auth-card">
+  <h1>Join TEAS Study</h1>
+  <p class="subtitle">Free. No credit card. Start studying now.</p>
+
+  <form method="POST" action="/signup">
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com" required>
+    </div>
+    <div class="form-group">
+      <label for="display_name">Display Name</label>
+      <input type="text" id="display_name" name="display_name" placeholder="Your name (optional)">
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" placeholder="At least 8 characters" minlength="8" required>
+    </div>
+    <button type="submit" class="submit-btn" style="margin-top:8px">Create Account</button>
+  </form>
+
+  <p class="auth-link">Already have an account? <a href="/login">Log in</a></p>
+</div>
+{% endblock %}

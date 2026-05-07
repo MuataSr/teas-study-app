@@ -1,0 +1,752 @@
+[
+  {
+    "id": 606,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the sentence with correct subject-verb agreement.\n\nA. The collection of rare coins were displayed at the museum.\nB. The collection of rare coins was displayed at the museum.\nC. The collection of rare coins have been displayed at the museum.\nD. The collection of rare coins are being displayed at the museum.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The subject \"collection\" is singular, so it requires the singular verb \"was\" in option B. Options A, C, and D incorrectly use plural verbs like \"were,\" \"have,\" and \"are\" because the intervening phrase \"of rare coins\" distracts from the true singular subject. Remember that prepositional phrases do not change the number of the main subject. Therefore, only sentence B maintains proper subject-verb agreement by matching the singular noun with a singular verb form.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 607,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Select the sentence with correct subject-verb agreement.\n\nA. Every one of the students have submitted the assignment.\nB. Every one of the students has submitted the assignment.\nC. Every one of the students are submitting the assignment.\nD. Every one of the students were submitting the assignment.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The phrase \"every one of\" functions as a singular subject, requiring the singular verb \"has\" in option B. Options A, C, and D incorrectly use plural verbs like \"have,\" \"are,\" and \"were\" which do not agree with the singular antecedent. Even though \"students\" is plural, the core subject remains the single individual represented by \"every one.\" Therefore, only the sentence using the singular present perfect tense correctly matches the subject to its verb.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 608,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence uses the correct verb form?\n\nA. The news about the merger are surprising.\nB. The news about the merger is surprising.\nC. The news about the merger were surprising.\nD. The news about the merger have been surprising.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is B because the subject \"news\" is an uncountable noun that requires the singular verb \"is.\" Options A and C are incorrect because they pair this singular subject with the plural verbs \"are\" and \"were,\" which creates a subject-verb agreement error. Option D is also wrong since it uses the plural auxiliary verb \"have\" instead of the singular \"has\" needed for the present perfect tense. Therefore, only sentence B maintains proper grammatical agreement between the singular subject and its verb.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 609,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the sentence with correct subject-verb agreement.\n\nA. Mathematics are a challenging subject for many students.\nB. Mathematics is a challenging subject for many students.\nC. Mathematics have been a challenging subject for many students.\nD. Mathematics were a challenging subject for many students.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The word Mathematics acts as a singular collective noun referring to the entire field of study, not individual items, so it requires the singular verb is. Option B correctly pairs this singular subject with the singular verb is to maintain agreement. In contrast, options A, C, and D all incorrectly use plural verbs are, have, and were respectively, which fail to match the singular nature of the subject. This rule applies because academic disciplines treated as single entities take singular verbs in standard English grammar.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 610,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Select the correct verb: The committee members, along with the chairperson, ___ attending the conference.\n\nA. is\nB. are\nC. was\nD. has been",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is B because the subject \"committee members\" is plural, which dictates a plural verb despite the distracting phrase \"along with the chairperson.\" This prepositional phrase does not change the number of the main subject, so the verb must agree with \"members.\" Option A uses the singular \"is,\" which incorrectly matches the singular \"chairperson\" instead of the plural subject. Option C employs the singular past tense \"was,\" failing both the number agreement and the present tense context of the sentence. Option D uses the singular present perfect \"has been,\" which also incorrectly treats the subject as singular. Therefore, only the plural verb \"are\" maintains proper subject-verb agreement in this sentence structure.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 611,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence is correct?\n\nA. Bread and butter are my usual breakfast.\nB. Bread and butter is my usual breakfast.\nC. Bread and butter were my usual breakfast.\nD. Bread and butter have been my usual breakfast.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because \"bread and butter\" functions as a single compound noun representing one meal, requiring the singular verb \"is.\" Option A is wrong because it uses the plural verb \"are\" for what is treated as a singular concept. Option C incorrectly uses the past tense \"were\" for a statement about a current, habitual routine. Option D fails by using the plural auxiliary \"have\" instead of the singular \"has\" needed for this singular subject. This question tests your ability to identify when two items combine to form a singular idea rather than two separate ones.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 612,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the correct verb: Either the manager or the assistants ___ responsible for the error.\n\nA. is\nB. are\nC. was\nD. has been",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is B because the verb must agree with the closest subject, which is the plural noun \"assistants.\" In sentences joined by \"either...or,\" the verb follows the subject nearest to it, making the plural \"are\" the only grammatically correct option here. Option A is incorrect because \"is\" is singular and does not match the plural \"assistants.\" Choices C and D are also wrong since \"was\" and \"has been\" are past tense forms, while the present tense context requires a current state of responsibility. This rule ensures clarity when multiple subjects are connected by correlative conjunctions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 613,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Select the sentence with correct subject-verb agreement.\n\nA. A number of students was absent today.\nB. A number of students were absent today.\nC. The number of students were absent today.\nD. The number of students are absent today.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the phrase \"a number of\" functions as a plural modifier meaning \"several,\" which requires the plural verb \"were.\" In contrast, Option A incorrectly uses the singular verb \"was\" after the plural subject implied by \"a number of.\" Options C and D are wrong because \"the number of\" refers to a single specific count, demanding the singular verb \"was\" or \"is\" instead of the plural forms \"were\" and \"are\" found in those choices. This distinction relies entirely on whether the subject implies multiple items or a single total value.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 614,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence uses the correct verb?\n\nA. Each of the patients require a follow-up appointment.\nB. Each of the patients requires a follow-up appointment.\nC. Each of the patients have required a follow-up appointment.\nD. Each of the patients are requiring a follow-up appointment.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the subject \"Each\" is singular and demands the singular verb \"requires.\" In contrast, Option A incorrectly pairs the singular subject with the plural verb \"require.\" Option C fails by using the plural auxiliary \"have\" instead of the singular \"has,\" while Option D wrongly employs the plural \"are\" with the continuous form. This question tests your ability to identify subject-verb agreement when \"each\" acts as the primary subject. Remember that singular subjects always pair with singular verbs to maintain grammatical accuracy.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 615,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the correct sentence.\n\nA. The data suggests a strong correlation.\nB. The data suggest a strong correlation.\nC. The data has suggested a strong correlation.\nD. The data is suggesting a strong correlation.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is B because the subject \"data\" is a plural noun requiring the plural verb \"suggest.\" While \"data\" often looks singular, it technically means \"datum\" or multiple pieces of information, so option A fails by using the singular \"suggests.\" Option C is incorrect because it uses the singular auxiliary \"has\" instead of the plural \"have,\" and option D incorrectly treats the subject as singular with \"is.\" Therefore, only sentence B maintains proper subject-verb agreement for this plural term.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 616,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with the correct verb tense.\n\nA. She has went to the clinic three times this month.\nB. She has gone to the clinic three times this month.\nC. She had gone to the clinic three times this month.\nD. She have gone to the clinic three times this month.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because \"has gone\" properly uses the present perfect tense with the past participle \"gone\" to describe an action completed in the past with present relevance. Option A is wrong since \"went\" is the simple past form, which cannot follow the auxiliary verb \"has.\" Option C is incorrect because \"had gone\" creates the past perfect tense, implying an action finished before another past event, which the context does not support. Option D fails due to subject-verb agreement, as \"she\" requires the singular \"has\" rather than the plural \"have.\" This question tests your ability to identify standard verb forms within the present perfect structure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 617,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Select the sentence with correct verb tense usage.\n\nA. By the time the ambulance arrived, the patient died.\nB. By the time the ambulance arrived, the patient has died.\nC. By the time the ambulance arrived, the patient had died.\nD. By the time the ambulance arrived, the patient was died.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because it uses the past perfect tense \"had died\" to show the patient's death occurred before the ambulance arrived in the past. The phrase \"By the time\" signals that one past action finished before another past action began, requiring the earlier event to be in the past perfect form. Option A fails because the simple past \"died\" does not clearly establish the sequence of events relative to the ambulance's arrival. Option B is incorrect since the present perfect \"has died\" cannot be used with a specific past time marker like \"arrived.\" Finally, Option D is wrong because \"was died\" mixes the passive auxiliary \"was\" with a past participle that cannot function as a passive verb here, creating a grammatical error.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 618,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Which sentence uses the correct verb form?\n\nA. The researchers are conducting the experiment since January.\nB. The researchers have been conducting the experiment since January.\nC. The researchers had been conducting the experiment since January.\nD. The researchers was conducting the experiment since January.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the present perfect continuous tense (\"have been conducting\") properly describes an action starting in the past that continues to the present, which fits the time marker \"since January.\" Option A uses the present continuous tense (\"are conducting\"), which implies the action is happening right now but does not emphasize the duration from the past. Option C employs the past perfect continuous tense (\"had been conducting\"), suggesting the action stopped before another past event, contradicting the ongoing implication of \"since.\" Finally, Option D is grammatically incorrect because the singular verb \"was\" does not agree with the plural subject \"researchers,\" making the entire sentence invalid.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 619,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the correct verb tense.\n\nA. The train leaves at 6 AM tomorrow.\nB. The train will leave at 6 AM tomorrow.\nC. The train is leaving at 6 AM tomorrow.\nD. Both A and B are correct.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The train leaves at 6 AM tomorrow.",
+      "The train will leave at 6 AM tomorrow.",
+      "The train is leaving at 6 AM tomorrow."
+    ],
+    "explanation": "Options A and B are both correct because they use valid future tenses for scheduled events. The simple present in A works for fixed timetables, while the future tense in B is also grammatically acceptable here. Option C is incorrect because the present continuous usually implies a temporary arrangement rather than a strict schedule. Since both A and B function properly in this context, D is the right choice. This question tests your ability to recognize multiple correct ways to express future actions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 620,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Select the sentence with correct tense.\n\nA. I wish I was more prepared for the exam.\nB. I wish I were more prepared for the exam.\nC. I wish I am more prepared for the exam.\nD. I wish I be more prepared for the exam.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the subjunctive mood \"were\" after \"I wish,\" which is required for hypothetical situations contrary to fact. The other options fail this grammatical rule; Option A incorrectly uses \"was,\" which is indicative tense rather than subjunctive. Option C uses \"am,\" creating a present tense statement that contradicts the hypothetical nature of the wish, while Option D uses the base form \"be,\" which is grammatically incomplete in this context. This specific question tests your ability to distinguish between standard past tense and the subjunctive form needed for unreal conditions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 621,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Which sentence correctly uses the past perfect tense?\n\nA. She had completed her training before she was hired.\nB. She completed her training before she was hired.\nC. She has completed her training before she was hired.\nD. She had been completed her training before she was hired.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly uses the past perfect tense \"had completed\" to show an action finished before another past event, matching the timeline of being hired. Option B fails because it uses simple past \"completed\" instead of the required past perfect form for the earlier action. Option C is incorrect as it mixes present perfect \"has completed\" with a past passive verb, creating a tense conflict. Option D is wrong because \"had been completed\" creates a passive voice error where the subject should actively perform the completion. This question tests your ability to identify the specific verb structure that indicates a completed past action relative to another past moment.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 622,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with correct progressive tense usage.\n\nA. The children were playing in the yard when it started to rain.\nB. The children played in the yard when it was starting to rain.\nC. The children have played in the yard when it started to rain.\nD. The children are playing in the yard when it started to rain.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly uses the past continuous tense \"were playing\" to describe an ongoing action interrupted by the simple past event \"started to rain.\" This structure accurately shows that the children's activity was in progress when the rain began. Option B incorrectly pairs the simple past \"played\" with the continuous \"was starting,\" failing to show the interruption clearly. Option C uses the present perfect \"have played,\" which cannot logically connect to the specific past time marker \"when it started.\" Option D mixes the present continuous \"are playing\" with the past tense \"started,\" creating a tense inconsistency that breaks grammatical rules.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 623,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Select the correct verb form.\n\nA. If I was you, I would accept the offer.\nB. If I were you, I would accept the offer.\nC. If I am you, I would accept the offer.\nD. If I be you, I would accept the offer.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the subjunctive mood \"were\" to express an unreal or hypothetical situation, which is grammatically required after \"If I.\" Option A is incorrect because \"was\" is the indicative past tense and cannot be used for this specific conditional scenario. Option C fails because \"am\" is present tense and contradicts the hypothetical nature of the sentence structure. Finally, Option D is wrong since \"be\" is not the proper verb form to follow \"If I\" in this context. The sentence describes a counterfactual condition where the speaker is not actually the listener, demanding the subjunctive \"were.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 624,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Which sentence uses the future perfect tense correctly?\n\nA. By next year, she will have graduated from nursing school.\nB. By next year, she will graduate from nursing school.\nC. By next year, she is going to graduate from nursing school.\nD. By next year, she graduates from nursing school.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly uses the future perfect tense with \"will have graduated\" to describe an action completed before a specific future time, which matches the phrase \"By next year.\" Option B uses the simple future tense \"will graduate,\" indicating the action happens in the future but not necessarily completed before that point. Option C employs \"is going to graduate,\" another form of simple future prediction rather than a completed future action. Option D uses the simple present tense \"graduates,\" which describes habitual actions or facts, not future completion. Therefore, only sentence A accurately fits the grammatical requirement for the future perfect tense.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 625,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with the correct tense sequence.\n\nA. The patient reported that she experiences chest pain.\nB. The patient reported that she experienced chest pain.\nC. The patient reported that she is experiencing chest pain.\nD. The patient reported that she has experienced chest pain.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the main verb \"reported\" is in the past tense, requiring the subordinate clause to shift to the past perfect or simple past to maintain sequence of tenses. The phrase \"she experienced chest pain\" aligns with this rule by describing an action completed before the reporting occurred. Option A is wrong because \"experiences\" uses the present tense, which incorrectly suggests the pain is current despite the past reporting. Option C fails similarly by using \"is experiencing,\" indicating a present continuous action that contradicts the past context of the report. Option D is incorrect because \"has experienced\" uses the present perfect tense, which also clashes with the past tense main verb \"reported.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 626,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the sentence with correct pronoun usage.\n\nA. Between you and I, the project needs more funding.\nB. Between you and me, the project needs more funding.\nC. Between you and myself, the project needs more funding.\nD. Between you and mine, the project needs more funding.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the phrase \"Between you and me\" properly uses the objective pronoun \"me\" after the preposition \"Between.\" In this context, the preposition requires an object, making \"me\" the grammatically standard choice over subjective forms. Option A is incorrect because \"I\" is a subjective pronoun that cannot function as the object of a preposition. Option C is wrong since \"myself\" is a reflexive pronoun used only when the subject and object are the same person, which is not the case here. Option D fails because \"mine\" is a possessive pronoun that implies ownership rather than acting as the object of the preposition. Therefore, only sentence B maintains proper pronoun case agreement throughout the statement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 627,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the sentence with the correct pronoun case.\n\nA. The supervisor gave the assignment to Sarah and I.\nB. The supervisor gave the assignment to Sarah and myself.\nC. The supervisor gave the assignment to Sarah and me.\nD. The supervisor gave the assignment to Sarah's and my self.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because the pronoun \"me\" functions as the object of the preposition \"to,\" which requires the objective case. In Option A, \"I\" is incorrect since it is a subject pronoun and cannot serve as an object. Option B uses \"myself,\" which is a reflexive pronoun reserved for when the subject and object are the same person, not for simple objects. Option D is wrong because \"my self\" is an incorrect spelling of the reflexive pronoun and creates a grammatically broken phrase. The sentence structure clearly demands the objective form to complete the prepositional phrase correctly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 628,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Which sentence uses pronouns correctly?\n\nA. Each student must bring their own calculator.\nB. Each student must bring his or her own calculator.\nC. Each student must bring its own calculator.\nD. Both A and B are acceptable.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Each student must bring their own calculator.",
+      "Each student must bring his or her own calculator.",
+      "Each student must bring its own calculator."
+    ],
+    "explanation": "Option D is correct because both sentences A and B use pronouns that agree with the singular antecedent \"Each student.\" Sentence A uses the singular \"their\" as a gender-neutral pronoun, which is widely accepted in modern grammar to avoid specifying gender. Sentence B uses the singular \"his or her,\" which explicitly matches the singular noun while acknowledging both genders. Option C is incorrect because \"its\" refers to non-human objects or animals, making it impossible to describe a student. Since both A and B are grammatically sound, D is the only choice that fully captures the validity of the correct sentences.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 629,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the sentence with correct pronoun-antecedent agreement.\n\nA. The team won their first championship.\nB. The team won its first championship.\nC. The team won there first championship.\nD. The team won they're first championship.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because \"its\" is the proper possessive pronoun that agrees with the singular collective noun \"team.\" Option A is incorrect as \"their\" is plural and creates a disagreement with the singular subject. Option C fails because \"there\" indicates location rather than possession, making the sentence grammatically nonsensical. Finally, Option D is wrong since \"they're\" is a contraction for \"they are,\" which cannot function as a possessive adjective in this context.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 630,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the correct pronoun usage.\n\nA. The dog wagged it's tail happily.\nB. The dog wagged its tail happily.\nC. The dog wagged their tail happily.\nD. The dog wagged his' tail happily.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the possessive pronoun \"its\" without an apostrophe to show the tail belongs to the dog. Option A is wrong since it adds an unnecessary apostrophe to \"it's,\" which incorrectly creates a contraction for \"it is.\" Option C fails because \"their\" is plural, while the singular subject \"dog\" requires a singular pronoun. Option D is incorrect because \"his'\" adds an apostrophe to a possessive form that never requires one, and \"his\" is gender-specific when \"its\" is neutral. This question tests the specific rule that possessive pronouns like its, his, hers, and yours never take apostrophes.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 631,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Which sentence is written in the active voice?\n\nA. The medication was prescribed by the physician.\nB. The physician prescribed the medication.\nC. The medication has been prescribed by the physician.\nD. The medication is being prescribed by the physician.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the subject \"The physician\" directly performs the action of prescribing the medication, which defines active voice. In contrast, option A uses the passive construction \"was prescribed by,\" placing the receiver of the action as the subject. Option C incorrectly relies on the present perfect passive form \"has been prescribed by,\" while option D utilizes the present continuous passive structure \"is being prescribed by.\" Both wrong answers shift focus to the object rather than the doer, failing to meet the criteria for active voice.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 632,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Choose the sentence that uses the passive voice.\n\nA. The scientist published the findings in the journal.\nB. The committee reviewed the proposal carefully.\nC. The proposal was reviewed by the committee.\nD. The teacher explained the concept to the class.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because the sentence structure places the action recipient, \"the proposal,\" as the subject while the verb phrase \"was reviewed\" indicates a passive construction using \"be\" plus a past participle. In contrast, Option A, B, and D all feature active voice where the subjects like \"the scientist\" or \"the committee\" directly perform the actions without auxiliary verbs. The prepositional phrase \"by the committee\" in Option C further confirms the passive form by identifying the doer of the action. Therefore, only Option C fits the definition of passive voice required by the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 633,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Select the best revision to change passive voice to active voice.\n\nOriginal: The test results were analyzed by the lab technician.\n\nA. The test results were analyzed.\nB. The lab technician analyzed the test results.\nC. Analysis of the test results was done.\nD. The test results have been analyzed.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the best revision because it clearly identifies the lab technician as the subject performing the action, which defines active voice. The original sentence hides the doer behind \"by the lab technician,\" whereas Option B places that doer at the start to show who analyzed the results. Option A removes the subject entirely, leaving the action without a performer. Option C uses \"was done,\" which remains passive and vague about who performed the task. Option D uses \"have been analyzed,\" which is also a passive construction that fails to name the technician. Only Option B successfully converts the structure to make the agent of the action explicit.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 634,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Which sentence is most appropriate in passive voice?\n\nA. The chef cooked the meal.\nB. The window was broken during the storm.\nC. The student completed the assignment.\nD. The manager approved the request.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the verb \"was broken,\" which clearly indicates the passive voice where the action happens to the subject. In contrast, options A, C, and D all describe active sentences where the subjects like the chef or manager directly perform the actions. The storm in option B is the actual cause of the breaking, yet it does not appear as the grammatical subject. This structure fits the requirement for a sentence where the focus is on the object rather than the doer. Therefore, only choice B demonstrates the proper passive construction needed here.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 635,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Choose the active voice version of: 'The new policy was implemented by management.'\n\nA. The new policy has been implemented.\nB. Management implemented the new policy.\nC. Implementation of the new policy occurred.\nD. The new policy is being implemented.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B correctly transforms the sentence into active voice by making \"management\" the subject performing the action of implementing the policy. The original passive sentence hides the doer, while the active version explicitly states that management carried out the implementation directly. Option A uses the present perfect passive voice, which still hides the subject and does not make the sentence active. Option C employs a noun phrase and the verb \"occurred,\" creating a passive construction that lacks a clear agent performing the action. Option D uses the present continuous passive voice, which describes an ongoing action but fails to identify who is doing the implementing. Therefore, only option B satisfies the requirement for active voice structure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 637,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Select the sentence with proper parallelism.\n\nA. The job requires patience, dedication, and being detail-oriented.\nB. The job requires being patient, being dedicated, and attention to detail.\nC. The job requires patience, dedication, and attention to detail.\nD. The job requires to be patient, dedication, and detail-oriented.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because it maintains consistent noun phrases: patience, dedication, and attention to detail. This structure ensures the list items share the same grammatical form, which is the definition of proper parallelism. Option A fails because it mixes nouns with the gerund phrase \"being detail-oriented.\" Option B is incorrect as it uses three gerund phrases instead of nouns, creating an imbalance with the intended meaning. Option D is wrong since it begins with an infinitive phrase \"to be patient\" while the other items are nouns, breaking the required pattern.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 638,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Which sentence demonstrates correct parallel structure with correlative conjunctions?\n\nA. She is both intelligent and has a strong work ethic.\nB. She both is intelligent and has a strong work ethic.\nC. She is both intelligent and hardworking.\nD. Both she is intelligent and she has a strong work ethic.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because it maintains parallel structure by pairing two adjectives, \"intelligent\" and \"hardworking,\" which both describe the subject without extra verbs. In contrast, Option A fails because it mixes an adjective with a verb phrase, breaking the required grammatical balance. Option B is incorrect since it places the auxiliary verb \"is\" only before the first item, leaving the second part incomplete and unbalanced. Finally, Option D is wrong because it repeats the full subject and verb for each clause, creating a clunky and non-parallel construction that lacks conciseness.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 639,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Choose the sentence with correct parallel structure.\n\nA. The students were told to read the chapter, to answer the questions, and that they should submit their work.\nB. The students were told to read the chapter, answer the questions, and submit their work.\nC. The students were told reading the chapter, to answer the questions, and submitting their work.\nD. The students were told to read the chapter, answering the questions, and submission of their work.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it maintains consistent infinitive verbs throughout the list: to read, answer, and submit. This parallel structure ensures the sentence flows logically and grammatically. Option A fails because it mixes an infinitive phrase with a dependent clause starting with \"that,\" breaking the pattern. Option C is incorrect as it inconsistently mixes a gerund phrase, an infinitive, and another gerund phrase without proper coordination. Option D is wrong because it mixes an infinitive with a gerund and a noun phrase, creating a disjointed list that lacks grammatical unity.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 640,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Select the sentence with correct parallelism.\n\nA. Not only did she win the award, but she also received a scholarship.\nB. Not only she won the award, but also received a scholarship.\nC. She not only won the award but receiving a scholarship.\nD. Not only did she win the award, but receiving a scholarship also.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because it maintains parallel structure by using the verb phrase \"did she win\" alongside the verb phrase \"received a scholarship\" after the correlative conjunctions \"not only... but also.\" Option B fails because the second clause lacks a subject and auxiliary verb, creating an incomplete thought that breaks the parallel flow. Option C is incorrect since it mixes the past tense verb \"won\" with the gerund phrase \"receiving a scholarship,\" which destroys the grammatical balance required for parallelism. Finally, Option D is wrong because it pairs the verb phrase \"did she win\" with the gerund phrase \"receiving a scholarship,\" resulting in a mismatched structure that violates the rule of keeping corresponding elements in the same form.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 641,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Choose the sentence that correctly avoids a dangling modifier.\n\nA. Walking through the park, the flowers smelled wonderful.\nB. Walking through the park, I noticed the flowers smelled wonderful.\nC. Walking through the park, the flowers were noticed by me.\nD. Walking through the park, it was noticed that the flowers smelled wonderful.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the introductory phrase \"Walking through the park\" logically modifies the subject \"I,\" who is the one actually performing the action. In contrast, Option A incorrectly suggests the flowers were walking, which is impossible since flowers cannot move. Option C fails because the passive construction \"were noticed by me\" disconnects the modifier from the specific person walking, creating confusion about who walked. Finally, Option D uses the impersonal pronoun \"it,\" which does not represent a person walking, leaving the modifier dangling without a clear subject to modify.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 642,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Select the sentence with correct modifier placement.\n\nA. The patient who was coughing loudly was examined by the doctor.\nB. The patient was examined by the doctor who was coughing loudly.\nC. Coughing loudly, the doctor examined the patient.\nD. The doctor examined the patient coughing loudly.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because the phrase \"who was coughing loudly\" immediately follows \"the patient,\" clearly indicating the patient was the one coughing. In contrast, Option B incorrectly suggests the doctor was coughing by placing the modifier after \"doctor.\" Option C creates a dangling modifier since the sentence begins with the action but the subject \"the doctor\" is not the one coughing. Finally, Option D is ambiguous because the modifier could attach to either the patient or the doctor, failing to specify who was coughing. Proper placement ensures the description logically connects to the noun it modifies.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 643,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Which sentence has a misplaced modifier?\n\nA. She served the cake to the children on small plates.\nB. She served the children cake on small plates.\nC. On small plates, she served the cake to the children.\nD. She almost ate the entire cake.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Option D contains a misplaced modifier because the word \"almost\" ambiguously modifies \"ate,\" suggesting she nearly consumed the cake rather than nearly finishing it. In contrast, Option A correctly places \"on small plates\" to describe the plates, not the children. Option B and C also avoid confusion by clearly linking the prepositional phrase to the intended noun or verb. Therefore, only sentence D creates an illogical meaning due to its word placement.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 644,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Choose the sentence that corrects the dangling modifier.\n\nOriginal: After finishing the report, the computer was shut down.\n\nA. After finishing the report, the computer was shut down by me.\nB. After I finished the report, I shut down the computer.\nC. After the report was finished, the computer was shut down.\nD. After finishing the report, shutting down the computer occurred.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it clearly identifies \"I\" as the person who finished the report and shut down the computer, fixing the original error where \"the computer\" illogically performed the action. The phrase \"After I finished the report\" ensures the subject immediately follows the modifier, creating a logical connection between the actions. Option A fails because adding \"by me\" makes the sentence wordy without resolving the initial ambiguity about who acted. Option C is incorrect since \"the report\" was finished, not the computer, which remains the subject of the second clause. Option D is wrong because it changes the structure entirely to a noun phrase, failing to establish a clear human subject performing the sequence of events.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 645,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Select the sentence with correct modifier usage.\n\nA. The chef only added salt to the soup.\nB. The chef added only salt to the soup.\nC. Only the chef added salt to the soup.\nD. The chef added salt only to the soup.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Option D is correct because the modifier \"only\" clearly attaches to \"to the soup,\" specifying exactly where the salt was added without ambiguity. In contrast, Option A incorrectly suggests the chef did nothing else besides adding salt, while Option B implies no other ingredients were added besides salt. Option C mistakenly limits the action to the chef alone, excluding others who might have added salt. This question tests how misplaced modifiers change a sentence's meaning, making precise placement essential for clarity.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 646,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Choose the sentence that is a simple sentence.\n\nA. Although it was raining, we went for a walk.\nB. The cat sat on the windowsill and watched the birds.\nC. She loves reading, and he enjoys hiking.\nD. Because she studied hard, she passed the exam.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the only simple sentence because it contains one independent clause with a single subject and verb performing two actions. Although it uses the conjunction \"and,\" it connects two verbs rather than joining two separate clauses, keeping the structure unified. Option A and D are complex sentences because they both begin with dependent subordinating conjunctions like \"Although\" and \"Because.\" Option C is a compound sentence since it joins two independent clauses with the coordinating conjunction \"and.\" Therefore, only B fits the definition of having a single independent thought.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 647,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Select the compound sentence.\n\nA. The students completed the assignment on time.\nB. Since the deadline was extended, the students had more time.\nC. The students completed the assignment, but they forgot to submit it.\nD. The students who completed the assignment received full credit.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is the correct choice because it joins two independent clauses with a comma and the coordinating conjunction \"but,\" creating a true compound sentence. The first clause, \"The students completed the assignment,\" stands alone as a complete thought, while the second, \"they forgot to submit it,\" also functions independently. In contrast, Option A contains only a single independent clause and lacks any conjunction to form a compound structure. Option B begins with the subordinating conjunction \"Since,\" which makes the first part a dependent clause rather than an independent one, resulting in a complex sentence. Similarly, Option D uses a relative clause starting with \"who\" to modify \"students,\" which creates a complex sentence instead of joining two separate main ideas.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 648,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Which sentence is a complex sentence?\n\nA. She enjoys cooking and baking.\nB. The recipe calls for flour, sugar, and eggs.\nC. When the timer rang, she removed the cake from the oven.\nD. He opened the door and walked inside.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is the correct answer because it contains one independent clause and one dependent clause joined by a subordinating conjunction. The phrase \"When the timer rang\" acts as the dependent clause, while \"she removed the cake from the oven\" functions as the independent clause. In contrast, option A and option D use coordinating conjunctions like \"and\" to connect two independent clauses, making them compound sentences rather than complex ones. Similarly, option B lists items within a single independent clause without any subordinate elements, so it is a simple sentence. This distinction relies on identifying the presence of a dependent clause to classify a sentence as complex.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 649,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Choose the compound-complex sentence.\n\nA. She went to the store, and she bought milk.\nB. Although she was tired, she finished her homework, and she submitted it on time.\nC. After the meeting ended, they went home.\nD. The dog barked at the mailman.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the only compound-complex sentence because it combines three independent clauses with one dependent clause. The phrase \"Although she was tired\" acts as a dependent clause, while \"she finished her homework\" and \"she submitted it on time\" are two distinct independent clauses joined by the conjunction \"and.\" Option A contains only two independent clauses, making it a compound sentence rather than a compound-complex one. Option C features a single independent clause preceded by a dependent clause, which defines it as a complex sentence. Finally, Option D consists of just one independent clause, classifying it as a simple sentence. This question requires identifying the specific structural combination of clause types within each choice.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 650,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Select the sentence fragment.\n\nA. Running through the field.\nB. She ran through the field.\nC. After she ran through the field, she was tired.\nD. She ran through the field and was tired.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is the correct choice because \"Running through the field\" lacks both a subject and a main verb, making it an incomplete sentence fragment. In contrast, Option B forms a complete thought with the subject \"She\" and the verb \"ran.\" Option C presents a full complex sentence where the dependent clause connects properly to the independent clause containing \"she was tired.\" Similarly, Option D is a complete compound sentence joined by the conjunction \"and\" with two distinct subjects and verbs. Only Option A fails to express a complete idea on its own.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 651,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage.\n\nA. The tall, dark, and handsome man entered the room.\nB. The tall dark and handsome man entered the room.\nC. The tall, dark and handsome, man entered the room.\nD. The tall, dark, and handsome, man entered the room.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly uses commas to separate the three coordinate adjectives describing the man, following the rule for listing items in a series. Option B is incorrect because it omits the necessary commas between the adjectives, making the list run together without proper punctuation. Option C is wrong because it places a comma after \"handsome\" but not after \"dark,\" creating an inconsistent and confusing pause before the noun. Option D fails because it adds an unnecessary comma after \"handsome,\" which incorrectly separates the adjective from the noun it modifies. Only Option A maintains the standard grammatical structure for a clear and correct list of adjectives.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 652,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Select the sentence with correct comma placement.\n\nA. However the results were inconclusive.\nB. However, the results were inconclusive.\nC. The results however, were inconclusive.\nD. The results were, however inconclusive.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it properly places a comma after the introductory transition word \"However\" to separate it from the main clause. This punctuation rule ensures the reader understands that \"However\" functions as a standalone introductory element modifying the entire sentence. Option A is wrong because it lacks the necessary comma after \"However,\" creating a run-on feel that obscures the sentence structure. Option C is incorrect since it places a comma after \"however\" in the middle of the sentence, which is unnecessary when the word modifies the verb directly. Option D fails because it incorrectly inserts a comma before \"however\" while omitting the required comma after it, disrupting the flow and grammatical integrity of the phrase.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 653,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Which sentence correctly uses a comma with an introductory clause?\n\nA. After the lecture ended the students left.\nB. After the lecture ended, the students left.\nC. After, the lecture ended the students left.\nD. After the lecture, ended the students left.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B correctly places a comma after the introductory clause \"After the lecture ended\" to separate it from the main clause. This punctuation rule ensures the reader understands where the introductory thought stops before the main action begins. Option A is incorrect because it omits the necessary comma, causing the introductory phrase to run directly into the subject. Option C misplaces the comma by splitting the introductory clause itself, which disrupts the grammatical flow. Finally, Option D incorrectly inserts a comma within the main clause after the subject, creating a confusing and ungrammatical sentence structure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 654,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage for a non-restrictive clause.\n\nA. My sister who lives in New York is a doctor.\nB. My sister, who lives in New York, is a doctor.\nC. My sister who, lives in New York is a doctor.\nD. My sister, who lives in New York is a doctor.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it properly sets off the non-restrictive clause with commas on both sides, indicating that the phrase \"who lives in New York\" adds extra information about a specific sister. In contrast, Option A incorrectly omits the necessary commas, treating the clause as essential to identifying which sister is being discussed. Option C is wrong due to a misplaced comma before the verb \"lives,\" which breaks the flow of the sentence structure entirely. Finally, Option D fails to place a comma after \"New York,\" leaving the sentence grammatically incomplete regarding the clause boundaries. This question tests your ability to distinguish between essential and non-essential descriptive phrases in English grammar.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 655,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Select the sentence with correct comma usage.\n\nA. He bought apples, oranges, bananas and grapes.\nB. He bought apples, oranges, bananas, and grapes.\nC. He bought, apples, oranges, bananas, and grapes.\nD. He bought apples oranges bananas and grapes.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it properly uses the Oxford comma to separate the list items before the conjunction \"and,\" which prevents ambiguity in the sentence structure. Option A is incorrect because it omits the comma before \"and,\" a style that can sometimes blur the distinction between the last two items in a list. Option C is wrong since it incorrectly places a comma immediately after the verb \"bought,\" which unnecessarily breaks the flow of the action. Option D fails entirely by missing all necessary commas between the items, making the list of fruits run together without proper separation. This question tests your ability to follow standard punctuation rules for clarity and readability in written English.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 656,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Choose the sentence with correct semicolon usage.\n\nA. She loves coffee; and tea.\nB. The weather was cold; therefore, we stayed indoors.\nC. She loves; coffee and tea.\nD. The weather was cold; we stayed indoors; because it was raining.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it properly joins two independent clauses with a semicolon and the conjunctive adverb \"therefore,\" which requires a comma after it. Option A is wrong since a semicolon cannot precede the coordinating conjunction \"and\" without removing the comma that usually follows it. Option C is incorrect because a semicolon cannot separate a subject from its predicate within a single clause. Finally, Option D fails because it uses three semicolons to connect three independent clauses, creating an unnecessary and confusing structure where only two are needed.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

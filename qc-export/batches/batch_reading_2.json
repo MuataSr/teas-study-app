@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1166,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The U.S. Census counts every resident every ten years. Data determines congressional seats and federal funding. Undercounts in certain neighborhoods reduce resources.\n\nWhat can be concluded?\n\nA) Census is optional\nB) Funding is unaffected by counts\nC) Only citizens are counted\n\nA) Census is optional\nB) Funding is unaffected by counts\nC) Only citizens are counted\nD) If neighborhoods are undercounted, they lose resources, proving that accurate counts are essential for fair representation and funding distribution",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Census is optional",
+      "B) Funding is unaffected by counts",
+      "C) Only citizens are counted"
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that census data determines congressional seats and federal funding, meaning accurate participation directly influences these resources. If neighborhoods are undercounted, they lose resources, proving that accurate counts are essential for fair representation and funding distribution. Option A is wrong since the text says the Census counts every resident, implying it is mandatory, not optional. Option B contradicts the passage which clearly links data to funding levels. Option C is incorrect because the text specifies counting every resident, not just citizens, making the exclusion of non-citizens false.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1167,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Sterile technique prevents infection during invasive procedures. The nurse opens sterile packages without touching inside. Contaminated items are discarded immediately.\n\nWhich action follows sterile technique?\n\nB) Reaching over a sterile field\nC) Touching inside of package\nD) Reusing contaminated gloves\n\nA) B is wrong\u2014reaching over a sterile field can shed microorganisms and compromise the field\nB) Reaching over a sterile field\nC) Touching inside of package\nD) Reusing contaminated gloves",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Reaching over a sterile field",
+      "C) Touching inside of package",
+      "D) Reusing contaminated gloves"
+    ],
+    "explanation": "The passage states that 'contaminated items are discarded immediately' as a core principle of sterile technique. A dropped gauze pad has touched a non-sterile surface (the floor), so it is now contaminated and must be discarded. Option A follows the rule directly. B is wrong\u2014reaching over a sterile field can shed microorganisms and compromise the field. C violates the rule about not touching inside the package. D directly contradicts the principle of discarding contaminated items.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1168,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Lincoln believed preservation of the Union outweighed personal ambition. He issued the Emancipation Proclamation as a war measure. Historians analyze his speeches to understand his priorities.\n\nPoint of view?\n\nA) First person by Lincoln\nC) Second person directive\nD) First person plural\n\nA) First person by Lincoln\nB) Option A is wrong because no first-person statements from Lincoln appear in the text\nC) Second person directive\nD) First person plural",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) First person by Lincoln",
+      "C) Second person directive",
+      "D) First person plural"
+    ],
+    "explanation": "The passage describes Lincoln's actions and historians' analysis using third-person pronouns like \"he\" and \"Historians,\" establishing an objective, analytical tone rather than a personal one. Option B is right because the text reports on historical events without including Lincoln's own voice or addressing the reader directly. Option A is wrong because no first-person statements from Lincoln appear in the text. Option C is incorrect as there is no second-person language like \"you\" or \"your\" used to give directives. Option D is wrong because the singular \"he\" is used, not the plural \"we\" or \"us.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1169,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "In clinical trials, some patients improve after receiving inactive pills. Their expectation of healing triggers real physiological changes. This demonstrates mind-body connections.\n\nWhat conclusion is supported?\n\nA) Inactive pills contain medicine\nB) Expectations never affect health\nD) Trials are unnecessary\n\nA) Inactive pills contain medicine\nB) Expectations never affect health\nC) Option A is incorrect since the text defines the pills as \"inactive,\" meaning they contain no medicine\nD) Trials are unnecessary",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Inactive pills contain medicine",
+      "B) Expectations never affect health",
+      "D) Trials are unnecessary"
+    ],
+    "explanation": "Option C is supported because the passage explicitly states that patient expectations trigger real physiological changes, proving beliefs influence physical outcomes. Option A is incorrect since the text defines the pills as \"inactive,\" meaning they contain no medicine. Option B contradicts the passage which confirms expectations do affect health through physiological responses. Option D is wrong because the text discusses the results of trials without suggesting they are unnecessary for understanding mind-body connections.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1170,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Fifth Amendment guarantees due process. No person can be deprived of life, liberty, or property without fair legal procedures. This includes right to counsel.\n\nWhat does due process protect against?\n\nA) Paying taxes\nB) Voting\nC) Free speech\n\nA) Paying taxes\nB) Voting\nC) Free speech\nD) The passage states no person can be deprived of 'life, liberty, or property' without fair legal procedures.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Paying taxes",
+      "B) Voting",
+      "C) Free speech"
+    ],
+    "explanation": "The passage states no person can be deprived of 'life, liberty, or property' without fair legal procedures. Due process protects against arbitrary government action \u2014 answers about specific crimes or punishments go beyond what the text actually covers.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1171,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Proper wound care reduces infection risk. First, clean the wound with saline and pat dry. Next, apply antibiotic ointment and cover with a dry dressing. Change the dressing daily and monitor for signs of infection.\n\nAuthor's purpose?\n\nB) To argue against antibiotics\nC) To tell a story\nD) To compare treatments\n\nA) In contrast, Option B is wrong since the text never discusses arguing against antibiotics; it simply mentions applying them as a standard step\nB) To argue against antibiotics\nC) To tell a story\nD) To compare treatments",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To argue against antibiotics",
+      "C) To tell a story",
+      "D) To compare treatments"
+    ],
+    "explanation": "Option A is right because the passage uses imperative verbs like \"clean,\" \"apply,\" and \"change\" to guide the reader through specific wound care steps, clearly demonstrating an instructional purpose. In contrast, Option B is wrong since the text never discusses arguing against antibiotics; it simply mentions applying them as a standard step. Option C fails because the passage presents factual medical procedures rather than a narrative with characters or a plot. Finally, Option D is incorrect as the text does not compare different treatments; it outlines a single, sequential process for care.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1172,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Booker T. Washington advocated vocational training for gradual progress. W.E.B. Du Bois demanded immediate civil rights and higher education. Both leaders sought Black advancement but differed in methods.\n\nHow did their approaches differ?\n\nB) Washington advocated gradual progress; Du Bois demanded immediate civil rights.\nA) Both sought immediate protest\nC) Both opposed education\nD) Du Bois supported vocational only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Both sought immediate protest",
+      "C) Both opposed education",
+      "D) Du Bois supported vocational only"
+    ],
+    "explanation": "Option B is correct because the passage explicitly states Washington advocated vocational training for gradual progress while Du Bois demanded immediate civil rights and higher education. This directly matches the description in option B regarding their distinct methods. Option A is wrong as the text never mentions protest, only Du Bois's demand for rights and Washington's gradual approach. Option C is incorrect because both leaders clearly sought advancement through education, contradicting the claim that they opposed it. Option D is wrong since the passage assigns vocational training to Washington, not Du Bois, who specifically wanted higher education.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1173,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Water moves across semipermeable membranes from low solute to high solute concentration. This passive process requires no energy. It maintains cell volume.\n\nBest summary?\n\nA) Water requires energy to move\nB) Solutes move, not water\nD) Membranes block all water\n\nA) Water requires energy to move\nB) Solutes move, not water\nC) A is wrong because the passage explicitly says 'requires no energy\nD) Membranes block all water",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Water requires energy to move",
+      "B) Solutes move, not water",
+      "D) Membranes block all water"
+    ],
+    "explanation": "The passage defines osmosis with three key elements: (1) water moves across semipermeable membranes, (2) from low to high solute concentration, and (3) it is passive\u2014requiring no energy. Option C captures all three. A is wrong because the passage explicitly says 'requires no energy.' B reverses the process\u2014the passage describes water moving, not solutes. D contradicts the passage; the membrane is 'semipermeable,' meaning it allows some water through, not that it blocks all water.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1174,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The study's results were ambiguous, making it difficult to draw firm conclusions. Researchers noted conflicting data across groups. Further trials were recommended to clarify findings.\n\nWhat does 'ambiguous' mean?\n\nA) Very clear\nB) Proven false\nC) Highly significant\n\nA) Very clear\nB) Proven false\nC) Highly significant\nD) Option A is wrong because the text describes confusion, not clarity, directly contradicting the idea of something being very clear",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Very clear",
+      "B) Proven false",
+      "C) Highly significant"
+    ],
+    "explanation": "Option D is correct because the passage explicitly states the results made it difficult to draw firm conclusions and that data was conflicting, which aligns perfectly with the definition of being unclear or open to multiple interpretations. Option A is wrong because the text describes confusion, not clarity, directly contradicting the idea of something being very clear. Option B is incorrect since the passage never suggests the data was proven false, only that it was contradictory across different groups. Option C is wrong because \"highly significant\" implies strong, definitive results, whereas the study is described as ambiguous and requiring further trials to clarify its findings.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1175,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Early recognition of sepsis improves survival. Nurses monitor for fever, tachycardia, and altered mentation. Lactate levels guide fluid resuscitation. Bundles must be initiated within one hour.\n\nWhat is the central point?\n\nB) Sepsis only causes fever\nC) Lactate is irrelevant\nD) Treatment can be delayed\n\nA) Every detail in the passage\u2014monitoring for early signs, using lactate levels, and initiating bundles within one hour\u2014emphasizes speed and protocol.\nB) Sepsis only causes fever\nC) Lactate is irrelevant\nD) Treatment can be delayed",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Sepsis only causes fever",
+      "C) Lactate is irrelevant",
+      "D) Treatment can be delayed"
+    ],
+    "explanation": "Every detail in the passage\u2014monitoring for early signs, using lactate levels, and initiating bundles within one hour\u2014emphasizes speed and protocol. The central point ties recognition speed to treatment urgency for better survival. No single detail outweighs this overarching theme.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1176,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Detox teas claim to remove toxins without evidence. Regulatory agencies have issued warnings. Consumers deserve accurate information.\n\nWhat is the author's tone and purpose?\n\nA) Neutral and entertaining\nC) Supportive of detox teas\nD) Humorous and unrelated\n\nA) Neutral and entertaining\nB) The phrase \"Consumers deserve accurate information\" confirms the informative purpose to warn the public\nC) Supportive of detox teas\nD) Humorous and unrelated",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Neutral and entertaining",
+      "C) Supportive of detox teas",
+      "D) Humorous and unrelated"
+    ],
+    "explanation": "Option B is right because the author states detox teas lack evidence and cites regulatory warnings, showing a skeptical stance while aiming to inform consumers about the dangers. The phrase \"Consumers deserve accurate information\" confirms the informative purpose to warn the public. Option A is wrong as the text is not neutral; it explicitly critiques detox teas by noting the absence of evidence. Option C fails because the author opposes detox teas rather than supporting them, contradicting the claim of removing toxins without proof. Option D is incorrect since the passage is serious and factual, not humorous or unrelated to health concerns.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1177,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The dropping of atomic bombs was necessary because invasion would cost millions. Critics note Japan was already seeking surrender. Historians continue to debate the decision using primary documents.\n\nWhich statement best evaluates the argument?\n\nA) Both sides agree on facts\nB) The necessity is undisputed\nD) Invasion costs were low\n\nA) Both sides agree on facts\nB) The necessity is undisputed\nC) This directly supports the claim that the argument is contested\nD) Invasion costs were low",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Both sides agree on facts",
+      "B) The necessity is undisputed",
+      "D) Invasion costs were low"
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that historians continue to debate the decision using primary documents, indicating conflicting evidence regarding Japan's surrender status. This directly supports the claim that the argument is contested. Option A is wrong as the text mentions debate, proving sides do not agree on facts. Option B fails because the ongoing debate shows the necessity is not undisputed. Option D is incorrect since the passage argues invasion would cost millions, contradicting the idea that costs were low.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1178,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Informed consent requires disclosure of risks, benefits, alternatives, patient comprehension, and voluntary agreement. It is required for surgery but not in emergencies where patient lacks capacity. Nurses witness consent and verify understanding.\n\nWhen is informed consent NOT required?\n\nA) Elective surgery\nB) Routine vaccination with capacity\nC) Research participation\n\nA) Elective surgery\nB) Routine vaccination with capacity\nC) Research participation\nD) The passage carves out one clear exception: 'not in emergencies where patient lacks capacity.' All other scenarios \u2014 surgery, routine procedures, treatments with alternatives \u2014 still require full informed consent.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Elective surgery",
+      "B) Routine vaccination with capacity",
+      "C) Research participation"
+    ],
+    "explanation": "The passage carves out one clear exception: 'not in emergencies where patient lacks capacity.' All other scenarios \u2014 surgery, routine procedures, treatments with alternatives \u2014 still require full informed consent. Emergency incapacity is the sole exemption stated.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1179,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Hospital-acquired pressure injuries increased. A task force implemented hourly repositioning, skin assessments, and specialty mattresses. Rates fell 40%.\n\nWhat text structure?\n\nB) Chronological biography\nC) Compare-contrast of diseases\nD) Cause without solution\n\nA) D is contradicted by the passage explicitly describing a successful solution\nB) Chronological biography\nC) Compare-contrast of diseases\nD) Cause without solution",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Chronological biography",
+      "C) Compare-contrast of diseases",
+      "D) Cause without solution"
+    ],
+    "explanation": "The passage follows a clear problem-solution structure: it first identifies the problem (hospital-acquired pressure injuries increased), then describes the solution implemented (hourly repositioning, skin assessments, specialty mattresses), and finally reports the result (rates fell 40%). A matches. B is wrong\u2014no biographical information about a person is presented. C is incorrect\u2014no diseases are compared. D is contradicted by the passage explicitly describing a successful solution.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1180,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Measles requires 95% vaccination for herd immunity. Communities with 80% coverage experience outbreaks, even among some vaccinated individuals. This occurs because the virus spreads easily in undervaccinated groups.\n\nWhat inference?\n\nA) Vaccines are ineffective\nC) Outbreaks only affect unvaccinated\nD) 80% is sufficient\n\nA) Vaccines are ineffective\nB) Option A is wrong since the text shows vaccines work by noting outbreaks happen specifically in undervaccinated groups, not because the vaccine fails\nC) Outbreaks only affect unvaccinated\nD) 80% is sufficient",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Vaccines are ineffective",
+      "C) Outbreaks only affect unvaccinated",
+      "D) 80% is sufficient"
+    ],
+    "explanation": "Option B is right because the passage states that 80% coverage leads to outbreaks even among vaccinated people, implying that high coverage (95%) is needed to stop transmission and protect the fully vaccinated. Option A is wrong since the text shows vaccines work by noting outbreaks happen specifically in undervaccinated groups, not because the vaccine fails. Option C is incorrect because the passage explicitly mentions outbreaks occur among some vaccinated individuals, contradicting the idea they only affect the unvaccinated. Option D is wrong as the text directly states 80% coverage causes outbreaks, proving it is insufficient for herd immunity.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1181,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Women's suffrage activists used marches, lobbying, and civil disobedience. Their decades-long efforts built broad public support. The 19th Amendment ratified in 1920 prohibited voting denial based on sex.\n\nWhich detail supports how suffrage was achieved?\n\nA) It passed without activism\nB) Only lobbying was used\nD) It prohibited all voting\n\nA) It passed without activism\nB) Only lobbying was used\nC) This confirms multiple tactics were employed\nD) It prohibited all voting",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) It passed without activism",
+      "B) Only lobbying was used",
+      "D) It prohibited all voting"
+    ],
+    "explanation": "Option C is right because the passage explicitly states activists used marches, lobbying, and civil disobedience to build support before the 19th Amendment passed. This confirms multiple tactics were employed. Option A is wrong since the text mentions decades of active efforts, contradicting the claim it passed without activism. Option B is incorrect because the passage lists marches and civil disobedience alongside lobbying, proving it was not the only method used. Option D is wrong because the amendment only prohibited denial based on sex, not all voting restrictions universally.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1182,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Nurses mitigate fall risk by removing clutter, using non-slip socks, and assisting ambulation. These interventions are part of standard safety protocols. Regular assessment identifies high-risk patients.\n\nWhat does 'mitigate' mean?\n\nA) Increase\nB) Ignore\nC) Cause\n\nA) Increase\nB) Ignore\nC) Cause\nD) Option A is incorrect because increasing risks would be dangerous, contradicting the passage's goal of safety",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Increase",
+      "B) Ignore",
+      "C) Cause"
+    ],
+    "explanation": "The word \"mitigate\" means to reduce or lessen the severity of a problem, which fits the context of nurses lowering fall risks through safety measures. Option D accurately reflects this definition by stating \"reduce or lessen,\" aligning with how interventions decrease danger. Option A is incorrect because increasing risks would be dangerous, contradicting the passage's goal of safety. Option B is wrong since ignoring risks would fail to prevent falls, and Option C is incorrect because causing harm is the opposite of mitigation. Therefore, only D captures the intended meaning of making a situation less severe.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1183,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Nonverbal patients cannot use numeric scales. Behavioral indicators like grimacing, guarding, and vital sign changes suggest pain. The FLACC scale quantifies these behaviors.\n\nWhat conclusion?\n\nB) Pain does not exist without speech\nC) Vital signs never change with pain\nD) Numeric scales work for everyone\n\nA) Option B is incorrect because the text lists grimacing and guarding as valid indicators of pain, proving pain exists without speech\nB) Pain does not exist without speech\nC) Vital signs never change with pain\nD) Numeric scales work for everyone",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Pain does not exist without speech",
+      "C) Vital signs never change with pain",
+      "D) Numeric scales work for everyone"
+    ],
+    "explanation": "The passage explicitly states that nonverbal patients cannot use numeric scales, necessitating alternative methods like the FLACC scale to quantify behaviors such as grimacing or vital sign changes. This directly supports option A, which concludes that alternative assessment tools are required for this specific patient group. Option B is incorrect because the text lists grimacing and guarding as valid indicators of pain, proving pain exists without speech. Option C is wrong since the passage notes that vital sign changes serve as a behavioral indicator of pain. Finally, option D is false because the text begins by stating nonverbal patients cannot use numeric scales, contradicting the claim that they work for everyone.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1184,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Overprescribing antibiotics drives resistance. Stewardship programs review prescriptions, promote narrow-spectrum use, and educate providers. Hospitals with programs show lower resistance rates.\n\nMain idea?\n\nA) All antibiotics should be banned\nC) Resistance is unrelated to prescribing\nD) Broad-spectrum drugs are always preferred\n\nA) All antibiotics should be banned\nB) Option A is incorrect because the text advocates for careful prescribing, not a total ban on antibiotics\nC) Resistance is unrelated to prescribing\nD) Broad-spectrum drugs are always preferred",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) All antibiotics should be banned",
+      "C) Resistance is unrelated to prescribing",
+      "D) Broad-spectrum drugs are always preferred"
+    ],
+    "explanation": "Option B correctly identifies that stewardship programs lower resistance by reviewing prescriptions and promoting narrow-spectrum use, directly supporting the passage's claim that these measures drive down rates. Option A is incorrect because the text advocates for careful prescribing, not a total ban on antibiotics. Option C is wrong since the passage explicitly states that overprescribing drives resistance, proving a clear relationship. Option D is false because the text specifies promoting narrow-spectrum drugs, contradicting the preference for broad-spectrum ones.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1185,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Robber barons were visionary captains of industry who built America. Their wealth reflected ingenuity, not exploitation. This interpretation celebrates economic growth over labor concerns.\n\nWhat point of view?\n\nA) Critical labor perspective\nB) Neutral academic\nD) First-person worker\n\nA) Critical labor perspective\nB) Neutral academic\nC) The passage celebrates industrialists as 'visionary' and credits their 'ingenuity,' showing an admiring, pro-industrialist stance.\nD) First-person worker",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Critical labor perspective",
+      "B) Neutral academic",
+      "D) First-person worker"
+    ],
+    "explanation": "The passage celebrates industrialists as 'visionary' and credits their 'ingenuity,' showing an admiring, pro-industrialist stance. A is the opposing view. B is too neutral\u2014the author takes a clear side. D is unsupported; no first-person worker voice appears.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1186,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Social media increases political participation but also spreads misinformation. Studies show higher engagement correlates with both activism and polarization. Researchers caution that effects vary by platform and user behavior.\n\nWhat nuanced conclusion?\n\nA) Social media is purely beneficial\nB) Social media has no effect\nC) Misinformation does not exist\n\nA) Social media is purely beneficial\nB) Social media has no effect\nC) Misinformation does not exist\nD) The text states that engagement correlates with activism yet also spreads misinformation, leading to polarization, which only D captures",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Social media is purely beneficial",
+      "B) Social media has no effect",
+      "C) Misinformation does not exist"
+    ],
+    "explanation": "Option D correctly synthesizes the passage by acknowledging both the boost in participation and the rise in polarization, reflecting the \"mixed effects\" explicitly mentioned. The text states that engagement correlates with activism yet also spreads misinformation, leading to polarization, which only D captures. Option A is wrong because the passage notes negative outcomes like polarization, contradicting the claim of being purely beneficial. Option B is incorrect since the text clearly describes significant correlations between engagement and political outcomes. Finally, Option C is false because the passage directly asserts that misinformation is spread, making the claim that it does not exist invalid.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1187,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "SBAR stands for Situation, Background, Assessment, Recommendation. Nurses use it to communicate critical changes. It reduces errors during handoffs.\n\nWhat does the 'R' in SBAR represent?\n\nA) Response\nB) Review\nC) Report\n\nA) Response\nB) Review\nC) Report\nD) Option A suggests Response, which is not part of the defined acronym",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Response",
+      "B) Review",
+      "C) Report"
+    ],
+    "explanation": "The question asks for the meaning of the 'R' in SBAR, a communication tool where nurses detail critical changes. The passage explicitly defines the acronym as Situation, Background, Assessment, and Recommendation, directly linking the final letter to Recommendation. Option D matches this definition perfectly. Option A suggests Response, which is not part of the defined acronym. Option B proposes Review, which does not appear in the text's breakdown. Finally, Option C offers Report, which is also absent from the provided definition of SBAR components.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1188,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Researchers used a double-blind randomized controlled trial to test the drug. Neither participants nor staff knew group assignments, reducing bias. Results were analyzed after the study concluded.\n\nWhy does author mention double-blind design?\n\nA) To entertain\nC) To criticize participants\nD) To promote the drug\n\nA) To entertain\nB) Option A is incorrect as the text focuses on scientific rigor, not entertainment\nC) To criticize participants\nD) To promote the drug",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To entertain",
+      "C) To criticize participants",
+      "D) To promote the drug"
+    ],
+    "explanation": "The passage explicitly states that the double-blind design reduced bias because neither participants nor staff knew the group assignments. Option B is correct because this mechanism directly addresses minimizing bias, which is the study's primary goal. Option A is incorrect as the text focuses on scientific rigor, not entertainment. Option C is wrong because the passage never mentions criticizing participants. Option D is incorrect since the text describes a neutral analysis rather than promoting the drug. Therefore, the design choice serves a specific methodological purpose regarding bias reduction.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1189,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Nightingale created polar area diagrams showing deaths from preventable disease exceeded battle wounds. She presented these to Parliament. Her visual evidence helped drive sanitary reforms.\n\nWhat can be inferred about her strategy?\n\nA) She avoided data\nB) She focused only on wounds\nD) Parliament ignored statistics\n\nA) She avoided data\nB) She focused only on wounds\nC) Nightingale created polar area diagrams and 'presented these to Parliament,' using visual evidence to argue for sanitary reforms.\nD) Parliament ignored statistics",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) She avoided data",
+      "B) She focused only on wounds",
+      "D) Parliament ignored statistics"
+    ],
+    "explanation": "Nightingale created polar area diagrams and 'presented these to Parliament,' using visual evidence to argue for sanitary reforms. This shows a deliberate strategy: data visualization aimed at persuading decision-makers. She didn't just collect data\u2014she used it politically.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1190,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Social workers perform a variety of tasks in communities and schools. They connect families with resources, advocate for children in court, and provide counseling during crises. They also coordinate with teachers, doctors, and law enforcement to ensure client safety.\n\nAccording to the passage, which task is performed by social workers?\n\nB) Prescribing medications to patients\nC) Performing surgical procedures\nD) Designing public school curricula.\n\nA) The other options are incorrect as the text never mentions prescribing medications, performing surgeries, or designing school curricula\nB) Prescribing medications to patients\nC) Performing surgical procedures\nD) Designing public school curricula.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Prescribing medications to patients",
+      "C) Performing surgical procedures",
+      "D) Designing public school curricula."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that social workers \"advocate for children in court,\" matching the description perfectly. The other options are incorrect as the text never mentions prescribing medications, performing surgeries, or designing school curricula. Options B, C, and D describe tasks outside the scope of the listed duties like connecting families or coordinating with doctors. Therefore, only advocating for children is supported by the provided text.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1191,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Photosynthesis is the process by which green plants convert sunlight into food. During this process, plants absorb carbon dioxide from the air and water from the soil. Using the energy from sunlight, they transform these ingredients into glucose and oxygen. This chemical reaction is essential for plant growth and produces the oxygen that humans breathe.\n\nQuestion: What is the main product of photosynthesis mentioned that is vital for humans?\n\nA) Carbon dioxide\nC) Water\nD) Sunlight\n\nA) Carbon dioxide\nB) The passage's final clause states photosynthesis 'produces the oxygen that humans breathe.' Glucose feeds the plant itself, but oxygen is the product described as vital for humans.\nC) Water\nD) Sunlight",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Carbon dioxide",
+      "C) Water",
+      "D) Sunlight"
+    ],
+    "explanation": "The passage's final clause states photosynthesis 'produces the oxygen that humans breathe.' Glucose feeds the plant itself, but oxygen is the product described as vital for humans. Distractors like carbon dioxide are inputs, not products, of the process.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1192,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: The Industrial Revolution began in Great Britain in the late 18th century. It marked a shift from agrarian, handcrafted economies to machine-driven manufacturing. The invention of the steam engine and spinning jenny drastically increased production speeds. Consequently, many people moved from rural farms to urban centers seeking factory work.\n\nQuestion: According to the passage, what was a major consequence of the Industrial Revolution?\n\nA) Decreased urban population\nB) Slower production speeds\nD) Return to agrarian lifestyles\n\nA) Decreased urban population\nB) Slower production speeds\nC) Option A is wrong as the text describes a shift to urban centers, not a decrease in their population\nD) Return to agrarian lifestyles",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Decreased urban population",
+      "B) Slower production speeds",
+      "D) Return to agrarian lifestyles"
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that \"many people moved from rural farms to urban centers seeking factory work,\" directly linking the Industrial Revolution to migration. Option A is wrong as the text describes a shift to urban centers, not a decrease in their population. Option B contradicts the passage, which notes that inventions like the steam engine \"drastically increased production speeds.\" Option D is incorrect because the era marked a shift away from agrarian lifestyles toward machine-driven manufacturing.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1193,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Socialization is the process through which individuals learn the norms and customs of their society. Primary socialization occurs during early childhood within the family unit. Secondary socialization takes place later in life through schools, peer groups, and media. Both stages are critical for integrating individuals into the broader cultural framework.\n\nQuestion: Which of the following is responsible for secondary socialization?\n\nA) The family unit\nB) Genetic inheritance\nC) Early childhood experiences\n\nA) The family unit\nB) Genetic inheritance\nC) Early childhood experiences\nD) Options A, B, and C are incorrect because the text defines primary socialization as happening within the family unit during early childhood, while genetic inheritance and early experiences do not fit the definition of secondary socialization occurring in schools or through media",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The family unit",
+      "B) Genetic inheritance",
+      "C) Early childhood experiences"
+    ],
+    "explanation": "Option D correctly identifies schools and peer groups as agents of secondary socialization, which the passage explicitly states occur later in life. Options A, B, and C are incorrect because the text defines primary socialization as happening within the family unit during early childhood, while genetic inheritance and early experiences do not fit the definition of secondary socialization occurring in schools or through media. Therefore, only D aligns with the passage's description of later-life socialization processes.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1194,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Time management is a crucial skill for college students juggling academics, work, and extracurriculars. Effective time management involves prioritizing tasks based on deadlines and importance. Tools like planners and digital calendars help students visualize their schedules. However, even with the best tools, procrastination can derail the most meticulously planned week.\n\nQuestion: Which of the following best summarizes the passage?\n\nB) Digital calendars are the most effective tool for managing time.\nC) Students should avoid extracurriculars to focus on academics.\nD) Procrastination is impossible to overcome with proper planning.\n\nA) B is wrong because the passage lists planners and digital calendars as helpful tools but never claims one is 'most effective\nB) Digital calendars are the most effective tool for managing time.\nC) Students should avoid extracurriculars to focus on academics.\nD) Procrastination is impossible to overcome with proper planning.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Digital calendars are the most effective tool for managing time.",
+      "C) Students should avoid extracurriculars to focus on academics.",
+      "D) Procrastination is impossible to overcome with proper planning."
+    ],
+    "explanation": "The passage covers three points: time management is important for students, tools help with scheduling, but procrastination can still derail plans. Option A captures the full arc\u2014the importance of time management plus its key limitation. B is wrong because the passage lists planners and digital calendars as helpful tools but never claims one is 'most effective.' C is unsupported; the passage mentions extracurriculars as something to balance, not something to avoid. D contradicts the passage, which suggests procrastination is a challenge to manage, not an impossibility to overcome.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1195,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Telehealth has expanded rapidly, offering patients remote access to healthcare providers via video conferencing. This modality reduces the need for travel, making healthcare more accessible for rural populations. However, telehealth is not suitable for all medical conditions, particularly those requiring physical examinations or emergency interventions. Despite these limitations, it remains a valuable supplement to traditional in-person care.\n\nQuestion: What is a central idea of the passage?\n\nA) Telehealth will replace all in-person doctor visits.\nC) Rural populations prefer in-person care over telehealth.\nD) Emergency interventions can be easily handled via telehealth.\n\nA) Telehealth will replace all in-person doctor visits.\nB) The passage explicitly states it \"reduces the need for travel\" while simultaneously noting it is \"not suitable for all medical conditions,\" making this summary accurate\nC) Rural populations prefer in-person care over telehealth.\nD) Emergency interventions can be easily handled via telehealth.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Telehealth will replace all in-person doctor visits.",
+      "C) Rural populations prefer in-person care over telehealth.",
+      "D) Emergency interventions can be easily handled via telehealth."
+    ],
+    "explanation": "Option B correctly identifies the passage's main theme by synthesizing the text's dual focus on telehealth's benefits for rural access and its specific limitations regarding physical exams. The passage explicitly states it \"reduces the need for travel\" while simultaneously noting it is \"not suitable for all medical conditions,\" making this summary accurate. Option A is incorrect because the text describes telehealth as a \"supplement\" to in-person care, not a replacement. Option C misinterprets the text, which only mentions accessibility, not patient preferences. Finally, Option D contradicts the passage, which states that conditions requiring emergency interventions are unsuitable for telehealth.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1196,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: The water cycle describes the continuous movement of water on, above, and below the Earth's surface. Evaporation occurs when the sun heats water in oceans and lakes, turning it into vapor. Condensation happens when the vapor cools and forms clouds. Precipitation returns the water to the Earth, completing the cycle and sustaining freshwater ecosystems.\n\nQuestion: Which of the following details supports the idea that the water cycle is a continuous process?\n\nA) The sun heats the water in the oceans.\nB) Water exists above and below the Earth.\nD) Freshwater ecosystems rely on the water cycle.\n\nA) The sun heats the water in the oceans.\nB) Water exists above and below the Earth.\nC) Option A is wrong because it only describes the heating mechanism for evaporation without mentioning the cycle's completion\nD) Freshwater ecosystems rely on the water cycle.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The sun heats the water in the oceans.",
+      "B) Water exists above and below the Earth.",
+      "D) Freshwater ecosystems rely on the water cycle."
+    ],
+    "explanation": "Option C is right because the passage explicitly states that precipitation returns water to Earth, completing the cycle and sustaining ecosystems, which proves its continuous nature. Option A is wrong because it only describes the heating mechanism for evaporation without mentioning the cycle's completion. Option B is incorrect as it lists where water exists but fails to explain the movement or repetition required for continuity. Option D is wrong since it discusses the result of the cycle on ecosystems rather than the cycle's ongoing process itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1197,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: The Harlem Renaissance was a cultural movement in the 1920s that celebrated African American art, literature, and music. Centered in Harlem, New York, it fostered a sense of racial pride and challenged prevalent stereotypes. Writers like Langston Hughes and Zora Neale Hurston gained national recognition during this period. The movement laid the groundwork for future civil rights activism.\n\nQuestion: According to the passage, what was a significant outcome of the Harlem Renaissance?\n\nA) The end of racial segregation in New York\nB) The establishment of the Civil Rights Act\nC) The rejection of African American music\n\nA) The end of racial segregation in New York\nB) The establishment of the Civil Rights Act\nC) The rejection of African American music\nD) fostered a sense of racial pride and challenged prevalent stereotypes,",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The end of racial segregation in New York",
+      "B) The establishment of the Civil Rights Act",
+      "C) The rejection of African American music"
+    ],
+    "explanation": "The passage explicitly states that the Harlem Renaissance \"fostered a sense of racial pride and challenged prevalent stereotypes,\" directly supporting the option regarding the promotion of racial pride and cultural celebration. This specific evidence confirms the movement's role in celebrating African American art, literature, and music. Option A is incorrect because the text mentions the movement's impact on pride but never claims it ended segregation in New York. Option B is wrong since the passage notes the movement laid groundwork for future activism rather than establishing the specific Civil Rights Act. Finally, option C contradicts the text, which lists music as a celebrated component of the movement.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1198,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Cultural relativism is the principle of understanding another culture on its own terms rather than judging it by the standards of one's own culture. Anthropologists use this approach to avoid ethnocentrism, which is the assumption that one's culture is superior. By adopting a culturally relative perspective, researchers can gain a more objective understanding of human practices.\n\nQuestion: What is the main purpose of cultural relativism as described in the passage?\n\nB) To prove that all cultures are exactly the same\nC) To encourage ethnocentrism among researchers\nD) To establish a universal standard for cultural practices\n\nA) By understanding cultures on their own terms rather than judging them by one's own standards, researchers prevent biased judgments based on personal cultural norms\nB) To prove that all cultures are exactly the same\nC) To encourage ethnocentrism among researchers\nD) To establish a universal standard for cultural practices",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To prove that all cultures are exactly the same",
+      "C) To encourage ethnocentrism among researchers",
+      "D) To establish a universal standard for cultural practices"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that cultural relativism helps anthropologists avoid ethnocentrism, which is defined as assuming one's own culture is superior. By understanding cultures on their own terms rather than judging them by one's own standards, researchers prevent biased judgments based on personal cultural norms. Option B is wrong as the text never suggests cultures are identical; it only emphasizes understanding them on their own terms. Option C is incorrect because the passage defines ethnocentrism as the assumption of superiority, which cultural relativism specifically aims to avoid, not encourage. Option D is wrong since the text focuses on relative understanding rather than establishing a single universal standard for all practices.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1199,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Plagiarism is a serious academic offense that involves presenting someone else's work as your own. It can range from directly copying text without quotation marks to paraphrasing ideas without proper citation. Universities often use software to detect plagiarism, and penalties can range from failing a course to expulsion. Understanding how to properly attribute sources is essential for academic integrity.\n\nQuestion: Which of the following statements represents a supporting detail in the passage?\n\nA) All students know how to cite sources properly.\nC) Plagiarism software is completely foolproof.\nD) Paraphrasing does not require citation.\n\nA) All students know how to cite sources properly.\nB) Option A is wrong as the text only says understanding attribution is essential, not that all students know how to do it\nC) Plagiarism software is completely foolproof.\nD) Paraphrasing does not require citation.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) All students know how to cite sources properly.",
+      "C) Plagiarism software is completely foolproof.",
+      "D) Paraphrasing does not require citation."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that penalties for plagiarism can range from failing a course to expulsion, directly matching the statement. Option A is wrong as the text only says understanding attribution is essential, not that all students know how to do it. Option C is incorrect because the passage mentions software is used but never claims it is foolproof or perfect. Option D is wrong since the text notes paraphrasing without proper citation is a form of plagiarism, implying citation is required.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1200,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Osmosis is a biological process where solvent molecules move through a selectively permeable membrane from a region of lower solute concentration to a region of higher solute concentration. In medical contexts, understanding osmosis is vital for administering intravenous (IV) fluids. If a patient receives a hypotonic solution, water moves into the cells, potentially causing them to burst. Conversely, a hypertonic solution draws water out of the cells, leading to cellular dehydration.\n\nQuestion: What would likely happen to a patient's red blood cells if they were given a hypotonic IV solution?\n\nA) The cells would shrink and dehydrate.\nB) The cells would remain unchanged.\nD) The cells would actively pump water out.\n\nA) The cells would shrink and dehydrate.\nB) The cells would remain unchanged.\nC) Conversely, option A describes the effect of a hypertonic solution where water leaves the cell, making it incorrect for this scenario\nD) The cells would actively pump water out.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The cells would shrink and dehydrate.",
+      "B) The cells would remain unchanged.",
+      "D) The cells would actively pump water out."
+    ],
+    "explanation": "The passage explicitly states that a hypotonic solution causes water to move into cells, which can lead them to burst, directly supporting option C. Conversely, option A describes the effect of a hypertonic solution where water leaves the cell, making it incorrect for this scenario. Option B is wrong because the text confirms a significant change occurs when hypotonic fluids are administered, not stability. Finally, option D is inaccurate because the passage attributes water movement to osmosis through the membrane, not active cellular pumping mechanisms.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1201,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: CRISPR-Cas9 is a revolutionary gene-editing technology that allows scientists to alter DNA sequences with high precision. It functions by using a guide RNA to locate a specific segment of DNA, after which the Cas9 enzyme cuts the strand. The cell's natural repair mechanisms then kick in, allowing researchers to add, remove, or alter genetic material. While promising for treating genetic disorders, off-target effects remain a significant concern.\n\nQuestion: Which of the following details explains how CRISPR-Cas9 achieves its precision?\n\nA) The Cas9 enzyme repairs the DNA naturally.\nB) The cell's natural mechanisms add new genetic material.\nC) Off-target effects are corrected by the guide RNA.\n\nA) The Cas9 enzyme repairs the DNA naturally.\nB) The cell's natural mechanisms add new genetic material.\nC) Off-target effects are corrected by the guide RNA.\nD) Option A is wrong because the text says the Cas9 enzyme cuts the strand, while the cell's natural repair mechanisms are responsible for fixing the break, not the initial precision",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The Cas9 enzyme repairs the DNA naturally.",
+      "B) The cell's natural mechanisms add new genetic material.",
+      "C) Off-target effects are corrected by the guide RNA."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that CRISPR-Cas9 uses a guide RNA to locate a specific DNA segment before the Cas9 enzyme cuts it, which is the mechanism ensuring high precision. Option A is wrong because the text says the Cas9 enzyme cuts the strand, while the cell's natural repair mechanisms are responsible for fixing the break, not the initial precision. Option B is incorrect as the passage attributes adding or altering genetic material to the repair mechanisms after the cut, not as the method of locating the target. Option C is false since off-target effects are listed as a significant concern, not something the guide RNA corrects.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1202,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: The Magna Carta, signed in 1215, was a charter of rights agreed to by King John of England. It was drafted by rebellious barons who sought to limit the king's arbitrary power and protect their own privileges. While it originally only applied to the nobility, its principles laid the foundation for constitutional law. Concepts such as the right to a fair trial and limitations on taxation without representation have their roots in this document.\n\nQuestion: What is the passage primarily conveying about the Magna Carta?\n\nB) The specific grievances of the rebellious barons\nC) King John's enthusiastic support for the document\nD) Its immediate impact on the English peasant class\n\nA) Option B is incorrect because the text mentions grievances only to explain the drafters' motives, not to list specific complaints\nB) The specific grievances of the rebellious barons\nC) King John's enthusiastic support for the document\nD) Its immediate impact on the English peasant class",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The specific grievances of the rebellious barons",
+      "C) King John's enthusiastic support for the document",
+      "D) Its immediate impact on the English peasant class"
+    ],
+    "explanation": "The passage primarily conveys the Magna Carta's historical significance by detailing how it established foundational constitutional principles like fair trials and limited taxation. It explicitly states the document laid the groundwork for constitutional law, making option A the only choice reflecting this broad impact. Option B is incorrect because the text mentions grievances only to explain the drafters' motives, not to list specific complaints. Option C is wrong as the passage notes King John agreed to the charter, implying reluctance rather than enthusiastic support. Finally, option D is inaccurate since the text specifies the charter originally applied only to the nobility, not the peasant class.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1203,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Cognitive dissonance is a psychological theory describing the mental discomfort experienced by a person who holds two or more contradictory beliefs. To alleviate this discomfort, individuals often change their attitudes, beliefs, or actions to achieve consistency. For example, a person who smokes despite knowing it is harmful might convince themselves that the evidence against smoking is flawed. This mechanism allows people to maintain a positive self-image despite conflicting behaviors.\n\nQuestion: According to the passage, how do individuals typically resolve cognitive dissonance?\n\nA) By seeking out medical intervention\nC) By ignoring the contradictory beliefs entirely\nD) By amplifying the mental discomfort they feel\n\nA) By seeking out medical intervention\nB) This directly matches the description of resolving cognitive dissonance presented in the text\nC) By ignoring the contradictory beliefs entirely\nD) By amplifying the mental discomfort they feel",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) By seeking out medical intervention",
+      "C) By ignoring the contradictory beliefs entirely",
+      "D) By amplifying the mental discomfort they feel"
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that individuals alter their attitudes, beliefs, or actions to achieve consistency and alleviate discomfort. This directly matches the description of resolving cognitive dissonance presented in the text. Option A is incorrect as the passage mentions no medical intervention, only internal psychological adjustments like convincing oneself evidence is flawed. Option C is wrong because the text describes changing beliefs to maintain consistency, not ignoring them entirely. Finally, Option D is incorrect since the goal is to alleviate the discomfort, not amplify it, contradicting the passage's main point about reducing mental unease.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1204,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Effective note-taking is a valuable skill for academic success. The Cornell method divides the page into three sections: cues, notes, and summary. During a lecture, students write main points in the notes section. Afterward, they write keywords in the cues section and a brief summary at the bottom.\n\nQuestion: What is the purpose of the summary section in the Cornell note-taking method?\n\nA) To write down everything the lecturer says\nB) To list keywords before the lecture begins\nD) To doodle and keep hands busy\n\nA) To write down everything the lecturer says\nB) To list keywords before the lecture begins\nC) Option A is incorrect because the text specifies writing main points in the notes section, not everything said\nD) To doodle and keep hands busy",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) To write down everything the lecturer says",
+      "B) To list keywords before the lecture begins",
+      "D) To doodle and keep hands busy"
+    ],
+    "explanation": "The passage explicitly states that after writing main points during the lecture, students write a brief summary at the bottom of the page. This directly supports option C as the method to recap main points post-lecture. Option A is incorrect because the text specifies writing main points in the notes section, not everything said. Option B is wrong since keywords belong in the cues section written afterward, not before. Finally, option D is invalid as the passage describes a structured academic process, not doodling.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1205,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: Handwashing with soap is one of the most effective ways to prevent the spread of disease in any community. The CDC recommends scrubbing all surfaces of the hands for at least 20 seconds, including between fingers and under nails. This simple practice can reduce diarrheal disease by up to 30%.\n\nAccording to the passage, how long should hands be scrubbed?\n\nA) Exactly 5 seconds\nB) No more than 10 seconds\nC) At least one full minute.\n\nA) Exactly 5 seconds\nB) No more than 10 seconds\nC) At least one full minute.\nD) Option A is incorrect because the passage specifies a duration of 20 seconds, not a short interval of exactly 5 seconds",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Exactly 5 seconds",
+      "B) No more than 10 seconds",
+      "C) At least one full minute."
+    ],
+    "explanation": "The passage explicitly states that the CDC recommends scrubbing all hand surfaces for at least 20 seconds, making option D the only choice supported by the text. Option A is incorrect because the passage specifies a duration of 20 seconds, not a short interval of exactly 5 seconds. Option B is wrong since the text requires a minimum of 20 seconds, whereas 10 seconds falls short of this recommendation. Finally, option C is invalid because the passage does not suggest a one-minute duration, which exceeds the stated guideline of 20 seconds.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1206,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: The theory of plate tectonics explains the movement of the Earth's lithosphere, which is divided into several large and small plates. These plates float on the semi-fluid asthenosphere beneath them. Convection currents in the mantle drive the movement of these plates, causing them to converge, diverge, or slide past one another. This movement results in geological phenomena such as earthquakes, volcanic eruptions, and the formation of mountain ranges.\n\nQuestion: What does the passage identify as the underlying cause of tectonic plate movement?\n\nB) The rotation of the Earth\nC) Gravitational pull from the moon\nD) The weight of the oceanic crust\n\nA) \" This sentence directly links the currents to the driving force behind the motion\nB) The rotation of the Earth\nC) Gravitational pull from the moon\nD) The weight of the oceanic crust",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The rotation of the Earth",
+      "C) Gravitational pull from the moon",
+      "D) The weight of the oceanic crust"
+    ],
+    "explanation": "Option A is right because the passage explicitly states that \"Convection currents in the mantle drive the movement of these plates.\" This sentence directly links the currents to the driving force behind the motion. Option B is wrong as the text never mentions Earth's rotation affecting plate movement. Option C is incorrect since there is no reference to the moon or gravitational pull in the provided text. Option D is wrong because while the passage notes plates float on the asthenosphere, it does not attribute movement to the weight of the oceanic crust.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1207,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The signing of the Declaration of Independence was not a quiet, peaceful affair. It was an act of outright treason against the British Crown. The signers knew full well that they were putting their lives and fortunes at risk. Their bold defiance set the stage for a grueling war.\n\nQuestion: What is the author's tone in this passage?\n\nA) Apathetic\nC) Humorous\nD) Somber\n\nA) Apathetic\nB) outright treason,\nC) Humorous\nD) Somber",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Apathetic",
+      "C) Humorous",
+      "D) Somber"
+    ],
+    "explanation": "The author employs dramatic language like \"outright treason,\" \"lives and fortunes,\" and \"bold defiance\" to create a sense of high stakes and intense emotion, fitting the dramatic tone. Option A is wrong because the text shows deep concern for risk, not indifference. Option C fails since there are no jokes or lighthearted elements in the serious description of war. Option D is incorrect because the passage focuses on bold action rather than a heavy, mournful atmosphere.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1208,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Sociologists study human society and social behavior. They examine how groups form, interact, and change over time. By conducting surveys and observing communities, sociologists gather data to understand societal trends. Their research helps inform public policy and community programs.\n\nQuestion: What is the author's primary purpose in this passage?\n\nA) To persuade readers to become sociologists\nB) To criticize the methods used by sociologists\nD) To entertain with stories about communities\n\nA) To persuade readers to become sociologists\nB) To criticize the methods used by sociologists\nC) Option A is incorrect because the text never attempts to persuade anyone to pursue a career in sociology\nD) To entertain with stories about communities",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) To persuade readers to become sociologists",
+      "B) To criticize the methods used by sociologists",
+      "D) To entertain with stories about communities"
+    ],
+    "explanation": "The author's primary purpose is to inform readers about the functions and methods of sociologists, as explicitly stated by the description of their study of society and data gathering. Option C aligns perfectly with this educational goal. Option A is incorrect because the text never attempts to persuade anyone to pursue a career in sociology. Option B is wrong since there is no criticism of sociological methods mentioned in the passage. Finally, Option D fails because the text provides factual definitions rather than entertaining stories or narratives about communities.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1209,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Many students find it difficult to speak up in large lectures. However, participating actively can significantly enhance your understanding of the material. Asking questions forces you to engage with the content and clarifies confusing points. Furthermore, professors often appreciate students who show genuine interest.\n\nQuestion: From what point of view is this passage written?\n\nA) First-person singular\nB) Third-person limited\nC) Third-person omniscient\n\nA) First-person singular\nB) Third-person limited\nC) Third-person omniscient\nD)  throughout the text, such as in ",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) First-person singular",
+      "B) Third-person limited",
+      "C) Third-person omniscient"
+    ],
+    "explanation": "This passage uses second-person point of view by directly addressing the reader with \"you\" throughout the text, such as in \"your understanding\" and \"students who show genuine interest.\" This direct address invites the reader to imagine themselves as the student actively participating in the lecture. The other options are incorrect because the text never uses \"I\" or \"me\" to exclude option A, nor does it focus on a specific character's perspective like option B. Finally, the passage does not reveal the thoughts of all characters or the narrator's full knowledge, ruling out option C. By consistently using \"you,\" the author creates a personal connection with the student reader.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1210,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The legislative process begins when a member of Congress introduces a bill. The bill is then assigned to a committee for review and amendment. If approved by the committee, it moves to the full chamber for debate. After both the House and Senate pass identical versions, the bill goes to the president for signature.\n\nHow is the passage organized?\n\nB) Compare and contrast\nC) Cause and effect\nD) Problem and solution.\n\nA) A is the only choice that accurately reflects this step-by-step progression\nB) Compare and contrast\nC) Cause and effect\nD) Problem and solution.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Compare and contrast",
+      "C) Cause and effect",
+      "D) Problem and solution."
+    ],
+    "explanation": "The passage organizes information sequentially by detailing the chronological steps of the legislative process, starting with a bill's introduction and moving through committee review, chamber debate, and final presidential signature. Each stage follows the previous one in a fixed order, creating a clear timeline of events without comparing ideas or solving a problem. Option B is wrong because the text never compares two subjects or contrasts different viewpoints. Option C is incorrect as there are no explicit causes leading to specific effects beyond the natural flow of time. Option D fails because the passage describes a standard procedure rather than presenting a specific issue with a proposed solution. Option A is the only choice that accurately reflects this step-by-step progression.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1211,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: In the realm of quantum mechanics, particles often behave in ways that seem entirely counterintuitive to our everyday experiences. A photon, for instance, can exist in a state of superposition, occupying multiple states simultaneously until it is observed. This bizarre phenomenon challenges the classical Newtonian view of a deterministic universe.\n\nQuestion: In the context of the passage, what does the word 'counterintuitive' most nearly mean?\n\nA) Exactly as expected\nC) Highly beneficial\nD) Scientifically proven\n\nA) Exactly as expected\nB) Option A is incorrect as the text states these behaviors are surprising, not expected\nC) Highly beneficial\nD) Scientifically proven",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Exactly as expected",
+      "C) Highly beneficial",
+      "D) Scientifically proven"
+    ],
+    "explanation": "The passage describes quantum particles behaving in ways that \"seem entirely counterintuitive to our everyday experiences,\" directly linking the term to ideas that contradict common sense. Option B fits this definition perfectly because the text explicitly contrasts these behaviors with daily life. Option A is incorrect as the text states these behaviors are surprising, not expected. Option C is wrong because the passage mentions the phenomenon is \"bizarre,\" not beneficial. Option D fails because the text discusses the concept's nature, not its scientific proof status.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1212,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The fall of the Roman Empire was not a sudden collapse but a gradual decline. Economic instability, military overexpansion, and political corruption all contributed to the weakening of the state. Additionally, external pressures from migrating tribes proved too much for the fractured empire to withstand. Ultimately, the western half dissolved in the 5th century AD.\n\nQuestion: What is the text structure of this passage?\n\nA) Chronological\nB) Spatial\nD) Compare and contrast\n\nA) Chronological\nB) Spatial\nC) proved too much,\nD) Compare and contrast",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Chronological",
+      "B) Spatial",
+      "D) Compare and contrast"
+    ],
+    "explanation": "The passage presents a cause-and-effect structure because it explicitly links specific factors like economic instability and political corruption to the eventual dissolution of the Roman Empire. The text uses phrases such as \"contributed to\" and \"proved too much,\" directly showing how these causes led to the effect of the state's weakening and collapse. Option A is incorrect because the text does not strictly follow a timeline of events but rather groups reasons for the outcome. Option B is wrong as there is no description of physical locations or spatial relationships. Option D is inaccurate since the passage does not compare the empire to another entity or contrast different ideas.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1213,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Democracy and authoritarianism represent fundamentally different approaches to governance. In a democracy, power is vested in the people, who exercise it through voting and representation. Conversely, in an authoritarian regime, power is concentrated in the hands of a single leader or a small elite. While democracies emphasize individual freedoms, authoritarian systems prioritize state control and order.\n\nQuestion: The author organizes this passage using which structure?\n\nA) Chronological order\nB) Problem and solution\nC) Sequential order\n\nA) Chronological order\nB) Problem and solution\nC) Sequential order\nD) The passage compares democracy and authoritarianism by highlighting their opposing governance structures, such as power distribution and priorities.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Chronological order",
+      "B) Problem and solution",
+      "C) Sequential order"
+    ],
+    "explanation": "The passage compares democracy and authoritarianism by highlighting their opposing governance structures, such as power distribution and priorities. It contrasts how democracies vest power in the people while authoritarian regimes concentrate it in a single leader. This direct juxtaposition of two distinct systems defines a compare and contrast structure. Option A is wrong because the text does not follow a timeline of events. Option B is incorrect as no specific problem or its solution is presented. Option C fails because the ideas are not arranged in a step-by-step sequence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1214,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Don't even think about skipping the editing phase of your essay. Revisions are where the magic happens! You'll catch silly typos and strengthen your arguments. Trust me, a polished paper is always worth the extra effort.\n\nQuestion: What is the author's purpose in writing this passage?\n\nB) To inform students about different editing techniques\nC) To entertain readers with a funny story about writing\nD) To describe the structure of a standard essay\n\nA) The passage urges readers to avoid skipping the editing phase, a clear call to action rather than a neutral statement of facts\nB) To inform students about different editing techniques\nC) To entertain readers with a funny story about writing\nD) To describe the structure of a standard essay",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To inform students about different editing techniques",
+      "C) To entertain readers with a funny story about writing",
+      "D) To describe the structure of a standard essay"
+    ],
+    "explanation": "The author aims to persuade students to edit their essays by using strong emotional language like \"magic\" and \"trust me,\" which directly supports option A. The passage urges readers to avoid skipping the editing phase, a clear call to action rather than a neutral statement of facts. Option B is incorrect because no specific editing techniques are listed. Option C fails as there is no humor or narrative story present in the text. Option D is wrong since the passage does not outline essay structure but focuses on the importance of revision.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1215,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Despite the advent of sophisticated medical imaging, the stethoscope remains a ubiquitous tool in clinical practice. Physicians drape them around their necks as a symbol of their profession. However, some argue that ultrasound devices provide more accurate diagnostic information, rendering the stethoscope obsolete. The debate over its continued utility reflects broader tensions between traditional and modern medicine.\n\nQuestion: What is the author's point of view regarding the stethoscope?\n\nA) The author believes the stethoscope should be discarded immediately.\nC) The author is heavily biased toward traditional medical tools.\nD) The author thinks ultrasound devices are entirely useless.\n\nA) The author believes the stethoscope should be discarded immediately.\nB) The author maintains an objective stance by neutrally presenting the stethoscope's historical significance alongside the argument for its potential obsolescence.\nC) The author is heavily biased toward traditional medical tools.\nD) The author thinks ultrasound devices are entirely useless.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The author believes the stethoscope should be discarded immediately.",
+      "C) The author is heavily biased toward traditional medical tools.",
+      "D) The author thinks ultrasound devices are entirely useless."
+    ],
+    "explanation": "The author maintains an objective stance by neutrally presenting the stethoscope's historical significance alongside the argument for its potential obsolescence. The text balances the traditional view of the tool with the counterclaim that ultrasound offers superior accuracy, without endorsing either side. This balanced approach demonstrates that the writer is merely reporting on a broader tension between old and new medical methods rather than taking a personal position.\n\nOption A is incorrect because the author never suggests discarding the stethoscope, only noting that some argue it might become obsolete. Option C is wrong since the text does not favor traditional tools; it equally acknowledges the rise of ultrasound technology. Finally, Option D is invalid because the passage explicitly states ultrasound provides more accurate information, directly contradicting the claim that it is useless.",
+    "difficulty": "hard",
+    "status": "active"
+  }
+]

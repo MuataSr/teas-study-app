@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1516,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The study recorded oxygen consumption of two groups of athletes during exercise. Group A used interval training while Group B performed steady-state workouts. Measurements showed different patterns of oxygen uptake in the early stages of exertion.\n\nAccording to the passage, which detail is explicitly stated?\n\nA) Interval training is superior for all athletes.\nC) Oxygen consumption was identical in both groups.\nD) The study lasted for five years.\n\nA) Interval training is superior for all athletes.\nB) Option A is incorrect as the passage never compares the superiority of any training method for all athletes\nC) Oxygen consumption was identical in both groups.\nD) The study lasted for five years.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Interval training is superior for all athletes.",
+      "C) Oxygen consumption was identical in both groups.",
+      "D) The study lasted for five years."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that Group A used interval training while Group B performed steady-state workouts, matching the text's description of the two groups. Option A is incorrect as the passage never compares the superiority of any training method for all athletes. Option C is wrong because the text notes different patterns of oxygen uptake rather than identical consumption in both groups. Option D is incorrect since the duration of the study is not mentioned at all in the provided text.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1517,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "During the 19th century, many cities installed gas lighting in main streets to extend commercial hours. Merchants reported increases in evening trade and some public areas felt safer at night. The adoption varied by city due to infrastructure costs.\n\nWhich sentence best summarizes the passage?\n\nB) Gas lighting eliminated all crime in cities.\nC) Only small towns adopted gas lighting.\nD) Merchant profits decreased after gas lighting.\n\nA) The passage explicitly states that merchants reported increased evening trade and that public areas felt safer, which directly supports the summary's claim about economic and safety effects\nB) Gas lighting eliminated all crime in cities.\nC) Only small towns adopted gas lighting.\nD) Merchant profits decreased after gas lighting.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Gas lighting eliminated all crime in cities.",
+      "C) Only small towns adopted gas lighting.",
+      "D) Merchant profits decreased after gas lighting."
+    ],
+    "explanation": "Option A correctly summarizes the text by capturing the three main points: the installation of gas lighting, the extension of commercial hours, and the resulting economic and safety benefits mentioned in the first sentence. The passage explicitly states that merchants reported increased evening trade and that public areas felt safer, which directly supports the summary's claim about economic and safety effects. Option B is incorrect because the text only says areas felt safer; it never claims crime was eliminated. Option C is wrong as the passage discusses adoption varying by city without specifying that only small towns used the technology. Finally, Option D contradicts the passage, which clearly states that merchants reported increases in trade, not a decrease in profits.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1518,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A research article described hormonal changes during sleep in rodents. The authors used the term 'circadian entrainment' to describe synchronization of internal rhythms with environmental cues. They noted that light exposure at night could shift these rhythms.\n\nIn this context, what does the phrase 'circadian entrainment' most likely mean?\n\nA) The permanent disruption of sleep cycles.\nB) A type of hormone measured in the study.\nD) A method for measuring light exposure.\n\nA) The permanent disruption of sleep cycles.\nB) A type of hormone measured in the study.\nC) The passage defines circadian entrainment directly: 'synchronization of internal rhythms with environmental cues,' and adds that light exposure can shift these rhythms.\nD) A method for measuring light exposure.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The permanent disruption of sleep cycles.",
+      "B) A type of hormone measured in the study.",
+      "D) A method for measuring light exposure."
+    ],
+    "explanation": "The passage defines circadian entrainment directly: 'synchronization of internal rhythms with environmental cues,' and adds that light exposure can shift these rhythms. The key phrase is 'synchronization'\u2014internal rhythms aligning with external signals like light-dark cycles. C matches. A describes disruption, the opposite of synchronization. B is wrong; circadian entrainment is a process, not a hormone being measured. D confuses the cause (light exposure) with the concept being defined.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1519,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A public health brief discussed vaccination campaigns that targeted neighborhoods with low uptake. Flyers, mobile clinics, and community leaders were used to increase participation. The brief concluded that local engagement improved coverage.\n\nWhat is the author's primary purpose in this brief?\n\nB) To criticize vaccination as ineffective.\nC) To explain vaccine biochemical mechanisms.\nD) To provide step-by-step clinic construction plans.\n\nA) The author focuses on these methods to show how local engagement improved coverage\nB) To criticize vaccination as ineffective.\nC) To explain vaccine biochemical mechanisms.\nD) To provide step-by-step clinic construction plans.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To criticize vaccination as ineffective.",
+      "C) To explain vaccine biochemical mechanisms.",
+      "D) To provide step-by-step clinic construction plans."
+    ],
+    "explanation": "Option A is right because the passage explicitly lists strategies like flyers, mobile clinics, and community leaders used to increase participation in low-uptake neighborhoods. The author focuses on these methods to show how local engagement improved coverage. Option B is wrong as the text never criticizes vaccines; it only discusses successful campaigns. Option C is incorrect because no biochemical mechanisms or science details are mentioned in the brief. Option D is wrong since the text describes outreach efforts, not technical plans for building clinics.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1520,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "An article examined how freshwater wetlands filter pollutants. Researchers measured the concentration of nitrates and phosphorus before and after water passed through marshes. Results showed substantial reductions in nutrient loads downstream.\n\nWhich detail best supports the passage's conclusion about wetlands?\n\nB) Wetlands are only found in tropical regions.\nC) Pollutant measurements were taken in urban sewers.\nD) The study focused on ocean salinity changes.\n\nA) The text explicitly states that researchers measured nutrient concentrations before and after water passed through marshes to show reductions\nB) Wetlands are only found in tropical regions.\nC) Pollutant measurements were taken in urban sewers.\nD) The study focused on ocean salinity changes.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Wetlands are only found in tropical regions.",
+      "C) Pollutant measurements were taken in urban sewers.",
+      "D) The study focused on ocean salinity changes."
+    ],
+    "explanation": "Option A is right because it directly describes the method used to prove wetlands filter pollutants, which is the passage's core conclusion. The text explicitly states that researchers measured nutrient concentrations before and after water passed through marshes to show reductions. This specific evidence validates the claim that wetlands clean water. Option B is wrong as the passage never mentions tropical regions or location limitations. Option C is incorrect because the study focused on marshes, not urban sewers, making the setting irrelevant. Option D is wrong since the text discusses freshwater nutrients, not ocean salinity changes at all.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1521,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "In a comparative report on two emergency departments, one used a triage protocol emphasizing rapid assessment and immediate pain control, while the other followed a traditional ordering process. Patient satisfaction scores were higher at the department with rapid assessment.\n\nWhat can be concluded from the passage?\n\nB) Traditional ordering processes always lead to better clinical outcomes.\nC) Pain control is unnecessary in emergency departments.\nD) Patient satisfaction is unrelated to triage protocols.\n\nA) Option B is incorrect as the text never mentions clinical outcomes, only satisfaction, and implies the traditional process was less effective regarding patient feelings\nB) Traditional ordering processes always lead to better clinical outcomes.\nC) Pain control is unnecessary in emergency departments.\nD) Patient satisfaction is unrelated to triage protocols.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Traditional ordering processes always lead to better clinical outcomes.",
+      "C) Pain control is unnecessary in emergency departments.",
+      "D) Patient satisfaction is unrelated to triage protocols."
+    ],
+    "explanation": "Option A is correct because the passage directly links the department using rapid assessment and immediate pain control with higher patient satisfaction scores, supporting the conclusion that this approach may improve satisfaction. Option B is incorrect as the text never mentions clinical outcomes, only satisfaction, and implies the traditional process was less effective regarding patient feelings. Option C is wrong because the passage explicitly states that immediate pain control was a key feature of the successful protocol, contradicting the idea that it is unnecessary. Option D is incorrect since the report clearly demonstrates a relationship between the triage protocol used and the resulting satisfaction scores.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1522,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A historical account described the building of a canal that connected two inland cities. Laborers faced seasonal floods and had to redesign certain sections. The canal later reduced travel time and stimulated regional trade.\n\nWhich supporting detail most directly explains how the canal affected the region?\n\nA) Laborers redesigned sections because of floods.\nC) The canal used a new type of stone in construction.\nD) Floods occurred only during winter months.\n\nA) Laborers redesigned sections because of floods.\nB) \" This detail connects the infrastructure to specific economic and logistical outcomes\nC) The canal used a new type of stone in construction.\nD) Floods occurred only during winter months.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Laborers redesigned sections because of floods.",
+      "C) The canal used a new type of stone in construction.",
+      "D) Floods occurred only during winter months."
+    ],
+    "explanation": "Option B is the only choice that directly addresses the canal's impact on the region, as the passage explicitly states it \"reduced travel time and stimulated regional trade.\" This detail connects the infrastructure to specific economic and logistical outcomes. Option A describes a construction challenge rather than the canal's effect, while Option C mentions an unspecified material not found in the text. Option D focuses on flood timing, which is irrelevant to the canal's regional influence. Therefore, only B provides the direct evidence requested by the question regarding the canal's overall effect.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1523,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A study of antibiotic stewardship reported that pharmacists reviewed prescriptions daily and advised physicians when courses could be shortened. Over six months, antibiotic use declined without increasing infection rates.\n\nWhat is the explicit outcome reported in the passage?\n\nB) Infection rates rose dramatically after stewardship began.\nC) Pharmacists stopped reviewing prescriptions.\nD) The program lasted for five years.\n\nA) The passage reports a specific outcome: 'Over six months, antibiotic use declined without increasing infection rates.' The question asks for the explicit outcome, so the answer comes directly from this sentence.\nB) Infection rates rose dramatically after stewardship began.\nC) Pharmacists stopped reviewing prescriptions.\nD) The program lasted for five years.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Infection rates rose dramatically after stewardship began.",
+      "C) Pharmacists stopped reviewing prescriptions.",
+      "D) The program lasted for five years."
+    ],
+    "explanation": "The passage reports a specific outcome: 'Over six months, antibiotic use declined without increasing infection rates.' The question asks for the explicit outcome, so the answer comes directly from this sentence. A paraphrases it exactly. B contradicts the passage, which says infection rates did NOT increase. C is wrong; the passage states pharmacists 'reviewed prescriptions daily,' meaning the program continued. D is incorrect; the passage says six months, not five years.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1524,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A science news item described researchers who simulated volcanic eruptions to study ash dispersion. They reported that wind shear at different altitudes can spread ash over wide regions and affect air travel.\n\nWhich choice best states a key supporting detail?\n\nA) Volcanic eruptions only occur near oceans.\nB) Ash dispersion is unrelated to atmospheric conditions.\nD) The simulation measured ocean currents.\n\nA) Volcanic eruptions only occur near oceans.\nB) Ash dispersion is unrelated to atmospheric conditions.\nC) Choice C accurately reflects the passage's explicit statement that wind shear at different altitudes spreads ash over wide regions and impacts air travel, serving as the primary supporting detail.\nD) The simulation measured ocean currents.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Volcanic eruptions only occur near oceans.",
+      "B) Ash dispersion is unrelated to atmospheric conditions.",
+      "D) The simulation measured ocean currents."
+    ],
+    "explanation": "Choice C accurately reflects the passage's explicit statement that wind shear at different altitudes spreads ash over wide regions and impacts air travel, serving as the primary supporting detail. Choice A is incorrect because the text never mentions oceans or limits eruptions to coastal areas, making this detail unsupported. Choice B contradicts the passage by claiming ash dispersion is unrelated to atmospheric conditions, whereas the text directly links wind shear to ash spread. Choice D is wrong since the study simulated eruptions to study ash, not to measure ocean currents, which are never discussed in the provided text.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1525,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A policy brief compared two taxation proposals to fund public hospitals. Proposal X increased a small sales tax; Proposal Y levied a higher fee on property. The brief noted differing impacts on low-income households.\n\nWhich inference is most reasonable based on the passage?\n\nA) Both proposals will have identical effects on hospital funding.\nB) Proposal Y will reduce hospital costs directly.\nC) The brief endorses property fees exclusively.\n\nA) Both proposals will have identical effects on hospital funding.\nB) Proposal Y will reduce hospital costs directly.\nC) The brief endorses property fees exclusively.\nD) Options A, B, and C are wrong because the text mentions differing impacts, not identical effects, and never claims Proposal Y reduces costs or that the brief exclusively endorses property fees",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Both proposals will have identical effects on hospital funding.",
+      "B) Proposal Y will reduce hospital costs directly.",
+      "C) The brief endorses property fees exclusively."
+    ],
+    "explanation": "Option D is right because the passage explicitly states the brief noted differing impacts on low-income households, directly supporting the inference that methods affect people differently. Options A, B, and C are wrong because the text mentions differing impacts, not identical effects, and never claims Proposal Y reduces costs or that the brief exclusively endorses property fees. The brief only compares the two proposals regarding their specific effects on households, leaving the other claims unsupported by the provided text. Therefore, only the option reflecting unequal burdens aligns with the stated differing impacts.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1526,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "An editorial on medical education argued that simulation labs increase clinical confidence in students. The author cited improved procedural skills and fewer real-world errors during initial internships.\n\nWhat is the author's tone in this editorial?\n\nA) Sarcastic and dismissive of clinical training.\nC) Neutral and purely descriptive without opinion.\nD) Hostile toward medical schools.\n\nA) Sarcastic and dismissive of clinical training.\nB) The author adopts a supportive and optimistic tone by explicitly citing positive outcomes like improved skills and fewer errors, which advocates for simulation labs.\nC) Neutral and purely descriptive without opinion.\nD) Hostile toward medical schools.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Sarcastic and dismissive of clinical training.",
+      "C) Neutral and purely descriptive without opinion.",
+      "D) Hostile toward medical schools."
+    ],
+    "explanation": "The author adopts a supportive and optimistic tone by explicitly citing positive outcomes like improved skills and fewer errors, which advocates for simulation labs. This enthusiasm directly contradicts the sarcastic or dismissive nature of option A, as there is no irony or criticism present in the text. Option C is incorrect because the passage clearly expresses an opinion favoring simulation rather than remaining purely descriptive. Finally, option D is wrong since the text praises medical training methods rather than showing hostility toward medical schools.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1527,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A report explained that soil samples with higher organic content retained moisture longer than sandy samples. It included charts comparing water retention at three depths over two months.\n\nWhich text structure does the author primarily use?\n\nA) Cause and effect to prove that moisture causes organic content to increase.\nB) Sequence to list steps for collecting samples.\nD) Problem-solution to propose irrigation methods.\n\nA) Cause and effect to prove that moisture causes organic content to increase.\nB) Sequence to list steps for collecting samples.\nC) This direct comparison of two subjects to show their similarities or differences defines the compare and contrast structure\nD) Problem-solution to propose irrigation methods.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Cause and effect to prove that moisture causes organic content to increase.",
+      "B) Sequence to list steps for collecting samples.",
+      "D) Problem-solution to propose irrigation methods."
+    ],
+    "explanation": "Option C is correct because the passage explicitly compares water retention across different soil types using charts, highlighting the distinct differences between organic and sandy samples. This direct comparison of two subjects to show their similarities or differences defines the compare and contrast structure. The other options fail to match the text's focus; Option A is incorrect because the passage does not claim moisture causes organic content to increase, nor does it establish a causal link. Option B is wrong since no steps for sample collection are listed, only data results. Finally, Option D is inaccurate because the text presents findings rather than proposing a solution like irrigation methods to fix a problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1528,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A primary-source excerpt recounts a leader's speech urging civic participation during reconstruction. The speaker emphasized community meetings and fair elections. The language uses formal appeals to duty and unity.\n\nFrom what point of view is the excerpt most likely written?\n\nB) Third-person detached narrative describing events.\nC) Omniscient narrator detailing multiple inner thoughts.\nD) A private diary entry unrelated to public speech.\n\nA) Option C fails as an omniscient narrator would reveal multiple inner thoughts rather than focusing on a single speaker's speech\nB) Third-person detached narrative describing events.\nC) Omniscient narrator detailing multiple inner thoughts.\nD) A private diary entry unrelated to public speech.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Third-person detached narrative describing events.",
+      "C) Omniscient narrator detailing multiple inner thoughts.",
+      "D) A private diary entry unrelated to public speech."
+    ],
+    "explanation": "The excerpt describes a leader urging civic participation through formal appeals to duty, indicating a direct address to an audience. This first-person or public address perspective aligns with the speaker's active role in motivating the community during reconstruction. Option B is incorrect because a detached narrative would lack this direct engagement with the listeners. Option C fails as an omniscient narrator would reveal multiple inner thoughts rather than focusing on a single speaker's speech. Option D is wrong since a private diary entry would not contain formal public appeals or address a community broadly.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1529,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A meta-analysis found that hand hygiene interventions reduced hospital-acquired infections across studies. However, the authors cautioned that study designs varied and some lacked randomization.\n\nWhich choice best states an explicit limitation noted by the authors?\n\nA) Hand hygiene had no effect on infection rates.\nB) All studies used identical methods.\nD) The authors did not review any clinical trials.\n\nA) Hand hygiene had no effect on infection rates.\nB) All studies used identical methods.\nC) C is right because the passage explicitly states that authors cautioned study designs varied and some lacked randomization, directly matching the option's claim\nD) The authors did not review any clinical trials.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Hand hygiene had no effect on infection rates.",
+      "B) All studies used identical methods.",
+      "D) The authors did not review any clinical trials."
+    ],
+    "explanation": "Choice C is right because the passage explicitly states that authors cautioned study designs varied and some lacked randomization, directly matching the option's claim. Choice A is wrong because the text says infections were reduced, not that hand hygiene had no effect. Choice B is incorrect since the passage notes designs varied, contradicting the idea that all studies used identical methods. Choice D is wrong because the text implies a review occurred by citing findings from multiple studies, not that no trials were reviewed.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1530,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "An archaeological summary described pottery styles evolving over centuries, with earlier patterns emphasizing geometric motifs and later pieces favoring naturalistic scenes. The authors used stratified layers to date the fragments.\n\nWhich detail best supports the claim that pottery styles changed over time?\n\nA) The pottery was found near a river.\nB) Stratified layers were ignored for dating.\nC) The authors focused on metal artifacts instead.\n\nA) The pottery was found near a river.\nB) Stratified layers were ignored for dating.\nC) The authors focused on metal artifacts instead.\nD) The text states that earlier patterns emphasized geometric motifs while later pieces favored naturalistic scenes, making this detail the strongest evidence of change",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The pottery was found near a river.",
+      "B) Stratified layers were ignored for dating.",
+      "C) The authors focused on metal artifacts instead."
+    ],
+    "explanation": "Option D is correct because it directly contrasts the specific artistic features of earlier versus later pottery, explicitly confirming the passage's claim of evolution over time. The text states that earlier patterns emphasized geometric motifs while later pieces favored naturalistic scenes, making this detail the strongest evidence of change. Option A is incorrect because the location near a river describes the find site but offers no information regarding stylistic shifts across different time periods. Option B is wrong because the passage actually states the authors used stratified layers to date fragments, contradicting the claim that they were ignored. Finally, Option C is incorrect as the summary focuses entirely on pottery styles, not metal artifacts, rendering that detail irrelevant to the claim.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1531,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A patient education leaflet explained that insulin timing affects glycemic control. It recommended monitoring blood glucose and coordinating injection times with meals. The leaflet emphasized individualized plans with clinicians.\n\nWhich statement summarizes the leaflet's recommendation?\n\nA) All patients should take insulin at the same fixed time each day.\nB) Blood glucose monitoring is unnecessary when taking insulin.\nC) Insulin has no relationship to meal timing.\n\nA) All patients should take insulin at the same fixed time each day.\nB) Blood glucose monitoring is unnecessary when taking insulin.\nC) Insulin has no relationship to meal timing.\nD) A contradicts the passage's emphasis on individualized plans\u2014not everyone should take insulin at the same fixed time",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) All patients should take insulin at the same fixed time each day.",
+      "B) Blood glucose monitoring is unnecessary when taking insulin.",
+      "C) Insulin has no relationship to meal timing."
+    ],
+    "explanation": "The leaflet makes two recommendations: coordinate insulin timing with meals, and create individualized plans with clinician input. Option D combines both. A contradicts the passage's emphasis on individualized plans\u2014not everyone should take insulin at the same fixed time. B is wrong; the passage recommends monitoring blood glucose, calling it unnecessary would go against the advice. C directly contradicts the passage, which says insulin timing affects glycemic control and should be coordinated with meals.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1532,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A short piece on vaccination ethics argued that mandates protect public health by increasing herd immunity. The author acknowledged concerns about individual liberty but emphasized collective responsibility.\n\nWhat is the author's primary aim in this passage?\n\nB) To provide a neutral history of vaccine development.\nC) To instruct readers on how to administer vaccines.\nD) To argue against any form of public health policy.\n\nA) Option B is wrong as the text focuses on ethical arguments rather than a historical account of vaccine development\nB) To provide a neutral history of vaccine development.\nC) To instruct readers on how to administer vaccines.\nD) To argue against any form of public health policy.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To provide a neutral history of vaccine development.",
+      "C) To instruct readers on how to administer vaccines.",
+      "D) To argue against any form of public health policy."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that mandates protect public health through herd immunity while acknowledging liberty concerns to emphasize collective responsibility, clearly aiming to justify the policy. Option B is wrong as the text focuses on ethical arguments rather than a historical account of vaccine development. Option C is incorrect since the passage discusses ethics and policy, offering no instructions on how to administer vaccines. Option D is wrong because the author supports vaccination mandates, directly contradicting an argument against all public health policies.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1533,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The introduction to a sociology text outlines structural factors influencing educational outcomes: funding, neighborhood resources, and family support. The author frames these as interrelated determinants of opportunity.\n\nWhich word best describes the author's viewpoint toward structural explanations?\n\nA) Individualistic\nC) Apathetic\nD) Anecdotal\n\nA) Individualistic\nB) The author frames these factors together to explain opportunity, which aligns perfectly with the definition of a systemic viewpoint that examines how large-scale systems interact\nC) Apathetic\nD) Anecdotal",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Individualistic",
+      "C) Apathetic",
+      "D) Anecdotal"
+    ],
+    "explanation": "Option B, Systemic, is right because the text explicitly links funding, neighborhood resources, and family support as interrelated determinants, showing a focus on broad structural forces rather than isolated events. The author frames these factors together to explain opportunity, which aligns perfectly with the definition of a systemic viewpoint that examines how large-scale systems interact.\n\nOption A, Individualistic, is wrong because the passage ignores personal choices or single-family traits, instead grouping resources into collective categories that affect everyone. Option C, Apathetic, is incorrect as the author actively analyzes these factors to explain outcomes, demonstrating clear engagement rather than indifference. Finally, Option D, Anecdotal, fails because the text relies on general structural categories like funding and neighborhood resources, not on personal stories or isolated examples.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1534,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A clinical vignette described a patient with shortness of breath and swelling who had a past heart condition. The text presented symptoms, diagnostic test results, and possible interventions in sequence.\n\nWhich organizational pattern does the vignette follow?\n\nA) Cause and effect comparing two unrelated conditions.\nB) Compare and contrast of treatment options without case details.\nD) Problem-solution where the problem is never described.\n\nA) Cause and effect comparing two unrelated conditions.\nB) Compare and contrast of treatment options without case details.\nC) Option A is incorrect because the text focuses on a single patient's history rather than comparing two unrelated conditions\nD) Problem-solution where the problem is never described.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Cause and effect comparing two unrelated conditions.",
+      "B) Compare and contrast of treatment options without case details.",
+      "D) Problem-solution where the problem is never described."
+    ],
+    "explanation": "The vignette follows a chronological sequence because it explicitly lists events in the order they occurred: the patient's initial symptoms, subsequent diagnostic tests, and finally the proposed interventions. This linear progression matches option C perfectly. Option A is incorrect because the text focuses on a single patient's history rather than comparing two unrelated conditions. Option B fails as the passage provides specific case details, making a general comparison of treatment options inaccurate. Option D is wrong because the problem of shortness of breath and swelling is clearly described at the beginning of the text.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1535,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A government memo recommended increasing afternoon staffing at clinics to meet peak patient volume. It cited patient arrival data showing the busiest window between 2 p.m. and 5 p.m.\n\nWhat is the most likely reason the memo was written?\n\nA) To announce new clinic construction.\nB) To report a decline in patient volume.\nC) To provide clinical treatment guidelines.\n\nA) To announce new clinic construction.\nB) To report a decline in patient volume.\nC) To provide clinical treatment guidelines.\nD) Option A is incorrect because the text discusses staffing levels, not physical construction of new facilities",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) To announce new clinic construction.",
+      "B) To report a decline in patient volume.",
+      "C) To provide clinical treatment guidelines."
+    ],
+    "explanation": "The memo was written to recommend a scheduling change based on patient arrival data because it explicitly cites peak hours between 2 p.m. and 5 p.m. to justify increasing afternoon staffing. Option D correctly identifies this direct link between the data and the proposed action. Option A is incorrect because the text discusses staffing levels, not physical construction of new facilities. Option B is wrong as the memo highlights increased volume during peak times, not a decline in overall patient numbers. Option C is inaccurate since the document focuses on operational logistics rather than medical treatment guidelines. Therefore, the primary purpose is adjusting schedules to match the identified busy window.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1536,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "An overview of climate proxies mentioned tree rings, ice cores, and sediment layers. It explained that these records help reconstruct past climates and that proxies vary in time resolution.\n\nWhat is the passage's most direct function?\n\nA) To argue that climate proxies are useless.\nB) To provide a detailed laboratory protocol for ice core drilling.\nC) To narrate a personal travelogue about polar regions.\n\nA) To argue that climate proxies are useless.\nB) To provide a detailed laboratory protocol for ice core drilling.\nC) To narrate a personal travelogue about polar regions.\nD) The text explicitly states these records help build climate history while noting their varying time resolutions, which supports a functional explanation rather than an argument or story",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) To argue that climate proxies are useless.",
+      "B) To provide a detailed laboratory protocol for ice core drilling.",
+      "C) To narrate a personal travelogue about polar regions."
+    ],
+    "explanation": "The passage directly explains how tree rings, ice cores, and sediment layers serve as methods to reconstruct past climates, making option D the only choice reflecting this informational purpose. The text explicitly states these records help build climate history while noting their varying time resolutions, which supports a functional explanation rather than an argument or story. Option A is incorrect because the passage presents proxies as useful tools, directly contradicting the claim that they are useless. Option B is wrong as it focuses on a specific laboratory protocol, whereas the text offers a general overview without drilling instructions. Option C fails because there is no narrative voice or personal travel experience described in the summary.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1537,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A randomized trial compared two wound-care dressings. Dressing A reduced infection rates slightly more than Dressing B, though confidence intervals overlapped. The investigators suggested more studies for definitive differences.\n\nWhich choice best reflects the trial's conclusion?\n\nA) Dressing B prevented all infections.\nC) The trial proved one dressing is superior in all settings.\nD) The trial did not measure infection rates.\n\nA) Dressing B prevented all infections.\nB) Choice C is wrong since the text admits the trial did not prove superiority in all settings due to the lack of conclusive statistical evidence\nC) The trial proved one dressing is superior in all settings.\nD) The trial did not measure infection rates.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Dressing B prevented all infections.",
+      "C) The trial proved one dressing is superior in all settings.",
+      "D) The trial did not measure infection rates."
+    ],
+    "explanation": "Choice B accurately reflects the passage by acknowledging the slight reduction in infection rates for Dressing A while noting that overlapping confidence intervals mean the difference is not conclusive. The text explicitly states that confidence intervals overlapped and investigators suggested more studies, directly supporting the idea that results are not definitive. Choice A is incorrect because the passage never claims Dressing B prevented all infections, only that it performed slightly worse than Dressing A. Choice C is wrong since the text admits the trial did not prove superiority in all settings due to the lack of conclusive statistical evidence. Choice D is false because the passage clearly discusses infection rates as the primary metric compared between the two dressings.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1538,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A textbook excerpt described how enzymes lower activation energy, enabling biochemical reactions at physiological temperatures. It included diagrams showing transition states with and without catalysts.\n\nWhich detail provides the strongest support for the claim that enzymes facilitate reactions?\n\nB) A list of foods containing enzymes.\nC) Historical notes about enzyme discovery.\nD) The claim that enzymes are unnecessary for reactions.\n\nA) The visual evidence of altered states without catalysts serves as the strongest support for this claim\nB) A list of foods containing enzymes.\nC) Historical notes about enzyme discovery.\nD) The claim that enzymes are unnecessary for reactions.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) A list of foods containing enzymes.",
+      "C) Historical notes about enzyme discovery.",
+      "D) The claim that enzymes are unnecessary for reactions."
+    ],
+    "explanation": "Option A is correct because the passage explicitly links diagrams of transition states to the lowering of activation energy, which directly proves enzymes facilitate reactions. The visual evidence of altered states without catalysts serves as the strongest support for this claim. Option B is incorrect as a food list lacks mechanistic data regarding energy changes. Option C fails because historical notes do not demonstrate how enzymes currently function. Finally, Option D contradicts the entire premise of the excerpt by stating enzymes are unnecessary.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1539,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A community health survey reported that exercise frequency correlated with reported mental well-being. The study adjusted for age and socioeconomic status in its analysis.\n\nWhat does the phrase 'adjusted for age and socioeconomic status' most nearly mean?\n\nA) The study excluded older participants and those with low income.\nB) Age and socioeconomic status were the only variables measured.\nD) Participants adjusted their answers based on age.\n\nA) The study excluded older participants and those with low income.\nB) Age and socioeconomic status were the only variables measured.\nC) The passage states the study analyzed the correlation between exercise and well-being while accounting for these factors, which matches the definition of controlling them\nD) Participants adjusted their answers based on age.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The study excluded older participants and those with low income.",
+      "B) Age and socioeconomic status were the only variables measured.",
+      "D) Participants adjusted their answers based on age."
+    ],
+    "explanation": "Option C is correct because \"adjusted for\" in statistical analysis means controlling for other variables to isolate the specific effect of the one being studied, ensuring age and income did not skew the results. The passage states the study analyzed the correlation between exercise and well-being while accounting for these factors, which matches the definition of controlling them. Option A is wrong because adjusting variables does not mean excluding participants; it means including them in the math to neutralize their influence. Option B is incorrect since the study measured many variables, not just age and status, which were only the controls. Option D is wrong because participants did not change their answers; the researchers used statistical methods to adjust the data, not the respondents.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1540,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "An engineering summary compared two bridge designs under simulated load. Design B distributed weight more evenly, reducing peak stress on central supports. The authors recommended Design B for long-span applications.\n\nWhich statement is most supported by the passage?\n\nB) Both designs had identical stress distributions.\nC) Design A was recommended for long spans.\nD) The summary focused on plumbing systems.\n\nA) This directly validates the preference for Design B in those contexts\nB) Both designs had identical stress distributions.\nC) Design A was recommended for long spans.\nD) The summary focused on plumbing systems.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Both designs had identical stress distributions.",
+      "C) Design A was recommended for long spans.",
+      "D) The summary focused on plumbing systems."
+    ],
+    "explanation": "Option A is supported because the passage explicitly states that Design B distributed weight more evenly and reduced peak stress, leading authors to recommend it specifically for long-span applications. This directly validates the preference for Design B in those contexts. Option B is incorrect since the text notes Design B reduced peak stress, implying a difference rather than identical distributions. Option C contradicts the passage, which clearly recommends Design B, not Design A, for long spans. Option D is wrong because the summary concerns bridge designs and structural loads, not plumbing systems at all.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1541,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A comparative history contrasted two social movements: one used decentralized local chapters, the other centralized leadership. The decentralized movement grew through local initiatives while the centralized group coordinated national campaigns.\n\nWhich comparison is explicitly stated in the passage?\n\nA) Decentralized groups never achieved national recognition.\nC) Both movements used identical organizational forms.\nD) The passage endorses centralized leadership as superior.\n\nA) Decentralized groups never achieved national recognition.\nB) This matches the option's claim perfectly\nC) Both movements used identical organizational forms.\nD) The passage endorses centralized leadership as superior.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Decentralized groups never achieved national recognition.",
+      "C) Both movements used identical organizational forms.",
+      "D) The passage endorses centralized leadership as superior."
+    ],
+    "explanation": "Option B is right because the passage directly states the decentralized movement grew through local initiatives while the centralized group coordinated national campaigns. This matches the option's claim perfectly. Option A is wrong since the text never mentions national recognition for either group. Option C is incorrect because the passage explicitly contrasts their organizational forms rather than saying they were identical. Option D fails because the text describes both movements neutrally without endorsing one as superior to the other.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1542,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A lab report noted variation in bacterial growth at different temperatures and included a table of colony counts. The methods section described incubation at set temperatures for 24 hours.\n\nWhich detail directly ensures reproducibility of the experiment?\n\nA) The lab report was printed in color.\nB) The report praised the bacterial strain.\nD) The authors included anecdotal observations.\n\nA) The lab report was printed in color.\nB) The report praised the bacterial strain.\nC) The passage explicitly states that the methods section described incubation at set temperatures for 24 hours, which allows other scientists to replicate the results precisely\nD) The authors included anecdotal observations.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The lab report was printed in color.",
+      "B) The report praised the bacterial strain.",
+      "D) The authors included anecdotal observations."
+    ],
+    "explanation": "Option C is correct because it provides the specific, standardized conditions required to repeat the experiment exactly. The passage explicitly states that the methods section described incubation at set temperatures for 24 hours, which allows other scientists to replicate the results precisely. Without these exact parameters, the variation in bacterial growth could not be reliably reproduced.\n\nOption A is wrong because the color of the printed report is irrelevant to the scientific procedure or data collection. Option B is incorrect since praising the bacterial strain is a subjective opinion that does not influence the experimental protocol or data accuracy. Option D fails because anecdotal observations lack the systematic rigor needed to ensure consistent, reproducible scientific outcomes.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1543,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A policy analysis evaluated two proposals to improve rural healthcare access: telemedicine subsidies and clinic grants. It modeled costs and projected patient reach for each option.\n\nWhich statement would best evaluate the relative merits of the two proposals?\n\nA) Grants are always preferable to subsidies in every context.\nB) Telemedicine is ineffective in rural settings universally.\nC) The analysis should ignore costs and focus on technology alone.\n\nA) Grants are always preferable to subsidies in every context.\nB) Telemedicine is ineffective in rural settings universally.\nC) The analysis should ignore costs and focus on technology alone.\nD) The passage explicitly states the model tracked these specific metrics, making their comparison the only logical method to determine which proposal better increases access",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Grants are always preferable to subsidies in every context.",
+      "B) Telemedicine is ineffective in rural settings universally.",
+      "C) The analysis should ignore costs and focus on technology alone."
+    ],
+    "explanation": "Option D correctly identifies that evaluating both projected costs and patient reach allows for a direct comparison of value, which is the core purpose of the policy analysis described. The passage explicitly states the model tracked these specific metrics, making their comparison the only logical method to determine which proposal better increases access. Option A is incorrect because the text provides no evidence that grants are universally preferable, ignoring the specific data on telemedicine subsidies. Option B contradicts the study's intent to evaluate telemedicine's potential reach in rural areas rather than dismissing it as universally ineffective. Option C is wrong because the passage explicitly mentions modeling costs, so ignoring them would render the analysis incomplete and inconsistent with the provided text.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1544,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A clinical case described a patient with fever, rash, and joint pain. The differential diagnosis listed viral infection, autoimmune disease, and drug reaction, with rationale for each possibility.\n\nWhich reasoning strategy is the author using in presenting the diagnoses?\n\nB) Offering a single unquestioned conclusion.\nC) Using primarily poetic language without analysis.\nD) Describing unrelated laboratory methods.\n\nA) Option C fails because the passage relies on clinical reasoning and medical facts, not poetic language or lack of analysis\nB) Offering a single unquestioned conclusion.\nC) Using primarily poetic language without analysis.\nD) Describing unrelated laboratory methods.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Offering a single unquestioned conclusion.",
+      "C) Using primarily poetic language without analysis.",
+      "D) Describing unrelated laboratory methods."
+    ],
+    "explanation": "The author employs a differential diagnosis strategy by systematically presenting multiple potential causes for the patient's symptoms rather than settling on one definitive conclusion. This approach involves weighing the evidence for viral infections, autoimmune diseases, and drug reactions to illustrate how each could explain the fever, rash, and joint pain described in the case. Option B is incorrect because the text explicitly lists several possibilities instead of offering a single, unquestioned conclusion. Option C fails because the passage relies on clinical reasoning and medical facts, not poetic language or lack of analysis. Option D is wrong as the text focuses on diagnostic possibilities rather than describing unrelated laboratory methods.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1545,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A historical analysis described trade networks in the Mediterranean, noting that ports served as hubs for goods and ideas. The author argued that maritime trade accelerated cultural exchange across different societies.\n\nWhich claim is best supported by the passage?\n\nB) Maritime trade prevented any cultural interaction.\nC) Ports were irrelevant to trade networks.\nD) Cultural exchange declined because of maritime trade.\n\nA) The author's argument that maritime trade accelerated this exchange further validates this option\nB) Maritime trade prevented any cultural interaction.\nC) Ports were irrelevant to trade networks.\nD) Cultural exchange declined because of maritime trade.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Maritime trade prevented any cultural interaction.",
+      "C) Ports were irrelevant to trade networks.",
+      "D) Cultural exchange declined because of maritime trade."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that ports served as hubs for goods and ideas, directly supporting the claim that they facilitated both commerce and cultural exchange. The author's argument that maritime trade accelerated this exchange further validates this option. Option B is wrong as the text says trade accelerated interaction, not prevented it. Option C is incorrect because the passage describes ports as hubs, proving they were central, not irrelevant. Option D contradicts the text which claims exchange accelerated rather than declined due to maritime trade.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1546,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "An article described a novel diagnostic test that identifies biomarkers in saliva. Early trials demonstrated promising sensitivity, but the authors caution that larger studies are needed to confirm specificity.\n\nWhat limitation do the authors explicitly note?\n\nA) The test cannot detect any biomarkers.\nC) Saliva is not a biological fluid.\nD) The test has complete specificity already proven.\n\nA) The test cannot detect any biomarkers.\nB) Option A is incorrect because the text mentions the test successfully identifies biomarkers in saliva\nC) Saliva is not a biological fluid.\nD) The test has complete specificity already proven.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The test cannot detect any biomarkers.",
+      "C) Saliva is not a biological fluid.",
+      "D) The test has complete specificity already proven."
+    ],
+    "explanation": "The passage explicitly states that while early trials showed promising sensitivity, the authors caution that larger studies are needed to confirm specificity. This directly supports option B, as it mirrors the authors' specific warning about the current lack of confirmed specificity data. Option A is incorrect because the text mentions the test successfully identifies biomarkers in saliva. Option C is wrong since saliva is universally recognized as a biological fluid used in the test. Option D contradicts the passage, which indicates specificity has not yet been fully proven by larger studies.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1547,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A commentary on public education claimed that early literacy programs reduce later remedial needs. The author presented data from longitudinal studies and argued for increased early investment.\n\nWhat is the author most likely advocating?\n\nA) Reducing early childhood education funds.\nB) Eliminating literacy instruction from early grades.\nD) Prioritizing higher education exclusively.\n\nA) Reducing early childhood education funds.\nB) Eliminating literacy instruction from early grades.\nC) The author advocates for increasing funding and support for early literacy programs because the commentary explicitly links these initiatives to reduced later remedial needs.\nD) Prioritizing higher education exclusively.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Reducing early childhood education funds.",
+      "B) Eliminating literacy instruction from early grades.",
+      "D) Prioritizing higher education exclusively."
+    ],
+    "explanation": "The author advocates for increasing funding and support for early literacy programs because the commentary explicitly links these initiatives to reduced later remedial needs. By presenting data from longitudinal studies, the author argues that early investment yields long-term benefits, directly supporting the call for more resources. Option A is wrong as it contradicts the argument for increased investment, while Option B ignores the core focus on literacy instruction. Option D is incorrect because the text emphasizes early education rather than prioritizing higher education exclusively. Therefore, the passage clearly supports Option C as the logical conclusion based on the evidence provided.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1548,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A scientific abstract described how coral bleaching events increase with rising sea temperatures. The study mapped bleaching occurrences over three decades and identified hotspots.\n\nWhich statement best captures the passage's research focus?\n\nA) The nutritional habits of coral reef fish.\nB) Coral reproduction under laboratory conditions only.\nC) The chemistry of seawater unrelated to temperature.\n\nA) The nutritional habits of coral reef fish.\nB) Coral reproduction under laboratory conditions only.\nC) The chemistry of seawater unrelated to temperature.\nD) The passage explicitly links these factors to map occurrences, making this the only choice reflecting the described research",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The nutritional habits of coral reef fish.",
+      "B) Coral reproduction under laboratory conditions only.",
+      "C) The chemistry of seawater unrelated to temperature."
+    ],
+    "explanation": "Option D correctly identifies the study's focus by synthesizing the key elements: rising sea temperatures, coral bleaching, and the three-decade timeline mentioned in the text. The passage explicitly links these factors to map occurrences, making this the only choice reflecting the described research. Option A is incorrect because the text never mentions fish or their nutritional habits, focusing solely on coral bleaching events. Option B is wrong as the study mapped occurrences over three decades in the field, not under laboratory conditions. Finally, Option C is invalid because the passage directly connects seawater chemistry issues to temperature, whereas this option claims the relationship is unrelated.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1549,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A review compared two educational interventions for patient handoffs in hospitals. One used structured checklists and the other relied on verbal mentoring. Studies suggested checklists improved information transfer reliability.\n\nBased on the passage, which intervention is inferred to be more consistent for handoffs?\n\nB) Verbal mentoring alone.\nC) Eliminating handoffs entirely.\nD) Randomized chance without structure.\n\nA) Option B is wrong since verbal mentoring lacks the structured framework that the text identifies as improving reliability\nB) Verbal mentoring alone.\nC) Eliminating handoffs entirely.\nD) Randomized chance without structure.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Verbal mentoring alone.",
+      "C) Eliminating handoffs entirely.",
+      "D) Randomized chance without structure."
+    ],
+    "explanation": "Option A is right because the passage explicitly states that studies suggested checklists improved information transfer reliability, implying greater consistency than unstructured methods. Option B is wrong since verbal mentoring lacks the structured framework that the text identifies as improving reliability. Option C is incorrect because eliminating handoffs ignores the study's focus on improving the existing process rather than removing it. Option D fails because the text highlights the value of structure, making random chance inconsistent with the findings described.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1550,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A social studies summary described urbanization trends: job opportunities drew migrants to cities, which led to housing pressures and infrastructure demands. Governments responded with zoning laws and public works.\n\nWhich conclusion can be drawn about urban growth from the passage?\n\nA) Rural areas always gain population during urbanization.\nC) Zoning laws were the sole cause of migration.\nD) Job opportunities decreased because of urban growth.\n\nA) Rural areas always gain population during urbanization.\nB) This directly supports the conclusion that migration necessitates planning and infrastructure responses\nC) Zoning laws were the sole cause of migration.\nD) Job opportunities decreased because of urban growth.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Rural areas always gain population during urbanization.",
+      "C) Zoning laws were the sole cause of migration.",
+      "D) Job opportunities decreased because of urban growth."
+    ],
+    "explanation": "Option B accurately reflects the passage's causal chain where job opportunities drew migrants, creating housing and infrastructure pressures that governments addressed with zoning and public works. This directly supports the conclusion that migration necessitates planning and infrastructure responses. Option A is incorrect because the text states migrants moved to cities, implying rural areas lost population, not gained it. Option C is wrong since the passage identifies job opportunities as the driver of migration, not zoning laws, which were a later response. Option D contradicts the text, which explicitly says job opportunities drew people to cities, indicating an increase rather than a decrease.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1551,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A brief report described an experiment where mice were trained to locate a platform in a maze. Over repeated trials, their times decreased, indicating learning. The authors interpreted this as evidence of spatial memory formation.\n\nWhat inference supports the authors' interpretation?\n\nA) Trial times decreased because the maze was removed.\nB) Times decreased due to random chance only.\nD) The authors measured feather growth instead of behavior.\n\nA) Trial times decreased because the maze was removed.\nB) Times decreased due to random chance only.\nC) This inference connects the observed data trend to the authors' conclusion about memory formation\nD) The authors measured feather growth instead of behavior.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Trial times decreased because the maze was removed.",
+      "B) Times decreased due to random chance only.",
+      "D) The authors measured feather growth instead of behavior."
+    ],
+    "explanation": "Option C is right because the passage explicitly links decreasing times over repeated trials to learning, which directly supports the claim that mice formed spatial memories of the platform location. This inference connects the observed data trend to the authors' conclusion about memory formation. Option A is wrong because the text never mentions removing the maze, making that cause unrelated to the described learning process. Option B fails because the passage states times decreased due to training, not random chance, which contradicts the systematic nature of the results. Option D is incorrect as the report focuses on maze behavior and platform location, completely ignoring any mention of feather growth.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1552,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "An economics note stated that price ceilings can cause shortages by preventing prices from rising to equilibrium. Examples included rent controls creating fewer available units.\n\nWhich result is directly attributed to price ceilings in the passage?\n\nA) Price ceilings always increase supply.\nB) Price ceilings eliminate demand entirely.\nC) Rent controls increase the number of available units.\n\nA) Price ceilings always increase supply.\nB) Price ceilings eliminate demand entirely.\nC) Rent controls increase the number of available units.\nD) The text directly links this mechanism to the creation of fewer available units, confirming the causal relationship described in this option",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Price ceilings always increase supply.",
+      "B) Price ceilings eliminate demand entirely.",
+      "C) Rent controls increase the number of available units."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that price ceilings cause shortages by preventing prices from rising to equilibrium, which aligns perfectly with keeping prices below the equilibrium point. The text directly links this mechanism to the creation of fewer available units, confirming the causal relationship described in this option.\n\nOption A is incorrect because the passage never mentions supply increasing; instead, it notes that rent controls create fewer available units, contradicting the idea that supply always rises. Option B is wrong as the text discusses shortages, not the elimination of demand, implying consumers still want the units but cannot get them. Finally, Option C is false since the passage clearly states rent controls result in fewer available units, directly opposing the claim that they increase the number of units.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1553,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A clinical abstract described an educational intervention where standardized patients improved communication training for nursing students. The program included feedback sessions and objective assessments.\n\nWhich statement best captures the passage's assertion about the program's components?\n\nA) The program relied solely on lectures without practice.\nB) The program was canceled due to lack of interest.\nC) Only written tests were used in the program.\n\nA) The program relied solely on lectures without practice.\nB) The program was canceled due to lack of interest.\nC) Only written tests were used in the program.\nD) A is contradicted by the passage\u2014standardized patients mean practice, not just lectures",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The program relied solely on lectures without practice.",
+      "B) The program was canceled due to lack of interest.",
+      "C) Only written tests were used in the program."
+    ],
+    "explanation": "The passage lists three program components: standardized patients for communication training, feedback sessions, and objective assessments. Option D names all three. A is contradicted by the passage\u2014standardized patients mean practice, not just lectures. B is fabricated; the passage describes a successful program, not a canceled one. C is wrong; objective assessments are mentioned but the passage never says they were 'only' written tests.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1554,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A meta-review contrasted two dietary interventions for cholesterol reduction in separate studies. Some trials favored a Mediterranean-style diet while others showed similar benefits from low-saturated-fat diets depending on adherence rates.\n\nWhat can be inferred about dietary intervention effectiveness?\n\nA) Only Mediterranean diets work for everyone.\nC) Diet has no impact on cholesterol levels.\nD) Trials always produce identical results regardless of adherence.\n\nA) Only Mediterranean diets work for everyone.\nB) Option A is wrong since the text notes some trials favored Mediterranean diets while others showed similar benefits from different approaches, contradicting the claim that only one works for everyone\nC) Diet has no impact on cholesterol levels.\nD) Trials always produce identical results regardless of adherence.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Only Mediterranean diets work for everyone.",
+      "C) Diet has no impact on cholesterol levels.",
+      "D) Trials always produce identical results regardless of adherence."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that benefits from low-saturated-fat diets depend on adherence rates, implying effectiveness varies by patient behavior rather than just the diet type. Option A is wrong since the text notes some trials favored Mediterranean diets while others showed similar benefits from different approaches, contradicting the claim that only one works for everyone. Option C is incorrect because the entire meta-review contrasts dietary interventions specifically for cholesterol reduction, proving a clear impact exists. Option D fails because the passage highlights differing outcomes based on adherence, showing trials do not always produce identical results.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1555,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A primary source letter from a nurse during a pandemic described exhaustion, improvisation of supplies, and community support. The letter appealed for better protective equipment and described daily routines.\n\nWhich conclusion about the nurse's perspective is best supported?\n\nB) The nurse reported abundant supplies and no stress.\nC) The letter focused solely on financial matters unrelated to care.\nD) The nurse denied the need for protective equipment.\n\nA) This dual sentiment aligns perfectly with the description of both shortages and assistance\nB) The nurse reported abundant supplies and no stress.\nC) The letter focused solely on financial matters unrelated to care.\nD) The nurse denied the need for protective equipment.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The nurse reported abundant supplies and no stress.",
+      "C) The letter focused solely on financial matters unrelated to care.",
+      "D) The nurse denied the need for protective equipment."
+    ],
+    "explanation": "Option A is correct because the passage explicitly mentions the nurse's exhaustion and improvisation of supplies, indicating feeling overwhelmed, while also noting community support which implies gratitude. This dual sentiment aligns perfectly with the description of both shortages and assistance. Option B is wrong because the text states there were shortages and exhaustion, directly contradicting the claim of abundant supplies and no stress. Option C is incorrect as the letter focuses on protective equipment and daily routines, not financial matters unrelated to patient care. Finally, Option D is false since the letter specifically appealed for better equipment, proving the nurse did not deny the need for it.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1556,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A study evaluated two public campaigns to encourage handwashing: one used fear-based messaging, the other used positive community norms. The community-norms campaign produced more sustained behavior change.\n\nWhich inference follows about message framing?\n\nA) Fear appeals always produce permanent behavior change.\nC) Messaging has no effect on public behavior.\nD) The study proved that campaigns are unnecessary.\n\nA) Fear appeals always produce permanent behavior change.\nB) Option A is incorrect as the text only mentions sustained change for community norms, offering no evidence that fear appeals ever produce permanent results\nC) Messaging has no effect on public behavior.\nD) The study proved that campaigns are unnecessary.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Fear appeals always produce permanent behavior change.",
+      "C) Messaging has no effect on public behavior.",
+      "D) The study proved that campaigns are unnecessary."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that the community-norms campaign resulted in more sustained behavior change compared to the fear-based approach, directly supporting the inference that framing around norms yields lasting results. Option A is incorrect as the text only mentions sustained change for community norms, offering no evidence that fear appeals ever produce permanent results. Option C is wrong because the study clearly demonstrates that different message types produced varying levels of behavior change, proving messaging has an effect. Option D is invalid since the study evaluated and compared two specific campaigns, which implies they were necessary and effective rather than unnecessary.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1557,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A literature review examined barriers to medication adherence in older adults, including complex regimens, side effects, and cost. The authors recommended simplified dosing and financial counseling as interventions.\n\nBased on the passage, which intervention addresses multiple identified barriers?\n\nB) Increasing the complexity of medication regimens.\nC) Ignoring side effects and focusing on cost only.\nD) Removing all medications irrespective of condition.\n\nA) This option directly combines both interventions mentioned in the text to tackle multiple issues simultaneously\nB) Increasing the complexity of medication regimens.\nC) Ignoring side effects and focusing on cost only.\nD) Removing all medications irrespective of condition.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Increasing the complexity of medication regimens.",
+      "C) Ignoring side effects and focusing on cost only.",
+      "D) Removing all medications irrespective of condition."
+    ],
+    "explanation": "Option A is right because the passage explicitly states that the authors recommended simplified dosing and financial counseling to address barriers like complex regimens and cost. This option directly combines both interventions mentioned in the text to tackle multiple issues simultaneously. Option B is wrong because the passage suggests simplifying regimens, not increasing their complexity, which would worsen adherence. Option C is incorrect since the text lists side effects as a barrier, so ignoring them contradicts the study's findings. Option D is wrong because removing all medications ignores the need for treatment, whereas the study focuses on managing adherence to necessary drugs.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1558,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A research summary reported that exposure to diverse literature in adolescence correlates with improved empathy scores. The authors used cross-sectional surveys and controlled for socioeconomic variables.\n\nWhich limitation should readers consider when interpreting the correlation?\n\nA) Socioeconomic variables were the only cause of empathy changes.\nB) Surveys always guarantee causal conclusions.\nD) Literature exposure was measured using DNA tests.\n\nA) Socioeconomic variables were the only cause of empathy changes.\nB) Surveys always guarantee causal conclusions.\nC) This methodological constraint means researchers cannot determine if literature exposure caused higher empathy or if other factors influenced both\nD) Literature exposure was measured using DNA tests.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Socioeconomic variables were the only cause of empathy changes.",
+      "B) Surveys always guarantee causal conclusions.",
+      "D) Literature exposure was measured using DNA tests."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states the study used a cross-sectional design, which only measures variables at a single point in time. This methodological constraint means researchers cannot determine if literature exposure caused higher empathy or if other factors influenced both. Options A, B, and D are incorrect because the text notes socioeconomic variables were controlled, not the sole cause, and surveys are observational tools that never guarantee causation. Furthermore, the passage mentions surveys entirely, making the claim about DNA tests in Option D factually inconsistent with the provided text.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1559,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A policy brief evaluating urban transit options compared bus rapid transit (BRT) to light rail. The brief assessed cost, capacity, and implementation speed, concluding trade-offs exist between capital expense and flexibility.\n\nWhich finding would most directly support the brief's conclusion about trade-offs?\n\nA) Light rail and BRT are identical in cost and capacity.\nB) BRT has higher capital costs than light rail.\nC) The brief recommends eliminating transit entirely.\n\nA) Light rail and BRT are identical in cost and capacity.\nB) BRT has higher capital costs than light rail.\nC) The brief recommends eliminating transit entirely.\nD) Option A is incorrect because claiming the systems are identical ignores the stated differences in expense and flexibility required to prove any trade-off exists",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Light rail and BRT are identical in cost and capacity.",
+      "B) BRT has higher capital costs than light rail.",
+      "C) The brief recommends eliminating transit entirely."
+    ],
+    "explanation": "Option D directly supports the conclusion by explicitly stating the trade-off between higher capital costs for light rail and the lower cost with greater flexibility of BRT, matching the brief's assessment. Option A is incorrect because claiming the systems are identical ignores the stated differences in expense and flexibility required to prove any trade-off exists. Option B is wrong because it only compares costs without mentioning capacity or flexibility, failing to address the full scope of the trade-offs discussed. Option C is incorrect as the brief evaluates transit options rather than recommending their elimination, which is irrelevant to the specific cost-capacity findings.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1560,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A clinical trial assessed a rehabilitation protocol for stroke patients. Outcomes included functional independence scores at three months. The experimental group showed greater improvement than controls in motor tasks.\n\nWhat is the most reasonable conclusion about the protocol's effect on motor recovery?\n\nB) The protocol caused irreversible harm in all patients.\nC) The trial showed no differences in any measures.\nD) Motor tasks were unrelated to the rehabilitation protocol.\n\nA) Option B is wrong as the text never mentions harm or adverse effects, making claims of irreversible injury unsupported by the provided data\nB) The protocol caused irreversible harm in all patients.\nC) The trial showed no differences in any measures.\nD) Motor tasks were unrelated to the rehabilitation protocol.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The protocol caused irreversible harm in all patients.",
+      "C) The trial showed no differences in any measures.",
+      "D) Motor tasks were unrelated to the rehabilitation protocol."
+    ],
+    "explanation": "Option A is right because the passage explicitly states the experimental group showed greater improvement than controls in motor tasks, supporting the conclusion that the protocol likely improves performance compared to standard care. Option B is wrong as the text never mentions harm or adverse effects, making claims of irreversible injury unsupported by the provided data. Option C is incorrect since the passage clearly indicates a difference in outcomes between the groups, contradicting the idea that no differences were shown. Option D is wrong because the text directly links motor task improvements to the rehabilitation protocol, proving they are related rather than unrelated.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1561,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Two editorials debated a proposed health tax: one argued it would fund preventive services and reduce long-term costs; the other warned it could be regressive. Each used economic data to support claims.\n\nWhich evaluation best reflects the nature of the debate?\n\nA) One editorial ignored evidence entirely while the other provided only anecdotes.\nC) The debate proved that taxes are irrelevant to health policy.\nD) Both editorials reached identical policy recommendations.\n\nA) One editorial ignored evidence entirely while the other provided only anecdotes.\nB) This directly matches the description of emphasizing different outcomes based on shared evidence\nC) The debate proved that taxes are irrelevant to health policy.\nD) Both editorials reached identical policy recommendations.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) One editorial ignored evidence entirely while the other provided only anecdotes.",
+      "C) The debate proved that taxes are irrelevant to health policy.",
+      "D) Both editorials reached identical policy recommendations."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that both editorials used economic data to support their distinct claims regarding cost savings and equity concerns. This directly matches the description of emphasizing different outcomes based on shared evidence. Option A is incorrect as the text confirms both sides utilized economic data, contradicting the claim that one ignored evidence or relied solely on anecdotes. Option C is wrong because the passage discusses a specific debate on health taxes, not a general proof that all taxes are irrelevant to policy. Finally, Option D fails because the editorials presented opposing arguments about funding versus regressive impacts rather than identical recommendations.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1562,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "An ecology note explained that keystone species shape community structure disproportionally to their biomass. Removing such a species can dramatically alter ecosystem composition.\n\nWhich consequence is most consistent with the passage's claim about keystone species?\n\nA) Keystone species always have the largest biomass.\nB) Ecosystem composition never changes after species removal.\nD) Keystone species are irrelevant to community dynamics.\n\nA) Keystone species always have the largest biomass.\nB) Ecosystem composition never changes after species removal.\nC) The passage states two things about keystone species: (1) they shape community structure 'disproportionately to their biomass' (their impact is much larger than their physical presence), and (2) removing one can 'dramatically alter ecosystem composition.' C combines both ideas.\nD) Keystone species are irrelevant to community dynamics.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Keystone species always have the largest biomass.",
+      "B) Ecosystem composition never changes after species removal.",
+      "D) Keystone species are irrelevant to community dynamics."
+    ],
+    "explanation": "The passage states two things about keystone species: (1) they shape community structure 'disproportionately to their biomass' (their impact is much larger than their physical presence), and (2) removing one can 'dramatically alter ecosystem composition.' C combines both ideas. A is the opposite; keystone species often have small biomass but large impact. B contradicts the passage, which says removal causes dramatic changes. D is directly contradicted; the passage says keystone species shape community structure, making them highly relevant.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1563,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A public policy summary compared two education funding formulas: one distributed funds per pupil equally, the other weighted allocations by need. The weighted model allocated more to high-need districts.\n\nWhich statement is directly supported by the passage?\n\nA) The equal formula provided the most funding to high-need districts.\nB) Both formulas ignored district needs completely.\nD) Funding formulas cannot be compared quantitatively.\n\nA) The equal formula provided the most funding to high-need districts.\nB) Both formulas ignored district needs completely.\nC) This directly confirms that the weighted approach favored areas with greater needs over the uniform distribution method\nD) Funding formulas cannot be compared quantitatively.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The equal formula provided the most funding to high-need districts.",
+      "B) Both formulas ignored district needs completely.",
+      "D) Funding formulas cannot be compared quantitatively."
+    ],
+    "explanation": "Option C is right because the passage explicitly states the weighted model allocated more to high-need districts while the other formula distributed funds equally per pupil. This directly confirms that the weighted approach favored areas with greater needs over the uniform distribution method. Option A is wrong because the equal formula gave the same amount to every student regardless of need, not more to high-need areas. Option B is incorrect since the text clearly shows the weighted model specifically addressed district needs, contradicting the claim that both ignored them. Finally, Option D is false because the summary directly compares the two formulas using specific allocation methods, proving quantitative comparison is possible.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1564,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A comparative clinical review described two pain management approaches: multimodal analgesia and opioid monotherapy. The authors reported that combining nonopioid strategies reduced opioid consumption and often improved functional outcomes.\n\nWhich conclusion is best supported by the review?\n\nA) Opioid monotherapy is always superior in every measure.\nB) Pain management should avoid any nonopioid strategies.\nC) Functional outcomes are unrelated to analgesic approach.\n\nA) Opioid monotherapy is always superior in every measure.\nB) Pain management should avoid any nonopioid strategies.\nC) Functional outcomes are unrelated to analgesic approach.\nD) This directly supports the conclusion that multimodal analgesia decreases opioid use and may improve results",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Opioid monotherapy is always superior in every measure.",
+      "B) Pain management should avoid any nonopioid strategies.",
+      "C) Functional outcomes are unrelated to analgesic approach."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that combining nonopioid strategies reduced opioid consumption and often improved functional outcomes compared to other methods. This directly supports the conclusion that multimodal analgesia decreases opioid use and may improve results. Option A is wrong because the text never claims opioid monotherapy is superior; it only notes that combining strategies reduced consumption. Option B is incorrect since the authors report benefits from nonopioid strategies, contradicting the idea to avoid them entirely. Option C is false because the passage clearly links analgesic approaches to improved functional outcomes.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1565,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Nurses play a critical role in patient care by monitoring vital signs and administering medications. In busy hospital wards, they often juggle multiple patients while ensuring each receives personalized attention. Effective communication with doctors and families is essential for coordinated treatment. What is the main idea of the passage?\nA) Nurses monitor vital signs. B) Nurses provide comprehensive patient care. C) Hospitals are busy. D) Communication is important.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Nurses monitor vital signs.",
+      "C) Hospitals are busy.",
+      "D) Communication is important."
+    ],
+    "explanation": "The main idea encompasses all aspects of the passage, which describes nurses monitoring signs, administering meds, and communicating to ensure personalized attention. Option B captures this holistic view of comprehensive care better than any single detail. Option A focuses only on one task mentioned, ignoring medication and communication. Option C misidentifies the subject as the hospital rather than the nurse's role. Option D highlights a necessary skill but misses the broader context of overall patient management described throughout the text.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

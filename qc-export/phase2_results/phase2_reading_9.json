@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1516,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says B is correct because it 'matches the text's description of the two groups,' but option B's actual text is meta-commentary explaining why option A is wrong ('Option A is incorrect as the passage never compares the superiority...'). The explanation attributes substantive content to B that B does not contain.",
+      "Rule 7 — Marked 'hard' but the question asks for an explicitly stated detail from a short, simple passage. This is single-step reading comprehension, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1517,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1518,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1519,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1520,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1521,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says A is correct because 'the passage directly links the department using rapid assessment and immediate pain control with higher patient satisfaction scores.' But option A's actual text is 'Option B is incorrect as the text never mentions clinical outcomes, only satisfaction, and implies the traditional process was less effective regarding patient feelings.' The explanation attributes a conclusion about satisfaction to A, but A's text is meta-commentary about why B is wrong.",
+      "Rule 8 — The correct answer option A does not actually state a conclusion from the passage. It is meta-commentary criticizing option B, not an answer to 'What can be concluded from the passage?'"
+    ]
+  },
+  {
+    "id": 1522,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says B addresses the canal's impact because the passage states it 'reduced travel time and stimulated regional trade.' But option B's text is 'This detail connects the infrastructure to specific economic and logistical outcomes' — vague meta-commentary that does not contain the cited detail.",
+      "Rule 8 — Option B's text ('This detail connects the infrastructure to specific economic and logistical outcomes') is not a supporting detail from the passage; it is meta-commentary describing what a detail does, not the detail itself."
+    ]
+  },
+  {
+    "id": 1523,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1524,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1525,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1526,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1527,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1528,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says A is correct because the excerpt indicates a 'first-person or public address perspective.' But option A's actual text is 'Option C fails as an omniscient narrator would reveal multiple inner thoughts rather than focusing on a single speaker's speech' — this explains why C is wrong, not what point of view is used.",
+      "Rule 8 — The correct answer A does not identify a point of view. It is meta-commentary about why option C is incorrect, not an answer to 'From what point of view is the excerpt most likely written?'"
+    ]
+  },
+  {
+    "id": 1529,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1530,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1531,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says D 'combines both' recommendations (coordinate insulin timing with meals, individualized plans). But option D's actual text is 'A contradicts the passage's emphasis on individualized plans—not everyone should take insulin at the same fixed time.' The explanation attributes a synthesized recommendation to D, but D's text is meta-commentary about why A is wrong.",
+      "Rule 8 — Option D's text does not summarize the leaflet's recommendation. It criticizes option A instead of stating what the leaflet recommends."
+    ]
+  },
+  {
+    "id": 1532,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says A is correct because the passage 'explicitly states that mandates protect public health through herd immunity while acknowledging liberty concerns to emphasize collective responsibility, clearly aiming to justify the policy.' But option A's actual text is 'Option B is wrong as the text focuses on ethical arguments rather than a historical account of vaccine development' — meta-commentary about B.",
+      "Rule 8 — Option A does not state the author's primary aim. It is meta-commentary explaining why option B is wrong."
+    ]
+  },
+  {
+    "id": 1533,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1534,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says C is correct because 'the vignette follows a chronological sequence.' But option C's actual text is 'Option A is incorrect because the text focuses on a single patient's history rather than comparing two unrelated conditions' — meta-commentary about why A is wrong, not an identification of the organizational pattern.",
+      "Rule 8 — Option C does not identify any organizational pattern. It explains why option A is wrong rather than answering which pattern the vignette follows."
+    ]
+  },
+  {
+    "id": 1535,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says D 'correctly identifies this direct link between the data and the proposed action' (recommending scheduling change based on arrival data). But option D's actual text is 'Option A is incorrect because the text discusses staffing levels, not physical construction of new facilities' — meta-commentary about why A is wrong.",
+      "Rule 8 — Option D does not state a reason the memo was written. It is meta-commentary explaining why option A is incorrect."
+    ]
+  },
+  {
+    "id": 1536,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1537,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says B 'accurately reflects the passage by acknowledging the slight reduction in infection rates for Dressing A while noting that overlapping confidence intervals mean the difference is not conclusive.' But option B's actual text is 'Choice C is wrong since the text admits the trial did not prove superiority in all settings due to the lack of conclusive statistical evidence' — meta-commentary about why C is wrong.",
+      "Rule 8 — Option B does not reflect the trial's conclusion. It is meta-commentary about why option C is incorrect."
+    ]
+  },
+  {
+    "id": 1538,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1539,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1540,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1541,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says B is right because 'the passage directly states the decentralized movement grew through local initiatives while the centralized group coordinated national campaigns.' But option B's actual text is 'This matches the option's claim perfectly' — vacuous meta-commentary with no substantive content to justify.",
+      "Rule 8 — Option B's text ('This matches the option's claim perfectly') contains no actual comparison and does not answer the question. It is empty self-referential commentary."
+    ]
+  },
+  {
+    "id": 1542,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1543,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1544,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says A is correct because the author 'employs a differential diagnosis strategy by systematically presenting multiple potential causes.' But option A's actual text is 'Option C fails because the passage relies on clinical reasoning and medical facts, not poetic language or lack of analysis' — meta-commentary about why C is wrong.",
+      "Rule 8 — Option A does not identify a reasoning strategy. It is meta-commentary explaining why option C is incorrect."
+    ]
+  },
+  {
+    "id": 1545,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says A is correct because 'the passage explicitly states that ports served as hubs for goods and ideas, directly supporting the claim that they facilitated both commerce and cultural exchange.' But option A's actual text is 'The author's argument that maritime trade accelerated this exchange further validates this option' — circular self-referential commentary that does not state the claim.",
+      "Rule 8 — Option A's text is circular ('further validates this option') and does not actually state a claim about trade networks. It does not answer 'Which claim is best supported by the passage?'"
+    ]
+  },
+  {
+    "id": 1546,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says B is correct because 'larger studies are needed to confirm specificity.' But option B's actual text is 'Option A is incorrect because the text mentions the test successfully identifies biomarkers in saliva' — meta-commentary about why A is wrong, not a statement of the limitation.",
+      "Rule 8 — Option B does not state the limitation the authors explicitly note. It is meta-commentary explaining why option A is wrong."
+    ]
+  },
+  {
+    "id": 1547,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Marked 'hard' but the question asks what the author is advocating, and the passage explicitly states the author 'argued for increased early investment.' Identifying the advocacy position is directly stated — this is simple recall/single-step, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1548,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says D 'correctly identifies the study's focus by synthesizing the key elements: rising sea temperatures, coral bleaching, and the three-decade timeline.' But option D's actual text is 'The passage explicitly links these factors to map occurrences, making this the only choice reflecting the described research' — vague meta-commentary that does not state the research focus.",
+      "Rule 8 — Option D's text does not capture the research focus specifically. It is meta-commentary about the passage rather than a statement of what the research focuses on."
+    ]
+  },
+  {
+    "id": 1549,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says A is right because 'studies suggested checklists improved information transfer reliability, implying greater consistency.' But option A's actual text is 'Option B is wrong since verbal mentoring lacks the structured framework that the text identifies as improving reliability' — meta-commentary about why B is wrong.",
+      "Rule 8 — Option A does not state which intervention is inferred to be more consistent. It is meta-commentary explaining why option B is wrong."
+    ]
+  },
+  {
+    "id": 1550,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1551,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1552,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1553,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says D 'names all three' program components (standardized patients, feedback sessions, objective assessments). But option D's actual text is 'A is contradicted by the passage—standardized patients mean practice, not just lectures' — meta-commentary about why A is wrong, not a statement of the program's components.",
+      "Rule 8 — Option D does not capture the passage's assertion about the program's components. It is meta-commentary explaining why option A is wrong."
+    ]
+  },
+  {
+    "id": 1554,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says B is correct because 'effectiveness varies by patient behavior rather than just the diet type.' But option B's actual text is 'Option A is wrong since the text notes some trials favored Mediterranean diets while others showed similar benefits from different approaches, contradicting the claim that only one works for everyone' — meta-commentary about why A is wrong.",
+      "Rule 8 — Option B does not state an inference about dietary intervention effectiveness. It is meta-commentary explaining why option A is wrong."
+    ]
+  },
+  {
+    "id": 1555,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1556,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says B is correct because 'the community-norms campaign resulted in more sustained behavior change compared to the fear-based approach, directly supporting the inference that framing around norms yields lasting results.' But option B's actual text is 'Option A is incorrect as the text only mentions sustained change for community norms, offering no evidence that fear appeals ever produce permanent results' — meta-commentary about why A is wrong.",
+      "Rule 8 — Option B does not state an inference about message framing. It is meta-commentary explaining why option A is wrong."
+    ]
+  },
+  {
+    "id": 1557,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Marked 'hard' but the question asks which intervention addresses multiple barriers, and the passage explicitly lists barriers (complex regimens, side effects, cost) and interventions (simplified dosing, financial counseling) in adjacent sentences. Matching them is single-step, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1558,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1559,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says D 'directly supports the conclusion by explicitly stating the trade-off between higher capital costs for light rail and the lower cost with greater flexibility of BRT.' But option D's actual text is 'Option A is incorrect because claiming the systems are identical ignores the stated differences in expense and flexibility required to prove any trade-off exists' — meta-commentary about why A is wrong.",
+      "Rule 8 — Option D does not state a finding about trade-offs. It is meta-commentary explaining why option A is incorrect."
+    ]
+  },
+  {
+    "id": 1560,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation says A is right because 'the experimental group showed greater improvement than controls in motor tasks, supporting the conclusion that the protocol likely improves performance.' But option A's actual text is 'Option B is wrong as the text never mentions harm or adverse effects, making claims of irreversible injury unsupported by the provided data' — meta-commentary about why B is wrong.",
+      "Rule 8 — Option A does not state a conclusion about the protocol's effect on motor recovery. It is meta-commentary explaining why option B is wrong."
+    ]
+  },
+  {
+    "id": 1561,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1562,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1563,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1564,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1565,
+    "verdict": "PASS"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1644,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse is reviewing the vital signs of 15 patients who had a procedure yesterday. The recorded temperatures (in \u00b0F) are: 98.6, 99.0, 98.8, 100.4, 98.5, 99.1, 98.7, 99.2, 98.9, 100.5, 98.6, 99.3, 98.4, 99.0, 98.8. What is the median temperature of this group?\nA) 98.7\u00b0F\nB) 98.9\u00b0F\nC) 99.0\u00b0F\nD) 99.1\u00b0F",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "98.7\u00b0F",
+      "99.1\u00b0F",
+      "98.9\u00b0F"
+    ],
+    "explanation": "To find the median, list the 15 temperatures in order: 98.4, 98.5, 98.6, 98.6, 98.7, 98.8, 98.8, 98.9, 99.0, 99.0, 99.1, 99.2, 99.3, 100.4, 100.5. The middle value at position 8 is 99.0\u00b0F. Option A (98.7\u00b0F) is the 6th value, Option B (99.1\u00b0F) is the 11th, and Option C (98.9\u00b0F) is the 7th, all incorrect.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1645,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse tracks the daily pulse rates of 5 patients over one week: 72, 74, 75, 78, and 72 beats per minute. What is the median pulse rate for this group?\nA) 75 beats per minute\nB) 74 beats per minute\nC) 72 beats per minute\nD) 74.5 beats per minute",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "72 beats per minute",
+      "75 beats per minute",
+      "74.5 beats per minute"
+    ],
+    "explanation": "To find the median, first arrange the numbers in order (72, 72, 74, 75, 78). Since there is an odd number of data points (5), the median is the middle value, which is the third number in the sorted list. The third value is 74. The other options represent common errors such as picking the lowest value, the next value after the median, or incorrectly averaging the two middle numbers.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1740,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "A nurse calculates that a patient requires 3 liters of fluid per hour. If the nurse doubles the rate to 6 liters per hour, what property of multiplication is demonstrated by the fact that 3 \u00d7 2 = 6 and 2 \u00d7 3 = 6, regardless of which number is multiplied first?\nA) The distributive property\nB) The associative property\nC) The commutative property\nD) The identity property",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The associative property",
+      "The distributive property",
+      "The identity property"
+    ],
+    "explanation": "The question asks about the multiplication property shown when 3 \u00d7 2 equals 2 \u00d7 3. This demonstrates the commutative property because the order of the factors does not change the product. The other options are incorrect: the associative property involves grouping three numbers, the distributive property connects multiplication and addition, and the identity property relates to multiplying by one. Therefore, only the commutative property fits the scenario where the numbers switch places but the result remains six.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1744,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "A nurse needs to calculate the total volume of IV fluids to be administered. The order is for 500 mL of fluid to be given every 2 hours for 3 days. Which property of multiplication allows the nurse to simplify the calculation by first finding the total number of 2-hour intervals in 3 days and then multiplying that number by 500 mL?\nA) Distributive Property\nB) Identity Property\nC) Commutative Property\nD) ssociative Property",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Commutative Property",
+      "Distributive Property",
+      "Identity Property"
+    ],
+    "explanation": "The Associative Property of multiplication allows the nurse to regroup the factors (the number of days, hours per day, and hours per dose) in any grouping without changing the final product. This is distinct from the Commutative Property, which only concerns the order of factors, and the Distributive Property, which involves multiplication over addition.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1747,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "A nurse is calculating the total volume of two IV bags to be hung simultaneously. The first bag contains 250 mL and the second bag contains 750 mL. The nurse knows that the order of addition does not change the final total volume. Which property of addition does this scenario demonstrate?\nA) ommutative property\nB) Distributive property\nC) Associative property\nD) Identity property",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Associative property",
+      "Distributive property",
+      "Identity property"
+    ],
+    "explanation": "The commutative property states that changing the order of numbers in an addition or multiplication problem does not change the result (e.g., 250 + 750 is the same as 750 + 250). This scenario illustrates that the sequence in which the two IV volumes are added does not affect the final sum.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1748,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A nurse needs to calculate the total cost of supplies for a patient's 3-day stay. The hospital charges \\$12.50 per day for nursing supplies. What is the total cost for the 3-day stay?\nA) \\$35.00\nB) \\$38.00\nC) \\$36.50\nD) \\$37.50",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\$35.00",
+      "\\$36.50",
+      "\\$38.00"
+    ],
+    "explanation": "To find the total cost, multiply the daily rate of \\$12.50 by the 3-day stay, which equals \\$37.50. Option A (\\$35.00) is incorrect because it likely results from subtracting instead of multiplying. Option B (\\$36.50) is wrong as it does not match the calculated product of the given numbers. Option C (\\$38.00) is inaccurate because it exceeds the true total derived from the math problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1749,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A patient's medication order specifies a dosage of 0.5 mg. The available tablets are scored and labeled as containing \\(\\frac{1}{4}\\) mg each. How many tablets should the nurse administer?\nA) 4 tablets\nB) 1 tablet\nC) \\(\\frac{1}{2}\\) tablet\nD) 2 tablets",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "4 tablets",
+      "1 tablet",
+      "\\(\\frac{1}{2}\\) tablet"
+    ],
+    "explanation": "To find the number of tablets needed, divide the prescribed dose (0.5 mg) by the dose per tablet (0.25 mg), which equals 2. The distractors represent common errors: confusing \\(\\frac{1}{4}\\) with \\(\\frac{1}{2}\\), thinking the answer is the fraction itself, or incorrectly calculating the division.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1753,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A patient's medication dosage is prescribed as 0.25 grams. The medication is available in tablets that contain 250 milligrams each. How many tablets should be administered?\nA) 1 tablet\nB) 2 tablets\nC) 0.5 tablets\nD) 4 tablets",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "0.5 tablets",
+      "2 tablets",
+      "4 tablets"
+    ],
+    "explanation": "To find the tablets, convert 0.25 grams to 250 milligrams, which matches exactly one 250 mg tablet. Choosing 0.5 tablets implies only half the needed dose, while 2 or 4 tablets would overdose the patient significantly. The math confirms 250 mg divided by 250 mg per tablet equals 1.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1754,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A nurse needs to convert the fraction \\(\\frac{3}{4}\\) into a decimal to calculate the correct dosage. Which of the following is the correct decimal equivalent?\nA) 0.75\nB) 0.43\nC) 0.075\nD) 0.34",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "0.075",
+      "0.34",
+      "0.43"
+    ],
+    "explanation": "To find the decimal equivalent of \\(\\frac{3}{4}\\), divide 3 by 4 to get 0.75. Option A is correct because it matches this calculation. Option B is wrong as it adds an extra zero, making it ten times smaller. Option C incorrectly treats the fraction as a mixed number or concatenates digits. Option D is also wrong, likely confusing the numerator with the decimal place. The question asks for the exact decimal value, which is 0.75.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1756,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A nurse is preparing a solution by mixing \\(\\frac{3}{4}\\) cup of sterile water with \\(\\frac{1}{2}\\) cup of medication. What is the total volume of the mixture in cups?\nA) \\(\\frac{3}{4}\\) cups\nB) \\(\\frac{5}{4}\\) cups\nC) \\(\\frac{1}{4}\\) cups\nD) 1 cup",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{1}{4}\\) cups",
+      "\\(\\frac{3}{4}\\) cups",
+      "1 cup"
+    ],
+    "explanation": "To find the total volume, add \\(\\frac{3}{4}\\) cup and \\(\\frac{1}{2}\\) cup by converting \\(\\frac{1}{2}\\) to \\(\\frac{2}{4}\\), resulting in \\(\\frac{5}{4}\\) cups. Option A (\\(\\frac{1}{4}\\) cups) is wrong because it subtracts instead of adding. Option B (\\(\\frac{3}{4}\\) cups) ignores the medication volume entirely. Option C (1 cup) incorrectly assumes \\(\\frac{5}{4}\\) equals 1. The correct answer is \\(\\frac{5}{4}\\) cups.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1758,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A nurse is preparing a medication solution by mixing \\(\\frac{3}{4}\\) teaspoon of liquid medication into a container that already holds \\(\\frac{1}{2}\\) teaspoon of water. What is the total volume of the mixture in teaspoons?\nA) \\(\\frac{5}{4}\\)\nB) 1 \\(\\frac{1}{4}\\)\nC) \\(\\frac{7}{4}\\)\nD) 1 \\(\\frac{1}{2}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "1 \\(\\frac{1}{2}\\)",
+      "\\(\\frac{5}{4}\\)",
+      "\\(\\frac{7}{4}\\)"
+    ],
+    "explanation": "To find the total volume, add the two fractions: \\(\\frac{3}{4}\\) + \\(\\frac{1}{2}\\). By finding a common denominator of 4, the fraction \\(\\frac{1}{2}\\) becomes \\(\\frac{2}{4}\\), resulting in \\(\\frac{5}{4}\\). The improper fraction \\(\\frac{5}{4}\\) is equivalent to the mixed number 1 \\(\\frac{1}{4}\\). Option B is incorrect because it fails to convert the denominator before adding, and Option D is the result of subtracting instead of adding.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1759,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "A nurse is calculating the total dosage of a medication for a patient who receives 250 mg of drug A, 150 mg of drug B, and 50 mg of drug C in a single administration. What is the total amount of medication in milligrams?\nA) 400 mg\nB) 300 mg\nC) 450 mg\nD) 350 mg",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "400 mg",
+      "300 mg",
+      "350 mg"
+    ],
+    "explanation": "To find the total dosage, add 250 mg, 150 mg, and 50 mg together. The sum is 450 mg, which matches the correct answer. The other options are incorrect because they result from calculation errors or omitting values. Specifically, 400 mg, 300 mg, and 350 mg do not equal the true total when all three amounts are combined.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1760,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the cost of medication for a patient. The prescription requires 3 bottles of a drug, and each bottle costs \\$15.50. Which algebraic expression represents the total cost, where x represents the number of bottles?\nA) 15.50 * 3\nB) x / 3\nC) 3 + 15.50\nD) 15.50x",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "3 + 15.50",
+      "15.50 * 3",
+      "x / 3"
+    ],
+    "explanation": "The expression 15.50x correctly models the total cost because it multiplies the unit price by the variable number of bottles. The wrong answer 3 + 15.50 adds a fixed count to the price, which is mathematically invalid for this scenario. Similarly, 15.50 * 3 calculates a specific total for exactly three bottles rather than a general formula using x. Finally, x / 3 incorrectly divides the bottle count by three, failing to represent the cumulative cost. This question tests the ability to translate word problems into algebraic expressions.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1762,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is collecting data on a patient's vital signs every 4 hours over a 24-hour shift. If the pattern of data collection continues consistently, how many data points will be recorded by the end of the shift, including the start and end times?\nA) 7\nB) 5\nC) 6\nD) 8",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "5",
+      "7",
+      "8"
+    ],
+    "explanation": "The nurse records data at 0 hours (start), 4 hours, 8 hours, 12 hours, 16 hours, and 20 hours (end of the 24-hour block). This creates a sequence of 6 terms. Common errors include counting only the intervals (5) or miscounting the total number of points in the sequence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1764,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A nursing home needs to replace a 20-foot hallway with a new carpet that is 25% longer. What is the length of the new carpet in feet?\nA) 17.5\nB) 25\nC) 15\nD) 22.5",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "15",
+      "22.5",
+      "17.5"
+    ],
+    "explanation": "To find the new length, calculate 25% of the original 20 feet (which is 5 feet) and add it to the original length (20 + 5 = 25). The other answers result from common errors such as subtracting the percentage, dividing by a factor, or calculating the percentage incorrectly.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1765,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A nurse is preparing a solution by mixing 250 mL of saline with 750 mL of water. What is the ratio of saline to the total volume of the solution?\nA) 1:3\nB) 1:4\nC) 1:2\nD) 3:4",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "1:3",
+      "3:4",
+      "1:2"
+    ],
+    "explanation": "The total volume of the solution is the sum of the saline and water (250 mL + 750 mL = 1000 mL). The ratio of saline to the total volume is 250 mL to 1000 mL, which simplifies to 1:4. The distractors represent common errors such as ignoring the total volume, mixing up the parts, or failing to simplify the fraction.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1766,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is monitoring the output of a patient's IV infusion pump. The pump starts with 500 mL of fluid, and the rate is constant at 50 mL per hour. Which function best represents the remaining volume (V) of fluid in the bag after t hours?\nA) V = 500 + 50t\nB) V = 500 - 50t\nC) V = 50t\nD) V = 500 / t",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "V = 500 + 50t",
+      "V = 50t",
+      "V = 500 / t"
+    ],
+    "explanation": "The correct answer subtracts the amount of fluid used (50 mL/hour multiplied by time t) from the initial volume of 500 mL. The other options are incorrect because they either add fluid instead of subtracting, ignore the initial volume, or incorrectly divide the volume by time.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1767,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A nurse is preparing a solution where the ratio of salt to water is 1 part salt to 4 parts water. If the nurse mixes 20 mL of salt with 80 mL of water, what is the total volume of the solution?\nA) 100 mL\nB) 20 mL\nC) 80 mL\nD) 90 mL",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "20 mL",
+      "80 mL",
+      "90 mL"
+    ],
+    "explanation": "The total volume is 100 mL because adding 20 mL of salt and 80 mL of water equals 100 mL. The 20 mL and 80 mL options are wrong as they represent only individual components, not the sum. The 90 mL choice is incorrect since the volumes add directly without loss in this scenario. This math question requires simple addition of the given quantities to find the final solution volume.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1768,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A nurse is preparing a medication solution and needs to calculate the total volume required. The order specifies adding 250 mL of saline to 125 mL of another solution. How many milliliters of solution are needed in total?\nA) 50 mL\nB) 37.5 mL\nC) 125 mL\nD) 375 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "125 mL",
+      "37.5 mL",
+      "50 mL"
+    ],
+    "explanation": "To find the total volume, simply add the 250 mL of saline and the 125 mL of the other solution together, which equals 375 mL. The 125 mL option is wrong because it only counts one part of the mixture. The 37.5 mL and 50 mL choices are incorrect as they do not represent the sum of the two specified volumes. Therefore, 375 mL is the only mathematically accurate total for this nurse's order.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1769,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A nurse is preparing a medication solution that requires mixing 125 mL of saline with 40 mL of a drug concentrate. What is the total volume of the final solution in milliliters?\nA) 1650 mL\nB) 165 mL\nC) 100 mL\nD) 121 mL",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "100 mL",
+      "1650 mL",
+      "121 mL"
+    ],
+    "explanation": "To find the total volume, simply add the 125 mL of saline and the 40 mL of drug concentrate together. The sum is 165 mL, which matches the correct answer. The option 100 mL is wrong because it subtracts the volumes instead of adding them. The choice 1650 mL is incorrect as it mistakenly adds a zero to the true sum. Finally, 121 mL is wrong because it appears to be the result of subtracting 40 from 125.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1770,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A hospital is preparing a saline solution for a patient. The prescribed concentration is 0.9% sodium chloride, which means there are 0.9 grams of salt in every 100 milliliters of solution. How many grams of sodium chloride are needed to prepare exactly 500 milliliters of this solution?\nA) 9\nB) 45\nC) 4.5\nD) 5.4",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "9",
+      "45",
+      "5.4"
+    ],
+    "explanation": "To find the amount of salt, set up a proportion where 0.9 grams corresponds to 100 mL, and x grams corresponds to 500 mL. Solving for x gives (0.9 * 500) / 100 = 4.5 grams. The distractor '9' results from simply adding 0.9 five times, '45' results from a decimal error, and '5' is a common rounding mistake.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1771,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A prescription calls for 250 mg of medication to be taken every 8 hours. If the medication is available in tablets that contain 125 mg each, how many tablets should be administered with each dose?\nA) 3 tablets\nB) 4 tablets\nC) 1.5 tablets\nD) 2 tablets",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "1.5 tablets",
+      "3 tablets",
+      "4 tablets"
+    ],
+    "explanation": "To find the number of tablets needed, divide the required dose (250 mg) by the strength of one tablet (125 mg), which equals 2. The other options likely result from calculation errors such as multiplying instead of dividing or using incorrect ratios.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1772,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient's medication order states to administer 250 mg of a drug. If the available formulation has a concentration of 500 mg per 2 mL, how many milliliters should be administered?\nA) 1.25 mL\nB) 0.25 mL\nC) 1.0 mL\nD) 0.5 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "1.0 mL",
+      "0.25 mL",
+      "1.25 mL"
+    ],
+    "explanation": "To find the volume, set up a proportion where 500 mg corresponds to 2 mL, so 250 mg corresponds to half that volume, which is 1 mL divided by 2, resulting in 0.5 mL. Distractors include doubling the result (1.0 mL), calculating the decimal part of the concentration (0.25 mL), or adding the milligrams to the volume incorrectly (1.25 mL).",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1773,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient's doctor orders a medication dose of 250 mg. The available tablets are labeled 0.5 g each. How many tablets should the nurse administer?\nA) 1 tablet\nB) 0.5 tablets\nC) 0.75 tablets\nD) 0.25 tablets",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "0.25 tablets",
+      "1 tablet",
+      "0.75 tablets"
+    ],
+    "explanation": "The correct answer is 0.5 because the nurse must convert grams to milligrams (250 mg is half of 500 mg) or recognize that 0.5 g equals 500 mg, meaning the patient needs half of one tablet. The other options result from common calculation errors or misreading the dosage.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1774,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A nurse needs to calculate the total volume of fluid a patient will receive over the next 4 hours. The IV pump is set to deliver 75 mL/hour. What is the total volume?\nA) 250 mL\nB) 375 mL\nC) 3000 mL\nD) 300 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "250 mL",
+      "375 mL",
+      "3000 mL"
+    ],
+    "explanation": "To find the total volume, multiply the hourly rate (75 mL) by the number of hours (4), which equals 300 mL. The distractors represent common errors such as dividing instead of multiplying (25 mL/hour * 4 = 100, not listed, so 250 is likely a mental math error or misreading 75 as 60+90), multiplying by the wrong time (75 * 5 = 375), and a decimal placement error (3000).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1775,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A nurse is preparing a medication solution and needs to calculate the total volume of liquid required. The order is for 125 mL of Drug A mixed with 375 mL of Drug B. How much total liquid will be in the final mixture?\nA) 250\nB) 375\nC) 125\nD) 500 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "250",
+      "125",
+      "375"
+    ],
+    "explanation": "To find the total volume, add 125 mL and 375 mL to get 500 mL, which matches the correct answer. The option 400 mL is wrong because it underestimates the sum by 100 mL. The choice 625 mL is incorrect as it adds an extra 125 mL beyond the true total. Finally, 450 mL is wrong since it falls short by 50 mL from the actual calculation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1779,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A doctor prescribes a medication dose of 250 mg. If the available formulation is 5 mg/mL, how many milliliters should be administered?\nA) 125 mL\nB) 100\nC) 5 mL\nD) 50 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "5 mL",
+      "100",
+      "125 mL"
+    ],
+    "explanation": "To find the volume, divide the required dose (250 mg) by the concentration (5 mg/mL), which equals 50 mL. The distractor 5 mL results from multiplying instead of dividing, 250 mL ignores the concentration entirely, and 125 mL represents half the correct calculation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1780,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse reviews the daily temperatures of 5 patients over one week to determine the average temperature. The temperatures (in degrees Fahrenheit) are: 98.6, 99.1, 98.9, 99.2, and 98.7. What is the mean temperature for these patients?\nA) 98.6\nB) 98.8\nC) 98.9\nD) 99.0",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "98.8",
+      "99.0",
+      "98.6"
+    ],
+    "explanation": "To find the mean, sum all the temperatures (98.6 + 99.1 + 98.9 + 99.2 + 98.7 = 494.5) and divide by the number of patients (5). The result is \\(\\frac{494.5}{5}\\) = 98.9. The other options represent common calculation errors or distractors near the actual mean.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1782,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse is reviewing the weekly temperatures of 5 patients over a 5-day period. The temperatures (in degrees Fahrenheit) are: 101, 99, 100, 101, 100. What is the median temperature for this group of patients?\nA) 100.5\nB) 101\nC) 100\nD) 99",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "99",
+      "101",
+      "100.5"
+    ],
+    "explanation": "To find the median, arrange the five temperatures in order: 99, 100, 100, 101, 101. The middle value in this set is 100, making it the correct answer. Option 100.2 is incorrect because the median must be an actual value from the dataset, not an average. Option 101 is wrong as it represents the upper quartile, not the center. Option 100.5 is also invalid since it is a calculated mean rather than the observed middle number.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1783,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse reviews the following table showing the number of patients admitted to the emergency room on four consecutive days: Day 1: 12, Day 2: 15, Day 3: 12, Day 4: 20. What is the mean (average) number of admissions per day?\nA) 12\nB) 14\nC) 14.75\nD) 15",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "15",
+      "14",
+      "12"
+    ],
+    "explanation": "To find the mean, sum the total number of admissions (12 + 15 + 12 + 20 = 59) and divide by the number of days (4). The result is 59 divided by 4, which equals 14.75. Answer choice B (15) is a common mistake resulting from rounding up, while C and D represent the mode or the lowest value, respectively.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1787,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse is reviewing a chart that shows the number of patients admitted to the emergency room over a 5-day period: 12, 15, 18, 12, and 20. What is the mean number of daily admissions?\nA) 15.4\nB) 14.8\nC) 16.0\nD) 15.0",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "16.0",
+      "15.0",
+      "14.8"
+    ],
+    "explanation": "To find the mean, sum the five daily admission counts (12, 15, 18, 12, 20) to get 77, then divide by 5, resulting in 15.4. Option A (16.0) is incorrect because it likely stems from a calculation error or misreading the data. Option B (15.0) is wrong as it represents the median, not the average. Option C (14.8) is inaccurate due to improper division or summing. The correct answer is 15.4.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1904,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "A nurse needs to calculate the total weight in grams of a medication order consisting of 250 mg of amoxicillin and 125 mg of clavulanate. Which of the following expressions correctly represents the total weight in grams using variables m for the weight in milligrams?\nA) (m + n) / 1000\nB) (m + n) * 1000\nC) (m * n) / 1000\nD) m / 1000 + n / 1000",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "(m * n) / 1000",
+      "(m + n) * 1000",
+      "m / 1000 + n / 1000"
+    ],
+    "explanation": "The correct answer combines both weights (m + n) and converts the total milligrams to grams by dividing by 1000. The other options fail to perform the necessary conversion or misinterpret the operation required to change the unit from milligrams to grams.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1905,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "A nurse is calculating the total medication volume for a patient. The doctor orders 250 mL of IV fluid to be mixed with 50 mL of an antibiotic solution. Which of the following expressions correctly represents the total volume in milliliters, and what is the result using the order of operations?\nA) 250 * 50 = 12,500 mL\nB) 250 + 50 * 1 = 250 mL\nC) (250 + 50) / 1 = 250 mL\nD) 250 + 50 = 300 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "250 + 50 * 1 = 250 mL",
+      "(250 + 50) / 1 = 250 mL",
+      "250 * 50 = 12,500 mL"
+    ],
+    "explanation": "The total volume requires adding 250 mL and 50 mL, making 250 + 50 = 300 mL the only correct expression. Options like 250 + 50 * 1 incorrectly imply multiplication changes the sum, while (250 + 50) / 1 falsely divides the total by one. Similarly, 250 * 50 wrongly multiplies the volumes instead of combining them. Only the simple addition accurately reflects mixing the two fluid amounts to reach 300 mL.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1906,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the dosage for a medication. The order is for 500 mg, but the available supply is 250 mg per tablet. How many tablets are needed? Let x represent the number of tablets. Which algebraic expression correctly represents the total milligrams received?\nA) x / 250\nB) 500 / x\nC) 250x\nD) 500x",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "500x",
+      "x / 250",
+      "500 / x"
+    ],
+    "explanation": "The order requires 500 mg, but each tablet contains 250 mg. If x is the number of tablets, the total milligrams received is 250 times x, making 250x the correct expression. Option 500x incorrectly uses the total dose instead of the dose per tablet. Option x / 250 divides the tablet count by the dose, which is mathematically invalid here. Option 500 / x divides the total dose by the tablet count, which does not represent the total milligrams received.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1907,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the medication dosage for a patient. The doctor orders 250 mg of a drug, but the available concentration is labeled as 0.5 g/mL. Which algebraic expression represents the volume (in mL) of medication the nurse needs to administer?\nA) \\(\\frac{250}{500}\\)\nB) 250 * 0.5\nC) \\(\\frac{500}{250}\\)\nD) 250 + 500",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "250 * 0.5",
+      "250 + 500",
+      "\\(\\frac{500}{250}\\)"
+    ],
+    "explanation": "The correct expression is 250 divided by 500 because the concentration 0.5 g/mL must first be converted to mg/mL (0.5 g = 500 mg), and volume is found by dividing the desired dose by the concentration. The other options result from incorrect operations or failing to convert units before calculating.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1908,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "A nurse needs to calculate the total medication dosage for a patient receiving two separate infusions: 500 mL of Solution A at 2 mL/hr and 750 mL of Solution B at 2 mL/hr. Using the distributive property of multiplication over addition, which expression represents the total volume administered per hour? (Assume the flow rate is the same for both).\nA) 2 * (500 + 750)\nB) 2 * 500 + 2 * 750\nC) 2 * 500 + 750\nD) (500 + 750) * 2",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "2 * 500 + 2 * 750",
+      "(500 + 750) * 2",
+      "2 * 500 + 750"
+    ],
+    "explanation": "The distributive property states that a(b + c) = ab + ac, meaning you multiply the flow rate by the sum of the volumes. While '2 * (500 + 750)' and '(500 + 750) * 2' are mathematically equivalent due to the commutative property, the question specifically asks for the expression representing the total volume derived from the distributive property applied to the sum of the two separate flows, making '2 * (500 + 750)' the most direct representation of the concept described in the prompt. The other options either fail to distribute the rate correctly or ignore the second volume entirely.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1909,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "A nurse is preparing a medication mixture using 30 mL of Drug A and 45 mL of Drug B. If the nurse adds 10 mL of saline to the mixture, which property of addition ensures that the total volume calculated as (30 + 45) + 10 is the same as 30 + (45 + 10)?\nA) The Commutative Property\nB) The Identity Property\nC) The Associative Property\nD) The Distributive Property",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The Commutative Property",
+      "The Distributive Property",
+      "The Identity Property"
+    ],
+    "explanation": "The Associative Property of addition states that the way numbers are grouped does not change the sum, allowing the nurse to regroup the additions without altering the result. The other properties involve changing the order of numbers or distributing multiplication over addition, which do not apply to this specific regrouping scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1910,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A nurse needs to calculate the cost of a medication that is priced at \\$18.50 per month for a 3-month supply. What is the total cost for the 3-month supply?\nA) \\$5.50\nB) \\$61.50\nC) \\$55.50\nD) \\$54.50",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\$5.50",
+      "\\$61.50",
+      "\\$54.50"
+    ],
+    "explanation": "To find the total cost, multiply the monthly price of \\$18.50 by the number of months, 3. The calculation 18.50 \u00d7 3 equals 55.50, which represents the correct total. The other options result from common errors such as misplacing the decimal point or performing incorrect multiplication.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1911,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A nurse is preparing a medication solution by mixing 300 mL of saline with 250 mL of water to create a total volume of 550 mL. If the physician orders the medication to be administered as a \\(\\frac{1}{4}\\) teaspoon dose, how many milliliters are in \\(\\frac{1}{4}\\) teaspoon, assuming 1 teaspoon equals 5 mL?\nA) 1.0 mL\nB) 1.5 mL\nC) 1.25 mL\nD) 2.5 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "1.5 mL",
+      "1.0 mL",
+      "2.5 mL"
+    ],
+    "explanation": "The question tests number sense and unit conversion; since 1 teaspoon equals 5 mL, one-fourth of a teaspoon is calculated by dividing 5 by 4, which results in 1.25 mL. The other options represent common errors such as misplacing the decimal point or incorrectly halving the value.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1912,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "A nurse is preparing a medication solution where the concentration must not exceed 25% of the total volume. If the nurse adds 40 mL of a drug, what is the minimum total volume of the solution required to stay within the limit? (Assume the drug volume is part of the total volume).\nA) 120 mL\nB) 160 mL\nC) 140 mL\nD) 180 mL",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "120 mL",
+      "140 mL",
+      "180 mL"
+    ],
+    "explanation": "The nurse must ensure the 40 mL drug represents no more than 25% of the total volume, meaning the total must be at least 160 mL since 40 divided by 0.25 equals 160. Any volume smaller than this, such as the 120 mL or 140 mL options, would result in a concentration exceeding the 25% safety limit. While 180 mL is safe, it is not the minimum required volume to stay within the constraint. Therefore, 160 mL is the precise lowest total volume that satisfies the condition.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1913,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "A nurse is calculating the dosage for a pediatric patient. The physician orders 50 mg of medication, and the available concentration is 125 mg per 5 mL. How many milliliters should the nurse administer? (Round to the nearest tenth if necessary.)\nA) 1.6 mL\nB) 2.5 mL\nC) 2.0 mL\nD) 4.0 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "1.6 mL",
+      "2.5 mL",
+      "4.0 mL"
+    ],
+    "explanation": "To solve this, set up the proportion where 125 mg corresponds to 5 mL, and 50 mg corresponds to x mL. Calculating (50 mg / 125 mg) * 5 mL results in exactly 2.0 mL. The distractors represent common calculation errors: 1.6 mL is likely from dividing 50 by 31.25 incorrectly or misplacing decimals, 2.5 mL is the result of dividing 5 by 2 (ignoring the 50 mg numerator), and 4.0 mL is the result of multiplying 5 by 0.8 instead of dividing.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1914,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is reviewing a dosage calculation sheet where the prescribed amount is 120 mg and the available concentration is 60 mg/mL. If the nurse follows the pattern of dividing the prescribed dose by the concentration to find the volume, what volume in mL should be administered?\nA) 180 mL\nB) 360 mL\nC) 2 mL\nD) 240 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "360 mL",
+      "240 mL",
+      "180 mL"
+    ],
+    "explanation": "To find the volume, divide the prescribed dose of 120 mg by the concentration of 60 mg/mL, which equals 2 mL. The option 360 mL is wrong because it multiplies the numbers instead of dividing. The option 240 mL is incorrect as it adds the dose and concentration together. Finally, 180 mL is wrong because it subtracts the concentration from the dose.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1915,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is administering a medication where the dosage increases by 5 mg each day. If the patient received 15 mg on day 1, how much medication will they receive on day 6? This pattern represents which type of function?\nA) Exponential function\nB) rithmetic sequence\nC) Linear function\nD) Geometric sequence",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Geometric sequence",
+      "Linear function",
+      "Exponential function"
+    ],
+    "explanation": "The correct answer is an arithmetic sequence because the dosage increases by a constant difference (5 mg) for each subsequent day, which is the defining characteristic of an arithmetic progression. While this can also be modeled by a linear equation, in the context of discrete days with a constant step, 'arithmetic sequence' is the most precise classification for the pattern itself.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1916,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A prescription states that a patient needs 0.5 mL of medication. The available solution is labeled 2 mL = 10 mg. How many milligrams of medication does the patient receive?\nA) 5 mg\nB) 0.2 mg\nC) 2 mg\nD) 1 mg",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "2 mg",
+      "0.2 mg",
+      "5 mg"
+    ],
+    "explanation": "To find the amount of medication, set up a proportion where 2 mL corresponds to 10 mg, and 0.5 mL corresponds to x mg. Solving 10 mg / 2 mL = x mg / 0.5 mL gives x = 1 mg. The other options likely result from multiplying instead of dividing, or calculating the wrong unit rate.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1917,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A nurse needs to prepare a medication dosage. The order states 150 mg of medication per dose, and the available concentration is 250 mg per 5 mL. How many milliliters should the nurse administer for one dose?\nA) 2.5 mL\nB) 3 mL\nC) 5 mL\nD) 4 mL",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "2.5 mL",
+      "4 mL",
+      "5 mL"
+    ],
+    "explanation": "To find the volume, set up a proportion where 250 mg corresponds to 5 mL and solve for the volume of 150 mg: (\\(\\frac{150}{250}\\)) * 5 = 3 mL. The other options result from calculation errors, such as dividing 150 by 250 and forgetting to multiply by the original volume (2.5 mL) or incorrectly multiplying the numbers (4 mL or 5 mL).",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1918,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient is prescribed a medication dose of 250 mg. The available supply of the medication is in 5 mg tablets. How many tablets should the nurse administer?\nA) 5 tablets\nB) 25 tablets\nC) 50 tablets\nD) 125 tablets",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "5 tablets",
+      "25 tablets",
+      "125 tablets"
+    ],
+    "explanation": "To find the number of tablets, divide the total dose (250 mg) by the strength of one tablet (5 mg), which equals 50 tablets. Option A (5 tablets) is incorrect because it ignores the total dose required. Option B (25 tablets) would only provide 125 mg, half the needed amount. Option C (125 tablets) vastly exceeds the prescription. The calculation 250 divided by 5 confirms 50 is the only accurate answer for this math problem.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1919,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse reviews the vital signs of 5 patients over a shift. The systolic blood pressures recorded are 120, 140, 130, 120, and 150 mmHg. What is the median systolic blood pressure for these patients?\nA) 140 mmHg\nB) 130 mmHg\nC) 135 mmHg\nD) 132 mmHg",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "132 mmHg",
+      "135 mmHg",
+      "140 mmHg"
+    ],
+    "explanation": "To find the median, first arrange the numbers in ascending order: 120, 120, 130, 140, 150. Since there are 5 numbers (an odd count), the median is the middle number, which is the third value, 130. The other options represent common calculation errors, such as averaging the extremes or misidentifying the middle position.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2019,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is monitoring a patient's hourly vital signs and records the following sequence of systolic blood pressure readings: 120, 125, 130, 135. If this linear pattern continues, what will be the blood pressure reading for the 5th hour? \n\nA) 138\nB) 140\nC) 145\nD) 150",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "138",
+      "145",
+      "150"
+    ],
+    "explanation": "The pattern increases by 5 each hour, so the 5th reading is 140. Option A suggests 138, which is only an increase of 3. Option C proposes 145, implying a jump of 10 instead of 5. Option D claims 150, which would require adding 15. Since the sequence adds 5 consistently, the next value must be 140.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 2020,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is reviewing a medication schedule that follows a linear pattern based on the hour of the day. At 8:00 AM, the dosage is 10 mg. At 9:00 AM, the dosage is 15 mg. At 10:00 AM, the dosage is 20 mg. If this pattern continues, what is the dosage at 11:00 AM?\n\nA) 25 mg\nB) 30 mg\nC) 35 mg\nD) 40 mg",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "30 mg",
+      "35 mg",
+      "40 mg"
+    ],
+    "explanation": "The pattern shows a linear increase of 5 mg every hour. Since the dosage rises from 10 mg at 8:00 AM to 15 mg at 9:00 AM, adding another 5 mg to the 20 mg at 10:00 AM results in 25 mg at 11:00 AM. Option A correctly identifies this calculated value based on the established arithmetic sequence. Option B is incorrect because it adds 10 mg instead of the required 5 mg increment. Option C is wrong as it assumes a doubling pattern rather than the consistent addition observed. Option D is invalid because it projects a much larger increase that breaks the linear rule defined by the data points.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 2021,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "A nurse is calculating medication dosages and needs to evaluate the expression 3x + 5 when the dosage unit x is 4. What is the total dosage?\nA) 20\nB) 9\nC) 12\nD) 17",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "12",
+      "9",
+      "20"
+    ],
+    "explanation": "To find the total dosage, substitute x with 4 in the expression 3x + 5, which becomes 3 times 4 plus 5. This calculation yields 12 plus 5, resulting in the correct answer of 17. The option 12 ignores the final addition step, 9 subtracts instead of adding, and 20 multiplies incorrectly by 5. Only 17 accurately reflects the proper order of operations for this dosage evaluation.",
+    "difficulty": "hard",
+    "status": "active"
+  }
+]

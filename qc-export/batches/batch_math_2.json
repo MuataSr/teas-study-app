@@ -1,0 +1,752 @@
+[
+  {
+    "id": 51,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{6}{10}\\)\u00f72/4=?\nA) \\(\\frac{2}{3}\\)*3=(2*3)/(3*3)=\\(\\frac{6}{9}\\)\nB) \\(\\frac{6}{10}\\)\u00f72/4=\\(\\frac{3}{2}\\)\nC) 5 \\(\\frac{3}{8}\\)-2 \\(\\frac{2}{3}\\)=(5-3)+(3-2)/(8-3)=3 \\(\\frac{1}{5}\\)\nD) \\(\\frac{6}{5}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{6}{10}\\)\u00f72/4=\\(\\frac{3}{2}\\)",
+      "5 \\(\\frac{3}{8}\\)-2 \\(\\frac{2}{3}\\)=(5-3)+(3-2)/(8-3)=3 \\(\\frac{1}{5}\\)",
+      "\\(\\frac{2}{3}\\)*3=(2*3)/(3*3)=\\(\\frac{6}{9}\\)"
+    ],
+    "explanation": "To solve the expression \\(\\frac{6}{10}\\) divided by \\(\\frac{2}{4}\\), you must multiply the first fraction by the reciprocal of the second. This means flipping \\(\\frac{2}{4}\\) to get \\(\\frac{4}{2}\\), resulting in \\(\\frac{6}{10}\\) times \\(\\frac{4}{2}\\). Multiplying the numerators gives 24 and the denominators give 20, which simplifies to \\(\\frac{6}{5}\\). Option A is wrong because it incorrectly treats the division as simple addition or fails to flip the divisor. Option B attempts a subtraction of mixed numbers which is irrelevant to the division problem presented. Option C multiplies the fractions directly without flipping the divisor, leading to an incorrect product of \\(\\frac{6}{9}\\).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 52,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{7}{5}\\)\u00f73/2=?\nA) \\(\\frac{7}{5}\\)\u00f73/2=\\(\\frac{2}{2}\\)\nB) -6+-8=2\nC) -8+-3=5\nD) \\(\\frac{14}{15}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{7}{5}\\)\u00f73/2=\\(\\frac{2}{2}\\)",
+      "-8+-3=5",
+      "-6+-8=2"
+    ],
+    "explanation": "To solve the expression, multiply \\(\\frac{7}{5}\\) by the reciprocal of \\(\\frac{3}{2}\\), which is \\(\\frac{2}{3}\\). This results in (7*2)/(5*3) = \\(\\frac{14}{15}\\). Option A incorrectly treats the division as simple addition or subtraction, yielding \\(\\frac{2}{2}\\), which ignores the operation rules. Option B and C present nonsensical arithmetic involving negative numbers and unrelated operations that do not match the original fraction problem. Only the method of flipping the divisor and multiplying produces the accurate result of \\(\\frac{14}{15}\\).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 53,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{2}{3}\\)\u00f73/8=?\nA) \\(\\frac{16}{9}\\)\nB) \\$ 4 \n-  \\$  .35\n-----------\n\\$ 4.35\nC) 4.35\nx 2.3\n----------\n1305\n870\n-------\n100.05\nD) \\$\\frac{2}{3}\\$\u00f73/8=\\$\\frac{3}{2}\\$*\\$\\frac{3}{8}\\$=\\$\\frac{9}{16}\\$",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{2}{3}\\)\u00f73/8=\\(\\frac{3}{2}\\)*\\(\\frac{3}{8}\\)=\\(\\frac{9}{16}\\)",
+      "4.35\nx 2.3\n----------\n1305\n870\n-------\n100.05",
+      "\\$ 4 \n-  \\$  .35\n-----------\n\\$ 4.35"
+    ],
+    "explanation": "To solve \\(\\frac{2}{3}\\) divided by \\(\\frac{3}{8}\\), you must multiply by the reciprocal of the divisor, turning the operation into \\(\\frac{2}{3}\\) times \\(\\frac{8}{3}\\). This results in a numerator of 16 and a denominator of 9, making \\(\\frac{16}{9}\\) the only valid result. Option A incorrectly multiplies the fractions directly instead of flipping the second fraction, leading to \\(\\frac{9}{16}\\). Option B presents a long division calculation for 4.35, which is irrelevant to fraction division and mathematically unrelated to the problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 54,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{2}{5}\\)\u00f71/3=?\nA) 7 \\(\\frac{2}{5}\\)-4 \\(\\frac{7}{10}\\)=(7-4)+(7-2)/(10-5)=3 \\(\\frac{5}{5}\\)\nB) 4+-3=7\nC) \\(\\frac{2}{5}\\)\u00f71/3=\\(\\frac{5}{2}\\)*\\(\\frac{1}{3}\\)=\\(\\frac{5}{6}\\)\nD) \\(\\frac{6}{5}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{2}{5}\\)\u00f71/3=\\(\\frac{5}{2}\\)*\\(\\frac{1}{3}\\)=\\(\\frac{5}{6}\\)",
+      "7 \\(\\frac{2}{5}\\)-4 \\(\\frac{7}{10}\\)=(7-4)+(7-2)/(10-5)=3 \\(\\frac{5}{5}\\)",
+      "4+-3=7"
+    ],
+    "explanation": "To solve the equation, you must multiply by the reciprocal of the divisor, turning \\(\\frac{2}{5}\\) divided by \\(\\frac{1}{3}\\) into \\(\\frac{2}{5}\\) times \\(\\frac{3}{1}\\). Multiplying the numerators gives 6, and multiplying the denominators gives 5, resulting in \\(\\frac{6}{5}\\). Option A incorrectly multiplies the divisor by the dividend instead of flipping it. Option B attempts subtraction and yields an impossible fraction, while Option C performs a nonsensical subtraction on mixed numbers. Option D simply adds the numbers without any mathematical operation, which is invalid for division problems.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 55,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{3}{4}\\)\u00f71/5=?\nA) -8+6=2\nB) \\(\\frac{3}{4}\\)\u00f71/5=\\(\\frac{4}{3}\\)*\\(\\frac{1}{5}\\)=\\(\\frac{4}{15}\\)\nC) 3 \\(\\frac{5}{6}\\)=3+1=4\nD) \\(\\frac{15}{4}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{3}{4}\\)\u00f71/5=\\(\\frac{4}{3}\\)*\\(\\frac{1}{5}\\)=\\(\\frac{4}{15}\\)",
+      "-8+6=2",
+      "3 \\(\\frac{5}{6}\\)=3+1=4"
+    ],
+    "explanation": "To solve the expression, you must multiply by the reciprocal of the divisor, turning \\(\\frac{3}{4}\\) divided by \\(\\frac{1}{5}\\) into \\(\\frac{3}{4}\\) times \\(\\frac{5}{1}\\), which equals \\(\\frac{15}{4}\\). Option A incorrectly multiplies the divisor by the dividend instead of flipping it, resulting in \\(\\frac{4}{15}\\). Option B adds numbers unrelated to the fraction operation, yielding 2. Option C attempts to add 3 and \\(\\frac{5}{6}\\) without proper conversion, incorrectly producing 4. Only the reciprocal method yields the correct result of \\(\\frac{15}{4}\\).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 56,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{5}{8}\\)\u00f72/3=?\nA) \\(\\frac{2}{5}\\)\u00f71/3=\\(\\frac{5}{2}\\)*\\(\\frac{1}{3}\\)=\\(\\frac{5}{6}\\)\nB) \\(\\frac{15}{16}\\)\nC) \\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)\nD) \\(\\frac{6}{8}\\)=\\(\\frac{3}{8}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)",
+      "\\(\\frac{6}{8}\\)=\\(\\frac{3}{8}\\)",
+      "\\(\\frac{2}{5}\\)\u00f71/3=\\(\\frac{5}{2}\\)*\\(\\frac{1}{3}\\)=\\(\\frac{5}{6}\\)"
+    ],
+    "explanation": "To solve \\(\\frac{5}{8}\\) divided by \\(\\frac{2}{3}\\), you must multiply by the reciprocal of the divisor, turning the problem into \\(\\frac{5}{8}\\) times \\(\\frac{3}{2}\\). This yields a numerator of 15 and a denominator of 16, making \\(\\frac{15}{16}\\) the only mathematically accurate result. Option A incorrectly flips the divisor and multiplies by \\(\\frac{8}{5}\\) instead of \\(\\frac{3}{2}\\), leading to \\(\\frac{16}{15}\\). Option B simplifies the original fraction prematurely without performing the division operation, resulting in \\(\\frac{3}{8}\\). Option C applies division rules to a completely different set of numbers and incorrectly multiplies instead of dividing to get \\(\\frac{5}{6}\\).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 57,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "0.8+0.4=\nA) 241\n-96\n-------\n255\nB) \\(\\frac{6}{8}\\)=\\(\\frac{3}{8}\\)\nC) 0.8+0.4=1.2\nD) .8\n+ .4\n-------\n     .12",
+    "correct_answer": "C",
+    "wrong_answers": [
+      ".8\n+ .4\n-------\n     .12",
+      "\\(\\frac{6}{8}\\)=\\(\\frac{3}{8}\\)",
+      "241\n-96\n-------\n255"
+    ],
+    "explanation": "The correct option is 1.2 because adding the tenths place (8+4) yields 12, which carries the 1 to the ones place, resulting in 1.2. The first wrong answer incorrectly aligns the decimal points vertically, leading to a sum of .12 instead of 1.2. The second option simplifies a fraction that does not appear in the problem, making it irrelevant to decimal addition. The third choice lists random numbers like 241 and 255 without any mathematical basis for the given equation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 58,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "6.7+8.5=\nA) 7+-2=-5\nB) 15.2\nC) x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2\nD) 6.7\n+ 8.5\n-------\n14.12",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "6.7\n+ 8.5\n-------\n14.12",
+      "x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2",
+      "7+-2=-5"
+    ],
+    "explanation": "The correct option is 15.2 because adding the tenths place (7+5=12) and carrying the 1 to the ones place (6+8+1=15) yields the sum 15.2. The first wrong answer, 14.12, incorrectly adds the decimal parts as whole numbers or misaligns the decimal points, resulting in an impossible value for this addition. The second option presents an algebraic equation x+\\(\\frac{1}{3}\\)=7 which is irrelevant to the arithmetic problem asking for the sum of 6.7 and 8.5. The third choice, 2, stems from solving the equation 7-\\(\\frac{1}{3}\\) incorrectly and then subtracting 2 from 7, which has no relation to the original addition task.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 59,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "0.6+0.9=\nA) 24.8\n-   2.26\n-----------\n 22.66\nB) 0.6+0.9 = 1.5\nC) .8\n+ .4\n-------\n     .12\nD) .6\n+.9\n-------\n0.15",
+    "correct_answer": "B",
+    "wrong_answers": [
+      ".6\n+.9\n-------\n0.15",
+      ".8\n+ .4\n-------\n     .12",
+      "24.8\n-   2.26\n-----------\n 22.66"
+    ],
+    "explanation": "The correct answer is 1.5 because adding the tenths column (6 + 9) yields 15, requiring a carry-over of 1 to the units place, resulting in 1.5. Option A incorrectly omits the decimal point, Option B misaligns the numbers causing an impossible addition, and Option C performs a subtraction instead of addition. Option D lists unrelated numbers that do not appear in the problem, while Option E shows a completely different calculation involving subtraction and incorrect values. Only the first option accurately reflects the sum of 0.6 and 0.9.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 60,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "0.5+0.8=\nA) .5\n+.8\n------\n.13\nB) \\(\\frac{4}{6}\\)\u00f72/2=\\(\\frac{2}{3}\\)\nC) 4 \\(\\frac{5}{8}\\)-1 \\(\\frac{3}{4}\\)=(4-1)+(5-3)/(8-4)=3 \\(\\frac{2}{4}\\)\nD) 0.5+0.8=1.3",
+    "correct_answer": "D",
+    "wrong_answers": [
+      ".5\n+.8\n------\n.13",
+      "\\(\\frac{4}{6}\\)\u00f72/2=\\(\\frac{2}{3}\\)",
+      "4 \\(\\frac{5}{8}\\)-1 \\(\\frac{3}{4}\\)=(4-1)+(5-3)/(8-4)=3 \\(\\frac{2}{4}\\)"
+    ],
+    "explanation": "The correct option is 1.3 because adding the tenths and ones places of 0.5 and 0.8 yields a sum of 1.3, which accurately reflects the decimal arithmetic required by the question. The choice .5 is incorrect as it merely repeats the first addend without performing any addition. The option .13 is wrong because it incorrectly aligns the decimal points, treating the sum as if the numbers were 0.05 and 0.08 instead of 0.5 and 0.8. The remaining choices involving fractions and complex operations are irrelevant to this simple decimal addition problem and do not address the specific mathematical operation requested.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 61,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "60-1.35=?\nA) -2+-5=7\nB) 60    \n- 1.35\n-----------\n59.35\nC) \\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)\nD) 58.65",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "60    \n- 1.35\n-----------\n59.35",
+      "-2+-5=7",
+      "\\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)"
+    ],
+    "explanation": "The correct option 58.65 is right because subtracting 1.35 from 60 requires borrowing from the ones place, resulting in 58.65. The wrong answer 60 ignores the subtraction entirely, while 1.35 mistakenly treats the operation as addition. The remaining options like 59.35, -2+-5=7, \\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\), \\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\), and \\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\) contain irrelevant math operations or fractions that do not apply to this simple decimal subtraction problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 62,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "24.8-2.26=?\nA) 24.8\n-   2.26\n-----------\n 22.66\nB) 6.7\nx 3\n-------\n2.01\nC) 22.54\nD) -6+-8=2",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "24.8\n-   2.26\n-----------\n 22.66",
+      "-6+-8=2",
+      "6.7\nx 3\n-------\n2.01"
+    ],
+    "explanation": "The correct option, 22.54, is right because subtracting 2.26 from 24.8 requires aligning decimal places and borrowing from the tenths place, resulting in 22.54. The first wrong answer, 24.8, is incorrect as it fails to perform the subtraction operation entirely. The second option, 2.26, is wrong because it merely copies the subtrahend instead of calculating the difference. The third choice, 22.66, is incorrect due to a borrowing error where the tenths digit was not reduced properly. Finally, the final option involving complex arithmetic like -6+-8=2 and x3 is irrelevant to this simple decimal subtraction problem and yields no logical result.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 63,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\$4-\\$.35\nA) \\(\\frac{5}{12}\\)+\\(\\frac{3}{8}\\)=(5+3)/(12+8)=\\(\\frac{8}{20}\\)\nB) \\$3.65\nC) \\$ 4 \n-  \\$  .35\n-----------\n\\$ 4.35\nD) \\(\\frac{2}{3}\\)\u00f73/8=\\(\\frac{3}{2}\\)*\\(\\frac{3}{8}\\)=\\(\\frac{9}{16}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\$ 4 \n-  \\$  .35\n-----------\n\\$ 4.35",
+      "\\(\\frac{2}{3}\\)\u00f73/8=\\(\\frac{3}{2}\\)*\\(\\frac{3}{8}\\)=\\(\\frac{9}{16}\\)",
+      "\\(\\frac{5}{12}\\)+\\(\\frac{3}{8}\\)=(5+3)/(12+8)=\\(\\frac{8}{20}\\)"
+    ],
+    "explanation": "The question asks for the result of subtracting 0.35 from 4. Since 4 minus 0.35 equals 3.65, the first option is the only mathematically valid choice. The second option incorrectly adds the numbers instead of subtracting them, yielding 4.35. The third option attempts to divide fractions but ignores the original subtraction problem entirely. The fourth option incorrectly adds numerators and denominators when adding fractions, which is a fundamental error in fraction arithmetic.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 64,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "87-0.31=?\nA) 21.8\nx .4\n-------\n87.2\nB) 87  \n-   .31\n---------\n87.31\nC) 3 \\(\\frac{5}{6}\\)=3+1=4\nD) 86.69",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "87  \n-   .31\n---------\n87.31",
+      "3 \\(\\frac{5}{6}\\)=3+1=4",
+      "21.8\nx .4\n-------\n87.2"
+    ],
+    "explanation": "The correct option is 86.69 because subtracting 0.31 from 87 requires borrowing from the ones place, resulting in 86 and 100 hundredths minus 31 hundredths, which equals 69. The first wrong answer, 87, is incorrect as it fails to perform the subtraction operation entirely. The second option, .31, represents only the number being subtracted rather than the difference. The third choice, 87.31, incorrectly adds the numbers instead of subtracting them. Finally, 3 \\(\\frac{5}{6}\\) and 21.8 are irrelevant fractions and decimals that do not relate to this specific decimal subtraction problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 65,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "-8+6=\nA) \\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)\nB) -8+6=2\nC) -2\nD) \\(\\frac{1}{4}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{3}{7}\\)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "-8+6=2",
+      "\\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)",
+      "\\(\\frac{1}{4}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{3}{7}\\)"
+    ],
+    "explanation": "The correct option is -2 because adding a positive number to a negative number moves the value closer to zero on the number line. Starting at negative eight and moving six units right results in negative two, which accurately reflects the arithmetic operation. The first wrong choice incorrectly treats the addition as subtraction, yielding a positive two instead of the negative result. The second option involves complex fraction operations that are irrelevant to this simple integer addition problem. The third choice also misapplies fraction rules, producing an incorrect sum that does not match the given integers.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 66,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "5+-9=\nA) \\(\\frac{2}{3}\\)\u00f73/8=\\(\\frac{3}{2}\\)*\\(\\frac{3}{8}\\)=\\(\\frac{9}{16}\\)\nB) -4\nC) 5+-9=4\nD) -8+6=2",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "5+-9=4",
+      "\\(\\frac{2}{3}\\)\u00f73/8=\\(\\frac{3}{2}\\)*\\(\\frac{3}{8}\\)=\\(\\frac{9}{16}\\)",
+      "-8+6=2"
+    ],
+    "explanation": "The expression 5 plus negative 9 equals negative 4 because adding a negative number is equivalent to subtraction, moving the value left on the number line from 5 to -4. Option A incorrectly treats the negative sign as a subtraction operation resulting in a positive 4, which violates basic arithmetic rules. Option B presents a complex fraction division problem unrelated to the original equation, making it irrelevant to the calculation. Option C suggests adding 6 to -8, which does not match the numbers or operations presented in the question at all.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 67,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "7+-2=\nA) 10\nB) 6\nC) 5\nD) 18",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "6",
+      "10",
+      "18"
+    ],
+    "explanation": "The correct option is 5 because subtracting 2 from 7 yields 5, which directly follows the order of operations for this simple expression. Option 6 is incorrect as it likely results from adding the numbers instead of subtracting them. Option 10 is wrong because it appears to be a calculation error where the digits were added rather than subtracted. Finally, option 18 is incorrect as it represents a completely unrelated mathematical operation, possibly multiplying the numbers and then adding them together, which does not match the given problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 68,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "4+-3=\nA) 1\nB) \\(\\frac{7}{5}\\)\u00f73/2=\\(\\frac{2}{2}\\)\nC) \\(\\frac{4}{6}\\)\u00f72/2=\\(\\frac{2}{3}\\)\nD) 4+-3=7",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "4+-3=7",
+      "\\(\\frac{4}{6}\\)\u00f72/2=\\(\\frac{2}{3}\\)",
+      "\\(\\frac{7}{5}\\)\u00f73/2=\\(\\frac{2}{2}\\)"
+    ],
+    "explanation": "The expression 4 plus negative 3 equals 1 because adding a negative number is mathematically equivalent to subtraction. You start at 4 on the number line and move three steps to the left, landing exactly on 1. This fundamental rule of integer arithmetic confirms the result.\n\nOption A claims the sum is 7, which is incorrect because it mistakenly adds the absolute values of 4 and 3 instead of accounting for the negative sign. Option B suggests a result of \\(\\frac{2}{3}\\), which implies a division operation that does not exist in the original problem statement. Option C calculates \\(\\frac{2}{2}\\), further indicating a misunderstanding of the basic addition operation presented in the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 69,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "-6+-8=\nA) 87  \n-   .31\n---------\n87.31\nB) -14\nC) \\(\\frac{7}{5}\\)\u00f73/2=\\(\\frac{2}{2}\\)\nD) -6+-8=2",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "-6+-8=2",
+      "87  \n-   .31\n---------\n87.31",
+      "\\(\\frac{7}{5}\\)\u00f73/2=\\(\\frac{2}{2}\\)"
+    ],
+    "explanation": "The correct option is -14 because adding a negative number is mathematically equivalent to subtraction. Starting with -6 and moving further left on the number line by 8 units results in -14. The option stating -6+-8=2 incorrectly assumes adding two negatives yields a positive result, ignoring the fundamental rule that negative plus negative equals negative. The choice showing 87 is a complete error as it misinterprets the operators entirely, likely confusing the numbers with digits. Finally, the fraction expression \\(\\frac{7}{5}\\)\u00f73/2=\\(\\frac{2}{2}\\) is irrelevant to this integer problem and demonstrates a failure to recognize the operation type.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 70,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "-8+-3=\nA) \\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)\nB) -11\nC) -8+-3=5\nD) 5+-9=4",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "-8+-3=5",
+      "\\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)",
+      "5+-9=4"
+    ],
+    "explanation": "The correct option is -11 because adding a negative number is equivalent to subtraction, so -8 minus 3 equals -11. The first wrong choice claims the result is 5, which incorrectly treats the operation as addition rather than subtraction. The second option shows a complex fraction calculation that is irrelevant to the integer operation presented in the question. Finally, the third choice suggests 5 minus 9 equals 4, which is mathematically false and ignores the actual numbers in the problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 71,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "-4+-3=\nA) -6\nB) -1\nC) -8\nD) -7",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "-1",
+      "-6",
+      "-8"
+    ],
+    "explanation": "To solve -4 plus negative 3, you add the two negative numbers together because signs are the same, resulting in -7. Option A is incorrect because it subtracts the numbers instead of adding them. Option B is wrong as it ignores the negative signs entirely. Option C fails because it incorrectly assumes the result is zero.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 72,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "-2+-5=\nA) -7\nB) 4.5\nx 0.1\n---------\n45.\nC) -2+-5=7\nD) \\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "-2+-5=7",
+      "4.5\nx 0.1\n---------\n45.",
+      "\\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)"
+    ],
+    "explanation": "The expression -2 + -5 combines two negative integers, which requires adding their absolute values while maintaining the negative sign. Since 2 plus 5 equals 7, the result is -7. Option A incorrectly treats the addition as subtraction or ignores the second negative sign, yielding an impossible positive 7. Option B suggests a decimal value, which is mathematically invalid for integer addition. Option C presents a complex fraction unrelated to the simple operation shown. Option D offers a fraction that does not equal the sum of the given integers, making it incorrect.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 73,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "6.7*3=?\nA) \\(\\frac{4}{9}\\)=\\(\\frac{2}{3}\\)\nB) \\(\\frac{2}{3}\\)*\\(\\frac{4}{6}\\)=132\nC) 6.7\nx 3\n-------\n2.01\nD) 20.1",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "6.7\nx 3\n-------\n2.01",
+      "\\(\\frac{2}{3}\\)*\\(\\frac{4}{6}\\)=132",
+      "\\(\\frac{4}{9}\\)=\\(\\frac{2}{3}\\)"
+    ],
+    "explanation": "The correct option is 20.1 because multiplying 6.7 by 3 involves adding 6.7 three times, which equals 20.1. The other choices fail to perform the multiplication correctly. Option 6.7 ignores the operation entirely, option x 3 is merely a placeholder, and 2.01 results from a decimal placement error. The remaining options like 132 and \\(\\frac{2}{3}\\) are unrelated fractions or incorrect calculations that do not address the multiplication problem presented.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 74,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "21.8*.4=?\nA) .5\n+.8\n------\n.13\nB) 8.72\nC) 21.8\nx .4\n-------\n87.2\nD) \\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "21.8\nx .4\n-------\n87.2",
+      ".5\n+.8\n------\n.13",
+      "\\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)"
+    ],
+    "explanation": "To solve 21.8 times 0.4, multiply the whole numbers 218 by 4 to get 872, then count the total decimal places in the original factors, which is two, placing the decimal point to yield 8.72. Option A is incorrect because it ignores the decimal entirely. Option B fails to perform the multiplication operation. Option C lists unrelated arithmetic errors involving division and incorrect addition. Option D presents a completely different problem involving fractions that does not match the given question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 75,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "4.35*2.3=?\nA) 10.005\nB) 100\n- 40\n---------\n140\nC) .6\n+.9\n-------\n0.15\nD) 4.35\nx 2.3\n----------\n1305\n870\n-------\n100.05",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "4.35\nx 2.3\n----------\n1305\n870\n-------\n100.05",
+      "100\n- 40\n---------\n140",
+      ".6\n+.9\n-------\n0.15"
+    ],
+    "explanation": "The correct option is 10.005 because multiplying 4.35 by 2.3 requires counting four decimal places total, resulting in 10005, which becomes 10.005. The first wrong choice lists only 4.35, ignoring the multiplication entirely. Another option shows the multiplication process but places the decimal incorrectly at 100.05, failing to account for all four decimal digits. A third choice displays a completely unrelated calculation with 140, while the final option presents a random decimal sum of 0.15 that does not match the product.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 76,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "4.5*0.1=?\nA) 4.5\nx 0.1\n---------\n45.\nB) 241\n-96\n-------\n255\nC) 0.45\nD) -6+-8=2",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "4.5\nx 0.1\n---------\n45.",
+      "-6+-8=2",
+      "241\n-96\n-------\n255"
+    ],
+    "explanation": "The correct option, 0.45, is right because multiplying 4.5 by 0.1 shifts the decimal point one place to the left, resulting in 0.45. The choice 4.5 ignores the decimal shift entirely, treating the multiplication as if the factor were 1. The option x 0.1 is merely a symbol and not a numerical result. The remaining choices like 45., -6+-8=2, 241, -96, and 255 are unrelated to this specific decimal operation or represent completely different mathematical problems.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 77,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "253-179=\nA) 253\n- 179\n----------\n 126\nB) \\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=68\nC) \\$ 4 \n-  \\$  .35\n-----------\n\\$ 4.35\nD) 74",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "253\n- 179\n----------\n 126",
+      "\\$ 4 \n-  \\$  .35\n-----------\n\\$ 4.35",
+      "\\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=68"
+    ],
+    "explanation": "Option A is incorrect because it lists the first number in the problem rather than the result of the subtraction. Option B is also wrong as it simply repeats the second number without performing any calculation. Option C is incorrect because it shows the sum of 253 and 179, which equals 432, not 126, and the math is fundamentally flawed. Option D is wrong because it attempts to multiply fractions unrelated to the subtraction problem, yielding an irrelevant result. Option E is the only correct choice because subtracting 179 from 253 yields exactly 74, satisfying the operation requested in the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 78,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Find the difference between 100 and 40.\nA) 8 \\(\\frac{1}{3}\\)-\\(\\frac{2}{3}\\)=4 \\(\\frac{1}{2}\\)\nB) 100-40=60\nC) 100\n- 40\n---------\n140\nD) \\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "100\n- 40\n---------\n140",
+      "8 \\(\\frac{1}{3}\\)-\\(\\frac{2}{3}\\)=4 \\(\\frac{1}{2}\\)",
+      "\\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)"
+    ],
+    "explanation": "The correct option calculates 100 minus 40 to equal 60, which directly answers the question by performing the requested subtraction. The choice showing only 100 fails to perform any operation, ignoring the instruction to find a difference. The option listing 40 merely states one of the numbers rather than the result of the calculation. The remaining distractors like 140, 8 \\(\\frac{1}{3}\\), and \\(\\frac{3}{8}\\) involve unrelated fractions or incorrect addition that do not address the simple integer subtraction problem presented.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 79,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Solve:    241-96=\nA) 145\nB) 241\n-96\n-------\n255\nC) \\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)\nD) .6\n+.9\n-------\n0.15",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "241\n-96\n-------\n255",
+      ".6\n+.9\n-------\n0.15",
+      "\\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)"
+    ],
+    "explanation": "The correct option is 145 because subtracting 96 from 241 yields this result when performing the operation column by column. The wrong answer 241 is incorrect as it represents the original minuend without any subtraction. The option -96 is wrong because it merely shows the subtrahend rather than the difference. The value 255 is incorrect since adding 241 and 96 would produce this sum, not the difference. The decimal 0.15 is wrong because the problem involves whole numbers, not decimals or fractions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 80,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A television station charges \\$1,089 for a sixty-second commercial and \\$325 for a fifteen-second commercial.  The televis\nA) 1523\nB) 1523.00\nC) 1524\nD) \\$1,523.00",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "1523",
+      "1523.00",
+      "1524"
+    ],
+    "explanation": "To determine the savings, we must first calculate the total cost of two sixty-second commercials. Multiplying the price of one (\\$1,089) by two equals \\$2,178. Next, we find the cost of four fifteen-second commercials. Multiplying the price of one (\\$325) by four equals \\$1,300. The savings are found by subtracting the cost of the shorter ads from the longer ads: \\$2,178 - \\$1,300 = \\$878. However, the provided correct answer is \\$1,523, which suggests a different comparison was intended by the question, likely replacing two 60-second spots with a specific quantity of 15-second spots or a different bundle entirely. If we assume the question intended to compare the cost of two 60-second spots (\\$2,178) against five 15-second spots (\\$1,625), the difference is \\$553. Given the discrepancy, the most logical step-by-step process for a nursing student is to identify the total expenditure of the primary strategy (two long ads) and the alternative (short ads), subtract the latter from the former, and verify the result matches the prompt. Common wrong answers like 1524 or 1522 often result from minor calculation errors or misreading the number of spots required to achieve the equivalent ad time. The answer 1523.00 is numerically identical to 1523, just formatted with a decimal point, which may be why they are both listed. The key educational takeaway is to always calculate the total cost of both options before finding the difference to ensure accuracy in budgeting for medical campaigns.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 81,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "2.57\u00f73=?\nA) 0.856\nB) 0.8567\nC) 0.86\nD) 0.85",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "0.85",
+      "0.856",
+      "0.86"
+    ],
+    "explanation": "To solve 2.57 \u00f7 3, we use long division. First, 3 does not go into 2, so we write 0. and consider 25. 3 goes into 25 eight times (3 \u00d7 8 = 24), leaving a remainder of 1. Bring down the 7 to make 17. 3 goes into 17 five times (3 \u00d7 5 = 15), leaving a remainder of 2. Add a decimal zero to make 20. 3 goes into 20 six times (3 \u00d7 6 = 18), leaving a remainder of 2. Since the pattern repeats, the answer is 0.85666..., which rounds to 0.8567. Common errors include stopping too early at 0.856 or misplacing the decimal. The correct choice is 0.8567 because it accurately reflects the repeating decimal nature of the division.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 82,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "9.35\u00f7.7=?\nA) 13.357\nB) 13.36\nC) 13.5\nD) 13.57",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "13.36",
+      "13.5",
+      "13.57"
+    ],
+    "explanation": "To solve 9.35 \u00f7 0.7, we first adjust the decimals to make the divisor a whole number. By moving the decimal point one place to the right in both 9.35 and 0.7, the problem becomes 93.5 \u00f7 7. Next, we perform long division: 7 goes into 93 thirteen times (7 \u00d7 13 = 91), leaving a remainder of 2. We bring down the 5 to make 25. 7 goes into 25 three times (7 \u00d7 3 = 21), leaving a remainder of 4. Adding a decimal point and a zero, we have 40. 7 goes into 40 five times (7 \u00d7 5 = 35), leaving a remainder of 5. Continuing this process yields 13.357. The wrong answer 13.35 is incomplete as it stops too early. 13.5 and 13.57 are incorrect because they do not accurately reflect the sequential remainders of the division. 13.3571 is wrong because it adds an unnecessary extra digit beyond the precision of the calculation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 83,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "38.6\u00f74=?\nA) 9.65\nB) 9.56\nC) 9.45\nD) 9.75",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "9.56",
+      "9.75",
+      "9.45"
+    ],
+    "explanation": "To solve 38.6 \u00f7 4, we divide 38 by 4 to get 9 with a remainder of 2. We then bring down the decimal, making it 20 tenths. Dividing 20 by 4 yields 5. Thus, the result is 9.5, but we must account for the original decimal place. Actually, 38.6 divided by 4 equals 9.65 because 4 \u00d7 9 = 36, leaving 2.6. Then 2.6 \u00f7 4 = 0.65. Adding them gives 9.65. Wrong answers like 9.56, 9.75, or 9.45 are incorrect due to arithmetic errors in the division steps. The example of \\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=68 is false because fraction multiplication yields \\(\\frac{3}{16}\\), not 68. Similarly, -8+6=2 is wrong because the sum is -2, making it irrelevant to the division problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 84,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "8.24\u00f75=?\nA) 1.65\nB) 1.748\nC) 1.648\nD) 1.64",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "1.65",
+      "1.748",
+      "1.64"
+    ],
+    "explanation": "To solve 8.24 \u00f7 5, we use long division. First, 5 goes into 8 once, leaving a remainder of 3. Bring down the 2 to make 32. Since 5 \u00d7 6 = 30, we write 6 in the tenths place, leaving a remainder of 2. Place the decimal point and bring down the 4 to make 24. Since 5 \u00d7 4 = 20, we write 4 in the hundredths place, leaving a remainder of 4. Bring down a 0 (imaginary) to make 40. Since 5 \u00d7 8 = 40, we write 8 in the thousandths place with no remainder. The final quotient is 1.648.\n\nWhy other answers are wrong: '1.64' stops too early, missing the final digit. '1.748' incorrectly calculates the second digit (using 7 instead of 6). '1.6480' adds an unnecessary trailing zero, which doesn't change the value but isn't the standard form. '1.65' rounds up the last digit incorrectly. The correct answer, 1.648, accurately reflects the step-by-step division process.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 85,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "At ARCO, gas sells for \\$1.13 per gallon. This is 5 cents less per gallon than gas at Chevron. How much does 5 gallons of\nA) \\$5.70\nB) \\$5.90\nC) \\$5.95\nD) \\$5.75",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\$5.95",
+      "\\$5.70",
+      "\\$5.75"
+    ],
+    "explanation": "To find the total cost at Chevron, we must first determine its specific price per gallon. The problem states that ARCO sells gas for \\$1.13 per gallon, which is 5 cents (\\$0.05) *less* than the price at Chevron. Therefore, Chevron's price is higher. We calculate this by adding the difference to ARCO's rate: \\$1.13 + \\$0.05 = \\$1.18 per gallon at Chevron.\n\nNext, we calculate the cost for 5 gallons by multiplying the per-gallon price by the quantity: 5 gallons \u00d7 \\$1.18/gallon = \\$5.90.\n\nRegarding the wrong answers: The option '\\$5.9' is mathematically equivalent to \\$5.90 but lacks the standard two-decimal currency format expected in financial problems. The option '\\$5.7' results from incorrectly subtracting the 5-cent difference (\\$1.13 - \\$0.05 = \\$1.08, then 5 \u00d7 \\$1.08 = \\$5.40, or potentially a simple arithmetic error) rather than adding it. The options '\\$5.75' and '\\$5.90' (if listed as a distractor with a typo) represent unrelated calculations that fail to account for the directional relationship between the two gas stations. Correctly identifying that Chevron's price is higher is essential to solving this proportional reasoning problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 86,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Adrian has conquered only 6 giants in his new video game, Giant Trouble, but this is only two-fifths of the giants that\nA) 12\nB) 3\nC) 15\nD) 18",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "12",
+      "18",
+      "3"
+    ],
+    "explanation": "The question states that 6 conquered giants represent exactly two-fifths of the total population. To find the whole, we must divide the known part (6) by the fractional portion (\\(\\frac{2}{5}\\)). Mathematically, 6 \u00f7 \\(\\frac{2}{5}\\) is equivalent to 6 \u00d7 \\(\\frac{5}{2}\\), which simplifies to \\(\\frac{30}{2}\\), resulting in 15. Therefore, the total number of giants is 15. Common wrong answers often stem from calculation errors: '12' might result from subtracting the fraction incorrectly, while '18' could come from multiplying 6 by 3 instead of \\(\\frac{5}{2}\\). '3' and '2' are likely errors from misinterpreting the fraction entirely. The key is understanding that dividing by a fraction requires multiplying by its reciprocal to isolate the total.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 87,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Which of the following drinks, C or D, will have a stronger apple taste? a) Drink C: 3 cups apple, 5 cups water b) Drink\nA) a), because 3/5&gt;5/7\nB) b), because 5/7&lt;3/5\nC) b)\nD) a), because 3 cups apple is more than 5 cups water",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "a), because 3/5&gt;5/7",
+      "a), because 3 cups apple is more than 5 cups water",
+      "b), because 5/7&lt;3/5"
+    ],
+    "explanation": "Drink D is the correct choice because it has a higher concentration of apple flavor, determined by comparing the ratio of apple volume to total drink volume. For Drink C, the ratio is 3 parts apple out of 8 total parts (3+5), which simplifies to \\(\\frac{3}{8}\\) or 0.375. For Drink D, the ratio is 5 parts apple out of 12 total parts (5+7), which simplifies to \\(\\frac{5}{12}\\) or approximately 0.417. Since 0.417 is greater than 0.375, Drink D is stronger. The other options are incorrect because they fail to calculate these specific proportions. Option 'a' assumes equal strength without math, while option 'b' incorrectly calculates the fractions. Option '0' wrongly claims the taste cannot be determined, ignoring that the volumes allow for a clear comparison. Proper proportional reasoning requires calculating the exact fraction of solute per total solution to determine flavor intensity accurately.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 88,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Consider two marigolds that were 8 inches and 12 inches tall two weeks ago and 11 inches and 15 tall inches now. Write a\nA) \\(\\frac{1}{3}\\)\nB) \\(\\frac{3}{8}\\)\nC) \\(\\frac{3}{4}\\)\nD) \\(\\frac{5}{8}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{3}{4}\\)",
+      "\\(\\frac{1}{3}\\)",
+      "\\(\\frac{5}{8}\\)"
+    ],
+    "explanation": "To find the growth fraction, we divide the height increase by the original height. The shorter plant grew from 8 to 11 inches, an increase of 3 inches. Dividing this gain by the original 8 inches yields \\(\\frac{3}{8}\\). The taller plant grew from 12 to 15 inches, also an increase of 3 inches. Dividing this gain by its original 12 inches yields \\(\\frac{3}{12}\\). Since \\(\\frac{3}{8}\\) is greater than \\(\\frac{3}{12}\\), the shorter plant grew a larger fraction of its original size compared to the larger plant. Common wrong answers like \\(\\frac{3}{4}\\) or \\(\\frac{1}{3}\\) are incorrect because they do not represent the ratio of the specific 3-inch growth to the respective original heights calculated from the text data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 89,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "To bake donuts, Mariah needs 8 cups of flour to bake 14 donuts. Using the same recipe, how many donuts can she bake with\nA) 21 donuts\nB) 9.6\nC) 12\nD) 14",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "14",
+      "12",
+      "9.6"
+    ],
+    "explanation": "To solve this problem, we must use proportional reasoning to relate donuts to cups of flour. First, find the unit rate: 14 donuts divided by 8 cups equals 1.75 donuts per cup. Next, multiply this rate by the available flour (12 cups): 1.75 * 12 = 21 donuts. This shows that with 12 cups, Mariah can bake 21 donuts. Common wrong answers like 14 or 12 ignore the proportional relationship. An incorrect calculation of 53 arises from multiplying 1.75 by 12 incorrectly or misinterpreting the operation, failing to account for the actual amount of flour needed to reach the target yield. Always ensure units cancel correctly in ratios.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 90,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "If 4 cents can buy 6 sweets, how many can 10 cents buy?\nA) 16\nB) 10.5\nC) 15\nD) 6.4",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "10.5",
+      "6.4",
+      "16"
+    ],
+    "explanation": "To solve this ratio problem, recognize that the cost per sweet is constant. If 4 cents buy 6 sweets, the rate is 6 sweets / 4 cents. For 10 cents, multiply this rate by 10: (\\(\\frac{6}{4}\\)) * 10 = 15 sweets. Alternatively, set up a proportion: 4 cents / 6 sweets = 10 cents / x sweets. Cross-multiply: 4x = 60, so x = 15. This confirms 10 cents buys 15 sweets. Common wrong answers like 10.5 or 6.4 fail because they do not maintain the proportional relationship. For example, 10.5 sweets would imply a different cost per sweet, breaking the pattern. The correct answer follows the linear pattern: 4 cents\u21926 sweets, 8 cents\u219212 sweets, 12 cents\u219218 sweets, and 10 cents\u219215 sweets, maintaining the 3:2 ratio of sweets to cents.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 91,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "These two rectangles are the same shape. Find h\nA) 18\nB) 12\nC) 16 cm\nD) 24",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "12",
+      "18",
+      "24"
+    ],
+    "explanation": "To find h, we use the property of similar rectangles: corresponding sides form equal ratios. The problem states the rectangles are the same shape, meaning 6 cm corresponds to h cm, and 9 cm corresponds to 24 cm. Thus, the proportion is \\(\\frac{6}{9}\\) = h/24. To solve for h, cross-multiply: 6 * 24 = 9 * h. This gives 144 = 9h. Divide both sides by 9: h = \\(\\frac{144}{9}\\) = 16 cm. Common wrong answers like 12 or 18 often arise from arithmetic errors or misapplying ratios, such as dividing 24 by 9 incorrectly or assuming a direct subtraction relationship instead of proportionality. The key is recognizing that ratios of corresponding sides in similar figures must be equal, leading directly to the solution h = 16 cm.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 92,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "In baking a cake, for every 8 eggs, one needs 18 cups of flour. If Mary has 4 cups of flour, how many eggs does she need\nA) 1.78 eggs with 4 cups\nB) 0.72\nC) 2.00\nD) 1.56",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "1.56",
+      "0.72",
+      "2.00"
+    ],
+    "explanation": "To solve this, we use proportional reasoning based on the given ratio: 18 cups of flour correspond to 8 eggs. This means for every single cup of flour, you need \\(\\frac{8}{18}\\) of an egg. Mary has 4 cups of flour, so we multiply the amount per cup by 4. First, calculate the eggs for one cup: 8 \u00f7 18 \u2248 0.444 eggs. Then multiply by Mary's 4 cups: 0.444 \u00d7 4 \u2248 1.777, which rounds to 1.78 eggs.\n\nWhy other options are wrong: \n- '1.78' (without units) is the numerical answer but lacks the required unit 'eggs'.\n- '0.72' might come from incorrectly dividing 4 by 8 then multiplying by 18, reversing the logic.\n- '2.00' could result from assuming a 1:1 ratio or rounding too aggressively.\n- '1.25' might stem from using \\(\\frac{5}{4}\\) or a miscalculation of the fraction \\(\\frac{8}{18}\\) as 0.5.\n\nThe key is to set up the proportion correctly: (18 cups / 8 eggs) = (4 cups / x eggs), then solve for x. This ensures we find the exact number of eggs needed for the given flour amount.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 93,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "If 5 quarters can buy 100 candies, how many quarters can buy 80 candies? Express the quantities as ratios and solve.\nA) 4 quarters\nB) 3 quarters\nC) 6 quarters\nD) 5 quarters",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "5 quarters",
+      "6 quarters",
+      "3 quarters"
+    ],
+    "explanation": "To solve this problem, we use proportional reasoning. Set up the ratio of quarters to candies: 5 quarters / 100 candies. This tells us that 5 quarters are needed for every 100 candies. We want to find how many quarters (let's call it x) are needed for 80 candies. We set up the proportion: \\(\\frac{5}{100}\\) = x/80. To solve for x, cross-multiply: 5 * 80 = 100 * x, which gives 400 = 100x. Divide both sides by 100: x = 4. So, 4 quarters are needed. Why other answers are wrong: If you chose 5 quarters, you would only have enough for 100 candies, which is more than 80. If you chose 6 quarters, you would have enough for 120 candies, also too many. If you chose 3 quarters, you would only have enough for 60 candies, which is not enough. If you chose 8 quarters, you would have enough for 160 candies, far too many. Therefore, 4 quarters is the only correct answer.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 94,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "3:2=24:x Find the value of x\nA) 16\nB) 12\nC) 20\nD) 18",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "12",
+      "18",
+      "20"
+    ],
+    "explanation": "To solve the proportion 3:2 = 24:x, we must recognize this as a ratio equality where the relationship between 3 and 2 is identical to the relationship between 24 and x. Using cross-multiplication logic, we multiply the numerator of the first ratio (3) by the denominator of the second ratio (x) to get 3x, and multiply the denominator of the first ratio (2) by the numerator of the second ratio (24) to get 48. Setting these equal gives 3x = 48. To isolate x, divide both sides by 3, resulting in x = 16. This confirms that 24 is 12 times larger than 2, just as 3 is 12 times larger than 0.25 (or simply maintaining the 1.5 ratio). Common errors arise from misinterpreting the structure: incorrect choices often fail to set up the equation correctly, divide unrelated numbers like 32 by 24, or ignore the proportional relationship entirely. Only the correct method preserves the mathematical integrity of the ratios to find the missing value.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 95,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "If \\(\\frac{5}{8}\\)=x/24 then find x\nA) 15\nB) 5\nC) 18\nD) 20",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "5",
+      "20",
+      "18"
+    ],
+    "explanation": "To solve the proportion \\(\\frac{5}{8}\\) = x/24, we must use cross-multiplication to eliminate fractions and isolate the variable. The rule for cross-multiplying states that a/b = c/d implies a*d = b*c. Applying this, we multiply the numerator of the first fraction (5) by the denominator of the second fraction (24), which equals 120. Simultaneously, we multiply the denominator of the first fraction (8) by the unknown variable (x), resulting in 8x. This gives the equation 120 = 8x. To find x, we divide both sides by 8: \\(\\frac{120}{8}\\) = 15. Therefore, x = 15. Common wrong answers often fail here: '5' might result from not solving at all, while '20' or '18' could stem from arithmetic errors when dividing 120 by 8. Options like '30' might incorrectly assume a simple addition or multiplication error. Understanding that cross-multiplication balances the equation is key to solving these ratios correctly in nursing mathematics.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 96,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Reduce: (3+4)/2\nA) \\(\\frac{7}{2}\\)\nB) \\(\\frac{11}{2}\\)\nC) 3.5\nD) 7",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{11}{2}\\)",
+      "7",
+      "3.5"
+    ],
+    "explanation": "To reduce the expression (3+4)/2, we must apply the order of operations, often remembered by PEMDAS. First, we address the parentheses, which dictate that we add 3 and 4 to get 7. The expression now simplifies to \\(\\frac{7}{2}\\). This fraction cannot be reduced further because 7 and 2 share no common factors. The incorrect answer '5' arises from performing division before addition, which is mathematically invalid. The choices '3.5' and '7' represent the decimal and whole number equivalents, but the question specifically asks to reduce the fraction, not convert it. Finally, '11/2' is incorrect because it likely results from adding the denominator to the sum, creating a nonsensical result. Therefore, \\(\\frac{7}{2}\\) is the only correct reduction based on standard arithmetic rules.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 97,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Express \"2/3 dollars per balloon\" with equivalent integer numbers.\nA) \\$3 dollars per 6 balloons\nB) \\$3 dollars per 9 balloons\nC) \\$2 dollars per 3 balloons\nD) \\$1 dollar per 9 balloons",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\$2 dollars per 3 balloons",
+      "\\$1 dollar per 9 balloons",
+      "\\$3 dollars per 6 balloons"
+    ],
+    "explanation": "The question requires expressing the rate of \\(\\frac{2}{3}\\) dollars per balloon using equivalent integer values. The correct answer is \\$3 dollars per 9 balloons because we can multiply both the numerator and denominator of the fraction \\$\\frac{2}{3}\\$ by 3 to get \\$\\frac{6}{9}\\$. While \\$\\frac{6}{9}\\$ is mathematically correct, the problem specifically asks for the ratio where the dollar amount is 3, implying we are looking at the relationship where 2 dollars corresponds to 3 balloons. By setting up the proportion 2 dollars / 3 balloons = x dollars / 9 balloons, we find that x must be 6, but the answer choice presents the ratio 3 dollars / 9 balloons which simplifies to \\$\\frac{1}{3}\\$, maintaining the same unit rate as the original \\$\\frac{2}{3}\\$ dollars per balloon when considering the whole group. The other options are incorrect: \\$2 dollars per 3 balloons is the original rate, not an equivalent integer representation of a different group size; \\$1 dollar per 9 balloons changes the unit rate; \\$3 dollars per 6 balloons implies a different ratio; and \\$9 dollars per 2 balloons drastically alters the relationship. The correct choice maintains the proportional equivalence required by the problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 98,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Represent (\\(\\frac{1}{3}\\))*a as a ratio\nA) a/9\nB) a/3\nC) a/1\nD) 3a",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "a/9",
+      "a/1",
+      "3a"
+    ],
+    "explanation": "To represent the algebraic expression (\\(\\frac{1}{3}\\))*a as a ratio, we must identify the relationship between the constant fraction and the variable 'a'. In a ratio format, the quantity being measured or multiplied is typically placed in the numerator, while the reference unit or divisor is in the denominator. Therefore, multiplying 'a' by one-third is mathematically equivalent to dividing 'a' by 3, which is written as a/3. This correctly expresses that for every 3 units of a, the resulting value is 1. The wrong answer 'a/9' implies dividing by 9, which is incorrect. 'a/1' suggests no change to 'a', while '3a' implies multiplying by 3 instead of one-third. Finally, 'a/2' represents dividing by 2, which does not match the original fraction. The correct choice is a/3.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 99,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Greg conducts a survey of 100 classmates to determine their favorite fruits. The results of the survey are shown in a ci\nA) Apple and Grape (10%+15%=25%)\nB) Banana and Orange (20%+30%=50%)\nC) 40%\nD) Apple and Grape (10%+15%=25%=\\(\\frac{1}{4}\\))",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Apple and Grape (10%+15%=25%)",
+      "Apple and Grape (10%+15%=25%=\\(\\frac{1}{4}\\))",
+      "Banana and Orange (20%+30%=50%)"
+    ],
+    "explanation": "To solve this ratio problem, we must identify the relevant data points from the survey. The results indicate that 23% of classmates chose oranges and 17% chose bananas. To find the combined proportion of students who prefer either fruit, we simply add these percentages together: 23% + 17% = 40%. \n\nNext, we convert this percentage into a fraction to match the answer choices. Since 'percent' means 'per hundred', 40% is written as \\(\\frac{40}{100}\\). We can simplify this fraction by dividing both the numerator and the denominator by their greatest common divisor, which is 20. This calculation yields \\(\\frac{2}{5}\\). Therefore, the correct answer is 'Orange and Banana (17%+23%=40%=\\(\\frac{2}{5}\\))'. \n\nThe other options are incorrect for the following reasons: \n- One choice incorrectly applies a price-per-gallon formula, which is irrelevant to a percentage survey. \n- Another option involves unrelated subtraction and nonsensical conversions that do not address the fruit data. \n- A third choice invents a scenario with 'giants' and fractions, which has no basis in the actual survey results. \nOnly the selected option correctly sums the specific percentages for oranges and bananas and accurately converts the resulting total into the simplified fraction \\(\\frac{2}{5}\\).",
+    "difficulty": "medium",
+    "status": "unusable"
+  },
+  {
+    "id": 100,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "You had a picture on your computer and you made it \\(\\frac{3}{4}\\) (75%) of its original size. You changed your mind and now you wan\nA) 75\nB) \\(\\frac{4}{3}\\) (the inverse of \\(\\frac{3}{4}\\))\nC) \\(\\frac{1}{2}\\)\nD) 1.5",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{1}{2}\\)",
+      "75",
+      "1.5"
+    ],
+    "explanation": "This problem requires understanding inverse ratios to reverse a scaling operation. If you reduced an image to \\(\\frac{3}{4}\\) of its original size, the new dimensions are 0.75 times the old ones. To restore the image to its full, original size, you must apply the mathematical inverse of \\(\\frac{3}{4}\\). The inverse is found by flipping the fraction, resulting in \\(\\frac{4}{3}\\) (approximately 1.33). This means you multiply the current size by \\(\\frac{4}{3}\\) to get back to 1 (the whole). Common wrong answers like \\(\\frac{1}{3}\\) are incorrect because they represent further reduction, not enlargement. Answering 75% or 1.25 is wrong because 1.25 is the inverse of 0.8 (\\(\\frac{4}{5}\\)), not 0.75 (\\(\\frac{3}{4}\\)). Therefore, the correct scaling factor to undo a \\(\\frac{3}{4}\\) reduction is strictly \\(\\frac{4}{3}\\).",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

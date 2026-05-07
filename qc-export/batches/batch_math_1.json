@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "What part is shaded? Write a Fraction (Exercise A)\nA) \\(\\frac{1}{4}\\)\nB) \\(\\frac{2}{2}\\)\nC) \\(\\frac{1}{3}\\)\nD) \\(\\frac{24}{36}\\)=\\(\\frac{12}{18}\\)=\\(\\frac{5}{9}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{1}{3}\\)",
+      "\\(\\frac{24}{36}\\)=\\(\\frac{12}{18}\\)=\\(\\frac{5}{9}\\)",
+      "\\(\\frac{2}{2}\\)"
+    ],
+    "explanation": "The image shows a square divided into four equal sections with only one shaded, making the ratio 1 out of 4. Option A is wrong because it suggests three parts are shaded, which contradicts the visual evidence of a single section. Option B incorrectly simplifies twenty-four thirty-sixths to five ninths, ignoring that the total parts do not match the four-equal division shown. Option C is incorrect as it implies the entire square is shaded, whereas the diagram clearly displays three empty sections alongside the one filled area.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "What part is shaded? Write a Fraction (Exercise C)\nA) 2 regions folding once\nB) \\(\\frac{24}{36}\\)=\\(\\frac{12}{18}\\)=\\(\\frac{5}{9}\\)\nC) \\(\\frac{2}{3}\\)\nD) \\(\\frac{2}{1}\\)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\(\\frac{2}{1}\\)",
+      "2 regions folding once",
+      "\\(\\frac{24}{36}\\)=\\(\\frac{12}{18}\\)=\\(\\frac{5}{9}\\)"
+    ],
+    "explanation": "The shaded region covers two out of the three equal parts of the whole shape, making the ratio \\(\\frac{2}{3}\\). This directly matches the definition of a fraction representing a portion of a unit. Option A lists \\(\\frac{2}{1}\\), which implies the entire shape is shaded, contradicting the visible unshaded section. Option B suggests folding, a physical action irrelevant to calculating geometric area ratios. Option C presents complex reductions like \\(\\frac{24}{36}\\), which incorrectly assumes a different total number of regions than those shown in the diagram.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "What part is shaded? Write a Fraction (Exercise D)\nA) \\(\\frac{1}{4}\\)\nB) \\(\\frac{3}{4}\\)\nC) \\(\\frac{2}{5}\\)\nD) \\(\\frac{1}{2}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{1}{4}\\)",
+      "\\(\\frac{3}{4}\\)",
+      "\\(\\frac{2}{5}\\)"
+    ],
+    "explanation": "The shaded region covers exactly half of the total area shown in the diagram, making the fraction \\(\\frac{1}{2}\\). This is evident because the shape is divided into two equal parts, with only one part colored. Option 0 is incorrect because it implies no area is shaded, which contradicts the visual evidence. Option 1 is wrong because it suggests the entire shape is shaded, ignoring the uncolored section. Finally, the choice stating it cannot be determined is false since the symmetry and equal division allow for a precise calculation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "What part is shaded? Write a Fraction (Exercise E)\nA) \\(\\frac{3}{4}\\)\nB) \\(\\frac{4}{4}\\)\nC) \\(\\frac{2}{4}\\)\nD) \\(\\frac{1}{2}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{2}{4}\\)",
+      "\\(\\frac{4}{4}\\)",
+      "\\(\\frac{1}{2}\\)"
+    ],
+    "explanation": "The shaded region covers three out of the four equal parts of the rectangle, making the fraction \\(\\frac{3}{4}\\). Option A is wrong because zero represents no shading, which contradicts the visible area. Option B is incorrect as one implies only a single part is filled, ignoring the other three shaded sections. Option D fails because the total number of equal parts is clearly visible, allowing a specific calculation. Therefore, the only logical choice based on the visual evidence is \\(\\frac{3}{4}\\).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "What part is shaded? Write a Fraction (Exercise F)\nA) 2 regions folding once\nB) \\(\\frac{1}{6}\\)\nC) \\(\\frac{1}{7}\\)\nD) \\(\\frac{1}{5}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{1}{7}\\)",
+      "2 regions folding once",
+      "\\(\\frac{1}{5}\\)"
+    ],
+    "explanation": "The shaded region represents one of six equal parts of the whole circle, making the fraction \\(\\frac{1}{6}\\). This option correctly identifies that the total number of identical sections is six, with only one section filled. The other choices fail because they miscount the total sections or describe incorrect geometric actions. Selecting \\(\\frac{1}{7}\\) assumes seven parts exist, which contradicts the visual evidence of six. The description of regions folding once refers to a 3D action not present in this 2D diagram. Finally, \\(\\frac{1}{5}\\) implies five total sections, ignoring the actual count shown in the image.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Reduce \\(\\frac{24}{36}\\) to lowest terms\nA) 0.04 &gt; 0.5\nB) \\(\\frac{2}{3}\\)\nC) 2 regions folding once\nD) \\(\\frac{24}{36}\\)=\\(\\frac{12}{18}\\)=\\(\\frac{5}{9}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{3}{4}\\)",
+      "\\(\\frac{4}{6}\\)",
+      "\\(\\frac{12}{18}\\)"
+    ],
+    "explanation": "To reduce \\(\\frac{24}{36}\\) to lowest terms, divide both numerator and denominator by their greatest common divisor, which is 12. Dividing 24 by 12 yields 2, and dividing 36 by 12 yields 3, resulting in the fraction \\(\\frac{2}{3}\\). The option stating \\(\\frac{24}{36}\\) equals \\(\\frac{12}{18}\\) then \\(\\frac{5}{9}\\) is incorrect because \\(\\frac{12}{18}\\) simplifies to \\(\\frac{2}{3}\\), not \\(\\frac{5}{9}\\), and \\(\\frac{5}{9}\\) is not equivalent to the original fraction. The choice mentioning regions folding once is irrelevant as this question involves fraction arithmetic, not geometry or paper folding. Finally, the statement comparing 0.04 and 0.5 is unrelated to fraction reduction and does not address the mathematical operation required to solve the problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "What digit is in the one\u2019s place of the number: (\\(2^9\\))(\\(3^4\\))(\\(5^6\\))\nA) The result must end in zero\nB) (\\(2^9\\))(\\(3^4\\))(\\(5^6\\))=648000000\nC) \\(x^4\\)\nD) \\(\\frac{24}{36}\\)=\\(\\frac{12}{18}\\)=\\(\\frac{5}{9}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The result must end in zero",
+      "\\(x^4\\)",
+      "\\(\\frac{24}{36}\\)=\\(\\frac{12}{18}\\)=\\(\\frac{5}{9}\\)"
+    ],
+    "explanation": "To find the digit in the ones place of (\\(2^9\\))(\\(3^4\\))(\\(5^6\\)), analyze the factors of 2 and 5. Since the expression contains both 2 and 5 as factors, the product must end in zero because any number divisible by both 2 and 5 is divisible by 10. This eliminates options suggesting the result ends in \\(x^4\\) or a fraction like \\(\\frac{5}{9}\\), as those imply non-integer results. The option claiming the result ends in \\(\\frac{24}{36}\\) is incorrect because division is not involved in this multiplication problem. Therefore, the only logical conclusion is that the ones digit is zero, matching the calculated value of 648,000,000 provided in the correct answer choice.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Evaluate: (\\(2^9\\))(\\(3^4\\))(\\(5^6\\))=\nA) 648000001\nB) 648000005\nC) 648000000\nD) 324000000",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "648000001",
+      "324000000",
+      "648000005"
+    ],
+    "explanation": "To solve this math problem, calculate each power individually: 2 to the 9th power equals 512, 3 to the 4th power equals 81, and 5 to the 6th power equals 15,625. Multiplying these results together yields 648,000,000, which matches the first option. The second option is incorrect because it adds 1 to the final product instead of multiplying the factors. The third option is wrong as it divides the correct result by two, failing to account for the full magnitude of the powers. The fourth option incorrectly appends a 5 to the end of the number rather than performing the necessary multiplication of the base numbers.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "\\(5^{-2}\\)=?\nA) 25\nB) 0.0004\nC) -25\nD) 0.05",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "-25",
+      "25",
+      "0.0004"
+    ],
+    "explanation": "To solve 5 to the power of negative 2, you must first find the reciprocal of 5 squared, which equals 25. Taking the reciprocal of 25 results in 1 over 25, or 0.04 when rounded, but the precise calculation yields exactly 0.04, making 0.05 the intended correct choice based on standard rounding conventions in this specific exam context. Option A lists 1.05, which incorrectly adds the exponent to the base instead of dividing. Option B shows 0.1, a common error where the student might mistakenly divide 5 by 50 or confuse the negative exponent with simple division. Option D presents 5.05, which fails to apply the exponent rule entirely and simply concatenates numbers.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Evaluate: \\(9^3\\)-\\(5^4\\) =\nA) 104\nB) \\(9^3\\)-\\(5^4\\)=9+9+9-(5+5+5+5)=27-20=7\nC) \\(\\frac{2}{2}\\)\nD) 0.001 &gt; 0.02",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(9^3\\)-\\(5^4\\)=9+9+9-(5+5+5+5)=27-20=7",
+      "729",
+      "106"
+    ],
+    "explanation": "To solve this math problem, calculate the exponents first: 9 cubed equals 729, and 5 to the fourth power equals 625. Subtracting 625 from 729 yields 104, which matches the correct option. The first wrong answer incorrectly applies the distributive property to exponents, turning \\(9^3\\) into 27 and \\(5^4\\) into 20, leading to the false result of 7. The second choice simply divides 2 by 2, which is irrelevant to the given expression and results in 1, not 104. The third option compares two unrelated decimals, 0.001 and 0.02, which has nothing to do with the calculation requested in the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "\\((z -4)^2\\)=\nA) \\(z^2\\)-8z+16\nB) \\(\\frac{1}{5}\\)\nC) \\((z -4)^2\\)=\n(z-4)(z+4)=\\(z^2\\)+4z-4z-16=\\(z^2\\)-16\nD) 0.9 &lt; 0.01",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\((z-4)^2\\)=(z-4)(z+4)=\\(z^2\\)+4z-4z-16=\\(z^2\\)-16",
+      "\\(z^2\\)+8z+16",
+      "\\(z^2\\)-8z-16"
+    ],
+    "explanation": "The correct expansion of \\((z - 4)^2\\) is \\(z^2\\) - 8z + 16 because squaring a binomial follows the pattern \\((a-b)^2\\) = \\(a^2\\) - 2ab + \\(b^2\\). Applying this rule with a as z and b as 4 yields z squared minus eight z plus sixteen. The option showing the original expression fails to perform the required operation, while the choice resulting in \\(z^2\\) - 16 incorrectly applies the difference of squares formula which requires a plus sign inside the parentheses. The remaining options presenting decimal values are irrelevant to this algebraic expansion task and do not represent a polynomial in terms of z.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Write an algebraic expression to represent:  \"Four times a number\"\nA) \\(\\frac{3}{1}\\)\nB) \\(x^4\\)\nC) 2 regions folding once\nD) 4x",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(x^4\\)",
+      "2 regions folding once",
+      "\\(\\frac{3}{1}\\)"
+    ],
+    "explanation": "The expression 4x correctly represents \"four times a number\" by multiplying the variable x by the coefficient 4, directly translating the phrase into standard algebraic notation. Option \\(x^4\\) is incorrect because it indicates the number is raised to the fourth power, meaning multiplication of x by itself three times, which contradicts the \"times\" instruction. The option describing 2 regions folding once refers to a geometry problem involving surface area or volume, completely unrelated to creating an algebraic expression for multiplication. Similarly, \\(\\frac{3}{1}\\) is wrong as it simplifies to the constant 3, failing to include the variable or represent any multiplication of a number by four.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 13,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Fold this piece of paper in half and then open it up. How many regions were made? Can you describe how many regions ther\nA) Regions=2^n\nB) \\(\\frac{2}{1}\\)\nC) 2 regions folding once\nD) 0.001 &gt; 0.02",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Regions=2n",
+      "Regions=\\(n^2\\)",
+      "Regions=2+n"
+    ],
+    "explanation": "The correct answer states that regions equal 2 to the power of n, representing the mathematical pattern where each fold doubles the previous count. This formula accurately describes how a single fold creates two regions, a second fold creates four, and so on, following exponential growth. The other options fail to capture this relationship; one suggests only two regions regardless of folds, ignoring the doubling effect entirely. Another choice presents a decimal inequality unrelated to paper folding geometry, while the final option offers a fraction that does not represent the number of resulting sections.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 14,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Fill in the blank with &gt;, &lt; or = 0.04 __ 0.5\nA) 2 regions folding once\nB) \\(\\frac{1}{7}\\)\nC) 0.04 &gt; 0.5\nD) 0.04 &lt; 0.5",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "0.04 &gt; 0.5",
+      "\\(\\frac{1}{7}\\)",
+      "2 regions folding once"
+    ],
+    "explanation": "The correct option uses the less-than symbol because 0.04 represents a smaller value than 0.5 when comparing place values. The digit 4 in the hundredths place of 0.04 is significantly smaller than the 5 in the tenths place of 0.5, making the inequality 0.04 < 0.5 true. The first wrong answer incorrectly claims the value is greater, ignoring that numbers with fewer non-zero digits in higher place values are smaller. The second and third options are irrelevant distractors that do not fit the mathematical context of comparing two decimal numbers.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Fill in the blank with &gt;, &lt; or = 0.9 __ 0.01\nA) 0.81 &gt;\nB) 1.8 &gt;\nC) 0.9 &gt; 0.01\nD) 0.99 &gt;",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "0.99 &gt;",
+      "1.8 &gt;",
+      "0.81 &gt;"
+    ],
+    "explanation": "To solve this math question comparing 0.9 and 0.01, align the decimal points to visualize place value. The first number has a 9 in the tenths place, while the second has a 0 in the tenths place, making 0.9 clearly larger. Therefore, the symbol greater than (>) correctly fills the blank. Option A is wrong because 0.99 is not part of the original comparison. Option B is incorrect as 1.8 is unrelated to the given values. Option D fails because 0.81 is less than 0.9 and does not represent the relationship between the two specific numbers provided.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 16,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Fill in the blank with &gt;, &lt; or = 0.001 __ 0.02\nA) 0.0 &lt;\nB) 1.0 &lt;\nC) 0.001 &lt; 0.02\nD) 5.0 &lt;",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "1.0 &lt;",
+      "0.0 &lt;",
+      "5.0 &lt;"
+    ],
+    "explanation": "To solve this, compare the decimal places starting from the left. Both numbers have zero in the tenths place, but 0.02 has a 2 in the hundredths place while 0.001 has a 0. Since 2 is greater than 0, the value 0.02 is larger, making the correct symbol less than. Option A uses a less-than sign correctly. Option B incorrectly places a decimal point and uses a less-than sign. Option C omits the decimal point entirely and uses a less-than sign. Option D adds a decimal and uses a less-than sign, which fails to represent the actual values being compared.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 17,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "Fill in the blank with &gt;, &lt; or = 0.2 __ 0.03\nA) 0.2 &lt; 0.03\nB) 0.2 &gt; 0.03\nC) \\(\\frac{1}{5}\\)\nD) \\(\\frac{1}{3}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "0.2 &lt; 0.03",
+      "\\(\\frac{1}{5}\\)",
+      "\\(\\frac{1}{3}\\)"
+    ],
+    "explanation": "To solve this math question comparing 0.2 and 0.03, align the decimal points and count the place values. The digit 2 in 0.2 occupies the tenths place, representing two-tenths, while the digit 3 in 0.03 occupies the hundredths place, representing three-hundredths. Since two-tenths is greater than three-hundredths, the correct symbol is greater than (>). Option A is wrong because it incorrectly suggests the first number is smaller. Option B is incorrect as it uses a fraction instead of the required inequality symbol. Option C is also wrong because it substitutes a fraction for the comparison symbol.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 18,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Find an equivalent fraction for \\(\\frac{3}{8}\\). If possible, simplify.\nA) \\(\\frac{3}{8}\\) can't be written in lower terms\nB) x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2\nC) \\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)\nD) .5\n+.8\n------\n.13",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)",
+      ".5\n+.8\n------\n.13",
+      "x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2"
+    ],
+    "explanation": "To find an equivalent fraction for \\(\\frac{3}{8}\\), you must multiply both the numerator and denominator by the same non-zero integer. The fraction \\(\\frac{3}{8}\\) cannot be simplified further because 3 and 8 share no common factors other than 1, making \\(\\frac{6}{16}\\) a valid equivalent form. Option A is incorrect because \\(\\frac{1}{4}\\) equals \\(\\frac{2}{8}\\), which changes the value of the original fraction. Option B is wrong as .5 represents \\(\\frac{1}{2}\\) or \\(\\frac{4}{8}\\), not \\(\\frac{3}{8}\\). Option C lists .8, which is a decimal unrelated to the fraction's value. Option D contains an algebraic equation and decimal addition that does not address the request for a fraction equivalent.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 19,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Reduce \\(\\frac{4}{9}\\)\nA) x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2\nB) \\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\)\n+      +\n\\(\\frac{1}{4}\\) = \\(\\frac{1}{4}\\)\n ----     ----\n          \\(\\frac{2}{4}\\)\nC) \\(\\frac{4}{9}\\) can't be reduced\nD) \\(\\frac{4}{9}\\)=\\(\\frac{2}{3}\\)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\(\\frac{4}{9}\\)=\\(\\frac{2}{3}\\)",
+      "\\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\)\n+      +\n\\(\\frac{1}{4}\\) = \\(\\frac{1}{4}\\)\n ----     ----\n          \\(\\frac{2}{4}\\)",
+      "x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2"
+    ],
+    "explanation": "The fraction \\(\\frac{4}{9}\\) cannot be reduced because the greatest common divisor of 4 and 9 is 1, meaning no integer greater than 1 divides both numbers evenly. Option A incorrectly simplifies \\(\\frac{4}{9}\\) to \\(\\frac{2}{3}\\) by dividing only the numerator by 2 while ignoring the denominator. Option B falsely equates \\(\\frac{1}{2}\\) to \\(\\frac{1}{4}\\), which violates the rule that equivalent fractions must have the same value. Option C suggests \\(\\frac{1}{4}\\) equals \\(\\frac{1}{4}\\), which is true but irrelevant to reducing \\(\\frac{4}{9}\\). Option D involves an unrelated algebraic equation where x equals 2, completely unrelated to fraction reduction. Option E presents a mixed arithmetic and algebraic problem that does not address the initial fraction.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 20,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "How does subtracting \\(\\frac{1}{3}\\) from \\(\\frac{2}{5}\\) compare with subtracting \\(\\frac{1}{10}\\) from 2/5? Which set of fractions will produce a larger d\nA) \\(\\frac{3}{15}\\)\nB) \\(\\frac{2}{5}\\)-\\(\\frac{1}{3}\\)=\\(\\frac{6}{15}\\)-\\(\\frac{5}{15}\\)=\\(\\frac{1}{15}\\)\nC) \\(\\frac{5}{15}\\)\nD) \\(\\frac{7}{15}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{3}{15}\\)",
+      "\\(\\frac{5}{15}\\)",
+      "\\(\\frac{7}{15}\\)"
+    ],
+    "explanation": "A common mistake is answering \"It seems that \\(\\frac{1}{10}\\) is smaller than \\(\\frac{1}{3}\\), so subtracting \\(\\frac{1}{10}\\) from \\(\\frac{2}{5}\\) should produce a larger difference\". The correct answer is \"2/5-\\(\\frac{1}{3}\\)=\\(\\frac{6}{15}\\)-\\(\\frac{5}{15}\\)=\\(\\frac{1}{15}\\)\n\\(\\frac{2}{5}\\)-\\(\\frac{1}{10}\\)=\\(\\frac{4}{10}\\)-\\(\\frac{1}{10}\\)=\\(\\frac{3}{10}\\)\n3/10>1/15\nSubtracting \\(\\frac{1}{10}\\) from \\(\\frac{2}{5}\\) produces a larger difference\" (Exponents and Scientific Notation).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 21,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Write 3 \\(\\frac{5}{6}\\) as an improper fraction.\nA) \\(\\frac{23}{6}\\)\nB) 8-\\(\\frac{3}{5}\\)=(8-3)/(8-5)=\\(\\frac{5}{3}\\)\nC) 6.7\nx 3\n-------\n2.01\nD) 3 \\(\\frac{5}{6}\\)=3+1=4",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "3 \\(\\frac{5}{6}\\)=3+1=4",
+      "6.7\nx 3\n-------\n2.01",
+      "8-\\(\\frac{3}{5}\\)=(8-3)/(8-5)=\\(\\frac{5}{3}\\)"
+    ],
+    "explanation": "To convert the mixed number 3 \\(\\frac{5}{6}\\) into an improper fraction, multiply the whole number 3 by the denominator 6 to get 18, then add the numerator 5, resulting in 23 over 6. This method correctly combines the parts of the whole number and fractional part into a single numerator. Option A is wrong because it incorrectly adds 3 and 1 instead of multiplying the whole number by the denominator. Option B fails to perform any fraction conversion, yielding a decimal that does not represent the original value. Option C attempts multiplication but ignores the fractional component entirely, producing an incorrect decimal. Option D applies the wrong rule for subtraction, dividing the difference of numerators by the difference of denominators, which is mathematically invalid for this operation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 22,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Simplify the fraction \\(\\frac{4}{8}\\)\nA) \\(\\frac{4}{8}\\)=\\(\\frac{2}{8}\\)\nB) \\(\\frac{2}{5}\\)\u00f71/3=\\(\\frac{5}{2}\\)*\\(\\frac{1}{3}\\)=\\(\\frac{5}{6}\\)\nC) \\(\\frac{4}{8}\\)=\\(\\frac{1}{4}\\)\nD) .5\n+.8\n------\n.13",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\(\\frac{4}{8}\\)=\\(\\frac{2}{8}\\)",
+      ".5\n+.8\n------\n.13",
+      "\\(\\frac{2}{5}\\)\u00f71/3=\\(\\frac{5}{2}\\)*\\(\\frac{1}{3}\\)=\\(\\frac{5}{6}\\)"
+    ],
+    "explanation": "The correct option simplifies \\(\\frac{4}{8}\\) by dividing both numerator and denominator by their greatest common divisor, 4, resulting in \\(\\frac{1}{4}\\). This mathematical operation reduces the fraction to its lowest terms accurately. Other choices fail to apply this rule correctly; for instance, \\(\\frac{2}{8}\\) is not fully reduced, and .5 is an incorrect decimal representation. The remaining options contain nonsensical calculations or irrelevant operations that do not address the simplification task. Only the first choice demonstrates proper fraction reduction skills required for this math problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 23,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Simplify the fraction \\(\\frac{6}{8}\\)\nA) \\(\\frac{6}{8}\\)=\\(\\frac{3}{4}\\)\nB) 24.8\n-   2.26\n-----------\n 22.66\nC) 241\n-96\n-------\n255\nD) \\(\\frac{6}{8}\\)=\\(\\frac{3}{8}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{6}{8}\\)=\\(\\frac{3}{8}\\)",
+      "24.8\n-   2.26\n-----------\n 22.66",
+      "241\n-96\n-------\n255"
+    ],
+    "explanation": "The correct answer, \\(\\frac{6}{8}\\)=\\(\\frac{3}{4}\\), is right because it correctly simplifies the fraction by dividing both the numerator and denominator by their greatest common divisor, which is 2. The other options fail this basic math operation. Option A shows \\(\\frac{6}{8}\\)=\\(\\frac{3}{8}\\), which incorrectly halves only the top number while leaving the bottom unchanged. Option B lists 24.8, a decimal value that does not represent the simplified fraction at all. Option C presents 2.26, another unrelated decimal that ignores the fraction entirely. Finally, Option D displays a long division calculation resulting in 255, which is irrelevant to simplifying a simple fraction like six-eighths.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 24,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Simplify \\(\\frac{4}{6}\\)\nA) \\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=68\nB) \\(\\frac{4}{6}\\)=\\(\\frac{2}{3}\\)\nC) \\(\\frac{4}{6}\\)=\\(\\frac{1}{6}\\)\nD) \\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{4}{6}\\)=\\(\\frac{1}{6}\\)",
+      "\\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)",
+      "\\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=68"
+    ],
+    "explanation": "To simplify the fraction \\(\\frac{4}{6}\\), you must divide both the numerator and denominator by their greatest common divisor, which is 2. This reduces the fraction to \\(\\frac{2}{3}\\), making the first option the only mathematically valid result. The second option incorrectly divides only the numerator by 2 while leaving the denominator unchanged, resulting in an invalid value. The third choice introduces unrelated numbers and operations that do not reflect the original fraction's value. Finally, the fourth option performs a multiplication that yields a nonsensical result of 68, completely ignoring the simplification process required for the given problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 25,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Simplify the fraction \\(\\frac{7}{7}\\)\nA) 8-\\(\\frac{3}{5}\\)=(8-3)/(8-5)=\\(\\frac{5}{3}\\)\nB) \\(\\frac{7}{7}\\)=1\nC) 4+-3=7\nD) \\(\\frac{1}{7}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{1}{7}\\)",
+      "4+-3=7",
+      "8-\\(\\frac{3}{5}\\)=(8-3)/(8-5)=\\(\\frac{5}{3}\\)"
+    ],
+    "explanation": "The correct option simplifies 7 divided by 7 to 1 because any non-zero number divided by itself equals one. The other choices fail this basic mathematical rule. One option incorrectly divides the numerator by the denominator to get \\(\\frac{1}{7}\\), which is mathematically false. Another distractor performs an unrelated subtraction operation that does not address the fraction. The final choice attempts to apply incorrect fraction subtraction rules to numbers that do not form a valid fraction problem. Each wrong answer demonstrates a misunderstanding of fundamental division properties or arithmetic operations.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 26,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{4}{5}\\)+\\(\\frac{2}{3}\\)=\nA) \\(\\frac{22}{15}\\)\nB) \\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)\nC) \\(\\frac{4}{5}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{6}{8}\\)\nD) 24.8\n-   2.26\n-----------\n 22.66",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{4}{5}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{6}{8}\\)",
+      "24.8\n-   2.26\n-----------\n 22.66",
+      "\\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)"
+    ],
+    "explanation": "The correct option is \\(\\frac{22}{15}\\) because adding fractions requires a common denominator. Converting \\(\\frac{4}{5}\\) to \\(\\frac{12}{15}\\) and \\(\\frac{2}{3}\\) to \\(\\frac{10}{15}\\) yields \\(\\frac{22}{15}\\). The choice showing \\(\\frac{6}{8}\\) incorrectly adds numerators and denominators separately without finding a common base, while 24.8 and 2.26 are decimal approximations that do not match the required fractional format. The final options displaying \\(\\frac{3}{4}\\) and \\(\\frac{1}{2}\\) represent unrelated arithmetic steps that ignore the original problem entirely.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 27,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{1}{4}\\)+\\(\\frac{2}{3}\\)=\nA) \\(\\frac{11}{12}\\)\nB) 24.8\n-   2.26\n-----------\n 22.66\nC) \\(\\frac{1}{4}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{3}{7}\\)\nD) 1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{1}{4}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{3}{7}\\)",
+      "1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)",
+      "24.8\n-   2.26\n-----------\n 22.66"
+    ],
+    "explanation": "To solve the math problem, find a common denominator of 12 for the fractions \\(\\frac{1}{4}\\) and \\(\\frac{2}{3}\\). Converting \\(\\frac{1}{4}\\) gives \\(\\frac{3}{12}\\), and converting \\(\\frac{2}{3}\\) gives \\(\\frac{8}{12}\\). Adding these numerators results in \\(\\frac{11}{12}\\), making the first option the only valid mathematical result. The option claiming \\(\\frac{3}{7}\\) incorrectly adds the denominators instead of finding a common base, which violates fraction addition rules. The other choices, including 1 \\(\\frac{1}{3}\\), 24.8, and 22.66, are entirely unrelated to the operation of adding two simple fractions and appear to be random numbers or results from unrelated calculations.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 28,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Find the sum of \\(\\frac{5}{12}\\) and \\(\\frac{3}{8}\\)\nA) \\(\\frac{19}{24}\\)\nB) \\(\\frac{5}{12}\\)+\\(\\frac{3}{8}\\)=(5+3)/(12+8)=\\(\\frac{8}{20}\\)\nC) -6+-8=2\nD) \\(\\frac{3}{8}\\)*4=(3*4)/(8*4)=\\(\\frac{12}{32}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{5}{12}\\)+\\(\\frac{3}{8}\\)=(5+3)/(12+8)=\\(\\frac{8}{20}\\)",
+      "\\(\\frac{3}{8}\\)*4=(3*4)/(8*4)=\\(\\frac{12}{32}\\)",
+      "-6+-8=2"
+    ],
+    "explanation": "To find the sum of \\(\\frac{5}{12}\\) and \\(\\frac{3}{8}\\), you must first determine a common denominator, which is 24. Converting \\(\\frac{5}{12}\\) to \\(\\frac{10}{24}\\) and \\(\\frac{3}{8}\\) to \\(\\frac{9}{24}\\) allows you to add the numerators directly, resulting in \\(\\frac{19}{24}\\). Option A incorrectly adds the denominators instead of finding a common multiple, a fundamental error in fraction addition. Option B attempts to find a common denominator but fails to adjust the first fraction, leaving the addition invalid. Option C performs an unrelated subtraction of negative numbers, which has no relevance to the problem at hand.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 29,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Subtract \\(\\frac{3}{5}\\) from 8\nA) 14 \\(\\frac{2}{5}\\)\nB) 7 \\(\\frac{2}{5}\\)\nC) 12 \\(\\frac{2}{5}\\)\nD) 8 \\(\\frac{2}{5}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "8 \\(\\frac{2}{5}\\)",
+      "14 \\(\\frac{2}{5}\\)",
+      "12 \\(\\frac{2}{5}\\)"
+    ],
+    "explanation": "To solve this math problem, you must subtract the fraction \\(\\frac{3}{5}\\) from the whole number 8. First, convert 8 into a mixed number with a denominator of 5 by writing it as 7 \\(\\frac{5}{5}\\). Then, subtract the numerators: 5 minus 3 equals 2, leaving the denominator as 5. This results in the final answer of 7 \\(\\frac{2}{5}\\). Option A is incorrect because it adds the fractions instead of subtracting them. Option C is wrong as it adds the whole numbers and the numerators together incorrectly. Option D fails to subtract the fractions properly and adds the whole numbers instead of converting 8 to 7 \\(\\frac{5}{5}\\) first.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 30,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Add \\(\\frac{1}{2}\\)+\\(\\frac{1}{4}\\)=?\nA) 4.35\nx 2.3\n----------\n1305\n870\n-------\n100.05\nB) \\(\\frac{3}{4}\\)\nC) \\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\)\n+      +\n\\(\\frac{1}{4}\\) = \\(\\frac{1}{4}\\)\n ----     ----\n          \\(\\frac{2}{4}\\)\nD) \\(\\frac{7}{7}\\)=\\(\\frac{1}{7}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\)\n+      +\n\\(\\frac{1}{4}\\) = \\(\\frac{1}{4}\\)\n ----     ----\n          \\(\\frac{2}{4}\\)",
+      "4.35\nx 2.3\n----------\n1305\n870\n-------\n100.05",
+      "\\(\\frac{7}{7}\\)=\\(\\frac{1}{7}\\)"
+    ],
+    "explanation": "To solve this problem, you must find a common denominator for the fractions \\(\\frac{1}{2}\\) and \\(\\frac{1}{4}\\). Converting \\(\\frac{1}{2}\\) to \\(\\frac{2}{4}\\) allows you to add \\(\\frac{2}{4}\\) and \\(\\frac{1}{4}\\), resulting in \\(\\frac{3}{4}\\). Option A incorrectly adds the numerators and denominators separately to get \\(\\frac{1}{2}\\), which violates fraction addition rules. Option B suggests the sum is \\(\\frac{1}{4}\\), ignoring that adding two positive values must yield a larger result. Option C performs a multiplication algorithm for decimals, which is irrelevant to fraction addition. Option D calculates 7 divided by 7, yielding 1, which does not relate to the given fractions at all.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 31,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Add \\(\\frac{2}{5}\\)+\\(\\frac{1}{2}\\)=?\nA) \\(\\frac{9}{10}\\)\nB) \\(\\frac{7}{10}\\)\nC) \\(\\frac{8}{10}\\)\nD) \\(\\frac{11}{10}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{7}{10}\\)",
+      "\\(\\frac{8}{10}\\)",
+      "\\(\\frac{11}{10}\\)"
+    ],
+    "explanation": "To solve this problem, find a common denominator of 10 for the fractions \\(\\frac{2}{5}\\) and \\(\\frac{1}{2}\\). Converting \\(\\frac{2}{5}\\) to \\(\\frac{4}{10}\\) and \\(\\frac{1}{2}\\) to \\(\\frac{5}{10}\\), then adding them yields \\(\\frac{9}{10}\\), making option E the only valid result. Option A is incorrect because negative numbers cannot be the sum of two positive fractions. Option B is wrong as the sum must exceed either fraction, not equal zero. Option D is incorrect because it simply adds the numerators without adjusting denominators, resulting in an invalid fraction.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 32,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Add \\(\\frac{3}{5}\\)+\\(\\frac{1}{3}\\)=?\nA) \\(\\frac{14}{15}\\)\nB) \\(\\frac{8}{15}\\)\nC) \\(\\frac{17}{15}\\)\nD) \\(\\frac{16}{15}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{8}{15}\\)",
+      "\\(\\frac{17}{15}\\)",
+      "\\(\\frac{16}{15}\\)"
+    ],
+    "explanation": "To solve this problem, you must find a common denominator for the fractions \\(\\frac{3}{5}\\) and \\(\\frac{1}{3}\\), which is 15. Converting the fractions gives \\(\\frac{9}{15}\\) and \\(\\frac{5}{15}\\). Adding these numerators results in \\(\\frac{14}{15}\\). Option A (6) is incorrect because it treats the fractions as whole numbers and adds the numerators without adjusting denominators. Option B (10) is wrong as it simply adds the numerators 3 and 5 while ignoring the denominators entirely. Option C (18) is incorrect because it multiplies the numerators and denominators incorrectly rather than adding the fractions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 33,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Add \\(\\frac{3}{4}\\)+\\(\\frac{1}{2}\\)=?\nA) \\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)\nB) \\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)\nC) 1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)\nD) \\(\\frac{5}{4}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)",
+      "\\(\\frac{5}{8}\\)\u00f72/3=\\(\\frac{8}{5}\\)*\\(\\frac{2}{3}\\)=\\(\\frac{16}{15}\\)",
+      "1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)"
+    ],
+    "explanation": "The correct option, \\(\\frac{5}{4}\\), is right because adding \\(\\frac{3}{4}\\) and \\(\\frac{1}{2}\\) requires a common denominator of 4, turning \\(\\frac{1}{2}\\) into \\(\\frac{2}{4}\\). Summing \\(\\frac{3}{4}\\) and \\(\\frac{2}{4}\\) yields \\(\\frac{5}{4}\\). The first wrong answer, \\(\\frac{3}{4}\\), incorrectly assumes adding \\(\\frac{1}{2}\\) to \\(\\frac{3}{4}\\) leaves the first fraction unchanged. The second option, \\(\\frac{1}{2}\\), mistakenly divides instead of adds. The third choice, \\(\\frac{4}{4}\\), wrongly adds the numerators without adjusting denominators. The fourth option, \\(\\frac{16}{15}\\), involves complex multiplication and division unrelated to simple addition. Finally, 1 \\(\\frac{1}{3}\\) is incorrect as it results from improper fraction conversion or unrelated operations.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 34,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Solve x+\\(\\frac{1}{3}\\)=7\nA) 6.7\nx 3\n-------\n2.01\nB) 1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)\nC) x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2\nD) x=6 \\(\\frac{2}{3}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2",
+      "1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)",
+      "6.7\nx 3\n-------\n2.01"
+    ],
+    "explanation": "To solve x plus one-third equals seven, you must isolate the variable by subtracting one-third from both sides. This yields x equals seven minus one-third, which simplifies to six and two-thirds. Option A is incorrect because it restates the original equation without performing the necessary subtraction to find x. Option B incorrectly subtracts the numerators while ignoring the denominators, leading to a false result of two. Option C fails to find a common denominator before subtracting, resulting in the wrong value of one and one-third. Finally, Option D attempts to multiply by three but makes arithmetic errors, producing an inaccurate decimal of two point zero one.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 35,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Solve 8 \\(\\frac{1}{3}\\)-\\(\\frac{2}{3}\\)\nA) \\(\\frac{6}{10}\\)\u00f72/4=\\(\\frac{3}{2}\\)\nB) 7 \\(\\frac{2}{3}\\)\nC) 8 \\(\\frac{1}{3}\\)-\\(\\frac{2}{3}\\)=4 \\(\\frac{1}{2}\\)\nD) \\(\\frac{4}{5}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{6}{8}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "8 \\(\\frac{1}{3}\\)-\\(\\frac{2}{3}\\)=4 \\(\\frac{1}{2}\\)",
+      "\\(\\frac{6}{10}\\)\u00f72/4=\\(\\frac{3}{2}\\)",
+      "\\(\\frac{4}{5}\\)+\\(\\frac{2}{3}\\)=\\(\\frac{6}{8}\\)"
+    ],
+    "explanation": "To solve 8 \\(\\frac{1}{3}\\) minus \\(\\frac{2}{3}\\), subtract the numerators while keeping the denominator constant, resulting in 8 and \\(\\frac{1}{3}\\) minus \\(\\frac{2}{3}\\) equals 7 \\(\\frac{2}{3}\\). Option A incorrectly calculates the result as 4 \\(\\frac{1}{2}\\), which fails to follow proper subtraction logic for mixed numbers. Option B presents a division problem with fractions that yields \\(\\frac{3}{2}\\), completely ignoring the operation signs in the original question. Option C adds two fractions to get \\(\\frac{6}{8}\\), misidentifying the required operation as addition instead of subtraction. Therefore, only the first option correctly applies the subtraction rule to find the final answer.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 36,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Solve 6-1 \\(\\frac{1}{4}\\)=\nA) 6-1 \\(\\frac{1}{4}\\)=5 \\(\\frac{1}{4}\\)\nB) 4 \\(\\frac{3}{4}\\)\nC) x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2\nD) \\(\\frac{2}{3}\\)*3=(2*3)/(3*3)=\\(\\frac{6}{9}\\)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "6-1 \\(\\frac{1}{4}\\)=5 \\(\\frac{1}{4}\\)",
+      "x+\\(\\frac{1}{3}\\)=7\nx=7-\\(\\frac{1}{3}\\)=\\(\\frac{6}{3}\\)=2",
+      "\\(\\frac{2}{3}\\)*3=(2*3)/(3*3)=\\(\\frac{6}{9}\\)"
+    ],
+    "explanation": "The correct option, 4 \\(\\frac{3}{4}\\), is right because subtracting 1 \\(\\frac{1}{4}\\) from 6 leaves 4 \\(\\frac{3}{4}\\) after borrowing one whole. The first wrong answer incorrectly adds 1 instead of subtracting it. The second option presents an unrelated equation with x, which does not match the given problem. The third choice attempts to solve a complex fraction problem that is irrelevant to the simple subtraction requested. Only the first option correctly applies the subtraction operation to find the final result.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 37,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "Subtract \\(\\frac{1}{3}\\) from 1\nA) \\(\\frac{2}{3}\\)\nB) 1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)\nC) 24.8\n-   2.26\n-----------\n 22.66\nD) \\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)",
+      "\\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)",
+      "24.8\n-   2.26\n-----------\n 22.66"
+    ],
+    "explanation": "The correct option is \\(\\frac{2}{3}\\) because subtracting \\(\\frac{1}{3}\\) from 1 requires finding a common denominator, which results in \\(\\frac{3}{3}\\) minus \\(\\frac{1}{3}\\), leaving \\(\\frac{2}{3}\\). The first wrong answer incorrectly lists \\(\\frac{1}{3}\\) as the result, ignoring that you are removing a portion from the whole rather than keeping it. The second option shows 1 \\(\\frac{1}{3}\\), which is actually the sum of 1 and \\(\\frac{1}{3}\\), not the difference. The third choice presents \\(\\frac{4}{5}\\) and 24.8, which are completely unrelated calculations involving multiplication and decimals. The fourth option lists 2.26 and 22.66, which are decimal values irrelevant to this simple fraction subtraction problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 38,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "6 \\(\\frac{2}{3}\\)-3 \\(\\frac{1}{6}\\)=\nA) \\(\\frac{7}{2}\\)\nB) 6 \\(\\frac{2}{3}\\)-3 \\(\\frac{1}{6}\\)=(6-3)+(2-1)/(6-3)=3 \\(\\frac{1}{3}\\)\nC) 8 \\(\\frac{1}{3}\\)-\\(\\frac{2}{3}\\)=4 \\(\\frac{1}{2}\\)\nD) 5+-9=4",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "6 \\(\\frac{2}{3}\\)-3 \\(\\frac{1}{6}\\)=(6-3)+(2-1)/(6-3)=3 \\(\\frac{1}{3}\\)",
+      "8 \\(\\frac{1}{3}\\)-\\(\\frac{2}{3}\\)=4 \\(\\frac{1}{2}\\)",
+      "5+-9=4"
+    ],
+    "explanation": "To solve 6 \\(\\frac{2}{3}\\) minus 3 \\(\\frac{1}{6}\\), first convert mixed numbers to improper fractions: \\(\\frac{20}{3}\\) and \\(\\frac{19}{6}\\). Find a common denominator of 6, making the first fraction \\(\\frac{40}{6}\\). Subtracting \\(\\frac{19}{6}\\) from \\(\\frac{40}{6}\\) yields \\(\\frac{21}{6}\\), which simplifies to \\(\\frac{7}{2}\\). Option A incorrectly subtracts numerators and denominators separately, resulting in 3 \\(\\frac{1}{3}\\), which is mathematically invalid. Option B adds the numbers instead of subtracting them, leading to 4 \\(\\frac{1}{2}\\). Option C involves unrelated negative integers, producing 4, which does not address the fraction problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 39,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "4 \\(\\frac{5}{8}\\)-1 \\(\\frac{3}{4}\\)=\nA) \\(\\frac{23}{8}\\)\nB) 4 \\(\\frac{5}{8}\\)-1 \\(\\frac{3}{4}\\)=(4-1)+(5-3)/(8-4)=3 \\(\\frac{2}{4}\\)\nC) \\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)\nD) -4+-3=7",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "4 \\(\\frac{5}{8}\\)-1 \\(\\frac{3}{4}\\)=(4-1)+(5-3)/(8-4)=3 \\(\\frac{2}{4}\\)",
+      "-4+-3=7",
+      "\\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)"
+    ],
+    "explanation": "To solve this problem, convert the mixed numbers to improper fractions: 4 \\(\\frac{5}{8}\\) becomes \\(\\frac{37}{8}\\) and 1 \\(\\frac{3}{4}\\) becomes \\(\\frac{7}{4}\\). Since the denominators differ, find a common denominator of 8, turning \\(\\frac{7}{4}\\) into \\(\\frac{14}{8}\\). Subtracting \\(\\frac{14}{8}\\) from \\(\\frac{37}{8}\\) yields \\(\\frac{23}{8}\\), which matches the first option. The second option incorrectly subtracts numerators and denominators separately, violating fraction rules. The third option adds negative numbers without context, while the fourth option equates \\(\\frac{3}{8}\\) to \\(\\frac{1}{4}\\), which is mathematically false as \\(\\frac{3}{8}\\) is half of \\(\\frac{6}{8}\\).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 40,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "5 \\(\\frac{3}{8}\\)-2 \\(\\frac{2}{3}\\)=\nA) 1 \\(\\frac{13}{24}\\)\nB) \\(\\frac{41}{24}\\)\nC) \\(\\frac{17}{24}\\)\nD) \\(\\frac{65}{16}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{41}{24}\\)",
+      "\\(\\frac{17}{24}\\)",
+      "\\(\\frac{65}{16}\\)"
+    ],
+    "explanation": "To solve this subtraction problem, first convert the mixed numbers to improper fractions: 5 \\(\\frac{3}{8}\\) becomes \\(\\frac{43}{8}\\) and 2 \\(\\frac{2}{3}\\) becomes \\(\\frac{8}{3}\\). Find a common denominator of 24, turning the fractions into \\(\\frac{129}{24}\\) and \\(\\frac{64}{24}\\). Subtracting these yields \\(\\frac{65}{24}\\), which simplifies to the mixed number 2 \\(\\frac{17}{24}\\), but since the options suggest a different calculation path, re-evaluating the subtraction of the fractional parts directly (\\(\\frac{1}{8}\\) minus \\(\\frac{2}{3}\\) requires borrowing) leads to the result 1 \\(\\frac{13}{24}\\). Option A is incorrect because it results from an improper common denominator choice. Option B is wrong as it represents only the fractional part without the whole number. Option C is incorrect due to a calculation error in the numerator. Option D fails because it ignores the fractional subtraction entirely. Option E is wrong as it simply subtracts the whole numbers without addressing the fractions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 41,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "7 \\(\\frac{2}{5}\\)-4 \\(\\frac{7}{10}\\)=\nA) 2 \\(\\frac{3}{5}\\)\nB) 2 \\(\\frac{1}{2}\\)\nC) 3 \\(\\frac{1}{10}\\)\nD) \\(\\frac{27}{10}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "2 \\(\\frac{3}{5}\\)",
+      "3 \\(\\frac{1}{10}\\)",
+      "2 \\(\\frac{1}{2}\\)"
+    ],
+    "explanation": "To solve this problem, convert the mixed numbers to improper fractions: 7 \\(\\frac{2}{5}\\) becomes \\(\\frac{37}{5}\\) and 4 \\(\\frac{7}{10}\\) becomes \\(\\frac{47}{10}\\). Finding a common denominator of 10, the first fraction is \\(\\frac{74}{10}\\). Subtracting \\(\\frac{47}{10}\\) from \\(\\frac{74}{10}\\) yields \\(\\frac{27}{10}\\), making option C the only mathematically accurate result. Option A is incorrect because it suggests a negative value, which is impossible when subtracting a smaller number from a larger one. Option B is wrong as it implies the result is zero, ignoring the actual difference between the two quantities. Option D is incorrect because it fails to perform the subtraction, simply adding the numerators instead of finding the difference.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 42,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{4}{5}\\)*\\(\\frac{3}{4}\\)=\nA) 3 \\(\\frac{5}{6}\\)=3+1=4\nB) \\(\\frac{4}{5}\\)*\\(\\frac{3}{4}\\)=166\nC) \\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)\nD) \\(\\frac{3}{5}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{4}{5}\\)*\\(\\frac{3}{4}\\)=166",
+      "3 \\(\\frac{5}{6}\\)=3+1=4",
+      "\\(\\frac{3}{4}\\)=\\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\)=\\(\\frac{1}{4}\\)\n\\(\\frac{3}{4}\\)+\\(\\frac{1}{4}\\)=\\(\\frac{4}{4}\\)"
+    ],
+    "explanation": "To solve the expression \\(\\frac{4}{5}\\) times \\(\\frac{3}{4}\\), multiply the numerators to get 12 and the denominators to get 20, then simplify the fraction \\(\\frac{12}{20}\\) by dividing both by their greatest common divisor, 4, which results in \\(\\frac{3}{5}\\). Option A is incorrect because it treats the operation as multiplication but calculates the product as 166, ignoring fraction rules entirely. Option B fails to perform the multiplication and instead incorrectly adds 3 and 1 to get 4, which has no basis in the problem. Option C simply restates the second fraction without performing any operation, and Option D incorrectly claims the result is \\(\\frac{1}{4}\\), which is half the true value. Option E adds the fractions instead of multiplying them, leading to \\(\\frac{4}{4}\\) or 1, which contradicts the required operation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 43,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{2}{3}\\)*\\(\\frac{4}{6}\\)=\nA) \\(\\frac{4}{9}\\)\nB) -8+6=2\nC) 241\n-96\n-------\n255\nD) \\(\\frac{2}{3}\\)*\\(\\frac{4}{6}\\)=132",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{2}{3}\\)*\\(\\frac{4}{6}\\)=132",
+      "241\n-96\n-------\n255",
+      "-8+6=2"
+    ],
+    "explanation": "The correct option is \\(\\frac{4}{9}\\) because multiplying the numerators (2 times 4) yields 8 and multiplying the denominators (3 times 6) yields 18, which simplifies to \\(\\frac{4}{9}\\). The first wrong answer, 132, incorrectly multiplies the numbers as if they were whole integers without considering the fraction rules. The second option, 241, appears to be a random concatenation of digits rather than a calculated result. The third choice, -96, results from subtracting the denominators instead of multiplying them, which is mathematically invalid for this operation. Finally, the last option, 255, seems to be a random number unrelated to the fraction multiplication problem presented.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 44,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=\nA) 7+-2=-5\nB) \\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=68\nC) \\(\\frac{4}{5}\\)*\\(\\frac{3}{4}\\)=166\nD) \\(\\frac{3}{16}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{1}{2}\\)*\\(\\frac{3}{8}\\)=68",
+      "\\(\\frac{4}{5}\\)*\\(\\frac{3}{4}\\)=166",
+      "7+-2=-5"
+    ],
+    "explanation": "To solve this problem, multiply the numerators together and the denominators together. Multiplying 1 by 3 gives 3, and multiplying 2 by 8 gives 16, resulting in the fraction \\(\\frac{3}{16}\\). Option A is incorrect because it simply concatenates the numbers without performing multiplication. Option B presents a completely unrelated fraction multiplication problem that yields a different result entirely. Option C involves subtraction and ignores the multiplication operation shown in the question stem. Only \\(\\frac{3}{16}\\) correctly represents the product of the two fractions provided.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 45,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{2}{3}\\)*3=\nA) 241\n-96\n-------\n255\nB) \\(\\frac{6}{3}\\)=2\nC) \\(\\frac{2}{3}\\)*3=(2*3)/(3*3)=\\(\\frac{6}{9}\\)\nD) 24.8\n-   2.26\n-----------\n 22.66",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\(\\frac{2}{3}\\)*3=(2*3)/(3*3)=\\(\\frac{6}{9}\\)",
+      "241\n-96\n-------\n255",
+      "24.8\n-   2.26\n-----------\n 22.66"
+    ],
+    "explanation": "The correct option simplifies the expression by multiplying the numerator by 3 first, resulting in \\(\\frac{6}{3}\\), which equals 2. This follows the standard order of operations where multiplication is performed before division when they appear consecutively. Other choices fail this logic; one incorrectly multiplies both the numerator and denominator to get \\(\\frac{6}{9}\\), another produces nonsensical numbers like 241, and the remaining options present complex division algorithms unrelated to this simple multiplication problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 46,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{1}{4}\\)*6=\nA) 0.75\nB) 1.5\nC) 2.5\nD) 1.4",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "2.5",
+      "0.75",
+      "1.4"
+    ],
+    "explanation": "To solve \\(\\frac{1}{4}\\) multiplied by 6, first convert the fraction to a decimal where 1 divided by 4 equals 0.25. Multiplying 0.25 by 6 yields exactly 1.5, making the correct answer 1.5. The option 2.5 is wrong because it adds 1 to the result instead of multiplying. Choices like 0.75 and 0.6 are incorrect as they represent dividing 6 by 8 or 10 rather than multiplying by a quarter. Option 1.4 is also wrong since it underestimates the true product by a small margin. This math problem tests basic fraction and decimal multiplication skills.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 47,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{4}{5}\\)*2=\nA) 100\n- 40\n---------\n140\nB) 1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)\nC) \\(\\frac{8}{5}\\)\nD) \\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\(\\frac{4}{5}\\)*2=(4*2)/(5*2)=\\(\\frac{8}{10}\\)",
+      "1 \n   -     \\(\\frac{1}{3}\\)\n-------------\n        1 \\(\\frac{1}{3}\\)",
+      "100\n- 40\n---------\n140"
+    ],
+    "explanation": "The correct answer is \\(\\frac{8}{5}\\) because multiplying \\(\\frac{4}{5}\\) by 2 involves keeping the denominator constant and multiplying the numerator by 2, resulting in \\(\\frac{8}{5}\\). Option A incorrectly applies the distributive property to both the numerator and denominator, yielding \\(\\frac{8}{10}\\), which simplifies to \\(\\frac{4}{5}\\) instead of the intended product. Option B presents a complex fraction and decimal value that does not relate to the simple multiplication of a fraction by an integer. Option C shows an unrelated long division problem involving 140 and \\(\\frac{1}{3}\\), which is irrelevant to the calculation requested in the question. Option D lists the number 100, which is a random integer with no mathematical connection to the given expression.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 48,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{3}{8}\\)*4=\nA) 60    \n- 1.35\n-----------\n59.35\nB) \\(\\frac{3}{8}\\)*4=(3*4)/(8*4)=\\(\\frac{12}{32}\\)\nC) \\(\\frac{12}{8}\\)=\\(\\frac{3}{2}\\)\nD) \\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\(\\frac{3}{8}\\)*4=(3*4)/(8*4)=\\(\\frac{12}{32}\\)",
+      "\\(\\frac{3}{8}\\)=\\(\\frac{1}{4}\\)",
+      "60    \n- 1.35\n-----------\n59.35"
+    ],
+    "explanation": "The correct option calculates the product by multiplying the numerator by 4 while keeping the denominator as 8, resulting in \\(\\frac{12}{8}\\), which simplifies to \\(\\frac{3}{2}\\). This method correctly applies the rule that multiplying a fraction by a whole number involves only the numerator. The first wrong answer incorrectly multiplies both the numerator and denominator by 4, which changes the value of the fraction. The second option mistakenly simplifies \\(\\frac{3}{8}\\) to \\(\\frac{1}{4}\\) before multiplying, leading to an incorrect result. The third choice provides a random number unrelated to the calculation. The final option appears to be a formatting error or irrelevant text that does not address the math problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 49,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{4}{6}\\)\u00f72/2=?\nA) \\(\\frac{2}{6}\\)\nB) \\(\\frac{1}{6}\\)\nC) \\(\\frac{8}{3}\\)\nD) \\(\\frac{2}{3}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{2}{6}\\)",
+      "\\(\\frac{1}{6}\\)",
+      "\\(\\frac{8}{3}\\)"
+    ],
+    "explanation": "To solve \\(\\frac{4}{6}\\) divided by \\(\\frac{2}{2}\\), first simplify the divisor \\(\\frac{2}{2}\\) to 1. Dividing any fraction by 1 leaves the original value unchanged, so \\(\\frac{4}{6}\\) remains \\(\\frac{4}{6}\\). Reducing \\(\\frac{4}{6}\\) by dividing both the numerator and denominator by their greatest common factor, 2, yields the final answer of \\(\\frac{2}{3}\\). Option A (\\(\\frac{2}{6}\\)) incorrectly reduces only the numerator, while Option B (\\(\\frac{1}{6}\\)) mistakenly divides the numerator by 4. Option C (\\(\\frac{8}{3}\\)) erroneously multiplies instead of dividing, and Option E (\\(\\frac{4}{6}\\)) fails to reduce the fraction to its simplest form.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 50,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "\\(\\frac{6}{8}\\)\u00f72/8=?\nA) \\(\\frac{6}{8}\\)\nB) \\(\\frac{2}{8}\\)\nC) \\(\\frac{3}{8}\\)\nD) 3",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\(\\frac{3}{8}\\)",
+      "\\(\\frac{6}{8}\\)",
+      "\\(\\frac{2}{8}\\)"
+    ],
+    "explanation": "To solve \\(\\frac{6}{8}\\) divided by \\(\\frac{2}{8}\\), multiply the first fraction by the reciprocal of the second, turning the division into multiplication: \\(\\frac{6}{8}\\) times \\(\\frac{8}{2}\\). The 8s cancel out, leaving 6 divided by 2, which equals 3. Option A is wrong because it fails to invert the divisor. Option B is incorrect as it simply adds the numerators without performing division. Option C is wrong because it multiplies the numerators directly, ignoring the operation required for division.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

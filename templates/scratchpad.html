@@ -1,0 +1,339 @@
+<!-- scratchpad.html — TEAS Study Buddy Scratchpad Prototype -->
+{% extends "base.html" %}
+
+{% block title %}Scratchpad — TEAS Study Buddy{% endblock %}
+
+{% block head %}
+<!-- Fabric.js (89KB gzip, zero deps) -->
+<script src="https://cdn.jsdelivr.net/npm/fabric@7/dist/fabric.min.js"></script>
+<!-- Rough.js (9KB, zero deps) -->
+<script src="https://cdn.jsdelivr.net/npm/roughjs@latest/bundled/rough.js"></script>
+<style>
+  /* ── Scratchpad Layout ── */
+  .sp-container {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 0.75rem;
+  }
+
+  .sp-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+  }
+
+  .sp-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary, #1a1a1a);
+  }
+
+  .sp-canvas-wrap {
+    border: 1.5px solid var(--border, #ddd);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--surface, #FAFAF7);
+    position: relative;
+  }
+
+  /* ── Toolbar ── */
+  .sp-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.5rem 0.6rem;
+    border-bottom: 1px solid var(--border, #ddd);
+    background: var(--bg, #fff);
+    flex-wrap: wrap;
+  }
+
+  .sp-tool {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border: 1.5px solid var(--border, #ddd);
+    border-radius: 6px;
+    background: transparent;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.15s;
+    color: var(--text-secondary, #555);
+  }
+
+  .sp-tool:hover {
+    border-color: var(--accent, #2D6A4F);
+    color: var(--accent, #2D6A4F);
+  }
+
+  .sp-tool-active {
+    background: var(--accent, #2D6A4F) !important;
+    color: #fff !important;
+    border-color: var(--accent, #2D6A4F) !important;
+  }
+
+  .sp-divider {
+    width: 1px;
+    height: 24px;
+    background: var(--border, #ddd);
+    margin: 0 0.15rem;
+  }
+
+  .sp-tool-wide {
+    width: auto;
+    padding: 0 0.6rem;
+    font-size: 0.78rem;
+    font-weight: 500;
+    gap: 0.3rem;
+  }
+
+  /* ── Color swatches ── */
+  .sp-color {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 2px solid var(--border, #ddd);
+    cursor: pointer;
+    transition: transform 0.1s;
+    flex-shrink: 0;
+  }
+
+  .sp-color:hover {
+    transform: scale(1.15);
+  }
+
+  .sp-color-active {
+    box-shadow: 0 0 0 2px var(--accent, #2D6A4F);
+  }
+
+  /* ── Width slider ── */
+  .sp-width-group {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-left: auto;
+  }
+
+  .sp-width-label {
+    font-size: 0.7rem;
+    color: var(--text-secondary, #777);
+  }
+
+  .sp-width-slider {
+    width: 60px;
+    height: 4px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: var(--border, #ddd);
+    border-radius: 2px;
+    outline: none;
+  }
+
+  .sp-width-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--accent, #2D6A4F);
+    cursor: pointer;
+  }
+
+  /* ── Actions bar ── */
+  .sp-actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    padding: 0.5rem 0.6rem;
+    border-top: 1px solid var(--border, #ddd);
+    background: var(--bg, #fff);
+  }
+
+  .sp-btn {
+    padding: 0.35rem 0.75rem;
+    border: 1px solid var(--border, #ddd);
+    border-radius: 6px;
+    background: transparent;
+    font-size: 0.78rem;
+    cursor: pointer;
+    color: var(--text-secondary, #555);
+    transition: all 0.15s;
+  }
+
+  .sp-btn:hover {
+    border-color: var(--accent, #2D6A4F);
+    color: var(--accent, #2D6A4F);
+  }
+
+  .sp-btn-danger:hover {
+    border-color: #e74c3c;
+    color: #e74c3c;
+  }
+
+  /* ── Canvas itself ── */
+  .sp-canvas-wrap canvas {
+    display: block;
+  }
+
+  /* ── Keyboard hint ── */
+  .sp-hint {
+    text-align: center;
+    padding: 0.4rem;
+    font-size: 0.72rem;
+    color: var(--text-secondary, #999);
+  }
+
+  /* ── Dark mode adjustments ── */
+  .dark .sp-canvas-wrap {
+    border-color: #333;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="sp-container">
+  <div class="sp-header">
+    <span class="sp-title">📝 Scratchpad</span>
+    <span style="font-size:0.75rem; color:var(--text-secondary,#888)">Sketch your work here</span>
+  </div>
+
+  <div class="sp-canvas-wrap">
+    <!-- Toolbar -->
+    <div class="sp-toolbar">
+      <!-- Drawing tools -->
+      <button class="sp-tool sp-tool-active" data-tool="pencil" title="Pencil (P)">✏️</button>
+      <button class="sp-tool" data-tool="eraser" title="Eraser (E)">🧹</button>
+
+      <div class="sp-divider"></div>
+
+      <!-- Shape tools (Rough.js) -->
+      <button class="sp-tool" data-tool="line" title="Line (L)">╱</button>
+      <button class="sp-tool" data-tool="rect" title="Rectangle (R)">▭</button>
+      <button class="sp-tool" data-tool="circle" title="Circle (C)">◯</button>
+      <button class="sp-tool" data-tool="text" title="Text (T)">T</button>
+
+      <div class="sp-divider"></div>
+
+      <!-- Colors -->
+      <div class="sp-color sp-color-active" data-color="#2D3436" style="background:#2D3436" title="Black"></div>
+      <div class="sp-color" data-color="#e74c3c" style="background:#e74c3c" title="Red"></div>
+      <div class="sp-color" data-color="#2980b9" style="background:#2980b9" title="Blue"></div>
+      <div class="sp-color" data-color="#27ae60" style="background:#27ae60" title="Green"></div>
+      <div class="sp-color" data-color="#f39c12" style="background:#f39c12" title="Orange"></div>
+
+      <div class="sp-divider"></div>
+
+      <!-- Width -->
+      <div class="sp-width-group">
+        <span class="sp-width-label">Thin</span>
+        <input type="range" class="sp-width-slider" id="sp-width" min="1" max="6" value="2">
+        <span class="sp-width-label">Bold</span>
+      </div>
+    </div>
+
+    <!-- Canvas -->
+    <canvas id="sp-canvas"></canvas>
+
+    <!-- Actions -->
+    <div class="sp-actions">
+      <button class="sp-btn" id="sp-undo" title="Undo (Ctrl+Z)">↩ Undo</button>
+      <button class="sp-btn sp-btn-danger" id="sp-clear" title="Clear all">🗑 Clear</button>
+      <button class="sp-btn" id="sp-save" title="Save as image">💾 Save</button>
+    </div>
+  </div>
+
+  <div class="sp-hint">Ctrl+Z to undo · Scroll to zoom future feature</div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/scratchpad.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  MU2Scratchpad.init("sp-canvas");
+
+  // ── Tool buttons ──
+  document.querySelectorAll(".sp-tool").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      MU2Scratchpad.setTool(this.dataset.tool);
+    });
+  });
+
+  // ── Color swatches ──
+  var currentColor = "#2D3436";
+  document.querySelectorAll(".sp-color").forEach(function (swatch) {
+    swatch.addEventListener("click", function () {
+      document.querySelectorAll(".sp-color").forEach(function (s) {
+        s.classList.remove("sp-color-active");
+      });
+      this.classList.add("sp-color-active");
+      currentColor = this.dataset.color;
+      // Apply to brush
+      var fc = MU2Scratchpad._fabricCanvas || document.querySelector("#sp-canvas").fabric;
+      // Direct access — update free drawing brush
+      var c = document.getElementById("sp-canvas");
+      if (c && c.__fabric) {
+        c.__fabric.freeDrawingBrush.color = currentColor;
+      }
+    });
+  });
+
+  // ── Width slider ──
+  document.getElementById("sp-width").addEventListener("input", function () {
+    // Width applies to pencil/eraser via freeDrawingBrush
+    // We'll hook into this when pencil is active
+  });
+
+  // ── Action buttons ──
+  document.getElementById("sp-undo").addEventListener("click", function () {
+    MU2Scratchpad.undo();
+  });
+
+  document.getElementById("sp-clear").addEventListener("click", function () {
+    if (confirm("Clear everything?")) {
+      MU2Scratchpad.clear();
+    }
+  });
+
+  document.getElementById("sp-save").addEventListener("click", function () {
+    var dataURL = MU2Scratchpad.toDataURL();
+    var a = document.createElement("a");
+    a.href = dataURL;
+    a.download = "teas-scratchpad-" + Date.now() + ".png";
+    a.click();
+  });
+
+  // ── Keyboard shortcuts ──
+  document.addEventListener("keydown", function (e) {
+    // Don't capture when typing in text objects
+    if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA" || e.target.isContentEditable) return;
+
+    if (e.ctrlKey && e.key === "z") {
+      e.preventDefault();
+      MU2Scratchpad.undo();
+      return;
+    }
+
+    var keyMap = { p: "pencil", e: "eraser", l: "line", r: "rect", c: "circle", t: "text" };
+    if (keyMap[e.key]) {
+      MU2Scratchpad.setTool(keyMap[e.key]);
+    }
+  });
+
+  // ── Redraw grid on theme toggle ──
+  var observer = new MutationObserver(function () {
+    if (document.documentElement.classList.contains("dark") || !document.documentElement.classList.contains("dark")) {
+      MU2Scratchpad.redrawGrid();
+    }
+  });
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
+
+  // ── Resize handler ──
+  window.addEventListener("resize", function () {
+    MU2Scratchpad.resize();
+  });
+});
+</script>
+{% endblock %}

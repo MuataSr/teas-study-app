@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1776,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1777,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1781,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1785,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation states 'making option A the most direct description of the vaccine's mechanism' but the correct answer is C. Option A describes innate immune activation, which contradicts the correct answer about adaptive immunity. The explanation references the wrong option letter."
+    ]
+  },
+  {
+    "id": 1788,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1790,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1791,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but identifying that epithelial tissue forms the skin's outer protective layer is simple single-step recall of a basic tissue type definition."
+    ]
+  },
+  {
+    "id": 1793,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing that bonds within a water molecule are covalent is simple recall of a basic chemistry fact.",
+      "Rule 8: Explanation states 'The two hydrogen atoms in a water molecule are held together by a covalent bond' — this is factually incorrect. The two hydrogen atoms are each covalently bonded to the oxygen atom (O-H bonds), not to each other."
+    ]
+  },
+  {
+    "id": 1794,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1796,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but converting 0.75 grams to milligrams is a single-step metric conversion (multiply by 1000)."
+    ]
+  },
+  {
+    "id": 1797,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1799,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation maps incorrect option letters to values — states 'Option B (50 g)' but option B is 5000 g, 'Option C (5 g)' but option C is 50 g, and 'Option D (5000 g)' but option D is 0.05 g. The explanation contradicts the actual answer choices.",
+      "Rule 7: Marked 'hard' but converting 500 mg to grams is a single-step metric conversion (divide by 1000)."
+    ]
+  },
+  {
+    "id": 1800,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing the glomerulus is the site of initial filtration in the nephron is simple recall of a basic anatomy fact."
+    ]
+  },
+  {
+    "id": 1802,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1803,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1805,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1806,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1807,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1809,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1810,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but identifying the placebo group as the control group is simple recall of a basic experimental design definition."
+    ]
+  },
+  {
+    "id": 1812,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but classifying bacteria as prokaryotes and human cells as eukaryotes is straightforward single-step recall."
+    ]
+  },
+  {
+    "id": 1813,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but identifying the independent variable as the manipulated factor is simple recall of a basic experimental design definition."
+    ]
+  },
+  {
+    "id": 1815,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1816,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing that controlled variables should be kept constant is simple recall of a basic experimental design definition."
+    ]
+  },
+  {
+    "id": 1818,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing that lipids are responsible for long-term energy storage is simple recall of a basic macromolecule function."
+    ]
+  },
+  {
+    "id": 1819,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1821,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but classifying pH 5.0 as slightly acidic is single-step recall of the pH scale."
+    ]
+  },
+  {
+    "id": 1822,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1824,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1825,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1827,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1828,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation states 'Infants typically gain about 20% of their birth weight by their first birthday,' which is factually incorrect. Infants typically triple their birth weight by 12 months. A 20% total gain would indicate failure to thrive, not normal development."
+    ]
+  },
+  {
+    "id": 1830,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1831,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1832,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing that O-negative is the universal donor blood type is simple recall of a basic blood typing fact."
+    ]
+  },
+  {
+    "id": 1833,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1835,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing that an O-negative patient should receive O-negative blood is simple recall of basic blood typing compatibility."
+    ]
+  },
+  {
+    "id": 1836,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1837,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing that muscle tissue is responsible for heart contraction is simple recall of a basic tissue type function."
+    ]
+  },
+  {
+    "id": 1838,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1839,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1840,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1841,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1842,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'easy' but understanding the sliding filament mechanism at the molecular level (myosin heads, actin filaments, sarcomere structure) requires multi-step reasoning and complex biological knowledge."
+    ]
+  },
+  {
+    "id": 1843,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1844,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1845,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but knowing the definition of an ecosystem (living organisms + physical environment) is simple recall of a basic ecology term."
+    ]
+  },
+  {
+    "id": 1846,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1847,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but identifying a pond with fish and algae as an ecosystem is simple recall of a basic ecology definition — nearly identical to Q1845."
+    ]
+  },
+  {
+    "id": 1848,
+    "verdict": "PASS"
+  }
+]

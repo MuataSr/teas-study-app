@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}Free Resources — TEAS Study{% endblock %}
+
+{% block content %}
+
+<div class="resources-page">
+  <h1 style="margin: 0 0 4px 0;">Free Resources</h1>
+  <p class="text-muted" style="margin: 0 0 20px 0;">Curated study guides and practice material to supplement your prep.</p>
+
+  {% for resource in resources %}
+  <a href="{{ resource.url }}" target="_blank" rel="noopener noreferrer" class="resource-card">
+    <div class="resource-card-header">
+      <span class="resource-badge">{{ resource.badge }}</span>
+      <span class="resource-name">{{ resource.name }}</span>
+      <span class="resource-external">↗</span>
+    </div>
+    <p class="resource-desc">{{ resource.description }}</p>
+    <div class="resource-tags">
+      {% for tag in resource.tags %}
+      <span class="resource-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </a>
+  {% endfor %}
+
+  <div class="text-muted" style="text-align: center; padding: 20px 0 12px 0; font-size: 12px;">
+    Third-party resources — linked because they're helpful, not controlled by us.
+  </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1416,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says Option C is right because 'implying a student staying up all night would suffer these specific deficits' but the passage never mentions a student; also the explanation justifies C with reasoning that doesn't match C's actual text (which is meta-commentary about why Option A is wrong).",
+      "Rule 8: Explanation fabricates content not in the passage — 'a student staying up all night' is invented."
+    ]
+  },
+  {
+    "id": 1417,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1418,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1419,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1420,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1421,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1422,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says Option A proves 'extreme sensitivity' of corals to temperature, but A's actual text is meta-commentary ('Option B is wrong as the text describes a fatal outcome…') — it doesn't state the inference about sensitivity."
+    ]
+  },
+  {
+    "id": 1423,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1424,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1425,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but the correct answer D is a near-direct paraphrase of the passage's explicitly stated conclusion ('Paradoxically, this shared threat of total destruction maintained a fragile peace'). This is simple recall, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1426,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says A supports English immersion because Passage B states it leads to faster acquisition, but A's actual text ('The other options fail to address this specific outcome') does not identify English immersion as the correct approach."
+    ]
+  },
+  {
+    "id": 1427,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says B means 'doctors were misled' by pharmaceutical companies, but B's actual text is meta-commentary ('Options A, C, and D are incorrect because the text never mentions…') — it doesn't state the inference about doctors being deceived."
+    ]
+  },
+  {
+    "id": 1428,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1429,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1430,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1431,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1432,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says A shows the printing press carries both beneficial and harmful outcomes, but A's actual text ('Option B is incorrect because Passage A explicitly states that books became cheaper and literacy rates rose…') is meta-commentary about why Option B is wrong — it doesn't state the dual-nature conclusion."
+    ]
+  },
+  {
+    "id": 1433,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but requires only a single-step inference (emotional numbness → difficulty connecting with patients) from explicitly stated symptoms. This is medium-level reasoning at most."
+    ]
+  },
+  {
+    "id": 1434,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation identifies the paradox between objectivity and curriculum breadth, but D's actual text ('Option C fails because the text shows a broad curriculum is actively harmed by testing rather than naturally resulting from it') is meta-commentary about why Option C is wrong — it doesn't describe the paradox.",
+      "Rule 7: Labeled 'easy' but requires synthesizing two conflicting passages and identifying an inherent paradox, which is at least medium difficulty."
+    ]
+  },
+  {
+    "id": 1435,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1436,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says A 'correctly captures the passage's holistic approach to hypertension' but A's actual text ('The other options misrepresent the text by making unsupported claims') does not state what the main idea is."
+    ]
+  },
+  {
+    "id": 1437,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says B 'details the massive scale of penicillin's real-world application, specifically saving countless soldiers during World War II' but B's actual text ('Option A describes the initial scientific observation of mold inhibiting bacteria, which explains the mechanism but lacks evidence of broad historical consequence') is meta-commentary about Option A — it doesn't mention WWII or soldiers."
+    ]
+  },
+  {
+    "id": 1438,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says C 'accurately captures the passage's main points regarding heat islands, health risks, and mitigation strategies' but C's actual text ('Option A is incorrect because the text states cities replace natural land cover, not that planners are responsible for all global temperatures') is meta-commentary about Option A.",
+      "Rule 7: Labeled 'hard' but the question asks for a passage summary, which is basic comprehension."
+    ]
+  },
+  {
+    "id": 1439,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says D is correct because disruptions are linked to autoimmune disorders and metabolic diseases, but D's actual text ('The other options fail to match the text') is a vague dismissal that doesn't identify any specific consequence.",
+      "Rule 7: Labeled 'hard' but the question asks for a documented consequence directly stated in the passage — this is simple recall."
+    ]
+  },
+  {
+    "id": 1440,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1441,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says B is correct because 'hazardous working conditions' directly prompted union formation, but B's actual text ('Option A is incorrect as the text mentions artisans were replaced by factory workers, not that they organized to preserve techniques') is meta-commentary about Option A — it doesn't mention hazardous conditions or unions."
+    ]
+  },
+  {
+    "id": 1442,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but the distinguishing feature (CBT is 'structured and time-limited') is explicitly stated in the passage. This is direct comprehension, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1443,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says D is correct because transform boundaries 'frequently generating earthquakes' but D's actual text ('The other options describe different boundary types: Option A refers to convergent boundaries…') is meta-commentary about other options — it never states 'earthquakes' as the answer."
+    ]
+  },
+  {
+    "id": 1444,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says A is correct because soap and water are required for spore-forming pathogens like C. difficile, but A's actual text ('Option B is incorrect as the text does not mention routine vital sign checks as a trigger for soap and water use') is meta-commentary about Option B — it doesn't mention C. difficile or spore-forming pathogens."
+    ]
+  },
+  {
+    "id": 1445,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says B is correct because the New Deal provided relief, recovery, and reform with increased federal involvement, but B's actual text ('This directly matches the option's description of providing those three goals alongside increased federal involvement') is meta-commentary about matching — it doesn't state the three goals."
+    ]
+  },
+  {
+    "id": 1446,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says C is correct because declining estrogen levels increase fracture risk, but C's actual text ('Option A is incorrect because the text notes estrogen decline causes bone loss, not increased calcium absorption') is meta-commentary about Option A — it doesn't state that declining estrogen is the susceptibility factor."
+    ]
+  },
+  {
+    "id": 1447,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but the inference (access was restricted by expense and labor) follows directly from explicitly stated information ('manuscripts were painstakingly copied by hand, limiting literacy to wealthy elites and clergy'). This is a straightforward single-step inference."
+    ]
+  },
+  {
+    "id": 1448,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1449,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1450,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says C is correct because capillaries facilitate exchange of substances, but C's actual text ('This directly matches the function described in the text regarding the circulatory system's role in moving materials') is vague meta-commentary that doesn't identify the specific function.",
+      "Rule 7: Labeled 'hard' but the primary function of capillaries is explicitly stated in the passage ('Capillaries facilitate the actual exchange of substances between blood and surrounding tissues') — this is simple recall."
+    ]
+  },
+  {
+    "id": 1451,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1452,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1453,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says B 'captures this nuanced stance perfectly' of presenting a balanced view, but B's actual text ('Option A is incorrect because the text advocates for balancing technology with thoroughness, not banning it') is meta-commentary about why Option A is wrong — it doesn't describe the author's purpose."
+    ]
+  },
+  {
+    "id": 1454,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1455,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but identifying sequential text structure from explicit signal words ('First,' 'Next,' 'Then,' 'Finally') is a basic comprehension skill, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1456,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but the passage explicitly defines triage ('rapid assessment and categorization of patients based on injury severity') and states its etymology — this is a straightforward vocabulary-in-context question, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1457,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1458,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1459,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1460,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1461,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1462,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: The explanation identifies a 'critical yet constructive' tone, but the correct answer C's actual text is 'cumbersome interfaces,' which is a passage fragment, not a tone description — the explanation does not match the answer text.",
+      "Rule 8: Correct answer C contains broken text ('cumbersome interfaces,') instead of a proper tone description (should be something like 'Critical but constructive'). The answer text is malformed."
+    ]
+  },
+  {
+    "id": 1463,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option D, Limit, is the best replacement' but D's actual text ('The text explicitly states that exceeding this threshold leads to negative consequences like resource depletion, confirming it acts as a restrictive boundary…') is a long meta-explanation, not the word 'Limit.' The explanation assigns a word to D that isn't in D's displayed answer text."
+    ]
+  },
+  {
+    "id": 1464,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but identifying sequential/process text structure from explicit signal phrases ('begins by defining,' 'then outlines,' 'Next,' 'concludes') is a basic comprehension skill."
+    ]
+  },
+  {
+    "id": 1465,
+    "verdict": "PASS"
+  }
+]

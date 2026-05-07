@@ -1,0 +1,752 @@
+[
+  {
+    "id": 868,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A diagnostic test of 80 patients: 50 true positive, 5 false negative, 10 false positive, 15 true negative. What is the sensitivity?\nA) 83%\nB) 88%\nC) 91%\nD) 95%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 83%",
+      "B) 88%",
+      "D) 95%"
+    ],
+    "explanation": "To find sensitivity, divide true positives (50) by the sum of true positives and false negatives (50 + 5 = 55), yielding approximately 90.9% or 91%. Option C matches this calculation exactly. Option A is incorrect because it likely divides by total patients (80) instead of the affected group. Option B erroneously uses false positives in the denominator, while Option D incorrectly adds false negatives to false positives. Only C correctly applies the sensitivity formula using the relevant patient subset.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 869,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "Two hundred nurses were surveyed on shift preference: Day 70, Night 50, Rotate 80. There are 100 nurses under age 40, and 42 of them prefer Day. What percent of under-40 nurses prefer Day?\nA) 35%\nB) 42%\nC) 50%\nD) 60%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 35%",
+      "C) 50%",
+      "D) 60%"
+    ],
+    "explanation": "The question asks for the percentage of under-40 nurses who prefer the Day shift, not the total surveyed group. Since 42 out of 100 nurses under 40 prefer Day, the calculation is simply 42 divided by 100, which equals 42%. Option A is incorrect because 35% would imply 35 nurses, ignoring the actual count of 42. Option C is wrong as it uses the total number of nurses preferring Day without dividing by the under-40 subgroup. Option D is invalid because 60% does not match the ratio of 42 to 100. Therefore, B is the only accurate answer reflecting the specific data provided.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 870,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A wound measures 2.5 meters. How many centimeters is this?\nA) 25 cm\nB) 250 cm\nC) 2500 cm\nD) 0.025 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 25 cm",
+      "C) 2500 cm",
+      "D) 0.025 cm"
+    ],
+    "explanation": "To convert 2.5 meters to centimeters, multiply by 100 since there are 100 centimeters in a meter. Option B is correct because 2.5 times 100 equals 250. Option A is wrong as it divides instead of multiplies. Option C is incorrect because it multiplies by 1000. Option D is wrong as it divides by 4000.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 871,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 3 kilograms to grams for a medication supply.\nA) 30 g\nB) 300 g\nC) 3000 g\nD) 0.003 g",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 30 g",
+      "B) 300 g",
+      "D) 0.003 g"
+    ],
+    "explanation": "To convert kilograms to grams, multiply by 1000 since there are 1000 grams in one kilogram. Therefore, 3 kilograms equals 3000 grams, making option C the correct choice. Options A, B, and D are incorrect because they result from dividing instead of multiplying or using the wrong decimal placement. This math question tests basic unit conversion for medication supplies.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 872,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient room is 12 feet long and 9 feet wide. What is the perimeter?\nA) 21 ft\nB) 30 ft\nC) 42 ft\nD) 108 ft",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 21 ft",
+      "B) 30 ft",
+      "D) 108 ft"
+    ],
+    "explanation": "The perimeter of a rectangle is found by adding all four sides, calculated as 2 times the length plus 2 times the width. For this room, that is 2 times 12 feet plus 2 times 9 feet, which equals 24 plus 18, resulting in 42 feet. Option A is half the correct sum, B is the area of one side, and D is the area of the entire room. Only C correctly applies the perimeter formula to the given dimensions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 873,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A square dressing is 5 cm on each side. What is its area?\nA) 10 cm\u00b2\nB) 20 cm\u00b2\nC) 25 cm\u00b2\nD) 30 cm\u00b2",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 10 cm\u00b2",
+      "B) 20 cm\u00b2",
+      "D) 30 cm\u00b2"
+    ],
+    "explanation": "The area of a square is found by multiplying the side length by itself. Since the side is 5 cm, the calculation is 5 times 5, which equals 25 cm\u00b2. Option C matches this result exactly. Options A, B, and D are incorrect because they do not represent the product of 5 multiplied by 5.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 874,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A cubic medication box has sides of 4 cm. What is its volume?\nA) 12 cm\u00b3\nB) 16 cm\u00b3\nC) 48 cm\u00b3\nD) 64 cm\u00b3",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) 12 cm\u00b3",
+      "B) 16 cm\u00b3",
+      "C) 48 cm\u00b3"
+    ],
+    "explanation": "The volume of a cube is found by cubing the side length (4\u00b3 = 64). Option D is correct because it matches this calculation. Option A is wrong as 12 is not 4\u00b3. Option B is incorrect since 16 equals 4\u00b2, not volume. Option C is wrong because 48 is not the result of 4\u00d74\u00d74.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 875,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient drinks 1.5 liters of water. How many milliliters is this?\nA) 15 mL\nB) 150 mL\nC) 1500 mL\nD) 15000 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 15 mL",
+      "B) 150 mL",
+      "D) 15000 mL"
+    ],
+    "explanation": "To convert 1.5 liters to milliliters, multiply by 1000 since 1 liter equals 1000 milliliters, resulting in 1500 mL. Option C is correct because it matches this calculation. Option A is wrong as 15 mL is too small, Option B is incorrect because 150 mL is one-tenth of the needed amount, and Option D is wrong because 15000 mL is ten times larger than the correct value.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 876,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 48 inches to feet.\nA) 3 ft\nB) 4 ft\nC) 5 ft\nD) 6 ft",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 3 ft",
+      "C) 5 ft",
+      "D) 6 ft"
+    ],
+    "explanation": "To convert 48 inches to feet, divide by 12 since there are 12 inches in a foot, yielding 4 feet. Option B is correct because 48 divided by 12 equals 4. Option A is wrong as 3 feet equals only 36 inches. Option C is incorrect because 5 feet equals 60 inches. Option D is wrong since 6 feet equals 72 inches. This math conversion requires knowing the standard inch-to-foot ratio.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 877,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A triangular bandage has a base of 10 cm and height of 6 cm. What is its area?\nA) 30 cm\u00b2\nB) 40 cm\u00b2\nC) 60 cm\u00b2\nD) 16 cm\u00b2",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 40 cm\u00b2",
+      "C) 60 cm\u00b2",
+      "D) 16 cm\u00b2"
+    ],
+    "explanation": "To find the area of the triangular bandage, multiply the base of 10 cm by the height of 6 cm and divide by 2, resulting in 30 cm\u00b2. Option A is correct because it matches this calculation. Option B is wrong as it ignores dividing by 2. Option C is incorrect because it multiplies base and height without dividing. Option D is wrong as it adds the dimensions instead of multiplying them.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 878,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A circular label has a radius of 3 cm. What is its area? Use 3.14 for pi.\nA) 9.42 cm\u00b2\nB) 18.84 cm\u00b2\nC) 28.26 cm\u00b2\nD) 37.68 cm\u00b2",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 9.42 cm\u00b2",
+      "B) 18.84 cm\u00b2",
+      "D) 37.68 cm\u00b2"
+    ],
+    "explanation": "To find the area of the circular label, multiply the radius squared by 3.14, which gives 28.26 cm\u00b2. Option C is correct because it matches this calculation exactly. Option A is wrong as it represents the circumference divided by 3. Option B is incorrect since it equals the circumference of the circle. Option D is wrong because it is double the correct area value.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 879,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "An infant weighs 5 pounds 8 ounces. How many total ounces is this?\nA) 68 oz\nB) 78 oz\nC) 88 oz\nD) 98 oz",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 68 oz",
+      "B) 78 oz",
+      "D) 98 oz"
+    ],
+    "explanation": "To solve this, convert 8 ounces to pounds first, then add the 5 pounds. Since 16 ounces equals 1 pound, 5 pounds is 80 ounces. Adding the remaining 8 ounces gives a total of 88 ounces. Option C is correct because it matches this calculation. Options A, B, and D are incorrect as they result from failing to properly convert the pounds or adding the numbers incorrectly.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 880,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient weighs 70 kg. Convert to pounds using 1 kg equals 2.2 lb.\nA) 144 lb\nB) 150 lb\nC) 154 lb\nD) 160 lb",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 144 lb",
+      "B) 150 lb",
+      "D) 160 lb"
+    ],
+    "explanation": "To solve this math problem, multiply the patient's weight of 70 kg by the conversion factor of 2.2 lb per kg, which yields exactly 154 lb. Option C is correct because it matches this calculated result. Options A, B, and D are incorrect as they do not reflect the accurate product of 70 times 2.2. This question tests basic unit conversion skills required for medical dosage calculations.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 881,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A cylindrical oxygen tank has radius 5 inches and height 20 inches. What is its volume? Use 3.14 for pi.\nA) 785 in\u00b3\nB) 1570 in\u00b3\nC) 3140 in\u00b3\nD) 6280 in\u00b3",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 785 in\u00b3",
+      "C) 3140 in\u00b3",
+      "D) 6280 in\u00b3"
+    ],
+    "explanation": "To find the volume, multiply pi by the radius squared and the height: 3.14 * 25 * 20 equals 1570 cubic inches, making option B correct. Option A is half the true volume, likely from forgetting to square the radius. Option C doubles the result, perhaps from multiplying by 40 instead of 20. Option D quadruples the answer, indicating a severe calculation error.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 882,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A rectangular tray is 18 inches by 12 inches. What is its perimeter in feet?\nA) 2.5 ft\nB) 5 ft\nC) 6 ft\nD) 7.5 ft",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 2.5 ft",
+      "C) 6 ft",
+      "D) 7.5 ft"
+    ],
+    "explanation": "To find the perimeter, add 18 and 12 inches to get 60 inches, then divide by 12 to convert to 5 feet. Option B is correct because it matches this calculation. Option A is wrong as 2.5 feet equals only 30 inches, which is half the actual perimeter. Option C is incorrect since 6 feet is 72 inches, exceeding the 60-inch total. Option D is wrong because 7.5 feet equals 90 inches, far too large. The question requires converting the sum of dimensions from inches to feet.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 883,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A prescription is 500 mg per tablet. Patient needs 1.5 g per day in 3 equal doses. How many tablets per dose?\nA) 0.5\nB) 1\nC) 1.5\nD) 2",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 0.5",
+      "C) 1.5",
+      "D) 2"
+    ],
+    "explanation": "The patient requires 1.5 g daily, which converts to 1500 mg. Dividing 1500 mg by the three doses yields 500 mg per dose. Since each tablet is 500 mg, exactly one tablet is needed per dose. Option A is wrong because 0.5 tablets would only provide 250 mg. Option C is incorrect as 1.5 tablets would exceed the required 500 mg. Option D is wrong because 2 tablets would provide 1000 mg, far too much.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 884,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "One liter of IV fluid is to infuse over 8 hours. What is the flow rate in mL per hour?\nA) 100 mL/hr\nB) 120 mL/hr\nC) 125 mL/hr\nD) 150 mL/hr",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 100 mL/hr",
+      "B) 120 mL/hr",
+      "D) 150 mL/hr"
+    ],
+    "explanation": "To find the flow rate, divide the total volume of 1000 mL by the 8 hours, resulting in 125 mL/hr. Option C is correct because 1000 divided by 8 equals 125. Option A is wrong as \\(\\frac{1000}{8}\\) does not equal 100. Option B is incorrect since 120 hours would require 8.33 hours. Option D is wrong because 150 mL/hr implies only 6.67 hours.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 885,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A trapezoidal wound bed has bases of 12 ft and 18 ft with height 8 ft. What is its area?\nA) 96 ft\u00b2\nB) 120 ft\u00b2\nC) 144 ft\u00b2\nD) 192 ft\u00b2",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 96 ft\u00b2",
+      "C) 144 ft\u00b2",
+      "D) 192 ft\u00b2"
+    ],
+    "explanation": "The area of a trapezoid is found using the formula A = \\(\\frac{1}{2}\\) * (b1 + b2) * h. Plugging in the given values of 12 ft, 18 ft, and 8 ft yields \\(\\frac{1}{2}\\) * (30) * 8 = 120 ft\u00b2, making option B the correct choice. Option A results from multiplying only the height and one base, while C and D arise from incorrect arithmetic or omitting the \\(\\frac{1}{2}\\) factor in the standard trapezoid area formula.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 886,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 2.5 gallons to liters. Use 1 gallon equals 3.785 L. Round to nearest tenth.\nA) 8.5 L\nB) 9.1 L\nC) 9.5 L\nD) 10.2 L",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 8.5 L",
+      "B) 9.1 L",
+      "D) 10.2 L"
+    ],
+    "explanation": "To convert 2.5 gallons to liters, multiply 2.5 by 3.785, which equals 9.4625. Rounding 9.4625 to the nearest tenth gives 9.5, making option C the correct choice. Option A is incorrect because 8.5 results from subtracting instead of multiplying. Option B is wrong as 9.1 ignores the proper rounding of the hundredths digit. Option D is inaccurate since 10.2 assumes a larger conversion factor or miscalculates the product entirely.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 887,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "An L-shaped counter is made from a 6 ft by 4 ft rectangle with a 2 ft by 2 ft corner removed. What is the area?\nA) 20 ft\u00b2\nB) 22 ft\u00b2\nC) 24 ft\u00b2\nD) 28 ft\u00b2",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 22 ft\u00b2",
+      "C) 24 ft\u00b2",
+      "D) 28 ft\u00b2"
+    ],
+    "explanation": "To find the area, subtract the removed 2 ft by 2 ft square from the original 6 ft by 4 ft rectangle. The original area is 24 ft\u00b2, and removing 4 ft\u00b2 leaves 20 ft\u00b2, which matches option A. Options B, C, and D are incorrect because they fail to properly account for the subtraction of the corner area. Option B suggests 22 ft\u00b2, C implies 24 ft\u00b2 (the full rectangle), and D indicates 28 ft\u00b2, all of which are mathematically inaccurate for this shape.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 888,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient is 5 feet 4 inches tall. Convert to centimeters using 1 inch equals 2.54 cm.\nA) 160.0 cm\nB) 162.6 cm\nC) 165.1 cm\nD) 167.6 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 160.0 cm",
+      "C) 165.1 cm",
+      "D) 167.6 cm"
+    ],
+    "explanation": "To solve this, convert 5 feet 4 inches to total inches: (5 \u00d7 12) + 4 = 64 inches. Multiply 64 by 2.54 cm per inch to get 162.56 cm, which rounds to 162.6 cm. Option B matches this result. Option A is too low, likely from rounding early or using 2.5 cm. Option C and D are too high, possibly from adding extra inches or miscalculating the feet conversion. The question requires precise unit conversion without premature rounding.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 889,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A rectangular basin is 50 cm long, 30 cm wide, and 20 cm deep. How many liters does it hold when full?\nA) 3 L\nB) 15 L\nC) 30 L\nD) 300 L",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 3 L",
+      "B) 15 L",
+      "D) 300 L"
+    ],
+    "explanation": "To find the volume, multiply 50 cm by 30 cm by 20 cm to get 30,000 cubic centimeters. Since 1,000 cubic centimeters equal 1 liter, divide 30,000 by 1,000 to get 30 liters. Option C is correct because it matches this calculation. Option A is wrong as it is too small, Option B is half the correct value, and Option D is ten times larger than the actual volume.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 890,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The bar graph shows the number of patients admitted to a hospital over five days. If Monday shows 20 patients, Tuesday 25, Wednesday 30, Thursday 25, and Friday 20, what is the mean number of patients admitted per day?\nA) 24\nB) 25\nC) 26\nD) 28",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 25",
+      "C) 26",
+      "D) 28"
+    ],
+    "explanation": "To find the mean, sum the daily admissions (20+25+30+25+20=120) and divide by 5 days, yielding exactly 24. Option A matches this calculation. Option B is incorrect because 25 is the median, not the average. Option C is wrong as 26 exceeds the true mean. Option D is incorrect since 28 is far too high for this dataset.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 891,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart represents the distribution of blood types in a sample. If Type O represents 45% of the chart and the total sample size is 400 people, how many people have Type O blood?\nA) 45\nB) 180\nC) 220\nD) 355",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 45",
+      "C) 220",
+      "D) 355"
+    ],
+    "explanation": "To find the number of people with Type O blood, multiply the percentage (45%) by the total sample size (400). This calculation yields 180, making option B the correct answer. Option A is incorrect because it only uses the percentage number without applying it to the total. Option C is wrong as it likely results from adding instead of multiplying the values. Option D is incorrect because it appears to be a random number unrelated to the math. The question asks for a specific count based on the given data, which is 180.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 892,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The table shows a patient's temperature recorded every 4 hours: 98.6\u00b0F, 99.2\u00b0F, 101.0\u00b0F, and 100.4\u00b0F. What is the range of the patient's temperature?\nA) 1.4\u00b0F\nB) 2.0\u00b0F\nC) 2.4\u00b0F\nD) 101.0\u00b0F",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 1.4\u00b0F",
+      "B) 2.0\u00b0F",
+      "D) 101.0\u00b0F"
+    ],
+    "explanation": "The range is the difference between the highest and lowest values. The highest temperature is 101.0\u00b0F and the lowest is 98.6\u00b0F. Subtracting 98.6 from 101.0 gives 2.4\u00b0F, which matches option C. Option A is incorrect because it likely results from subtracting 99.2 from 101.0. Option B is wrong as it may come from subtracting 99.0 from 101.0. Option D is invalid because it lists the maximum temperature instead of the calculated range.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 893,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "According to the line graph, the heart rate of a patient was 80 bpm at 8:00 AM, 76 bpm at 12:00 PM, and 72 bpm at 4:00 PM. By how many beats per minute did the heart rate decrease from 8:00 AM to 4:00 PM?\nA) 4 bpm\nB) 8 bpm\nC) 12 bpm\nD) 16 bpm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 4 bpm",
+      "C) 12 bpm",
+      "D) 16 bpm"
+    ],
+    "explanation": "To find the decrease from 8:00 AM to 4:00 PM, subtract the 4:00 PM rate (72 bpm) from the 8:00 AM rate (80 bpm), which equals 8 bpm. Option B is correct because it matches this calculation. Option A is wrong as it only reflects the drop between 8:00 AM and 12:00 PM. Option C is incorrect because it sums all three drops instead of finding the total difference. Option D is wrong since it mistakenly doubles the correct result.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 894,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot displays the relationship between hours studied and test scores. The points generally extend from the bottom-left to the upper-right corner. What type of correlation does this indicate?\nA) Positive correlation\nB) Negative correlation\nC) No correlation\nD) Causal correlation",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Negative correlation",
+      "C) No correlation",
+      "D) Causal correlation"
+    ],
+    "explanation": "The scatter plot points extending from bottom-left to top-right indicate a positive correlation, meaning as hours studied increase, test scores also rise. Option A correctly identifies this trend. Option B is wrong because negative correlation would show points falling from top-left to bottom-right. Option C is incorrect since the clear pattern rules out no correlation. Option D is invalid because correlation does not prove causation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 895,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A histogram displays the weights of newborns in pounds. The bar for the interval 6-7 lbs has a height of 12, and the bar for 7-8 lbs has a height of 18. How many newborns weighed between 6 and 8 lbs?\nA) 12\nB) 18\nC) 30\nD) 36",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 12",
+      "B) 18",
+      "D) 36"
+    ],
+    "explanation": "The question asks for the total newborns between 6 and 8 lbs, requiring the sum of the two adjacent histogram bars. Option C is correct because adding the height of the 6-7 lbs bar (12) to the 7-8 lbs bar (18) yields 30. Option A is wrong as it only counts the first group, Option B ignores the second group entirely, and Option D incorrectly multiplies the values instead of adding them.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 896,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The table lists the number of nurses working on different units: ICU (15), ER (22), and Med-Surg (18). What is the total number of nurses listed?\nA) 40\nB) 50\nC) 55\nD) 60",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 40",
+      "B) 50",
+      "D) 60"
+    ],
+    "explanation": "To find the total, add the nurses from each unit: 15 (ICU) + 22 (ER) + 18 (Med-Surg). This sum equals 55, making option C the correct choice. Option A is incorrect because 40 is too low, likely missing the ER count. Option B is wrong as 50 undercounts by five nurses. Option D is incorrect since 60 is too high, perhaps adding an extra unit erroneously.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 897,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse earns \\$1,500 per week. The bar graph shows expenses: Rent \\$600, Food \\$300, Utilities \\$150. What percentage of the weekly income is spent on Rent?\nA) 30%\nB) 40%\nC) 50%\nD) 60%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 30%",
+      "C) 50%",
+      "D) 60%"
+    ],
+    "explanation": "To find the rent percentage, divide the \\$600 rent by the \\$1,500 weekly income, which equals 0.4 or 40%, making option B correct. Option A is wrong because 30% represents the food expense, not rent. Option C is incorrect as 50% would imply \\$750 spent on rent, exceeding the actual amount. Option D is false since 60% equals \\$900, which is not the rent figure shown in the graph.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 898,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The table shows the number of flu cases: Week 1 (50), Week 2 (65), Week 3 (80). What is the percent increase in cases from Week 1 to Week 3?\nA) 30%\nB) 37.5%\nC) 60%\nD) 62.5%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 30%",
+      "B) 37.5%",
+      "D) 62.5%"
+    ],
+    "explanation": "The percent increase from Week 1's 50 cases to Week 3's 80 cases is calculated as (80 - 50) / 50 * 100, which equals 60%. Option C is correct because it matches this result. Option A is wrong as it likely divides the difference by the new total instead of the original. Option B is incorrect because it uses the wrong base number for the percentage calculation. Option D is also wrong as it does not align with the standard formula for percent increase.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 899,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot shows a negative correlation between hours of sleep and stress levels. If a student sleeps 8 hours, their stress score is 20. If they sleep 5 hours, their stress score is 50. Estimate the stress score for 6.5 hours of sleep.\nA) 15\nB) 35\nC) 45\nD) 55",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 15",
+      "C) 45",
+      "D) 55"
+    ],
+    "explanation": "The scatter plot indicates a negative correlation where stress rises as sleep decreases. Between 5 hours (stress 50) and 8 hours (stress 20), 6.5 hours is the midpoint, suggesting the stress score is also the midpoint between 50 and 20. Calculating the average of 50 and 20 yields 35, which matches option B. Option A is too low because stress should be higher than the 8-hour value. Option C is too high as it exceeds the 5-hour stress level. Option D is incorrect because it implies stress increases with more sleep, contradicting the negative correlation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 900,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The pie chart shows department budgets: Research 40%, Marketing 25%, Operations 35%. If the total budget is \\$500,000, how much more money is allocated to Research than Marketing?\nA) \\$25,000\nB) \\$50,000\nC) \\$75,000\nD) \\$100,000",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) \\$25,000",
+      "B) \\$50,000",
+      "D) \\$100,000"
+    ],
+    "explanation": "The difference between Research and Marketing is 15% (40% minus 25%). Calculating 15% of the \\$500,000 total budget yields exactly \\$75,000, making option C the right choice. Option A is wrong because it only reflects the 5% gap between Operations and Research. Option B incorrectly assumes a 10% difference, while option D mistakenly calculates a 20% gap.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 901,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The graph shows the distance traveled by a car over time. Between 1:00 PM and 3:00 PM, the distance increased from 120 miles to 200 miles. What was the average speed in miles per hour during this interval?\nA) 26.7 mph\nB) 40 mph\nC) 60 mph\nD) 80 mph",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 26.7 mph",
+      "C) 60 mph",
+      "D) 80 mph"
+    ],
+    "explanation": "To find the average speed, divide the total distance change by the time elapsed. The car traveled 80 miles (200 minus 120) over 2 hours (3:00 PM minus 1:00 PM), resulting in 40 mph. Option A is incorrect because it uses the wrong time duration. Option C assumes the speed is 60 mph, which would require 1 hour and 20 minutes. Option D is far too high for the given distance and time.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 902,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table lists patient ages: 18, 22, 25, 25, 30, 42, 50. What is the median age of this patient group?\nA) 25\nB) 26\nC) 30\nD) 32",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 26",
+      "C) 30",
+      "D) 32"
+    ],
+    "explanation": "To find the median, arrange the seven ages in order: 18, 22, 25, 25, 30, 42, 50. The middle value is the fourth number, which is 25, making option A correct. Options B, C, and D are incorrect because they represent values outside the exact middle position of the dataset. Specifically, 26, 30, and 32 do not match the single central data point required for the median of an odd-sized group.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 904,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A histogram shows the distribution of test scores. The interval 70-79 has a frequency of 15, and 80-89 has a frequency of 25. If a student is chosen at random from the combined group of these two intervals, what is the probability they scored 80 or above?\nA) \\(\\frac{15}{40}\\)\nB) \\(\\frac{25}{40}\\)\nC) \\(\\frac{25}{15}\\)\nD) \\(\\frac{5}{8}\\)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) \\(\\frac{15}{40}\\)",
+      "B) \\(\\frac{25}{40}\\)",
+      "C) \\(\\frac{25}{15}\\)"
+    ],
+    "explanation": "To find the probability of scoring 80 or above, divide the frequency of the 80-89 interval (25) by the total combined frequency (15 + 25 = 40), which simplifies to \\(\\frac{5}{8}\\). Option A is incorrect because it uses the wrong interval frequency in the numerator. Option B is wrong as it does not simplify the fraction \\(\\frac{25}{40}\\). Option C is invalid because it divides by the smaller interval's frequency instead of the total. This calculation directly addresses the random selection from the combined group described in the question.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 905,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot shows data points that cluster tightly around a line sloping downward. The correlation coefficient (r) is calculated. Which value best represents this relationship?\nA) -0.95\nB) -0.20\nC) 0.20\nD) 0.95",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) -0.20",
+      "C) 0.20",
+      "D) 0.95"
+    ],
+    "explanation": "The scatter plot shows a tight downward slope, indicating a strong negative correlation. Option A (-0.95) is correct because it reflects this strong negative relationship. Option B (-0.20) is wrong as it suggests a weak negative correlation. Option C (0.20) is incorrect because it implies a weak positive relationship. Option D (0.95) is wrong since it represents a strong positive correlation, not negative.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 906,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A two-way table shows 100 patients. 40 have Disease X. 30 have Symptom A. 25 have both Disease X and Symptom A. What percentage of patients with Disease X also have Symptom A?\nA) 25%\nB) 37.5%\nC) 62.5%\nD) 83.3%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 25%",
+      "B) 37.5%",
+      "D) 83.3%"
+    ],
+    "explanation": "To find the percentage, divide the 25 patients with both conditions by the 40 total patients with Disease X, resulting in 62.5%. Option A is incorrect because 25% represents the fraction of the entire group, not the subset with Disease X. Option B is wrong as 37.5% is the percentage of the total group with Symptom A. Option D is inaccurate since 83.3% is the percentage of the total group with Disease X. Therefore, C is the only correct choice.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 907,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A compound bar graph shows Male and Female enrollment in 3 courses. Biology: Male 40, Female 60. Chemistry: Male 50, Female 30. Physics: Male 20, Female 10. Which course has the highest ratio of Male to Female students?\nA) Biology\nB) Chemistry\nC) Physics\nD) They are all equal",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Biology",
+      "B) Chemistry",
+      "D) They are all equal"
+    ],
+    "explanation": "To find the highest Male to Female ratio, divide the Male count by the Female count for each course. Physics yields \\(\\frac{20}{10}\\) = 2, which is higher than Biology's \\(\\frac{40}{60}\\) \u2248 0.67 and Chemistry's \\(\\frac{50}{30}\\) \u2248 1.67. Option C is correct because Physics has the largest calculated value. Options A and B are incorrect as their ratios are smaller, and D is wrong since the ratios differ significantly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 908,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The line graph shows a company's profit. In 2018 it was \\$50k. In 2019 it doubled. In 2020 it dropped by \\$40k. What was the final profit in 2020?\nA) \\$60,000\nB) \\$90,000\nC) \\$100,000\nD) \\$140,000",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) \\$90,000",
+      "C) \\$100,000",
+      "D) \\$140,000"
+    ],
+    "explanation": "The final profit is \\$60,000 because the 2019 value doubled to \\$100k, then dropped \\$40k in 2020. Option A matches this calculation. Option B incorrectly assumes the drop was only \\$10k. Option C ignores the 2020 decrease entirely. Option D mistakenly adds the drop instead of subtracting it.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 909,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "How many milliliters are in 3 Liters?\nA) 300 mL\nB) 3,000 mL\nC) 30,000 mL\nD) 0.003 mL",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 300 mL",
+      "C) 30,000 mL",
+      "D) 0.003 mL"
+    ],
+    "explanation": "To convert Liters to milliliters, multiply by 1,000. Therefore, 3 Liters equals 3,000 milliliters, making option B correct. Option A is wrong because it divides by 10 instead of multiplying. Option C is incorrect as it multiplies by 10,000. Option D is false because it divides by 1,000,000. This question tests basic unit conversion in math.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 910,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A rectangle has a length of 10 cm and a width of 5 cm. What is the perimeter of the rectangle?\nA) 15 cm\nB) 30 cm\nC) 50 cm\nD) 60 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 15 cm",
+      "C) 50 cm",
+      "D) 60 cm"
+    ],
+    "explanation": "The perimeter of a rectangle is found by adding twice the length and twice the width, so 2(10) + 2(5) equals 30 cm, making option B correct. Option A is wrong because 15 cm is only the sum of length and width, not the full perimeter. Option C is incorrect as 50 cm represents the area (10 times 5), not the distance around the shape. Option D is wrong because 60 cm is double the area, which has no relevance to the perimeter calculation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 911,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Which of the following is the most appropriate unit for measuring the weight of a vitamin tablet?\nA) Kilograms\nB) Grams\nC) Milligrams\nD) Liters",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Kilograms",
+      "B) Grams",
+      "D) Liters"
+    ],
+    "explanation": "The most appropriate unit is C) Milligrams because vitamin tablets are extremely light, typically weighing less than a gram. Option A) Kilograms is far too large for such a small object, while B) Grams is still generally excessive for a single tablet. Option D) Liters measures volume, not weight, making it irrelevant here. Therefore, milligrams provide the precise scale needed for this measurement.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 912,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 2.5 meters to centimeters.\nA) 0.25 cm\nB) 25 cm\nC) 250 cm\nD) 2,500 cm",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 0.25 cm",
+      "B) 25 cm",
+      "D) 2,500 cm"
+    ],
+    "explanation": "To convert 2.5 meters to centimeters, multiply by 100 since there are 100 centimeters in one meter. This calculation yields 250 cm, making option C the only correct choice. Option A is incorrect because it divides instead of multiplies, while B results from multiplying by 10. Option D is wrong as it multiplies by 1,000, which converts meters to millimeters, not centimeters.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 913,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A square has a side length of 4 inches. What is the area of the square?\nA) 8 square inches\nB) 12 square inches\nC) 16 square inches\nD) 16 inches",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 8 square inches",
+      "B) 12 square inches",
+      "D) 16 inches"
+    ],
+    "explanation": "The area of a square equals side length squared, so 4 times 4 is 16 square inches. Option C correctly states this value with proper units. Option A is wrong because 8 is half of 16, not the area. Option B is incorrect as 12 does not result from squaring 4. Option D matches the number but lacks the required \"square inches\" unit.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 914,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient must drink 1 liter of water. They have already drunk 250 mL. How many milliliters are left to drink?\nA) 250 mL\nB) 500 mL\nC) 750 mL\nD) 850 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 250 mL",
+      "B) 500 mL",
+      "D) 850 mL"
+    ],
+    "explanation": "To find the remaining water, subtract the 250 mL already consumed from the total 1 liter (1000 mL), which equals 750 mL. Option C matches this calculation exactly. Option A is incorrect because it represents the amount already drunk, not the remainder. Option B is wrong as it assumes only half a liter was needed initially. Option D is inaccurate because it adds the consumed amount to the total instead of subtracting.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 915,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the volume of a box with a length of 5 cm, width of 2 cm, and height of 3 cm?\nA) 10 cubic cm\nB) 15 cubic cm\nC) 20 cubic cm\nD) 30 cubic cm",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) 10 cubic cm",
+      "B) 15 cubic cm",
+      "C) 20 cubic cm"
+    ],
+    "explanation": "To find the volume of the box, multiply the length, width, and height: 5 cm \u00d7 2 cm \u00d7 3 cm equals 30 cubic cm. Option D is correct because it matches this calculation. Option A is wrong as it likely results from multiplying only length and width. Option B is incorrect because it may stem from adding the dimensions instead. Option C is also wrong as it does not reflect the proper volume formula.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 916,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A triangle has a base of 10 inches and a height of 6 inches. What is the area of the triangle?\nA) 16 sq inches\nB) 30 sq inches\nC) 60 sq inches\nD) 36 sq inches",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 16 sq inches",
+      "C) 60 sq inches",
+      "D) 36 sq inches"
+    ],
+    "explanation": "The area of a triangle is found by multiplying the base by the height and dividing by two. Using the given values of 10 inches and 6 inches, the calculation is (10 * 6) / 2, which equals 30 square inches. Option B is correct because it matches this result. Option A is wrong as it multiplies the height by itself. Option C is incorrect because it forgets to divide by two. Option D is wrong as it multiplies the base by the height without dividing.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 917,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A nurse needs to administer 0.05 grams of a medication. The tablets are available in 25 mg each. How many tablets should the nurse administer?\nA) 0.5 tablet\nB) 1 tablet\nC) 2 tablets\nD) 5 tablets",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 0.5 tablet",
+      "B) 1 tablet",
+      "D) 5 tablets"
+    ],
+    "explanation": "To solve this, convert 0.05 grams to 50 milligrams since 1 gram equals 1000 milligrams. Dividing the required 50 mg by the 25 mg per tablet yields exactly 2 tablets, making option C correct. Option A is wrong because 0.5 tablet provides only 12.5 mg, which is insufficient. Option B is incorrect as 1 tablet delivers just 25 mg, falling short of the 50 mg dose. Option D is wrong because 5 tablets would overdose the patient with 125 mg.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 918,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A runner runs 5 kilometers in 25 minutes. What is their average speed in meters per minute?\nA) 100 m/min\nB) 125 m/min\nC) 200 m/min\nD) 5,000 m/min",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 100 m/min",
+      "B) 125 m/min",
+      "D) 5,000 m/min"
+    ],
+    "explanation": "To find the speed, convert 5 kilometers to 5,000 meters, then divide by 25 minutes. Option C is correct because 5,000 divided by 25 equals 200 meters per minute. Option A is wrong as it suggests half the actual speed. Option B is incorrect because it uses the time value instead of the distance. Option D is wrong since it lists the total distance rather than the rate.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

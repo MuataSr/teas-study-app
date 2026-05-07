@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1052,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse advises an osteoporosis patient on calcium supplementation. This recommendation supports which ongoing skeletal process?\nA) Hematopoiesis\nB) Bone remodeling\nC) Synovial fluid production\nD) Ligament tensile strength",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Hematopoiesis",
+      "C) Synovial fluid production",
+      "D) Ligament tensile strength"
+    ],
+    "explanation": "The recommendation for calcium supports bone remodeling, the continuous process where old bone is replaced by new tissue to maintain skeletal integrity. Calcium is a primary mineral required for this specific resorption and deposition cycle within the bone matrix. Option A is incorrect because hematopoiesis is blood cell formation in the marrow, not a skeletal structural process. Option C is wrong as synovial fluid production lubricates joints, whereas D is inaccurate since ligament tensile strength involves connective tissue, not the mineralized bone itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1053,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "When staging a pressure injury, a nurse assesses damage through the dermis. Which skin layer contains blood vessels and nerves critical for healing?\nA) Stratum corneum\nB) Epidermis\nC) Dermis\nD) Hypodermis",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Stratum corneum",
+      "B) Epidermis",
+      "D) Hypodermis"
+    ],
+    "explanation": "The correct answer is C because the dermis is the specific skin layer containing blood vessels and nerves essential for healing. The question states the nurse assesses damage through the dermis, confirming this layer's involvement. Option A is wrong as the stratum corneum is the outermost dead skin layer lacking vessels. Option B is incorrect since the epidermis sits above the dermis and has no blood supply. Option D is wrong because the hypodermis lies below the dermis and is not the primary site of the described assessment.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1054,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse counsels a patient on combined oral contraceptives. These medications primarily prevent pregnancy by suppressing which hormonal event?\nA) Follicle-stimulating hormone surge\nB) Ovulation\nC) Endometrial shedding\nD) Luteinizing hormone baseline",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Follicle-stimulating hormone surge",
+      "C) Endometrial shedding",
+      "D) Luteinizing hormone baseline"
+    ],
+    "explanation": "Combined oral contraceptives work by suppressing ovulation, the release of an egg. Option B is correct because these drugs inhibit the hormonal surge needed for this event. Option A is wrong as follicle-stimulating hormone is part of the process, not the event itself. Option C is incorrect since endometrial shedding is the period, not the pregnancy prevention mechanism. Option D is false because luteinizing hormone baseline does not describe the critical surge required for ovulation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1055,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "When monitoring a heart failure patient, a nurse understands that cardiac output equals heart rate multiplied by which factor?\nA) Blood pressure\nB) Stroke volume\nC) Peripheral resistance\nD) Preload",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Blood pressure",
+      "C) Peripheral resistance",
+      "D) Preload"
+    ],
+    "explanation": "Cardiac output is defined as the product of heart rate and stroke volume, making option B the only mathematically valid choice for this formula. Options A, C, and D are incorrect because blood pressure, peripheral resistance, and preload are hemodynamic variables that influence cardiac function but do not form part of the fundamental equation for calculating total cardiac output.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1056,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse educates a patient starting an SSRI. These medications increase synaptic serotonin by blocking which process?\nA) Reuptake into presynaptic neuron\nB) Neurotransmitter synthesis\nC) Receptor degradation\nD) Enzymatic breakdown in cleft",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Neurotransmitter synthesis",
+      "C) Receptor degradation",
+      "D) Enzymatic breakdown in cleft"
+    ],
+    "explanation": "The question asks how SSRIs increase synaptic serotonin. Option A is correct because SSRIs block the reuptake of serotonin into the presynaptic neuron, leaving more serotonin in the synaptic cleft. Option B is wrong since SSRIs do not affect neurotransmitter synthesis. Option C is incorrect as receptor degradation is unrelated to SSRI mechanism. Option D is false because SSRIs do not inhibit enzymatic breakdown in the cleft.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1057,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A critically ill patient shows elevated cortisol and suppressed immune function. Chronic activation of which axis explains this pathophysiology?\nA) Renin-angiotensin-aldosterone system\nB) Hypothalamic-pituitary-adrenal axis\nC) Sympathetic-adrenal-medullary axis\nD) Thyroid-pituitary feedback loop",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Renin-angiotensin-aldosterone system",
+      "C) Sympathetic-adrenal-medullary axis",
+      "D) Thyroid-pituitary feedback loop"
+    ],
+    "explanation": "The question asks which axis explains elevated cortisol and suppressed immunity. Option B, the hypothalamic-pituitary-adrenal axis, directly regulates cortisol release through the HPA pathway. Option A involves aldosterone for blood pressure, not cortisol. Option C controls epinephrine for immediate stress, not chronic cortisol. Option D manages thyroid hormones for metabolism. Thus, only the HPA axis fits the described pathophysiology of high cortisol.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1058,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse cares for a patient with severe metabolic acidosis. How does this condition affect hemoglobin's oxygen affinity according to the oxygen-hemoglobin dissociation curve?\nA) Increases affinity, shifting curve left\nB) Decreases affinity, shifting curve right\nC) No effect on affinity\nD) Causes hemoglobin denaturation",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Increases affinity, shifting curve left",
+      "C) No effect on affinity",
+      "D) Causes hemoglobin denaturation"
+    ],
+    "explanation": "Severe metabolic acidosis lowers blood pH, which decreases hemoglobin's oxygen affinity and shifts the dissociation curve to the right. This physiological change allows tissues to extract more oxygen during acidotic states. Option A is incorrect because acidosis does not increase affinity or shift the curve left. Option C is wrong since pH changes directly affect hemoglobin binding. Option D is false because acidosis alters function without causing denaturation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1059,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A hypotensive patient triggers renin release. Which subsequent step in the RAAS pathway directly increases blood volume?\nA) Aldosterone-mediated sodium reabsorption\nB) Angiotensin II vasoconstriction\nC) ADH release from posterior pituitary\nD) Erythropoietin stimulation",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Angiotensin II vasoconstriction",
+      "C) ADH release from posterior pituitary",
+      "D) Erythropoietin stimulation"
+    ],
+    "explanation": "In the RAAS pathway, renin triggers angiotensin II, which stimulates aldosterone to reabsorb sodium and water, directly increasing blood volume. Option A is correct because aldosterone acts on kidney tubules to retain fluid. Option B is wrong as angiotensin II primarily causes vasoconstriction rather than volume expansion. Option C is incorrect since ADH regulates water balance but is not the direct RAAS step for volume increase. Option D is false because erythropoietin stimulates red blood cell production, not fluid retention.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1060,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A septic patient develops hypotension and multi-organ dysfunction. Which immune mechanism contributes to this cascade through excessive inflammatory mediator release?\nA) Antibody class switching\nB) Cytokine storm\nC) Complement fixation\nD) T-cell clonal deletion",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Antibody class switching",
+      "C) Complement fixation",
+      "D) T-cell clonal deletion"
+    ],
+    "explanation": "The question asks about excessive inflammatory mediator release in a septic patient. Option B, cytokine storm, describes the massive release of cytokines driving this cascade. Option A, antibody class switching, changes antibody types without causing systemic inflammation. Option C, complement fixation, activates immune pathways but does not explain the mediator surge. Option D, T-cell clonal deletion, removes specific T-cells rather than triggering an inflammatory response. Thus, only the cytokine storm fits the mechanism of excessive inflammatory mediator release described in the scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1061,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "When reviewing an ECG showing atrial fibrillation, a nurse recognizes the absence of P waves indicates disruption in which cardiac electrical event?\nA) Ventricular depolarization\nB) Purkinje fiber activation\nC) AV node conduction delay\nD) Atrial depolarization",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Ventricular depolarization",
+      "B) Purkinje fiber activation",
+      "C) AV node conduction delay"
+    ],
+    "explanation": "The absence of P waves on an ECG signifies a lack of atrial depolarization, which is the electrical event responsible for atrial contraction. Since atrial fibrillation disrupts the organized electrical signals in the atria, the atria fail to depolarize normally, eliminating the P wave. Options A and B are incorrect because ventricular depolarization and Purkinje fiber activation generate QRS complexes, not P waves. Option C is wrong because AV node conduction delays affect the PR interval, whereas the missing P wave indicates the atrial depolarization itself has ceased.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1062,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse administers a lipid-soluble medication for a CNS infection. Which anatomical feature most significantly limits drug penetration into brain tissue?\nA) Meningeal layers\nB) Astrocyte end-feet\nC) Cerebrospinal fluid flow\nD) Blood-brain barrier",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Meningeal layers",
+      "B) Astrocyte end-feet",
+      "C) Cerebrospinal fluid flow"
+    ],
+    "explanation": "The blood-brain barrier, formed by tight junctions between endothelial cells, is the primary anatomical feature limiting drug penetration into brain tissue. While meningeal layers and astrocyte end-feet contribute to the barrier's integrity, they do not independently restrict lipid-soluble drugs as effectively as the endothelial tight junctions. Cerebrospinal fluid flow facilitates rather than hinders drug distribution, making it an incorrect choice for a limiting factor. Thus, option D is the most accurate answer regarding the significant limitation on drug entry into the CNS.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1063,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "After administering a neuromuscular blocker during intubation, a nurse monitors for reversal. Which process must occur at the motor end plate for muscle function to return?\nA) Acetylcholine synthesis\nB) Calcium reuptake into sarcoplasmic reticulum\nC) Competitive antagonist displacement of blocker\nD) Sodium-potassium pump restoration",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Acetylcholine synthesis",
+      "B) Calcium reuptake into sarcoplasmic reticulum",
+      "D) Sodium-potassium pump restoration"
+    ],
+    "explanation": "The nurse monitors for reversal via a competitive antagonist displacing the neuromuscular blocker at the motor end plate. This allows acetylcholine to bind receptors again, restoring muscle function. Option A is wrong because synthesis occurs in the neuron, not the end plate. Option B is incorrect as calcium reuptake happens inside the sarcoplasmic reticulum. Option D fails since the sodium-potassium pump operates on the cell membrane, not the synaptic junction.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1064,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A patient on long-term proton pump inhibitors may experience reduced absorption of vitamin B12. This occurs because gastric acid is required for which step in B12 metabolism?\nA) Intrinsic factor synthesis\nB) Release of B12 from dietary protein\nC) Ileal receptor binding\nD) Hepatic storage activation",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Intrinsic factor synthesis",
+      "C) Ileal receptor binding",
+      "D) Hepatic storage activation"
+    ],
+    "explanation": "Vitamin B12 is tightly bound to dietary proteins in food. Gastric acid is essential to cleave these proteins and release free B12 so it can bind to intrinsic factor later. Without acid, B12 remains trapped in the protein matrix and cannot be absorbed. Option A is incorrect because acid does not synthesize intrinsic factor. Option C is wrong as receptor binding happens in the ileum after release. Option D is false since hepatic storage is not the initial metabolic step requiring acid.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1065,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse understands that wound healing after surgery relies on which principle of cell theory?\nA) All cells contain DNA\nB) All living things are composed of cells\nC) Cells are the basic unit of life\nD) Cells arise from pre-existing cells",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) All cells contain DNA",
+      "B) All living things are composed of cells",
+      "C) Cells are the basic unit of life"
+    ],
+    "explanation": "The correct answer is D because cell theory states that new cells only come from the division of existing ones, which is essential for surgical wound healing. Option A is incorrect since having DNA does not explain the mechanism of tissue regeneration. Option B is wrong because being composed of cells defines life but does not address how wounds heal. Option C is inaccurate as being the basic unit of life is a structural fact, not a process of growth.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1066,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "When explaining why antibiotics don't harm human cells, a nurse notes that bacterial cells differ from human cells primarily by lacking what structure?\nA) Cell membrane\nB) Ribosomes\nC) Cell wall\nD) Nucleus",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Cell membrane",
+      "B) Ribosomes",
+      "C) Cell wall"
+    ],
+    "explanation": "The nurse explains that bacterial cells lack a nucleus, which distinguishes them from human cells containing one. Option D is correct because prokaryotes like bacteria do not have membrane-bound organelles. Options A, B, and C are incorrect since bacteria possess cell membranes, ribosomes, and cell walls, unlike human cells which lack a cell wall. This structural difference allows antibiotics to target bacterial processes without harming human cells.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1067,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "After a surgical incision, tissue repair occurs primarily through which type of cell division?\nA) Meiosis\nB) Mitosis\nC) Binary fission\nD) Budding",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Meiosis",
+      "C) Binary fission",
+      "D) Budding"
+    ],
+    "explanation": "Tissue repair after surgery relies on mitosis because it allows somatic cells to duplicate their DNA and divide to form genetically identical cells needed for healing. Meiosis is incorrect as it produces gametes for reproduction, not tissue growth. Binary fission applies to prokaryotes like bacteria, while budding is a specific asexual method in yeast. Thus, only mitosis fits the biological process of somatic tissue regeneration.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1068,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse explains genetic testing accuracy to a patient. Which DNA feature ensures precise base pairing during replication and analysis?\nA) Sugar-phosphate backbone\nB) Histone protein binding\nC) Double helix shape\nD) Complementary base pairing",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Sugar-phosphate backbone",
+      "B) Histone protein binding",
+      "C) Double helix shape"
+    ],
+    "explanation": "The correct answer is D because complementary base pairing allows adenine to bond with thymine and cytosine with guanine, ensuring precise replication. Option A is wrong as the sugar-phosphate backbone provides structural support but does not dictate base specificity. Option B is incorrect since histone proteins help package DNA without influencing base pairing rules. Option C is wrong because the double helix shape describes the overall structure rather than the mechanism of accurate pairing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1069,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "When reviewing lab values, a nurse recognizes that enzymes facilitating metabolic reactions belong to which macromolecule class?\nA) Carbohydrates\nB) Lipids\nC) Proteins\nD) Nucleic acids",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Carbohydrates",
+      "B) Lipids",
+      "D) Nucleic acids"
+    ],
+    "explanation": "Enzymes are specialized proteins that catalyze metabolic reactions, making option C the correct choice. Carbohydrates primarily provide energy, while lipids store energy and form cell membranes, so options A and B are incorrect. Nucleic acids store genetic information rather than acting as catalysts, ruling out option D. Therefore, proteins are the only macromolecule class that functions as enzymes.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1070,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse prepares to administer an IV lipid emulsion. The phospholipid structure of cell membranes is relevant because lipids primarily function in:\nA) Energy storage only\nB) Enzymatic catalysis\nC) Genetic information storage\nD) Forming selective barriers",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Energy storage only",
+      "B) Enzymatic catalysis",
+      "C) Genetic information storage"
+    ],
+    "explanation": "The phospholipid structure of cell membranes is relevant because lipids primarily function in forming selective barriers. Option D is correct as lipids create the bilayer that controls substance entry. Option A is wrong because while lipids store energy, this is not their primary membrane function. Option B is incorrect since lipids do not catalyze reactions like enzymes. Option C is false because genetic information is stored in nucleic acids, not lipids.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1071,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A patient with hypoglycemia shows confusion. The nurse recognizes this occurs because the brain primarily relies on which molecule for energy?\nA) Fatty acids\nB) Amino acids\nC) Glucose\nD) Ketones",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Fatty acids",
+      "B) Amino acids",
+      "D) Ketones"
+    ],
+    "explanation": "The brain depends almost exclusively on glucose for energy, making option C the only valid choice. While fatty acids, amino acids, and ketones can fuel other tissues, they cannot cross the blood-brain barrier effectively to sustain neuronal function. Therefore, hypoglycemia causes confusion because the brain lacks its primary fuel source. Options A, B, and D are incorrect because they do not serve as the main energy molecule for the brain.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1072,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "When administering oxygen therapy, a nurse understands that cellular respiration requires oxygen to produce which energy molecule?\nA) DNA\nB) ATP\nC) RNA\nD) NADH",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) DNA",
+      "C) RNA",
+      "D) NADH"
+    ],
+    "explanation": "Cellular respiration uses oxygen to generate ATP, the primary energy currency for cells, making option B the correct choice. Options A and C are incorrect because DNA and RNA store genetic information rather than providing immediate metabolic energy. Option D is wrong since NADH acts as an electron carrier during respiration but is not the final energy molecule produced. This question tests knowledge of how oxygen facilitates energy production in biological systems.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1073,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse discusses inherited disease risk with a family. Why is genetic variation from meiosis important for population health?\nA) It ensures identical offspring for predictable traits\nB) It creates diversity that aids adaptation to environmental changes\nC) It eliminates recessive alleles from gene pools\nD) It speeds up cellular replication rates",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It ensures identical offspring for predictable traits",
+      "C) It eliminates recessive alleles from gene pools",
+      "D) It speeds up cellular replication rates"
+    ],
+    "explanation": "Meiosis generates genetic diversity through crossing over and independent assortment, allowing populations to adapt to environmental shifts. Option B correctly identifies this adaptive advantage for population health. Option A is wrong because meiosis produces varied, not identical, offspring. Option C is incorrect as meiosis does not eliminate recessive alleles from gene pools. Option D is false since meiosis concerns chromosome distribution, not cellular replication speed.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1074,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "When educating about cancer screening, a nurse explains that mutations during DNA replication can lead to uncontrolled growth. Which replication error is most likely to cause a frameshift mutation?\nA) Substitution of one base\nB) Insertion of two bases\nC) Deletion of three bases\nD) Inversion of a gene segment",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Substitution of one base",
+      "C) Deletion of three bases",
+      "D) Inversion of a gene segment"
+    ],
+    "explanation": "Frameshift mutations occur when the reading frame shifts due to insertions or deletions not divisible by three. Option B, insertion of two bases, causes this shift because it disrupts the triplet code. Option A, substitution of one base, only changes a single codon without shifting the frame. Option C, deletion of three bases, removes a whole codon but keeps the frame intact. Option D, inversion of a gene segment, alters sequence order but does not inherently cause a frameshift.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1075,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A patient asks how mRNA vaccines work. The nurse explains they deliver instructions for cells to produce which component that triggers immunity?\nA) Antibodies directly\nB) Viral spike protein\nC) Inactivated virus\nD) T-cell receptors",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Antibodies directly",
+      "C) Inactivated virus",
+      "D) T-cell receptors"
+    ],
+    "explanation": "The nurse explains mRNA vaccines instruct cells to make viral spike proteins, which trigger the immune response. Option B is correct because the genetic code targets this specific surface protein. Option A is wrong as cells do not produce antibodies directly; the immune system does. Option C is incorrect since the virus is not inactivated inside the cell. Option D is false because T-cell receptors are not the primary target of this vaccine mechanism.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1076,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse cares for a patient with a chronic wound. Why is adequate oxygenation critical for cellular respiration during tissue repair?\nA) Oxygen directly synthesizes collagen\nB) Anaerobic metabolism prevents infection\nC) Oxygen converts glucose to glycogen\nD) Aerobic respiration yields more ATP than anaerobic for healing processes",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Oxygen directly synthesizes collagen",
+      "B) Anaerobic metabolism prevents infection",
+      "C) Oxygen converts glucose to glycogen"
+    ],
+    "explanation": "D is right because aerobic respiration generates significantly more ATP than anaerobic pathways, fueling the energy-intensive repair processes. A is wrong since oxygen acts as an electron acceptor, not a direct collagen synthesizer. B is incorrect because anaerobic metabolism does not prevent infection and yields less energy. C is false as oxygen is not involved in converting glucose to glycogen, which occurs without it.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1077,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "During genetic counseling, a nurse explains that a child can inherit a recessive disorder only if:\nA) One parent has the disease\nB) Both parents contribute a recessive allele\nC) The mutation occurs spontaneously\nD) Environmental triggers activate the gene",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) One parent has the disease",
+      "C) The mutation occurs spontaneously",
+      "D) Environmental triggers activate the gene"
+    ],
+    "explanation": "For a recessive disorder to manifest, a child must inherit two copies of the recessive allele, one from each parent, making option B the only valid condition. Option A is incorrect because having the disease implies a dominant trait or homozygous recessive status in the parent, which does not guarantee the child receives two recessive alleles. Option C is false since spontaneous mutations are rare and do not explain the standard inheritance pattern of recessive disorders. Option D is wrong because environmental triggers do not activate genes for recessive genetic conditions, which rely solely on allele transmission.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1078,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse administers antibiotics and monitors for diarrhea. This side effect may result from disruption of which ecological concept in the gut?\nA) Trophic levels\nB) Microbiome balance\nC) Population density\nD) Carrying capacity",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Trophic levels",
+      "C) Population density",
+      "D) Carrying capacity"
+    ],
+    "explanation": "The antibiotics disrupt the gut microbiome balance, causing diarrhea by killing beneficial bacteria alongside harmful ones. Option A is incorrect because trophic levels describe energy flow in food chains, not microbial communities. Option C fails as population density refers to organism counts per area, not ecological function. Option D is wrong since carrying capacity is the maximum population an environment can sustain, unrelated to antibiotic side effects.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1079,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "When discussing regenerative medicine, a nurse explains that stem cells are valuable because they can:\nA) Replicate indefinitely without differentiation\nB) Differentiate into specialized cell types\nC) Produce antibodies against pathogens\nD) Replace all organelles in damaged cells",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Replicate indefinitely without differentiation",
+      "C) Produce antibodies against pathogens",
+      "D) Replace all organelles in damaged cells"
+    ],
+    "explanation": "Stem cells are unique because they can differentiate into specialized cell types, making option B the correct choice for their value in regenerative medicine. While they can replicate, they do not replicate indefinitely without differentiation, which invalidates option A. They do not produce antibodies against pathogens, ruling out option C, nor do they replace all organelles in damaged cells, eliminating option D. This specific ability to become various tissues is why stem cells are so valuable in medical treatments.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1080,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse educates about antibiotic mechanisms. Tetracyclines inhibit bacterial protein synthesis by binding to which cellular structure?\nA) 30S ribosomal subunit\nB) DNA polymerase\nC) Cell wall synthase\nD) Plasma membrane pores",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) DNA polymerase",
+      "C) Cell wall synthase",
+      "D) Plasma membrane pores"
+    ],
+    "explanation": "Tetracyclines bind to the 30S ribosomal subunit to block protein synthesis. Option B is wrong because DNA polymerase replicates genetic material, not involved here. Option C is incorrect as cell wall synthase builds the bacterial wall, unrelated to ribosomes. Option D is false since plasma membrane pores regulate transport, not protein assembly. This question targets antibiotic mechanisms specifically.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1081,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A patient with muscle fatigue asks about energy sources. The nurse explains that ATP hydrolysis directly powers which cellular process?\nA) DNA replication\nB) Muscle contraction via myosin-actin interaction\nC) Lipid synthesis\nD) Osmosis",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) DNA replication",
+      "C) Lipid synthesis",
+      "D) Osmosis"
+    ],
+    "explanation": "The question asks which process ATP hydrolysis directly powers. Option B is correct because muscle contraction relies on myosin-actin interactions driven by ATP energy. Options A, C, and D are incorrect as DNA replication, lipid synthesis, and osmosis do not depend on direct ATP hydrolysis for their primary mechanisms in this context.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1082,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse counsels a patient with a family history of heart disease. How might epigenetic modifications from lifestyle factors influence disease risk?\nA) By permanently altering DNA sequence\nB) By changing gene expression without changing DNA code\nC) By deleting disease-causing genes\nD) By accelerating telomere shortening",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) By permanently altering DNA sequence",
+      "C) By deleting disease-causing genes",
+      "D) By accelerating telomere shortening"
+    ],
+    "explanation": "Epigenetic modifications alter how genes are expressed without changing the underlying DNA sequence, making option B the correct choice. This mechanism allows lifestyle factors to influence disease risk by turning genes on or off, rather than permanently rewriting genetic code as suggested in option A. Options C and D are incorrect because epigenetics does not delete genes or directly accelerate telomere shortening, which are distinct biological processes unrelated to this definition.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1083,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "When assessing tissue injury, a nurse distinguishes apoptosis from necrosis. Which characteristic is specific to apoptosis?\nA) Cell swelling and membrane rupture\nB) Inflammatory response in surrounding tissue\nC) Programmed cell death with membrane blebbing\nD) Release of intracellular enzymes into blood",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Cell swelling and membrane rupture",
+      "B) Inflammatory response in surrounding tissue",
+      "D) Release of intracellular enzymes into blood"
+    ],
+    "explanation": "Apoptosis is a specific type of programmed cell death where the cell shrinks and forms membrane blebs without causing inflammation. Option C correctly identifies this process, distinguishing it from necrosis which involves cell swelling and rupture. In contrast, options A and B describe necrotic features like membrane rupture and inflammatory responses that do not occur in apoptosis. Option D is also incorrect because apoptotic enzymes remain contained within the cell rather than leaking into the blood.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1084,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse administers a medication that uses active transport for absorption. Which feature distinguishes active transport from passive diffusion?\nA) Requirement for cellular energy (ATP)\nB) Equilibrium achievement\nC) Use of channel proteins only\nD) Movement down concentration gradient",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Equilibrium achievement",
+      "C) Use of channel proteins only",
+      "D) Movement down concentration gradient"
+    ],
+    "explanation": "Active transport requires cellular energy (ATP) to move substances against a gradient, unlike passive diffusion. Option B is wrong because equilibrium applies to both processes. Option C is incorrect since active transport often uses carrier proteins, not just channels. Option D fails because passive diffusion moves down the gradient, whereas active transport moves up it.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1085,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A patient receives an anti-inflammatory medication. Which cellular signaling pathway do NSAIDs primarily inhibit to reduce pain and swelling?\nA) Cyclooxygenase (COX) enzyme pathway\nB) cAMP second messenger system\nC) Calcium-calmodulin cascade\nD) G-protein coupled receptor activation",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) cAMP second messenger system",
+      "C) Calcium-calmodulin cascade",
+      "D) G-protein coupled receptor activation"
+    ],
+    "explanation": "NSAIDs work by blocking the Cyclooxygenase (COX) enzyme pathway, which is essential for producing prostaglandins that cause pain and swelling. Option B is incorrect because cAMP is a second messenger not directly inhibited by NSAIDs. Option C is wrong as the Calcium-calmodulin cascade regulates muscle contraction, not inflammation. Option D is inaccurate since G-protein coupled receptors are activated, not primarily inhibited, by these drugs. Thus, only Option A correctly identifies the primary target of NSAIDs.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1086,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "During genetic counseling for cystic fibrosis, a nurse explains that a frameshift mutation typically results from:\nA) Single nucleotide polymorphism\nB) Insertion or deletion of bases not divisible by three\nC) Chromosomal translocation\nD) Promoter region methylation",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Single nucleotide polymorphism",
+      "C) Chromosomal translocation",
+      "D) Promoter region methylation"
+    ],
+    "explanation": "Frameshift mutations occur when base insertions or deletions disrupt the reading frame, specifically when the number of bases is not divisible by three. Option B correctly identifies this mechanism as the primary cause of such mutations during genetic counseling for cystic fibrosis. Option A is incorrect because single nucleotide polymorphisms usually substitute one base for another without shifting the frame. Options C and D are wrong because chromosomal translocations and promoter methylation affect gene structure or expression levels rather than creating a frameshift.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1087,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse cares for an immunocompromised patient. Why is microbiome dysbiosis particularly concerning in this population?\nA) It increases vitamin K production\nB) It reduces competition for pathogenic organisms\nC) It enhances drug metabolism\nD) It strengthens mucosal barriers",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It increases vitamin K production",
+      "C) It enhances drug metabolism",
+      "D) It strengthens mucosal barriers"
+    ],
+    "explanation": "Dysbiosis reduces the microbiome's ability to compete with pathogens, a critical defense for immunocompromised patients lacking other immune responses. Option A is wrong because dysbiosis typically decreases, not increases, beneficial vitamin K production. Option C is incorrect as a disrupted microbiome often impairs, rather than enhances, drug metabolism. Option D is false since dysbiosis weakens, not strengthens, mucosal barriers against infection.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1088,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A patient with chronic fatigue syndrome undergoes evaluation. Mitochondrial dysfunction would primarily impair which cellular process?\nA) Oxidative phosphorylation in inner mitochondrial membrane\nB) Glycolysis in cytoplasm\nC) Protein folding in endoplasmic reticulum\nD) Lipid storage in adipocytes",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Glycolysis in cytoplasm",
+      "C) Protein folding in endoplasmic reticulum",
+      "D) Lipid storage in adipocytes"
+    ],
+    "explanation": "The correct answer is A because oxidative phosphorylation occurs in the inner mitochondrial membrane and relies on functional mitochondria to produce ATP. Wrong answer B is incorrect since glycolysis happens in the cytoplasm and does not require mitochondria. Option C is wrong because protein folding occurs in the endoplasmic reticulum, not the mitochondria. Finally, D is incorrect as lipid storage takes place in adipocytes, which are separate from mitochondrial function.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1089,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "When discussing hospital-acquired infections, a nurse explains that plasmid-mediated antibiotic resistance spreads between bacteria via which process?\nA) Conjugation\nB) Binary fission\nC) Mitosis\nD) Transcription",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Binary fission",
+      "C) Mitosis",
+      "D) Transcription"
+    ],
+    "explanation": "The question asks how plasmid-mediated antibiotic resistance spreads between bacteria. Conjugation is the correct process because it involves direct cell-to-cell contact where a plasmid is transferred from a donor to a recipient bacterium, enabling the spread of resistance genes. Binary fission is incorrect as it is the method of bacterial reproduction, not gene transfer. Mitosis is wrong because it describes eukaryotic cell division, not prokaryotic mechanisms. Transcription is also incorrect since it is the synthesis of RNA from DNA, not the physical transfer of genetic material between cells.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1090,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse prepares IV fluids and notes sodium and potassium are critical electrolytes. These elements belong to which periodic table group known for forming +1 ions?\nA) Alkaline earth metals\nB) Halogens\nC) Alkali metals\nD) Noble gases",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Alkaline earth metals",
+      "B) Halogens",
+      "D) Noble gases"
+    ],
+    "explanation": "The nurse's observation about sodium and potassium forming +1 ions identifies them as alkali metals, which is option C. These elements are in Group 1 of the periodic table and characteristically lose one electron to create a +1 charge. Option A is incorrect because alkaline earth metals form +2 ions, not +1. Option B is wrong as halogens gain electrons to form -1 ions, and option D is false since noble gases generally do not form ions.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1091,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "When mixing IV solutions, a nurse understands that sodium chloride dissociates into ions in water due to which bond type?\nA) Covalent bond\nB) Ionic bond\nC) Hydrogen bond\nD) Metallic bond",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Covalent bond",
+      "C) Hydrogen bond",
+      "D) Metallic bond"
+    ],
+    "explanation": "Sodium chloride dissociates into ions because it is held together by an ionic bond, where electrons are transferred between atoms. Option B is correct as ionic bonds create charged particles that separate in water. Option A is wrong because covalent bonds share electrons and do not typically dissociate into ions. Option C is incorrect since hydrogen bonds are weak attractions between molecules, not the primary force in salts. Option D is false because metallic bonds involve a sea of electrons in metals, not ionic compounds.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1092,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "During autoclave sterilization, water changes from liquid to steam. This phase change requires:\nA) Release of latent heat\nB) Absorption of latent heat\nC) Decrease in molecular motion\nD) Increase in pressure only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Release of latent heat",
+      "C) Decrease in molecular motion",
+      "D) Increase in pressure only"
+    ],
+    "explanation": "The phase change from liquid water to steam requires the absorption of latent heat to break molecular bonds, making option B correct. Option A is wrong because releasing heat occurs during condensation, not boiling. Options C and D are incorrect since molecular motion increases and pressure alone does not drive this specific energy transfer.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1093,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse selects a wound cleanser with pH 5.5 to support skin barrier function. This pH is:\nA) Strongly acidic\nB) Basic\nC) Neutral\nD) Slightly acidic",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Strongly acidic",
+      "B) Basic",
+      "C) Neutral"
+    ],
+    "explanation": "The pH scale ranges from 0 to 14, where 7 is neutral, values below 7 are acidic, and values above 7 are basic. A pH of 5.5 falls below 7 but is not low enough to be considered strongly acidic, making option D the only accurate description. Option A is incorrect because strongly acidic solutions typically have pH values closer to 1 or 2. Option B is wrong since basic solutions require a pH greater than 7, and option C is false because neutral is exactly 7. This specific pH supports skin barrier function without causing irritation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1094,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "When preparing a diluted medication from a concentrated vial, a nurse calculates that increasing solvent volume while keeping solute amount constant will:\nA) Increase solution concentration\nB) Decrease solution concentration\nC) Change solute chemical properties\nD) Precipitate the solute",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Increase solution concentration",
+      "C) Change solute chemical properties",
+      "D) Precipitate the solute"
+    ],
+    "explanation": "Increasing solvent volume with constant solute decreases concentration per the definition of molarity. Option A is wrong because adding more liquid dilutes rather than concentrates the solution. Option C is incorrect since solute chemical properties remain unchanged regardless of solvent amount. Option D is false because precipitation requires exceeding solubility limits, not simply dilution.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1095,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A pediatric dose requires converting 0.5 mg to micrograms. The correct conversion is:\nA) 500 mcg\nB) 50 mcg\nC) 5 mcg\nD) 5000 mcg",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 50 mcg",
+      "C) 5 mcg",
+      "D) 5000 mcg"
+    ],
+    "explanation": "To convert 0.5 mg to micrograms, multiply by 1000 since 1 mg equals 1000 mcg, making 0.5 mg equal 500 mcg. Option A is correct because it reflects this standard metric conversion accurately. Options B, C, and D are incorrect as they represent values that are either too small or too large for the actual calculation. The question tests basic unit conversion skills essential for pediatric dosing accuracy.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1096,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A patient with diabetic ketoacidosis has blood pH 7.1. The nurse recognizes this acidosis is buffered primarily by which blood system?\nA) Phosphate buffer\nB) Protein buffer\nC) Bicarbonate buffer\nD) Ammonia buffer",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Phosphate buffer",
+      "B) Protein buffer",
+      "D) Ammonia buffer"
+    ],
+    "explanation": "The nurse recognizes that the bicarbonate buffer system is the primary defense against metabolic acidosis in diabetic ketoacidosis. This system rapidly neutralizes excess hydrogen ions by converting them into carbon dioxide and water, which are easily expelled via the lungs. In contrast, the phosphate and protein buffers play minor roles in blood pH regulation, while ammonia is not a significant blood buffer. Therefore, option C is the only correct choice for the primary buffering mechanism in this clinical scenario.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1097,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "When a medication is metabolized in the liver, breaking a large molecule into smaller components represents which reaction type?\nA) Synthesis reaction\nB) Decomposition reaction\nC) Single replacement\nD) Double replacement",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Synthesis reaction",
+      "C) Single replacement",
+      "D) Double replacement"
+    ],
+    "explanation": "The question asks about a liver reaction breaking large molecules into smaller parts. Option B, decomposition, fits because it describes splitting one compound into simpler substances. Option A, synthesis, is wrong as it involves combining small parts into a larger whole. Options C and D are incorrect since single and double replacements involve swapping elements between compounds, not splitting one molecule apart.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1098,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse understands that many pharmaceuticals contain covalent bonds. What characteristic defines a covalent bond?\nA) Electron sharing between atoms\nB) Dipole-dipole attraction\nC) Delocalized electron sea\nD) Electron transfer creating ions",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Dipole-dipole attraction",
+      "C) Delocalized electron sea",
+      "D) Electron transfer creating ions"
+    ],
+    "explanation": "A covalent bond is defined by the sharing of electron pairs between atoms to achieve stability, which matches option A. This sharing allows atoms to fill their valence shells without losing or gaining electrons. Option B describes intermolecular forces between molecules, not the intramolecular bond itself. Option C refers to metallic bonding where electrons move freely in a sea, unlike the localized sharing in covalent bonds. Option D defines ionic bonding where electrons are transferred to create charged ions, distinct from the mutual sharing in covalent connections.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1099,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "ECG electrodes conduct electrical signals from the heart. This function relies on which property of metallic bonds?\nA) High melting point\nB) Malleability\nC) Brittleness\nD) Delocalized electrons enabling conductivity",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) High melting point",
+      "B) Malleability",
+      "C) Brittleness"
+    ],
+    "explanation": "The question asks which metallic bond property allows ECG electrodes to conduct heart signals. Option D is correct because delocalized electrons in metallic bonds move freely, enabling electrical conductivity. Options A, B, and C are incorrect because high melting points, malleability, and brittleness describe physical states or mechanical behaviors, not the ability to transmit electricity. Therefore, only the mobility of electrons explains the electrode's function in this context.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1100,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse uses evaporative cooling with a tepid bath for fever reduction. This technique works because evaporation:\nA) Releases heat to the environment\nB) Decreases metabolic rate\nC) Increases skin blood flow\nD) Absorbs heat from the skin",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Releases heat to the environment",
+      "B) Decreases metabolic rate",
+      "C) Increases skin blood flow"
+    ],
+    "explanation": "Evaporation absorbs heat from the skin to cool the body, making option D correct. Options A, B, and C are incorrect because evaporation does not release heat, lower metabolic rate, or increase blood flow directly. The tepid bath relies on this heat absorption principle for fever reduction.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1101,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "When interpreting arterial blood gases, a nurse applies the Henderson-Hasselbalch principle. This equation relates pH to the ratio of:\nA) Sodium to potassium\nB) Bicarbonate to carbonic acid\nC) Glucose to insulin\nD) Hemoglobin to oxygen",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Sodium to potassium",
+      "C) Glucose to insulin",
+      "D) Hemoglobin to oxygen"
+    ],
+    "explanation": "The Henderson-Hasselbalch equation defines pH based on the ratio of bicarbonate to carbonic acid, which are the primary buffers in arterial blood gases. Option A is incorrect because sodium and potassium are electrolytes unrelated to this specific acid-base balance calculation. Options C and D are wrong as glucose/insulin and hemoglobin/oxygen ratios do not determine pH in this context. Therefore, only the bicarbonate to carbonic acid ratio accurately reflects the principle used by nurses for interpreting these results.",
+    "difficulty": "hard",
+    "status": "active"
+  }
+]

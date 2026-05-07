@@ -1,0 +1,166 @@
+[
+  {"id": 807, "verdict": "PASS"},
+  {"id": 808, "verdict": "PASS"},
+  {"id": 809, "verdict": "PASS"},
+  {
+    "id": 1702,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says option C 'incorrectly pairs a singular possessive noun with a plural object' but the actual error in C is subject-verb disagreement ('shifts begins')."
+    ]
+  },
+  {
+    "id": 1703,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Both 'nurses' station' (A, plural possessive) and 'nurse's station' (B, singular possessive) are grammatically correct apostrophe uses. The explanation incorrectly claims A is wrong because the apostrophe is 'after the s' — but plural possessive apostrophe placement after the s is itself correct."
+    ]
+  },
+  {
+    "id": 1704,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation calls 'therefore' a 'coordinating conjunction' — it is a conjunctive adverb, not a coordinating conjunction (FANBOYS).",
+      "Rule 3: Explanation references 'the first option is incorrect' and 'the second option is incorrect' but these descriptions do not match the actual question options, making the justification incoherent."
+    ]
+  },
+  {
+    "id": 1705,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says option A is incorrect for using a semicolon before 'however,' but semicolon + conjunctive adverb + comma is standard correct punctuation. Option A is a valid use of semicolons.",
+      "Rule 7: Difficulty 'hard' but identifying a semicolon joining two independent clauses is straightforward single-step recognition."
+    ]
+  },
+  {"id": 1706, "verdict": "PASS"},
+  {
+    "id": 1707,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Difficulty 'hard' but distinguishing a thesis statement from a topic sentence is simple recall — it only requires knowing that a sentence outlining the main argument of a whole study is a thesis statement."
+    ]
+  },
+  {"id": 1708, "verdict": "PASS"},
+  {"id": 1709, "verdict": "PASS"},
+  {"id": 1710, "verdict": "PASS"},
+  {"id": 1711, "verdict": "PASS"},
+  {"id": 1712, "verdict": "PASS"},
+  {"id": 1713, "verdict": "PASS"},
+  {"id": 1714, "verdict": "PASS"},
+  {"id": 1715, "verdict": "PASS"},
+  {"id": 1716, "verdict": "PASS"},
+  {"id": 1717, "verdict": "PASS"},
+  {"id": 1718, "verdict": "PASS"},
+  {"id": 1719, "verdict": "PASS"},
+  {"id": 1720, "verdict": "PASS"},
+  {"id": 1721, "verdict": "PASS"},
+  {"id": 1722, "verdict": "PASS"},
+  {"id": 1723, "verdict": "PASS"},
+  {
+    "id": 1724,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says 'The correct answer uses three gerund phrases (removing, repairing, suturing)' but the correct answer C uses simple past tense verbs (removed, repaired, sutured), not gerunds.",
+      "Rule 3: Explanation contradicts itself — first claims gerunds, then correctly says past tense verbs."
+    ]
+  },
+  {"id": 1725, "verdict": "PASS"},
+  {
+    "id": 1726,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says 'with the needle sticking out' incorrectly modifies 'the patient' instead of 'the nurse.' The phrase naturally modifies 'the syringe' (the syringe has a needle sticking out), not 'the nurse.' The explanation misidentifies both the ambiguous referent and the intended referent."
+    ]
+  },
+  {"id": 1727, "verdict": "PASS"},
+  {"id": 1728, "verdict": "PASS"},
+  {"id": 1729, "verdict": "PASS"},
+  {"id": 1730, "verdict": "PASS"},
+  {"id": 1731, "verdict": "PASS"},
+  {
+    "id": 1732,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says 'with' functions as 'the object pronoun' — 'with' is a preposition, not a pronoun. Also says 'checked' is a preposition — it is a verb. The explanation is riddled with grammatical misclassifications.",
+      "Rule 3: Explanation discusses pronouns throughout but the question asks which word is a preposition; the justification does not correctly explain why 'with' is a preposition."
+    ]
+  },
+  {
+    "id": 1733,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Correct answer is C ('their') but explanation says 'whose' is 'the only grammatically correct choice.' The explanation justifies a completely different answer than the one marked correct.",
+      "Rule 8: 'Whose' is not even among the answer choices (A=him, B=her, C=their, D=whose — wait, D IS 'whose'). But the correct answer is C ('their') while the explanation argues for D ('whose'). Also 'their' appears in both the correct answer and wrong_answers list."
+    ]
+  },
+  {"id": 1734, "verdict": "PASS"},
+  {"id": 1735, "verdict": "PASS"},
+  {"id": 1736, "verdict": "PASS"},
+  {
+    "id": 1737,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says option D 'omits the article before physician' but option D reads 'The nurse and the physician review the patient's chart' — it clearly includes 'the' before 'physician.' Also, option D ('review') is grammatically correct plural verb agreement, making both A and D valid answers."
+    ]
+  },
+  {"id": 1738, "verdict": "PASS"},
+  {"id": 1739, "verdict": "PASS"},
+  {"id": 1742, "verdict": "PASS"},
+  {
+    "id": 1746,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says 'The apostrophe must be placed after the s in team's' — but in 'team's' the apostrophe is BEFORE the s (singular possessive). 'After the s' would be 'teams'' (plural possessive), which contradicts the correct answer.",
+      "Rule 3: Explanation directly contradicts the correct answer by describing apostrophe placement that does not match what appears in option A."
+    ]
+  },
+  {"id": 1751, "verdict": "PASS"},
+  {
+    "id": 1755,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says semicolon joins 'without a conjunction' but option A uses 'however' (a conjunctive adverb), which functions as a connective. Wrong_answers list punctuation types ('A colon', 'A comma', 'A period') that don't correspond to the four sentence options in the question.",
+      "Rule 3: Explanation discusses punctuation choice rather than evaluating the specific sentence options, failing to directly justify why option A is correct among the given sentences."
+    ]
+  },
+  {
+    "id": 1763,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says 'quickly' modifies the verb 'moved' but the sentence contains no verb 'moved' — the verb is 'assessed.' This is a fabricated reference to a word not in the sentence.",
+      "Rule 3: Explanation justifies the answer using an incorrect verb, undermining the entire reasoning."
+    ]
+  },
+  {
+    "id": 1778,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Correct answer is B ('however' showing contrast) but explanation discusses 'consequently' — a word not among any of the answer choices and not the correct answer.",
+      "Rule 8: Explanation contains a fabricated analysis about 'consequently' that has nothing to do with the question content.",
+      "Rule 7: Difficulty 'hard' but picking 'however' as a contrast word is simple recall."
+    ]
+  },
+  {
+    "id": 1784,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation defines active voice and then says 'The other options use was administered, received, and was given, which indicate the action was done to the subject, making them passive voice constructions.' But the question asks which sentence IS in passive voice — the explanation seems to say the wrong answers are passive, which would make them correct for this question. It never clearly explains why B is the correct passive voice answer."
+    ]
+  },
+  {
+    "id": 1786,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation says 'The correct answer uses single nouns for all three items in the list' but the correct answer B uses gerund phrases ('monitoring vital signs, administering medications, and documenting patient interactions'), not single nouns.",
+      "Rule 3: Explanation mischaracterizes the correct answer entirely, describing a structure that does not match the actual answer."
+    ]
+  },
+  {
+    "id": 1789,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Correct answer A uses 'assess patients, document care plans, and communicate effectively' (base-form verbs), but explanation says 'The correct answer uses all three verbs in the simple present tense (will perform, will remove, will suture).' These verbs come from the wrong_answers, not the correct answer.",
+      "Rule 8: Explanation describes verbs that do not appear in the correct answer at all — it is analyzing the wrong answers' content instead of the correct answer."
+    ]
+  }
+]

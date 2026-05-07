@@ -1,0 +1,14 @@
+<a href="#" class="card card-clickable border-left-{{ status }}">
+    <div class="flex items-start justify-between mb-3">
+        <h3 class="text-base font-bold text-primary-color" style="font-family: 'Libre Baskerville', serif; margin: 0;">
+            {{ subject_name }}
+        </h3>
+        <span class="subject-readiness-pct">{{ readiness_pct }}%</span>
+    </div>
+    <div class="progress-track mb-3">
+        <div class="progress-fill" style="width: {{ readiness_pct }}%;"></div>
+    </div>
+    <p class="text-sm text-secondary-color" style="margin: 0;">
+        {{ weak_count }} topic{% if weak_count != 1 %}s{% endif %} need{% if weak_count == 1 %}s{% endif %} review
+    </p>
+</a>

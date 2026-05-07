@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1776,
+    "subject": "science",
+    "topic": "Cell division",
+    "question_text": "A nurse is reviewing a patient's genetic testing results which revealed a condition caused by a reduction in the number of chromosomes in a cell. Which phase of the cell cycle is primarily responsible for creating cells with this specific chromosomal arrangement?\nA) Cytokinesis\nB) Interphase\nC) Meiosis\nD) Mitosis",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Mitosis",
+      "Interphase",
+      "Cytokinesis"
+    ],
+    "explanation": "Meiosis is the specialized type of cell division that reduces the chromosome number by half, producing gametes with half the genetic material of the parent cell. In contrast, mitosis produces two identical daughter cells with the full number of chromosomes, and interphase and cytokinesis do not involve the reduction of chromosome count.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1777,
+    "subject": "science",
+    "topic": "DNA structure and replication",
+    "question_text": "During DNA replication, which of the following best describes the orientation of the two newly synthesized strands relative to each other?\nA) ntiparallel\nB) Supercoiled\nC) Parallel\nD) Complementary",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Parallel",
+      "Supercoiled",
+      "Complementary"
+    ],
+    "explanation": "The two strands of the DNA double helix run in opposite directions (antiparallel), with one strand oriented 5' to 3' and the other 3' to 5'. While the sequences are complementary due to base pairing, the structural orientation of the backbones is antiparallel, which is a defining feature of the double helix.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1781,
+    "subject": "science",
+    "topic": "Photosynthesis and cellular respiration",
+    "question_text": "During a strenuous workout, muscle cells switch from using oxygen to producing energy anaerobically. Which molecule is primarily generated during this process to maintain ATP production without entering the mitochondria?\nA) Carbon dioxide\nB) Glucose\nC) Oxygen\nD) Lactic acid",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Glucose"
+    ],
+    "explanation": "When oxygen is unavailable, cells undergo anaerobic glycolysis followed by fermentation to regenerate NAD+ for continued ATP production. This process converts pyruvate into lactic acid in muscle cells, whereas carbon dioxide is produced in aerobic respiration.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1785,
+    "subject": "science",
+    "topic": "Immune system - types of immunity",
+    "question_text": "A nurse is preparing to administer a measles vaccine to a child. Which of the following best describes the primary purpose of this vaccine in relation to the child's immune system?\nA) To immediately activate the innate immune system to destroy the virus upon exposure.\nB) To replace the body's natural production of antibodies in the absence of any infection.\nC) To stimulate the adaptive immune system to produce specific antibodies against the measles virus.\nD) To provide long-term immunity by creating memory cells specific to the measles virus.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "To immediately activate the innate immune system to destroy the virus upon exposure.",
+      "To provide long-term immunity by creating memory cells specific to the measles virus.",
+      "To replace the body's natural production of antibodies in the absence of any infection."
+    ],
+    "explanation": "Vaccines work by introducing a harmless part of a pathogen (or a weakened version) to trigger the adaptive immune response, which generates specific antibodies and memory cells. While the adaptive response does create memory cells for long-term protection, the primary immediate effect of the vaccine is the stimulation of antibody production against the specific pathogen, making option A the most direct description of the vaccine's mechanism.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1788,
+    "subject": "science",
+    "topic": "Immune system - types of immunity",
+    "question_text": "A nurse is explaining the difference between natural active immunity and vaccine-induced immunity to a patient who received the flu shot last month. Which statement by the nurse is most accurate?\nA) The vaccine introduced antigens to stimulate the body to produce specific antibodies and memory cells without causing the full-blown disease.\nB) Passive immunity involves the administration of pre-made antibodies to provide immediate, short-term protection.\nC) Vaccines work by directly injecting pre-formed antibodies into the bloodstream to fight current infections.\nD) Natural active immunity occurs when the body produces antibodies after recovering from an infection.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Natural active immunity occurs when the body produces antibodies after recovering from an infection.",
+      "Passive immunity involves the administration of pre-made antibodies to provide immediate, short-term protection.",
+      "Vaccines work by directly injecting pre-formed antibodies into the bloodstream to fight current infections."
+    ],
+    "explanation": "Vaccines contain weakened or inactive pathogens (antigens) that trigger the adaptive immune system to create its own antibodies and memory cells, which defines active immunity. This contrasts with passive immunity, where pre-made antibodies are administered for immediate but temporary protection.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1790,
+    "subject": "science",
+    "topic": "Chemical bonds",
+    "question_text": "Which of the following describes the primary type of attraction between the hydrogen atom of a water molecule and the oxygen atom of a neighboring water molecule?\nA) Covalent bonding\nB) Ionic bonding\nC) Metallic bonding\nD) Hydrogen bonding",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Ionic bonding",
+      "Covalent bonding",
+      "Metallic bonding"
+    ],
+    "explanation": "Hydrogen bonds are specific intermolecular forces that occur when a hydrogen atom covalently bonded to a highly electronegative atom (like oxygen) is attracted to a lone pair on another electronegative atom. While covalent bonds hold the atoms together within a single water molecule, hydrogen bonds form between separate molecules, which is the correct distinction for this scenario.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1791,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "A nurse observes a wound on a patient's lower leg where the epidermis and dermis have separated, leaving a raw, moist surface. Which type of tissue is primarily responsible for forming the outer protective layer that heals this wound?\nA) Epithelial tissue\nB) Muscle tissue\nC) Nervous tissue\nD) Connective tissue",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Connective tissue",
+      "Muscle tissue",
+      "Nervous tissue"
+    ],
+    "explanation": "Epithelial tissue lines body surfaces and forms the skin's outer protective layer, which regenerates to close wounds. While connective tissue provides structural support, it does not form the immediate surface barrier, and muscle and nervous tissues do not play a primary role in surface healing.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1793,
+    "subject": "science",
+    "topic": "Chemical bonds",
+    "question_text": "A nurse is preparing a teaching session on the properties of water for a group of students. Which of the following statements best describes the primary type of bond formed between two hydrogen atoms within a single water molecule?\nA) A van der Waals force\nB) An ionic bond\nC) covalent bond\nD) A hydrogen bond",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "An ionic bond",
+      "A hydrogen bond",
+      "A van der Waals force"
+    ],
+    "explanation": "The two hydrogen atoms in a water molecule are held together by a covalent bond, where they share electrons with the oxygen atom. In contrast, hydrogen bonds form between the hydrogen of one molecule and the oxygen of a neighboring molecule, not within the same molecule.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1794,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "A patient presents with a chronic, open wound on the heel that is slow to heal and is characterized by the presence of blood vessels, collagen fibers, and immune cells. Which type of tissue is primarily responsible for forming this structural framework?\nA) Epithelial tissue\nB) Nervous tissue\nC) onnective tissue\nD) Muscle tissue",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Epithelial tissue",
+      "Muscle tissue",
+      "Nervous tissue"
+    ],
+    "explanation": "Connective tissue provides structural support and is composed of cells embedded in an extracellular matrix containing fibers like collagen and blood vessels. In contrast, epithelial tissue forms the body's barriers and linings, muscle tissue generates movement, and nervous tissue transmits electrical signals.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1796,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "A nurse needs to administer 0.75 grams of a medication to a patient. Using the metric system, how many milligrams of this medication should the nurse prepare? (Recall that the prefix 'milli-' represents one-thousandth or \\(\\frac{1}{1000}\\)).\nA) 7,500 mg\nB) 7.5 mg\nC) 75 mg\nD) 750 mg",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "75 mg",
+      "7.5 mg",
+      "7,500 mg"
+    ],
+    "explanation": "To convert grams to milligrams, you multiply by 1,000 because there are 1,000 milligrams in one gram. Therefore, 0.75 grams multiplied by 1,000 equals 750 milligrams. The other options result from common errors such as dividing by 10, dividing by 100, or multiplying by 1,000 incorrectly.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1797,
+    "subject": "science",
+    "topic": "Urinary system",
+    "question_text": "A nurse is reviewing a patient's lab results and notes that the kidneys are filtering blood to remove waste products. In which part of the nephron does the bulk of water reabsorption occur to concentrate the urine?\nA) The distal convoluted tubule\nB) The proximal convoluted tubule\nC) The loop of Henle\nD) The collecting duct",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The loop of Henle",
+      "The distal convoluted tubule",
+      "The collecting duct"
+    ],
+    "explanation": "The proximal convoluted tubule is responsible for reabsorbing approximately 65% to 70% of the filtered water and solutes back into the bloodstream. While other segments like the loop of Henle and collecting duct play roles in water regulation, the majority of reabsorption happens in the proximal convoluted tubule.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1799,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "A nurse needs to administer a medication with a dosage of 500 mg. The order specifies the amount in grams (g). Using dimensional analysis, what is the correct conversion to administer?\nA) 0.5 g\nB) 5000 g\nC) 50 g\nD) 0.05 g",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "50 g",
+      "0.05 g",
+      "5000 g"
+    ],
+    "explanation": "To convert 500 mg to grams, divide by 1000 since 1 g equals 1000 mg, yielding 0.5 g. Option A is correct because 500 divided by 1000 is exactly 0.5. Option B (50 g) is wrong as it multiplies instead of divides. Option C (5 g) is incorrect because it only divides by 100. Option D (5000 g) is false as it multiplies by 10. The nurse must administer 0.5 g.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1800,
+    "subject": "science",
+    "topic": "Urinary system",
+    "question_text": "A nurse is reviewing a patient's lab results and sees that the kidneys are performing the function of filtering blood to remove waste products. Which specific structure within the nephron is primarily responsible for this initial filtration process?\nA) Renal pelvis\nB) Ureter\nC) Renal tubule\nD) Glomerulus",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Renal tubule",
+      "Ureter",
+      "Renal pelvis"
+    ],
+    "explanation": "The glomerulus is a cluster of capillaries located at the beginning of the nephron that acts as the primary filter, allowing water and solutes to pass into the Bowman's capsule while retaining blood cells and large proteins. The renal tubule is responsible for reabsorption and secretion, the ureter transports urine to the bladder, and the renal pelvis collects urine before it enters the ureter.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1802,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "As you move down a group (column) in the periodic table, what is the general trend for atomic radius?\nA) It decreases\nB) It increases\nC) It fluctuates randomly\nD) It remains the same",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "It decreases",
+      "It remains the same",
+      "It fluctuates randomly"
+    ],
+    "explanation": "As you move down a group, the atomic radius increases because each successive element adds a new electron shell. This extra distance from the nucleus outweighs the increased nuclear charge, making the atom larger. The option stating it decreases is wrong since added shells expand the size, while \"remains the same\" ignores the structural changes. \"Fluctuates randomly\" is incorrect because the trend is consistent and predictable across all groups.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1803,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "A nurse is studying a local wetland ecosystem where algae grow rapidly in the shallow water due to nutrient runoff from nearby farms. Which of the following describes the most likely immediate ecologi\nA) Rapid decomposition of the algae depletes dissolved oxygen, threatening aquatic life.\nB) The increased plant matter will filter pollutants, leading to a permanent improvement in water clarity.\nC) The algae will absorb excess carbon dioxide, causing the pH of the water to drop significantly.\nD) The algae will compete with native plants for sunlight, causing the entire ecosystem to become barren.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The algae will absorb excess carbon dioxide, causing the pH of the water to drop significantly.",
+      "The increased plant matter will filter pollutants, leading to a permanent improvement in water clarity.",
+      "The algae will compete with native plants for sunlight, causing the entire ecosystem to become barren."
+    ],
+    "explanation": "Algal blooms often die off quickly, and the decomposition process by bacteria consumes large amounts of dissolved oxygen, leading to hypoxic conditions that can kill fish and other aquatic organisms. The other options are incorrect because algal blooms typically release CO2 rather than absorbing it in a way that drastically lowers pH, they do not permanently improve water quality, and they do not cause immediate total barrenness of the ecosystem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1805,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "A nurse is studying the periodic trends of chlorine (Cl) and bromine (Br). Based on their positions in the periodic table, which statement correctly describes the difference in their electronegativity values?\nA) Chlorine has a lower electronegativity than bromine because it is closer to the metal.\nB) Both elements have the same electronegativity because they are in the same group.\nC) Bromine has a higher electronegativity than chlorine because it is larger.\nD) hlorine has a higher electronegativity than bromine.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Bromine has a higher electronegativity than chlorine because it is larger.",
+      "Both elements have the same electronegativity because they are in the same group.",
+      "Chlorine has a lower electronegativity than bromine because it is closer to the metal."
+    ],
+    "explanation": "Electronegativity decreases as you move down a group in the periodic table due to an increase in atomic radius and the shielding effect of inner electrons. Since chlorine is located directly above bromine in Group 17, chlorine exerts a stronger pull on shared electrons and therefore has a higher electronegativity.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1806,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "In a marine ecosystem, a shark eats a seal, and the seal eats a fish. If the shark dies, what happens to the seal population in the short term?\nA) The seal population will remain unchanged regardless of the shark's death.\nB) The seal population will decrease because sharks are necessary for their survival.\nC) The seal population will immediately go extinct due to starvation.\nD) The seal population may increase due to reduced predation pressure.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The seal population will decrease because sharks are necessary for their survival.",
+      "The seal population will remain unchanged regardless of the shark's death.",
+      "The seal population will immediately go extinct due to starvation."
+    ],
+    "explanation": "The seal population may increase because removing the shark eliminates a major predator, reducing predation pressure on the seals. This aligns with ecological principles where prey numbers rise when top-down control is lost. The other options are incorrect: seals do not need sharks for survival, their numbers would not stay static if a predator vanishes, and they certainly will not go extinct from starvation without a new predator.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1807,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "A nursing student is designing an experiment to determine if a new herbal supplement reduces pain levels in patients recovering from surgery. In this study, which component is responsible for the change in the patients' reported pain scores?\nA) The researcher's observations\nB) The control group\nC) The patients' age\nD) The herbal supplement",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The control group",
+      "The researcher's observations",
+      "The patients' age"
+    ],
+    "explanation": "The herbal supplement is the independent variable because it is the factor deliberately changed by the researcher to observe its effect. The change in pain scores represents the dependent variable, which is the outcome being measured in response to the supplement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1809,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "A nurse is reviewing the differences between the cells that make up bacteria and the cells that make up human tissue. Which of the following is a definitive structural difference between these two typ\nA) None of the above\nB) Bacterial cells contain mitochondria to produce energy, while human cells lack them.\nC) Human cells contain a nucleus and membrane-bound organelles, while bacterial cells do not.\nD) Human cells lack a cell wall, whereas bacterial cells have a rigid cell wall.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Human cells lack a cell wall, whereas bacterial cells have a rigid cell wall.",
+      "Bacterial cells contain mitochondria to produce energy, while human cells lack them.",
+      "Both cell types have a cell membrane, but only bacterial cells have a nucleus."
+    ],
+    "explanation": "The primary distinction is that human cells are eukaryotic and possess a defined nucleus along with membrane-bound organelles like mitochondria, whereas bacteria are prokaryotic and lack both a nucleus and membrane-bound organelles. While human cells do lack a cell wall (unlike bacteria), the absence of organelles and a nucleus is the fundamental defining feature of prokaryotic versus eukaryotic cells.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1810,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "A nursing student is designing an experiment to test the effect of a new antihypertensive medication on patients' blood pressure readings. She plans to give the new drug to Group A and a placebo to Group B, while keeping all other conditions identical. Which group serves as the control group in this study?\nA) Neither group, because no variable was changed to observe an effect.\nB) Group A, because they received the active treatment being tested.\nC) The researcher, because they are the ones conducting the experiment.\nD) Group B (the placebo group)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Group A, because they received the active treatment being tested.",
+      "The researcher, because they are the ones conducting the experiment.",
+      "Neither group, because no variable was changed to observe an effect."
+    ],
+    "explanation": "The control group is the one that does not receive the experimental treatment and is used as a baseline for comparison. In this scenario, Group B receives a placebo instead of the active medication, making them the control group, whereas Group A is the experimental group.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1812,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "A nurse observes a sample of bacteria under a microscope and notes that the organism lacks a defined nucleus and contains a cell wall made of peptidoglycan. Which statement best describes this cell ty\nA) The bacterial cell is larger than the human muscle cell because it is a single-celled organism.\nB) The human muscle cell is a prokaryote because it is specialized for movement, whereas bacteria are not.\nC) The bacterial cell is a prokaryote, while the human muscle cell is a eukaryote.\nD) None of the above",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The bacterial cell is larger than the human muscle cell because it is a single-celled organism.",
+      "Both the bacterial cell and the human muscle cell are eukaryotes because they both have a cell membrane.",
+      "The human muscle cell is a prokaryote because it is specialized for movement, whereas bacteria are not."
+    ],
+    "explanation": "Bacteria are classified as prokaryotes because they lack a membrane-bound nucleus and other organelles, whereas human cells are eukaryotic and contain a distinct nucleus. The presence of peptidoglycan in the cell wall further confirms the organism is a bacterium, distinguishing it from human cells which have a cytoskeleton and various organelles like mitochondria.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1813,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "A nurse is designing an experiment to test whether increasing the frequency of handwashing reduces the incidence of hospital-acquired infections in a specific unit. In this study, which variable is the independent variable?\nA) The number of hospital-acquired infections\nB) The type of soap used for handwashing\nC) The frequency of handwashing\nD) The age of the patients in the unit",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The number of hospital-acquired infections",
+      "The type of soap used for handwashing",
+      "The age of the patients in the unit"
+    ],
+    "explanation": "The independent variable is the factor that the researcher deliberately changes or manipulates, which in this case is the frequency of handwashing. The dependent variable is the outcome being measured (the number of infections), while the other options are controlled variables intended to remain constant to ensure a fair test.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1815,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "A nurse is reviewing the laboratory results of a patient with type 1 diabetes who is experiencing frequent urination and excessive thirst. Which class of macromolecules is primarily responsible for regulating the amount of glucose in the patient's blood through the process of insulin secretion?\nA) Carbohydrates\nB) Nucleic acids\nC) Lipids\nD) Proteins",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Carbohydrates",
+      "Lipids",
+      "Nucleic acids"
+    ],
+    "explanation": "Insulin is a hormone that functions as a protein, and proteins are the only macromolecule class capable of folding into specific three-dimensional shapes to bind receptors and catalyze reactions. Carbohydrates serve as energy sources, lipids act as energy storage and structural components of membranes, and nucleic acids store genetic information; none of these directly regulate blood glucose levels through hormonal secretion.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1816,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "A nurse is designing a study to determine if a new herbal supplement improves sleep quality in patients with insomnia. In this experiment, which variable should be kept constant to ensure the results are valid?\nA) random variable\nB) dependent variable\nC) independent variable\nD) ontrolled variable",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "independent variable",
+      "dependent variable",
+      "random variable"
+    ],
+    "explanation": "A controlled variable is a factor that the researcher keeps constant to prevent it from influencing the outcome, ensuring that any changes in the dependent variable (sleep quality) are due only to the independent variable (the supplement). If factors like sleep environment or medication were not controlled, the results would be ambiguous.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1818,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "A nurse is reviewing a patient's lipid profile and notes that the patient has a high level of triglycerides. Which of these macromolecules is primarily responsible for storing long-term energy in the body?\nA) Proteins\nB) Nucleic acids\nC) Lipids\nD) Carbohydrates",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Carbohydrates",
+      "Proteins",
+      "Nucleic acids"
+    ],
+    "explanation": "Lipids are the macromolecules primarily responsible for storing long-term energy in the body, making the correct answer right. While carbohydrates provide quick energy, lipids store energy efficiently for extended periods. Carbohydrates, proteins, and nucleic acids do not serve this primary long-term storage function. Therefore, lipids are the key macromolecule for long-term energy storage.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1819,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A nurse observes that patients who take their medication at 8:00 AM consistently have lower blood pressure readings than those who take it at 2:00 PM. Based on this observation alone, which conclusion\nA) There is a correlation between the time of medication administration and blood pressure levels, but causation cannot be determined without further evidence.\nB) Taking the medication at 8:00 AM causes the lower blood pressure because it works faster.\nC) The 2:00 PM time of administration directly causes higher blood pressure in all patients.\nD) The study proves that changing the time of administration will always improve blood pressure control.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Taking the medication at 8:00 AM causes the lower blood pressure because it works faster.",
+      "The 2:00 PM time of administration directly causes higher blood pressure in all patients.",
+      "The study proves that changing the time of administration will always improve blood pressure control."
+    ],
+    "explanation": "Observing that two variables change together indicates a correlation, not necessarily a cause-and-effect relationship. Other factors like lifestyle habits or daily activities could influence the results, so claiming one action causes the outcome is a logical error.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1821,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "A nurse is preparing to administer a medication that has been dissolved in a solution with a pH of 5.0. The nurse reviews the pH scale and determines that this solution is:\nA) slightly acidic\nB) neutral\nC) strongly basic\nD) strongly acidic",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "strongly basic",
+      "neutral",
+      "strongly acidic"
+    ],
+    "explanation": "The pH scale ranges from 0 to 14, where 7 is neutral, values below 7 are acidic, and values above 7 are basic. Since the solution has a pH of 5.0, which is less than 7, it is classified as acidic. However, it is not strongly acidic because strong acids typically have pH values closer to 0 or 1. Therefore, the option \"slightly acidic\" is the only correct choice. The other options are incorrect because \"strongly basic\" and \"neutral\" require pH values above 7 and exactly 7 respectively, while \"strongly acidic\" implies a much lower pH than 5.0.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1822,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A nurse observes that patients who take the medication X daily tend to report fewer headaches than those who do not take the medication. Based on this observation alone, what is the most accurate conc\nA) Medication X causes headaches to stop.\nB) There is a correlation between taking medication X and reporting fewer headaches.\nC) The dosage of medication X determines the severity of headaches.\nD) Patients who take medication X will never have headaches again.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Medication X causes headaches to stop.",
+      "Patients who take medication X will never have headaches again.",
+      "The dosage of medication X determines the severity of headaches."
+    ],
+    "explanation": "Observing that two events occur together (taking the medication and having fewer headaches) establishes a correlation, not necessarily a cause-and-effect relationship. Without controlled experiments to rule out other factors like placebo effects or lifestyle changes, the nurse cannot definitively conclude that the medication causes the reduction in headaches.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1824,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "A nurse is preparing a solution to neutralize a spill of hydrochloric acid (HCl) in a laboratory. Which substance should be used to safely neutralize the acid?\nA) Acetic acid (vinegar)\nB) Sodium hydroxide (lye)\nC) Sodium bicarbonate (baking soda)\nD) Hydrochloric acid",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Acetic acid (vinegar)",
+      "Hydrochloric acid",
+      "Sodium hydroxide (lye)"
+    ],
+    "explanation": "Sodium bicarbonate is a base that reacts with the acidic HCl to form salt, water, and carbon dioxide, effectively neutralizing the spill. Using another acid like acetic acid or the same acid would worsen the situation, while sodium hydroxide is a strong base that could cause a dangerous caustic reaction.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1825,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "A nurse is reviewing a table of daily fluid intake and output for a patient with kidney failure. On Day 3, the table shows an intake of 800 mL and an output of 600 mL. On Day 4, the intake is 900 mL a\nA) The patient is losing more fluid than they are taking in, which could lead to dehydration.\nB) The fluid balance is fluctuating wildly, indicating an unstable condition that requires immediate hospitalization.\nC) The patient is experiencing a consistent positive fluid balance (net fluid retention) each day.\nD) The patient's fluid balance is neutral because the difference between intake and output is similar each day.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The patient's fluid balance is neutral because the difference between intake and output is similar each day.",
+      "The patient is losing more fluid than they are taking in, which could lead to dehydration.",
+      "The fluid balance is fluctuating wildly, indicating an unstable condition that requires immediate hospitalization."
+    ],
+    "explanation": "On Day 3, the patient retained 200 mL (800 mL - 600 mL), and on Day 4, they retained 250 mL (900 mL - 650 mL). Since the output is consistently less than the intake for both days, the trend is a consistent positive fluid balance, indicating net fluid retention rather than neutrality or dehydration.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1827,
+    "subject": "science",
+    "topic": "States of matter and phase changes",
+    "question_text": "A nurse is caring for a patient with a high fever. The physician orders the application of ice packs to the patient's forehead. Which of the following phase changes is primarily responsible for the cooling effect of the ice pack on the skin?\nA) Melting\nB) Condensation\nC) Evaporation\nD) Sublimation",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation"
+    ],
+    "explanation": "Melting is the phase change where a solid turns into a liquid, and this process requires energy (heat) to be absorbed from the surroundings, thereby cooling the skin. Evaporation involves a liquid turning into a gas, condensation is a gas turning into a liquid, and sublimation is a solid turning directly into a gas, none of which describe the primary cooling mechanism of an ice pack melting on the skin.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1828,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "A nurse reviews a growth chart for a 12-month-old infant and notices that the child's weight has increased by 20% over the past six months compared to their birth weight. Which of the following statem\nA) The rapid increase indicates a potential fluid overload or pathological condition requiring immediate intervention.\nB) This represents a positive growth trend consistent with normal development for an infant of this age.\nC) This trend is abnormal and may result from an overfeeding schedule that needs to be corrected.\nD) The data suggests the infant is failing to thrive because the weight gain is slower than the recommended 10% per month.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The rapid increase indicates a potential fluid overload or pathological condition requiring immediate intervention.",
+      "The data suggests the infant is failing to thrive because the weight gain is slower than the recommended 10% per month.",
+      "This trend is abnormal and may result from an overfeeding schedule that needs to be corrected."
+    ],
+    "explanation": "Infants typically gain about 20% of their birth weight by their first birthday, so a 20% increase is a normal and expected positive trend. The other options incorrectly suggest pathology or failure to thrive based on a misinterpretation of standard pediatric growth milestones.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1830,
+    "subject": "science",
+    "topic": "States of matter and phase changes",
+    "question_text": "A nurse is preparing an IV infusion for a patient who has been exposed to extreme cold. Which state of matter does the IV fluid exhibit if it begins to freeze inside the tubing, and what is the primar\nA) Solid; the temperature of the liquid dropped below its freezing point, causing the molecules to slow down and lock into a fixed structure.\nB) Gas; the cold temperature caused the molecules to escape into the air.\nC) Liquid; the fluid is simply under pressure from the pump.\nD) Plasma; the extreme cold ionized the water molecules.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Liquid; the fluid is simply under pressure from the pump.",
+      "Gas; the cold temperature caused the molecules to escape into the air.",
+      "Plasma; the extreme cold ionized the water molecules."
+    ],
+    "explanation": "When a liquid cools below its freezing point, it undergoes a phase change from liquid to solid. In this scenario, the water molecules lose kinetic energy and arrange themselves into a rigid structure, forming ice. The other options are incorrect because freezing does not result in a gas or plasma state under normal pressure conditions.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1831,
+    "subject": "science",
+    "topic": "Cardiovascular system",
+    "question_text": "A nurse is explaining the function of the pulmonary circuit to a student. Which statement by the student indicates a correct understanding of the path of blood flow in this system? (Select the best response)\nA) Blood flows from the left atrium to the lungs, then returns to the right ventricle.\nB) Blood flows from the right atrium to the lungs, then returns to the left ventricle.\nC) lood flows from the right ventricle to the lungs, then returns to the left atrium.\nD) Blood flows from the left ventricle to the lungs, then returns to the right atrium.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Blood flows from the left ventricle to the lungs, then returns to the right atrium.",
+      "Blood flows from the left atrium to the lungs, then returns to the right ventricle.",
+      "Blood flows from the right atrium to the lungs, then returns to the left ventricle."
+    ],
+    "explanation": "The pulmonary circuit specifically carries deoxygenated blood away from the right ventricle to the lungs for oxygenation and returns oxygenated blood to the left atrium. The other options incorrectly describe the direction of flow or misidentify the chambers involved in the pulmonary pathway.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1832,
+    "subject": "science",
+    "topic": "Blood typing and compatibility",
+    "question_text": "A nurse is preparing to administer a blood transfusion to a patient with Type O negative blood. Which donor blood type is the safest choice for this patient in an emergency situation when the donor type is unknown?\nA) Type O negative\nB) Type A positive\nC) Type AB negative\nD) Type O positive",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Type A positive",
+      "Type AB negative",
+      "Type O positive"
+    ],
+    "explanation": "Type O negative blood is considered the universal donor because it lacks both A and B antigens and the Rh factor, minimizing the risk of an immune reaction in recipients of any blood type. The other options contain antigens that would likely cause a transfusion reaction in a Type O negative recipient.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1833,
+    "subject": "science",
+    "topic": "Cardiovascular system",
+    "question_text": "A nurse is reviewing the cardiac cycle of a healthy adult. Which statement best describes the function of the semilunar valves located at the exit of the ventricles?\nA) They open during ventricular diastole to allow blood to flow from the atria into the ventricles.\nB) They open to allow blood to flow from the ventricles back into the atria during systole.\nC) They remain closed throughout the entire cardiac cycle to maintain pressure within the atria.\nD) They open during ventricular systole to allow blood to flow into the pulmonary artery and aorta, and close during diastole to prevent backflow.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "They open during ventricular diastole to allow blood to flow from the atria into the ventricles.",
+      "They remain closed throughout the entire cardiac cycle to maintain pressure within the atria.",
+      "They open to allow blood to flow from the ventricles back into the atria during systole."
+    ],
+    "explanation": "The semilunar valves (aortic and pulmonary) prevent backflow into the ventricles during diastole and open only when ventricular pressure exceeds atrial pressure during systole. The other options describe the function of the AV valves or present impossible hemodynamic scenarios.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1835,
+    "subject": "science",
+    "topic": "Blood typing and compatibility",
+    "question_text": "A nurse is preparing to transfuse packed red blood cells to a patient with severe anemia who has never received a blood transfusion. The patient's blood type is O-negative. Which unit of blood should the nurse select for this patient?\nA) AB-negative blood\nB) O-negative blood\nC) O-positive blood\nD) A-positive blood",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "O-positive blood",
+      "AB-negative blood",
+      "A-positive blood"
+    ],
+    "explanation": "O-negative blood is considered the universal donor because it lacks A antigens, B antigens, and the Rh factor, making it safe for recipients of any blood type. Selecting O-positive or A-positive blood could cause an acute hemolytic transfusion reaction due to antigen-antibody incompatibility.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1836,
+    "subject": "science",
+    "topic": "Endocrine system",
+    "question_text": "A nurse is caring for a client with diabetes mellitus who is experiencing frequent urination and excessive thirst. The client's blood glucose levels are consistently high, indicating that the pancreas\nA) Insulin; it facilitates the uptake of glucose by cells and promotes its storage as glycogen\nB) Glucagon; it stimulates the breakdown of glycogen to release glucose into the bloodstream\nC) Adrenaline; it increases heart rate and blood pressure during stress responses\nD) Thyroxine; it regulates the body's metabolic rate and growth",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Glucagon; it stimulates the breakdown of glycogen to release glucose into the bloodstream",
+      "Adrenaline; it increases heart rate and blood pressure during stress responses",
+      "Thyroxine; it regulates the body's metabolic rate and growth"
+    ],
+    "explanation": "The symptoms described (polyuria, polydipsia, and hyperglycemia) are classic signs of insulin deficiency, which is the hallmark of uncontrolled diabetes mellitus. Insulin is produced by the beta cells of the pancreas and is essential for lowering blood glucose by facilitating its entry into cells. The other options represent hormones that either raise blood sugar (glucagon) or regulate different physiological processes unrelated to immediate glucose metabolism.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1837,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "Which of the following tissue types is primarily responsible for the contraction of the heart muscle to pump blood throughout the body?\nA) Epithelial tissue\nB) Muscle tissue\nC) Connective tissue\nD) Nervous tissue",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Nervous tissue"
+    ],
+    "explanation": "Muscle tissue contains specialized cells called myocytes that contract to generate force and movement, which is essential for the heart's pumping action. While nervous tissue signals the contraction and connective tissue provides structural support, only muscle tissue performs the mechanical work of pumping blood.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1838,
+    "subject": "science",
+    "topic": "Endocrine system",
+    "question_text": "A nurse is reviewing a patient's lab results and notes that the blood levels of cortisol are consistently low, while levels of adrenocorticotropic hormone (ACTH) are elevated. Which endocrine feedback mechanism is this pattern indicating?\nA) Direct stimulation of the adrenal cortex by the pituitary gland\nB) Negative feedback loop failure\nC) Positive feedback loop\nD) Hypersecretion of cortisol due to exogenous steroid use",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Positive feedback loop",
+      "Direct stimulation of the adrenal cortex by the pituitary gland",
+      "Hypersecretion of cortisol due to exogenous steroid use"
+    ],
+    "explanation": "This pattern indicates a failure of the normal negative feedback loop, where low cortisol should normally suppress ACTH; instead, the high ACTH suggests the pituitary is attempting to stimulate the adrenal glands because cortisol is insufficient. Positive feedback loops are rare in endocrine systems and do not fit this context, while exogenous steroids would typically suppress ACTH, not elevate it.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1839,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "Which of the following tissues is primarily responsible for voluntary movement of skeletal muscles in the body?\nA) Epithelial tissue\nB) Muscle tissue\nC) Connective tissue\nD) Nervous tissue",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Nervous tissue"
+    ],
+    "explanation": "Muscle tissue contains specialized cells capable of contraction, which generates the force required for voluntary movement of bones and organs. While nervous tissue initiates the signal and connective tissue provides structural support, only muscle tissue performs the actual movement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1840,
+    "subject": "science",
+    "topic": "Muscular system",
+    "question_text": "A nurse is teaching a patient about how skeletal muscles move bones at joints. Which description best explains the mechanism of skeletal muscle contraction?\nA) The Z-discs move apart as the I-bands remain the same length.\nB) Actin filaments slide past myosin filaments while the sarcomere length increases.\nC) Myosin heads bind to actin filaments and pull them inward, shortening the muscle fiber.\nD) Actin and myosin filaments slide past each other, causing the H-zone to become narrower.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Actin filaments slide past myosin filaments while the sarcomere length increases.",
+      "The Z-discs move apart as the I-bands remain the same length.",
+      "Actin and myosin filaments slide past each other, causing the H-zone to become narrower."
+    ],
+    "explanation": "During contraction, myosin heads attach to actin filaments and pull them toward the center of the sarcomere, shortening the muscle. This action causes the H-zone to narrow and the I-bands to shorten, while the Z-discs move closer together. Options suggesting the sarcomere lengthens or the I-bands staying the same describe relaxation or incorrect mechanisms.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1841,
+    "subject": "science",
+    "topic": "Urinary system",
+    "question_text": "A nurse is reviewing the function of the nephron and wants to identify the segment responsible for filtering blood plasma. Which part of the nephron performs this initial filtration process?\nA) proximal convoluted tubule\nB) distal convoluted tubule\nC) renal pelvis\nD) glomerulus",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "proximal convoluted tubule",
+      "renal pelvis",
+      "distal convoluted tubule"
+    ],
+    "explanation": "The glomerulus is a network of capillaries where blood pressure forces water and solutes out of the blood and into the Bowman's capsule, initiating the filtration process. The proximal and distal convoluted tubules are involved in reabsorption and secretion, while the renal pelvis collects urine after it has formed.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1842,
+    "subject": "science",
+    "topic": "Muscular system",
+    "question_text": "During muscle contraction, which of the following events occurs at the molecular level within the sarcomere?\nA) Myosin heads pull actin filaments toward the center of the sarcomere\nB) The length of the myosin filaments increases to generate force\nC) Actin and myosin filaments slide past each other, decreasing the distance between Z-lines\nD) Actin filaments slide toward the Z-line while myosin filaments slide toward the M-line",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Actin filaments slide toward the Z-line while myosin filaments slide toward the M-line",
+      "The length of the myosin filaments increases to generate force",
+      "Actin and myosin filaments slide past each other, decreasing the distance between Z-lines"
+    ],
+    "explanation": "The sliding filament theory states that myosin heads bind to actin and pull them inward toward the center of the sarcomere, shortening the muscle. This action decreases the distance between the Z-lines, not the M-line, and the lengths of the thick (myosin) and thin (actin) filaments themselves remain constant during contraction.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1843,
+    "subject": "science",
+    "topic": "Urinary system",
+    "question_text": "A nurse is educating a client about the function of the nephron within the kidney. Which of the following processes occurs in the renal corpuscle?\nA) lood filtration\nB) Reabsorption of glucose and water\nC) Production of urine hormones\nD) Active secretion of hydrogen ions",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Reabsorption of glucose and water",
+      "Active secretion of hydrogen ions",
+      "Production of urine hormones"
+    ],
+    "explanation": "The renal corpuscle, consisting of the glomerulus and Bowman's capsule, is the site where blood filtration takes place to form the initial filtrate. Reabsorption of nutrients like glucose and secretion of ions occur in the renal tubules, while hormone production is a function of the juxtaglomerular apparatus, not the renal corpuscle itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1844,
+    "subject": "science",
+    "topic": "Nervous system",
+    "question_text": "A nurse observes a patient experiencing a knee-jerk reflex when a hammer strikes the patellar tendon. Which part of the nervous system is primarily responsible for generating this rapid, involuntary movement?\nA) Peripheral Nervous System\nB) Somatic Nervous System\nC) Central Nervous System\nD) Autonomic Nervous System",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Central Nervous System",
+      "Somatic Nervous System",
+      "Autonomic Nervous System"
+    ],
+    "explanation": "While the reflex arc involves the CNS (specifically the spinal cord) for processing, the sensory receptors and motor neurons that directly transmit signals to the muscle are part of the Peripheral Nervous System. The somatic nervous system controls skeletal muscles, but the PNS is the broader category encompassing the transmission pathways for this specific reflex action.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1845,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "A nurse is studying a local wetland area where birds, fish, and insects interact. Which term best describes this system, considering all the living organisms and their physical environment?\nA) biome\nB) ecosystem\nC) population\nD) food chain",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "population",
+      "food chain",
+      "biome"
+    ],
+    "explanation": "An ecosystem is defined as a community of living organisms in conjunction with the nonliving components of their environment, interacting as a system. A population refers to a single species, a food chain is a specific linear sequence of energy transfer, and a biome is a large-scale community of organisms adapted to a specific climate, making 'ecosystem' the most precise term for this specific wetland setting.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1846,
+    "subject": "science",
+    "topic": "Nervous system",
+    "question_text": "A nurse is caring for a patient who experiences a sudden, involuntary contraction of a muscle group in response to a specific stimulus, such as touching a hot object. This automatic reaction is best described as which of the following?\nA) reflex arc\nB) A voluntary motor command from the cerebral cortex\nC) A chemical signal release at a synapse\nD) A synaptic transmission between two neurons",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "A synaptic transmission between two neurons",
+      "A voluntary motor command from the cerebral cortex",
+      "A chemical signal release at a synapse"
+    ],
+    "explanation": "A reflex arc is the complete neural pathway that mediates a reflex action, involving a sensory neuron, interneuron (often), and motor neuron to produce an automatic response without conscious thought. While synapses and chemical signals are part of the process, they are components rather than the entire automatic reaction mechanism described in the scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1847,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "A nurse is studying a community where both fish and algae live in the same pond. Which term best describes this group of living organisms and their physical environment interacting as a single unit?\nA) biome\nB) food chain\nC) population\nD) ecosystem",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "food chain",
+      "population",
+      "biome"
+    ],
+    "explanation": "The question asks for the term describing organisms and their physical environment as a single unit. The correct answer is ecosystem because it specifically defines a community of living things interacting with their non-living surroundings. Food chain is incorrect as it only shows energy transfer between organisms, not the physical environment. Population is wrong because it refers to a single species group, not multiple species like fish and algae. Biome is inaccurate since it describes a large global region with similar climates, rather than a specific pond unit.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1848,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "A nurse is reviewing a patient's lab results and notices that a plant cell sample shows structures containing their own DNA but lacks a nucleus. Which cellular theory best explains how this organelle originated?\nA) The organelle was created by the cell's ribosomes during protein synthesis.\nB) The organelle evolved from the cell membrane by folding inward.\nC) Endosymbiotic theory\nD) The organelle formed through the fusion of two separate plant cells.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The organelle was created by the cell's ribosomes during protein synthesis.",
+      "The organelle formed through the fusion of two separate plant cells.",
+      "The organelle evolved from the cell membrane by folding inward."
+    ],
+    "explanation": "According to the endosymbiotic theory, organelles like mitochondria and chloroplasts originated as free-living prokaryotes that were engulfed by an ancestral eukaryotic cell and eventually became integrated through a symbiotic relationship. This explains why these organelles have their own DNA and replicate independently, distinguishing them from structures created solely by ribosomes or membrane folding.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

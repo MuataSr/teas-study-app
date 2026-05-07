@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block title %}Visual Library — TEAS Study Buddy{% endblock %}
+
+{% block content %}
+<div class="visual-library">
+  <h1>Visual Library</h1>
+  <p class="subtitle">Key formulas, diagrams, and reference tables for every TEAS subject.</p>
+
+  <!-- Subject filter tabs -->
+  <div style="display:flex; gap:0.5rem; margin-bottom:1.25rem; flex-wrap:wrap;">
+    <a href="/visuals"
+       class="visual-tab {{ 'active' if not current_subject else '' }}"
+       style="padding:0.4rem 0.9rem; border-radius:20px; text-decoration:none; font-size:0.85rem;
+              border:1px solid var(--border,#ddd); color:var(--text-secondary,#555);
+              {{ 'background:var(--accent,#1B3A5C); color:#fff; border-color:var(--accent,#1B3A5C);' if not current_subject else '' }}">
+      All
+    </a>
+    {% for sub in subjects %}
+    <a href="/visuals/{{ sub }}"
+       class="visual-tab {{ 'active' if current_subject == sub else '' }}"
+       style="padding:0.4rem 0.9rem; border-radius:20px; text-decoration:none; font-size:0.85rem;
+              border:1px solid var(--border,#ddd); color:var(--text-secondary,#555);
+              {{ 'background:var(--accent,#1B3A5C); color:#fff; border-color:var(--accent,#1B3A5C);' if current_subject == sub else '' }}">
+      {{ sub|capitalize }}
+    </a>
+    {% endfor %}
+  </div>
+
+  <!-- Visual cards -->
+  {% for card in cards %}
+  <div class="visual-card">
+    <div class="visual-card-header">
+      <span class="visual-card-title">{{ card.subject|capitalize }}</span>
+      <span class="visual-card-badge">{{ card.type }}</span>
+    </div>
+    <div class="visual-card-body">
+      {{ card.html|safe }}
+    </div>
+  </div>
+  {% endfor %}
+
+  {% if not cards %}
+  <p style="color:var(--text-secondary,#666); text-align:center; padding:2rem;">
+    No visuals found for this subject yet.
+  </p>
+  {% endif %}
+</div>
+
+<script>
+  // Render any Mermaid diagrams that were just injected
+  document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
+      document.querySelectorAll('.mermaid:not([data-processed])').forEach(function(el) {
+        mermaid.run({ nodes: [el] });
+      });
+    }, 100);
+  });
+</script>
+{% endblock %}

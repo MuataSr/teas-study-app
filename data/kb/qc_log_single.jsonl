@@ -1,0 +1,450 @@
+{"id": 1, "score": 0, "reason": "The explanation contradicts itself by stating 1 out of 4 is shaded but then claiming Option A (1/4) is wrong and suggesting it means three parts are shaded.", "subject": "math"}
+{"id": 2, "score": 0, "reason": "The explanation incorrectly maps the option letters, claiming Option A is 2/1 when it is actually 2/3, making the rationale completely garbled.", "subject": "math"}
+{"id": 3, "score": 0, "reason": "The explanation refers to nonexistent \"Option 0\", \"Option 1\", and a \"cannot be determined\" choice instead of addressing the actual provided options A through D.", "subject": "math"}
+{"id": 4, "score": 0, "reason": "The explanation is entirely broken, explicitly stating that Option A (3/4) is wrong because it represents zero shading, contradicting the correct answer it just established.", "subject": "math"}
+{"id": 5, "score": 2, "reason": "The correct answer and explanation logic are sound, but it receives a lower score for including the bizarrely obvious and nonsensical distractor \"2 regions folding once\" in a question asking for a numerical fraction.", "subject": "math"}
+{"id": 1, "score": 0, "reason": "The explanation states the answer is 1 out of 4 but then incorrectly claims Option A is wrong, completely contradicting itself.", "subject": "math"}
+{"id": 2, "score": 0, "reason": "The explanation identifies 2/3 as the correct answer but absurdly claims Option A lists 2/1, making the rationale entirely garbled.", "subject": "math"}
+{"id": 3, "score": 0, "reason": "The explanation references nonexistent options like \"Option 0\", \"Option 1\", and \"cannot be determined\" instead of addressing the actual choices A through D.", "subject": "math"}
+{"id": 4, "score": 0, "reason": "The explanation states the answer is 3/4 but then claims Option A is wrong because \"zero represents no shading,\" completely misaligning with the provided options.", "subject": "math"}
+{"id": 5, "score": 1, "reason": "While the explanation correctly identifies 1/6 as the answer and explains why the other fractions are wrong, the question contains a major issue with a nonsensical distractor (\"2 regions folding once\").", "subject": "math"}
+{"id": 1, "score": 0, "reason": "The explanation is completely garbled, claiming the correct answer (Option A) is wrong, misidentifying the distractors, and containing a blatant math error by stating 24/36 simplifies to 5/9.", "subject": "math"}
+{"id": 2, "score": 0, "reason": "The explanation mislabels every single option, attributing the characteristics of B, C, and D to the wrong letters while failing to accurately describe the distractors.", "subject": "math"}
+{"id": 3, "score": 0, "reason": "The explanation references nonexistent options like \"Option 0,\" \"Option 1,\" and a \"cannot be determined\" choice instead of addressing the actual provided options B, C, and D.", "subject": "math"}
+{"id": 4, "score": 0, "reason": "The explanation explicitly states that Option A (the correct answer) is wrong, and then absurdly claims that Option B (2/4) represents a single part being filled.", "subject": "math"}
+{"id": 5, "score": 3, "reason": "The correct answer is clearly identified, the distractors are appropriately plausible for an easy number sense question, and the explanation accurately addresses why each incorrect option fails.", "subject": "math"}
+{"id": 6, "score": 0, "reason": "The distractors are completely nonsensical and garbled rather than being plausible mathematical options, making the question broken.", "subject": "math"}
+{"id": 7, "score": 0, "reason": "The question is broken because the explanation contradicts itself over whether option A or B is correct, and the remaining distractors are completely irrelevant strings of text.", "subject": "math"}
+{"id": 8, "score": 3, "reason": "The calculation is perfectly accurate, the correct answer is exact, and the distractors represent plausible computational errors.", "subject": "math"}
+{"id": 9, "score": 0, "reason": "The correct answer is mathematically wrong since 5^-2 is exactly 0.04, and the explanation completely hallucinates the contents of the wrong answer choices.", "subject": "math"}
+{"id": 10, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 6, "score": 1, "reason": "The distractors are completely nonsensical and absurd, making them far too obvious rather than plausible.", "subject": "math"}
+{"id": 7, "score": 1, "reason": "The distractors are bizarre and unrelated, and the correct answer choice is awkwardly phrased as a statement rather than just the digit \"0\".", "subject": "math"}
+{"id": 8, "score": 3, "reason": "The correct answer is accurate, the distractors are plausible, and the explanation is helpful and correct.", "subject": "math"}
+{"id": 9, "score": 0, "reason": "The correct answer is actually wrong since 5^-2 equals exactly 0.04, and the explanation contains severe hallucinations by completely misidentifying the text of the distractor options.", "subject": "math"}
+{"id": 10, "score": 1, "reason": "While the math and explanation are correct, the distractors are extremely obvious and nonsensical rather than plausible.", "subject": "math"}
+{"id": 6, "score": 1, "reason": "Two of the three distractors are completely irrelevant and nonsensical for a math problem, making them far too obvious.", "subject": "math"}
+{"id": 7, "score": 1, "reason": "The correct answer is debatable because option B also correctly identifies the ones digit as zero, and the explanation misrepresents option D.", "subject": "math"}
+{"id": 8, "score": 3, "reason": "The math is calculated perfectly, the correct", "subject": "math"}
+{"id": 9, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 10, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 11, "score": 0, "reason": "The question is broken because option B contains garbled text and math errors within the distractor itself, and options C and D are nonsensical.", "subject": "math"}
+{"id": 12, "score": 1, "reason": "The correct answer is right, but the distractors are far too obvious and completely unrelated to algebraic expressions.", "subject": "math"}
+{"id": 13, "score": 0, "reason": "The question is broken because the prompt is cut off, the correct answer choice does not actually answer the specific question asked, and the distractors are nonsensical.", "subject": "math"}
+{"id": 14, "score": 1, "reason": "The correct answer is right and the explanation is accurate, but two of the distractors are completely irrelevant to the question.", "subject": "math"}
+{"id": 15, "score": 0, "reason": "The question is broken because the explanation incorrectly labels the correct option as wrong, and the distractors are incomplete and garbled mathematical statements.", "subject": "math"}
+{"id": 11, "score": 0, "reason": "The question is completely broken because the distractors are garbled nonsense, random decimals, and incorrectly formatted text rather than plausible algebraic options.", "subject": "math"}
+{"id": 12, "score": 0, "reason": "The presence of completely irrelevant and nonsensical distractors like \"2 regions folding once\" and \"3/1\" renders the question invalid for a standardized test.", "subject": "math"}
+{"id": 13, "score": 0, "reason": "The question stem is abruptly cut off, the designated correct answer does not match the specific \"one fold\" scenario described, and it contains irrelevant distractors.", "subject": "math"}
+{"id": 14, "score": 0, "reason": "Although the correct answer and one plausible distractor are present, the inclusion of \"1/7\" and \"2 regions folding once\" as answer choices makes the question broken.", "subject": "math"}
+{"id": 15, "score": 0, "reason": "The distractors are incomplete mathematical statements, and the explanation contradicts itself by stating the correct option is wrong.", "subject": "math"}
+{"id": 16, "score": 1, "reason": "The distractors are completely nonsensical and obviously wrong, making this a poorly constructed multiple-choice question despite the correct answer being present.", "subject": "math"}
+{"id": 17, "score": 1, "reason": "The explanation contains glaring errors, incorrectly stating that Option A is wrong and misidentifying Option B as a fraction instead of an inequality.", "subject": "math"}
+{"id": 18, "score": 0, "reason": "The options are completely garbled with random arithmetic and algebraic problems, and the explanation incorrectly attributes Option B's properties to Option A.", "subject": "math"}
+{"id": 19, "score": 0, "reason": "Options C and D are garbled nonsense, the explanation completely mismatches the options, and it references a non-existent Option E.", "subject": "math"}
+{"id": 20, "score": 0, "reason": "The question text is cut off, the provided options do not actually answer the comparative question asked, and the correct answer given in the explanation is not among the choices.", "subject": "math"}
+{"id": 16, "score": 1, "reason": "The correct answer is right but the distractors are nonsensical and do not properly fill in the blank.", "subject": "math"}
+{"id": 17, "score": 0, "reason": "The explanation incorrectly states that the correct option is wrong and completely misidentifies the properties of the other options.", "subject": "math"}
+{"id": 18, "score": 0, "reason": "The explanation mismatches the option letters, and none of the provided options actually give an equivalent fraction as requested.", "subject": "math"}
+{"id": 19, "score": 0, "reason": "The explanation misattributes the options, refers to a non-existent Option E, and the distractors are irrelevant algebra problems.", "subject": "math"}
+{"id": 20, "score": 0, "reason": "The question is cut off at the end, and none of the options actually answer the comparison question being asked.", "subject": "math"}
+{"id": 11, "score": 0, "reason": "The question is broken because option B contains a garbled copy-paste error of the prompt and options C and D are completely nonsensical rather than plausible algebraic distractors.", "subject": "math"}
+{"id": 12, "score": 1, "reason": "While option A is correct and option B is a plausible distractor for a common student mistake, the question has major issues because options C and D are completely absurd and irrelevant to writing algebraic expressions.", "subject": "math"}
+{"id": 13, "score": 0, "reason": "The question is broken because the explanation incorrectly validates option A as the answer to a specific one-fold problem instead of option B, the prompt text is abruptly cut off, and it contains nonsensical distractors.", "subject": "math"}
+{"id": 14, "score": 1, "reason": "Although the correct answer is A and B is a plausible distractor for a common place-value mistake, the question suffers from major issues due to the inclusion of completely irrelevant and absurd distractors like \"2 regions folding once\".", "subject": "math"}
+{"id": 15, "score": 0, "reason": "This question is completely broken because the explanation mistakenly claims option A is wrong and hallucinates the content of the choices, entirely contradicting the actual provided text.", "subject": "math"}
+{"id": 21, "score": 0, "reason": "The explanation explicitly labels Option A as wrong when it is the actual correct answer.", "subject": "math"}
+{"id": 22, "score": 0, "reason": "The stated correct answer of 1/4 is mathematically incorrect because 4/8 simplifies to 1/2, not 1/4.", "subject": "math"}
+{"id": 23, "score": 1, "reason": "The explanation misattributes the distractors by shifting the option letters, describing Option B's content as Option A.", "subject": "math"}
+{"id": 24, "score": 2, "reason": "The correct answer and explanation are accurate, but the distractors are far too obvious and contain nonsensical math like \"1/23/8=68\".", "subject": "math"}
+{"id": 25, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 21, "score": 0, "reason": "The explanation incorrectly states that the correct option (A) is wrong, and the formatting of option C is completely garbled.", "subject": "math"}
+{"id": 22, "score": 0, "reason": "The stated correct answer is mathematically wrong because dividing 4/8 by 4 results in 1/2, not 1/4.", "subject": "math"}
+{"id": 23, "score": 0, "reason": "The explanation mislabels the options in its rationale and options C and D feature broken, multi-line formatting that makes no sense as multiple-choice answers.", "subject": "math"}
+{"id": 24, "score": 1, "reason": "Although the correct answer and explanation are accurate, the distractors are ridiculously obvious and contain nonsensical math like 1/23/8=68.", "subject": "math"}
+{"id": 25, "score": 1, "reason": "The math and explanation are technically correct, but the question suffers from major issues due to extremely weak and nonsensical distractors like 4+-3=7.", "subject": "math"}
+{"id": 16, "score": 0, "reason": "The distractors are completely garbled and fail to answer the prompt, making the question nonsensical.", "subject": "math"}
+{"id": 17, "score": 0, "reason": "The explanation incorrectly states that the correct option (A) is wrong and completely misattributes the critiques of the options.", "subject": "math"}
+{"id": 18, "score": 0, "reason": "The question contains garbled nonsense for options C and D, and the explanation mistakenly assigns the critique of option B to option A.", "subject": "math"}
+{"id": 19, "score": 0, "reason": "Multiple options are scrambled math problems rather than valid answer choices, the explanation misattributes the options, and it references a non-existent Option E.", "subject": "math"}
+{"id": 20, "score": 0, "reason": "The question text is cut off, the options fail to answer the actual question asked, and the explanation abruptly ends with an unrelated category tag.", "subject": "math"}
+{"id": 21, "score": 0, "reason": "The explanation explicitly states that Option A (which is the correct answer) is wrong, completely breaking the question.", "subject": "math"}
+{"id": 22, "score": 0, "reason": "The correct answer provided (1/4) is mathematically incorrect, as simplifying 4/8 by dividing by the GCD of 4 results in 1/2, not 1/4.", "subject": "math"}
+{"id": 23, "score": 0, "reason": "The distractors are garbled, random arithmetic problems rather than plausible fraction answers, and the explanation mismatches the option letters.", "subject": "math"}
+{"id": 24, "score": 1, "reason": "While the correct answer and its explanation are accurate, two of the distractors are completely nonsensical and unrelated to the prompt, making them overly obvious.", "subject": "math"}
+{"id": 25, "score": 1, "reason": "The correct answer is right and the explanation is accurate, but the distractors consist of garbled and nonsensical arithmetic operations rather than plausible incorrect simplifications.", "subject": "math"}
+{"id": 26, "score": 0, "reason": "The options are completely garbled with random numbers and broken formatting that makes the question unreadable.", "subject": "math"}
+{"id": 27, "score": 0, "reason": "The options are heavily garbled, containing unrelated multi-line arithmetic problems that destroy the multiple-choice format.", "subject": "math"}
+{"id": 28, "score": 0, "reason": "The explanation mistakenly claims the correct answer (Option A) incorrectly adds the denominators, completely breaking the question's logic.", "subject": "math"}
+{"id": 29, "score": 0, "reason": "The explanation derives the correct answer of 7 2/5 but immediately contradicts itself by stating Option A is incorrect.", "subject": "math"}
+{"id": 30, "score": 0, "reason": "The explanation severely mismatches the option letters, incorrectly criticizing Option A (the correct answer) for a mistake actually depicted in Option B.", "subject": "math"}
+{"id": 26, "score": 0, "reason": "The distractors are completely garbled with random text and arithmetic artifacts, rendering the question broken.", "subject": "math"}
+{"id": 27, "score": 0, "reason": "The question contains nonsensical and garbled distractors that make it impossible to be a valid multiple-choice question.", "subject": "math"}
+{"id": 28, "score": 0, "reason": "The explanation explicitly claims the correct option (A) is incorrect and completely misidentifies the roles of the choices.", "subject": "math"}
+{"id": 29, "score": 0, "reason": "The explanation fundamentally breaks by stating that the correct answer (Option A) is incorrect because it adds instead of subtracts.", "subject": "math"}
+{"id": 30, "score": 0, "reason": "The distractors are garbled text and the explanation explicitly states that the correct answer (Option A) is incorrect.", "subject": "math"}
+{"id": 31, "score": 0, "reason": "The explanation references a nonexistent option E, falsely claims the correct option A is incorrect, and assigns nonsensical values like \"zero\" to the other options.", "subject": "math"}
+{"id": 32, "score": 0, "reason": "The explanation incorrectly assigns random whole numbers (6, 10, 18) to the fractional options and falsely claims the correct option A is incorrect.", "subject": "math"}
+{"id": 33, "score": 0, "reason": "The distractors are garbled math workings instead of plausible answers, and the explanation describes five wrong options that do not match the actual choices while misidentifying the correct answer.", "subject": "math"}
+{"id": 34, "score": 0, "reason": "The distractors consist of scrambled math equations instead of proper choices, and the explanation falsely claims the correct option A is incorrect while describing options that do not match the text.", "subject": "math"}
+{"id": 35, "score": 0, "reason": "The distractors are formatted as random, unrelated math problems, and the explanation misattributes the wrong calculations to the option letters while contradictorily claiming the correct option is incorrect.", "subject": "math"}
+{"id": 31, "score": 0, "reason": "The explanation is completely broken, referring to a nonexistent \"option E\" and providing nonsensical justifications that contradict the actual values of the listed options.", "subject": "math"}
+{"id": 32, "score": 0, "reason": "The explanation erroneously labels the correct answer (Option A) as incorrect and completely misidentifies the numerical values of the distractors as 6, 10, and 18 instead of fractions.", "subject": "math"}
+{"id": 33, "score": 0, "reason": "The question is broken because the distractors consist of garbled, unrelated math equations rather than plausible wrong answers, and the explanation invents options that do not exist.", "subject": "math"}
+{"id": 34, "score": 0, "reason": "This question is broken due to garbled options containing random math snippets, compounded by an explanation that incorrectly states the valid answer is wrong.", "subject": "math"}
+{"id": 35, "score": 0, "reason": "Broken due to distractors being completely unrelated math problems and an explanation that completely mismatches the option letters with their corresponding critiques.", "subject": "math"}
+{"id": 26, "score": 0, "reason": "The answer choices are completely garbled with misaligned text and unrelated arithmetic problems, rendering the question unreadable.", "subject": "math"}
+{"id": 27, "score": 0, "reason": "Options C and D are heavily garbled with random text from unrelated subtraction and decimal problems, making the question broken.", "subject": "math"}
+{"id": 28, "score": 0, "reason": "The explanation erroneously states that Option A (the actual correct answer) incorrectly adds the denominators, creating a contradictory and broken question.", "subject": "math"}
+{"id": 29, "score": 0, "reason": "The explanation explicitly claims that Option A is incorrect because it adds fractions, even though Option A is the actual correct answer.", "subject": "math"}
+{"id": 30, "score": 0, "reason": "The answer choices are garbled with random multiplication and division text, and the explanation incorrectly states that Option A (the correct answer) violates fraction rules.", "subject": "math"}
+{"id": 36, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 37, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 38, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 39, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 40, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 36, "score": 1, "reason": "The correct answer is mathematically accurate, but the distractors are entirely unrelated math problems rather than plausible numerical options, making them absurdly obvious.", "subject": "math"}
+{"id": 37, "score": 0, "reason": "The question is garbled, as options C and D are improperly formatted into a single block, and the explanation incorrectly describes which option is which.", "subject": "math"}
+{"id": 38, "score": 0, "reason": "The explanation is completely broken because it explicitly states that Option A is incorrect, despite A being the correct answer to the problem.", "subject": "math"}
+{"id": 39, "score": 0, "reason": "The explanation is broken because it mistakenly identifies Option A (the correct answer) as the incorrect choice that violates fraction rules.", "subject": "math"}
+{"id": 40, "score": 0, "reason": "The question is broken because the actual correct answer (2 17/24 or 65/24) is missing from the options, the explanation relies on nonsensical math, and it references a nonexistent Option E.", "subject": "math"}
+{"id": 31, "score": 0, "reason": "The explanation refers to the correct answer as \"option E\" and claims option A contains negative numbers, making the explanation completely garbled and mismatched with the provided choices.", "subject": "math"}
+{"id": 32, "score": 0, "reason": "The explanation correctly calculates the math but absurdly labels option A as \"(6)\" and misidentifies all subsequent options with random numbers, rendering it broken.", "subject": "math"}
+{"id": 33, "score": 0, "reason": "The answer choices B, C, and D consist of garbled strings of random math problems rather than plausible distractors, and the explanation completely mislabels the options it is critiquing.", "subject": "math"}
+{"id": 34, "score": 0, "reason": "The explanation mistakenly identifies option A (which is the correct answer) as incorrect while misaligning all the other descriptions with their respective garbled option text.", "subject": "math"}
+{"id": 35, "score": 0, "reason": "The explanation contradicts itself by stating option A is incorrect before concluding the \"first option\" is right, and the distractors are just unrelated math equations instead of plausible fractions.", "subject": "math"}
+{"id": 41, "score": 0, "reason": "The explanation incorrectly identifies option C as the correct answer despite calculating 27/10, which is option A, and provides completely nonsensical justifications for the distractors.", "subject": "math"}
+{"id": 42, "score": 0, "reason": "The explanation explicitly labels option A as incorrect despite 3/5 being the right answer, references a non-existent option E, and features heavily garbled distractor text.", "subject": "math"}
+{"id": 43, "score": 1, "reason": "Although the calculation and identification of 4/9 as the correct answer are accurate, the distractors consist of implausible,", "subject": "math"}
+{"id": 44, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 45, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 41, "score": 0, "reason": "The explanation claims option C is the correct answer when the actual mathematical result is 27/10 (Option A), and it provides completely fabricated reasons for why the other options are wrong.", "subject": "math"}
+{"id": 42, "score": 0, "reason": "The explanation erroneously states that option A (the correct answer) is incorrect, references a non-existent option E,", "subject": "math"}
+{"id": 43, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 44, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 45, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 36, "score": 0, "reason": "The options are completely garbled, presenting random math equations as answer choices rather than plausible distractors.", "subject": "math"}
+{"id": 37, "score": 0, "reason": "The answer choices consist of nonsensical, garbled math strings, and the explanation incorrectly mismatches the descriptions of the wrong options.", "subject": "math"}
+{"id": 38, "score": 0, "reason": "The question features completely garbled distractors, and the explanation mismatches the option letters with their corresponding descriptions.", "subject": "math"}
+{"id": 39, "score": 0, "reason": "The distractors are absurdly garbled math equations, and the explanation incorrectly evaluates and mismatches the wrong answer choices.", "subject": "math"}
+{"id": 40, "score": 0, "reason": "The stated correct answer is mathematically wrong since 5 3/8 minus 2 2/3 equals 2 17/24, and the explanation hallucinates a justification while referencing a non-existent Option E.", "subject": "math"}
+{"id": 46, "score": 2, "reason": "Minor issue in the explanation where it references a non-existent option of 0.6 instead of the actual option 1.4.", "subject": "math"}
+{"id": 47, "score": 0, "reason": "Broken because the explanation incorrectly states that Option A is wrong when it is the correct answer, and the remaining options are completely garbled.", "subject": "math"}
+{"id": 48, "score": 0, "reason": "Broken because the explanation completely fails to match the correct answer to its corresponding letter and the distractors are garbled nonsense.", "subject": "math"}
+{"id": 49, "score": 0, "reason": "Broken because the explanation mislabels all the option letters and references a non-existent Option E.", "subject": "math"}
+{"id": 50, "score": 0, "reason": "Broken because the explanation explicitly states that Option A is wrong despite it being the mathematically correct answer.", "subject": "math"}
+{"id": 41, "score": 0, "reason": "Explanation claims option C is correct but 27/10 is option A, and falsely states option A suggests a negative value.", "subject": "math"}
+{"id": 42, "score": 0, "reason": "Explanation states option A is incorrect when 3/5 is the right answer, references nonexistent option E, and distractors are garbled nonsense.", "subject": "math"}
+{"id": 43, "score": 1, "reason": "Correct answer is properly identified but distractors are absurdly obvious garbled text rather than plausible student errors.", "subject": "math"}
+{"id": 44, "score": 0, "reason": "Explanation incorrectly states option A is wrong when 3/16 is the correct answer, and distractors are completely incoherent.", "subject": "math"}
+{"id": 45, "score": 1, "reason": "Correct answer identified and one plausible distractor (B), but options C and D are nonsensical garbled text unrelated to the problem.", "subject": "math"}
+{"id": 46, "score": 2, "reason": "The explanation contains a minor error by referencing a non-existent distractor \"0.6\" instead of addressing the actual option D.", "subject": "math"}
+{"id": 47, "score": 0, "reason": "The explanation is completely broken because it explicitly states that Option A (which is the correct answer) is wrong and misidentifies the rest of the choices.", "subject": "math"}
+{"id": 48, "score": 1, "reason": "The question has major issues because the explanation fails to explicitly name the correct option letter, uses confusing descriptors for the distractors, and includes garbled text in option D.", "subject": "math"}
+{"id": 49, "score": 0, "reason": "The question is broken because the explanation completely mislabels the options, incorrectly assigning the letter A to a wrong answer and referring to a non-existent Option E.", "subject": "math"}
+{"id": 50, "score": 0, "reason": "The question is broken because the explanation explicitly states that Option A is wrong, even though A is the correct answer, and completely misattributes the distractors.", "subject": "math"}
+{"id": 51, "score": 0, "reason": "The explanation contradicts itself by stating the correct answer (Option A) is wrong and misattributes the properties of the other options.", "subject": "math"}
+{"id": 52, "score": 0, "reason": "The explanation incorrectly states that Option A is wrong and falsely attributes the error of Option B to Option A.", "subject": "math"}
+{"id": 53, "score": 0, "reason": "The explanation erroneously claims that Option A is incorrect and wrongly assigns the math error from Option B to Option A.", "subject": "math"}
+{"id": 54, "score": 0, "reason": "The explanation falsely declares Option A to be wrong and incorrectly describes Option B's specific math error as belonging to Option A.", "subject": "math"}
+{"id": 55, "score": 0, "reason": "The explanation wrongly identifies Option A as incorrect and misattributes the mistake made in Option B to Option A.", "subject": "math"}
+{"id": 51, "score": 0, "reason": "The explanation explicitly states that Option A is wrong when A is the correct answer, making the question completely garbled.", "subject": "math"}
+{"id": 52, "score": 0, "reason": "The explanation claims Option A yields 2/2 and is incorrect, when A is actually the correct answer of 14/15, rendering the text nonsensical.", "subject": "math"}
+{"id": 53, "score": 0, "reason": "The explanation swaps Options A and B, falsely claiming the correct answer (A) is the incorrect direct multiplication.", "subject": "math"}
+{"id": 54, "score": 0, "reason": "The explanation completely mismatches the options by stating Option A is incorrect when it is the actual correct answer.", "subject": "math"}
+{"id": 55, "score": 0, "reason": "The explanation wrongly claims Option A results in 4/15 and misattributes the actions of Options B and C, making it entirely garbled.", "subject": "math"}
+{"id": 46, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 47, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 48, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 49, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 50, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 56, "score": 0, "reason": "The explanation is completely broken because it incorrectly states that Option A is wrong, mislabels all the other options, and fails to identify the correct answer.", "subject": "math"}
+{"id": 57, "score": 2, "reason": "While the correct answer and mathematical explanation are accurate, the question loses points for using absurdly obvious and irrelevant distractors like random subtraction problems.", "subject": "math"}
+{"id": 58, "score": 1, "reason": "The explanation contains a major flaw by completely", "subject": "math"}
+{"id": 59, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 60, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 51, "score": 0, "reason": "The explanation explicitly states that Option A is wrong, even though 6/5 is the correct answer, making the question entirely broken.", "subject": "math"}
+{"id": 52, "score": 0, "reason": "The explanation incorrectly claims that Option A (14/15) is wrong, contradicting the correct mathematical solution derived in the text.", "subject": "math"}
+{"id": 53, "score": 0, "reason": "The explanation states that Option A is incorrect despite 16/9 being the right answer, and it mismatches the errors of the distractors.", "subject": "math"}
+{"id": 54, "score": 0, "reason": "The explanation falsely claims that Option A (6/5) is wrong and incorrectly describes what the options actually state.", "subject": "math"}
+{"id": 55, "score": 0, "reason": "The explanation contradicts itself by calculating 15/4 as the correct answer but immediately stating that Option A (15/4) is wrong.", "subject": "math"}
+{"id": 56, "score": 0, "reason": "The explanation incorrectly states that the correct answer (Option A) flips the divisor wrong, completely contradicting itself and making the question broken.", "subject": "math"}
+{"id": 57, "score": 1, "reason": "The distractors are ridiculously obvious because they are completely unrelated math problems, and the explanation awkwardly mislabels the options.", "subject": "math"}
+{"id": 58, "score": 0, "reason": "The explanation hallucinates a non-existent option choice of \"2\" and completely fails to accurately describe the actual distractors provided.", "subject": "math"}
+{"id": 59, "score": 0, "reason": "The explanation mistakenly claims the correct answer omits the decimal point and hallucinates a non-existent Option E, making it entirely broken.", "subject": "math"}
+{"id": 60, "score": 0, "reason": "The explanation hallucinates a non-existent distractor of \".5\" instead of addressing the actual options provided, rendering it broken.", "subject": "math"}
+{"id": 61, "score": 0, "reason": "The question is completely garbled, as the incorrect options consist of vertical math problems and random equations rather than standard multiple-choice distractors.", "subject": "math"}
+{"id": 62, "score": 0, "reason": "The answer choices are broken and unusable, featuring vertically formatted subtraction problems and completely irrelevant fraction arithmetic instead of plausible decimals.", "subject": "math"}
+{"id": 63, "score": 0, "reason": "This question is garbled, presenting vertically aligned math work and unrelated fraction equations as answer choices instead of standard formatted options.", "subject": "math"}
+{"id": 64, "score": 0, "reason": "The options are heavily garbled with random vertical multiplication, incorrect fraction conversions, and the original math problem pasted directly into the choices.", "subject": "math"}
+{"id": 65, "score": 0, "reason": "The question makes no sense as a multiple-choice item because the distractors are random fraction equations and the original problem written out with an incorrect answer.", "subject": "math"}
+{"id": 61, "score": 0, "reason": "The question is garbled because the answer choices contain random multi-line math calculations and completely irrelevant fraction problems instead of standard multiple-choice options.", "subject": "math"}
+{"id": 62, "score": 0, "reason": "This question is broken due to its garbled formatting, as the answer choices embed multi-line subtraction and multiplication blocks alongside nonsensical equations rather than providing clean distractors.", "subject": "math"}
+{"id": 63, "score": 0, "reason": "The question is garbled because the distractors consist of jumbled text blocks showing irrelevant vertical subtraction and incorrect fraction operations.", "subject": "math"}
+{"id": 64, "score": 0, "reason": "Severely garbled formatting renders this question broken, as the answer options mix multi-line arithmetic problems with completely unrelated fractions and decimals.", "subject": "math"}
+{"id": 65, "score": 0, "reason": "This question is broken because the answer choices are garbled, inserting random, incorrect fraction operations as distractors instead of plausible integer answers.", "subject": "math"}
+{"id": 66, "score": 0, "reason": "The explanation mistakenly identifies the correct answer (Option A) as being incorrect and mislabels the subsequent options, completely breaking the question's logic.", "subject": "math"}
+{"id": 67, "score": 2, "reason": "The math and logic are correct, but the explanation uses informal phrasing like \"Option 6\" instead of properly referencing \"Option B.\"", "subject": "math"}
+{"id": 68, "score": 1, "reason": "The explanation shifts all the option letters, resulting in the major error of claiming that Option A (the correct answer) results in 7.", "subject": "math"}
+{"id": 69, "score": 1, "reason": "The distractors are completely absurd, garbled, and implausible, making them far too obvious to be viable test options.", "subject": "math"}
+{"id": 70, "score": 1, "reason": "The distractors consist of unrelated equations and random math problems, making them implausible and ruining the quality of the multiple-choice format.", "subject": "math"}
+{"id": 66, "score": 0, "reason": "The distractors are improperly formatted as equations instead of numbers, and the explanation incorrectly states that Option A results in a positive 4 when Option A is actually the correct answer of -4.", "subject": "math"}
+{"id": 67, "score": 2, "reason": "The question is mathematically sound with plausible numeric distractors, but the explanation refers to the options by their values instead of their letters and provides a nonsensical justification for option D.", "subject": "math"}
+{"id": 68, "score": 0, "reason": "The distractors are improperly formatted as full equations rather than numeric values, and the explanation incorrectly attributes the wrong answer of 7 to Option A instead of Option B.", "subject": "math"}
+{"id": 69, "score": 0, "reason": "The question is broken because the distractors are random equations and badly formatted text instead of numbers, making it completely unusable as a multiple-choice question.", "subject": "math"}
+{"id": 70, "score": 0, "reason": "The distractors are improperly formatted as complete mathematical equations instead of single numbers, completely ruining the standard multiple-choice structure.", "subject": "math"}
+{"id": 71, "score": 0, "reason": "The explanation incorrectly states that Option A (the correct answer) is incorrect and completely misidentifies the reasoning for the distractors.", "subject": "math"}
+{"id": 72, "score": 0, "reason": "The answer choices are completely garbled with broken formatting and unrelated math problems, and the explanation falsely claims the correct answer is incorrect.", "subject": "math"}
+{"id": 73, "score": 0, "reason": "Multiple answer choices contain garbled mathematical strings instead of standard options, making the question completely unusable.", "subject": "math"}
+{"id": 74, "score": 0, "reason": "The answer choices are formatted as broken math problems rather than standard choices, and the explanation incorrectly labels the right answer as wrong.", "subject": "math"}
+{"id": 75, "score": 0, "reason": "The answer choices consist of garbled mathematical workings instead of proper multiple-choice options, rendering the question broken.", "subject": "math"}
+{"id": 71, "score": 0, "reason": "The explanation contradicts itself by stating the result is -7 but then explicitly claiming Option A (which is -7) is incorrect.", "subject": "math"}
+{"id": 72, "score": 0, "reason": "The question is completely broken, featuring garbled options with random math problems and an explanation that falsely claims the correct answer (Option A) is incorrect.", "subject": "math"}
+{"id": 73, "score": 0, "reason": "The options are completely garbled with broken formatting and nonsensical text that makes the question impossible to read as a standard multiple-choice item.", "subject": "math"}
+{"id": 74, "score": 0, "reason": "The question is broken due to unreadable, garbled option text and an explanation that blatantly misidentifies the correct answer (Option A) as incorrect.", "subject": "math"}
+{"id": 75, "score": 0, "reason": "The question features completely garbled options filled with random arithmetic problems and broken formatting, rendering it unsalvageable.", "subject": "math"}
+{"id": 56, "score": 0, "reason": "The explanation incorrectly identifies the correct answer (Option A) as a wrong answer and completely mislabels the distractors, which are also implausible and poorly formatted.", "subject": "math"}
+{"id": 57, "score": 0, "reason": "The explanation mistakenly refers to the correct answer as \"the first wrong answer\" and the distractors are completely unrelated random equations.", "subject": "math"}
+{"id": 58, "score": 0, "reason": "The explanation misidentifies the correct answer as the first wrong answer and contains nonsensical reasoning for the implausible, unrelated distractors.", "subject": "math"}
+{"id": 59, "score": 0, "reason": "The explanation incorrectly states that Option A omits the decimal point, hallucinates a nonexistent Option E, and features completely irrelevant distractors.", "subject": "math"}
+{"id": 60, "score": 0, "reason": "The explanation critiques a non-existent \".5\" option, fails to properly reference the actual choices, and relies on implausible, unrelated fraction distractors.", "subject": "math"}
+{"id": 76, "score": 0, "reason": "The question options are completely garbled, mixing text formatting from other unrelated math problems into the distractors.", "subject": "math"}
+{"id": 77, "score": 0, "reason": "The explanation claims option E is correct when there is no option E, and it falsely states that option A (which is the actual correct answer of 74) is just the first number in the problem.", "subject": "math"}
+{"id": 78, "score": 0, "reason": "The distractors are nonsensical and poorly formatted, containing broken math equations like 100-40=140 and 8 1/3-2/3=4 1/2.", "subject": "math"}
+{"id": 79, "score": 0, "reason": "The answer choices are completely garbled, presenting fragments of unrelated math problems instead of plausible numerical distractors.", "subject": "math"}
+{"id": 80, "score": 0, "reason": "The question stem is abruptly cut off, the explanation admits the provided correct answer does not match the math, and the distractors are just trivial formatting variations of the same number.", "subject": "math"}
+{"id": 76, "score": 0, "reason": "The question is broken because the answer choices contain garbled text, unrelated mathematical problems, and formatting errors rather than distinct plausible options.", "subject": "math"}
+{"id": 77, "score": 0, "reason": "The question is broken because the explanation incorrectly identifies Option A as wrong and refers to a nonexistent Option E as the correct answer, despite A actually being the correct result.", "subject": "math"}
+{"id": 78, "score": 1, "reason": "The question has major issues because the distractors are unrelated, mathematically false equations that are far too obvious, and the explanation hallucinates options that do not exist in the prompt.", "subject": "math"}
+{"id": 79, "score": 1, "reason": "The question suffers from major issues as the distractors are completely unrelated math problems that are obviously incorrect, making the correct answer trivial to spot.", "subject": "math"}
+{"id": 80, "score": 0, "reason": "The question is broken because the prompt text is cut off mid-sentence, the stated correct answer cannot be mathematically derived from the given numbers, and the explanation explicitly acknowledges this fundamental disconnect.", "subject": "math"}
+{"id": 61, "score": 0, "reason": "The question is completely garbled, with the options containing random mathematical equations and vertical subtraction problems pasted as text rather than proper multiple-choice distractors.", "subject": "math"}
+{"id": 62, "score": 0, "reason": "The formatting is entirely broken, as the options consist of random fraction and multiplication problems pasted as text instead of plausible distractors.", "subject": "math"}
+{"id": 63, "score": 0, "reason": "The question makes no sense structurally because the distractors are garbled text containing vertical subtraction problems and irrelevant fraction equations.", "subject": "math"}
+{"id": 64, "score": 0, "reason": "This question is broken due to severely garbled formatting that pastes random fraction equations and vertical multiplication problems into the multiple-choice options.", "subject": "math"}
+{"id": 65, "score": 0, "reason": "The question is garbled, using random, irrelevant fraction equations as distractors instead of providing plausible multiple-choice options.", "subject": "math"}
+{"id": 66, "score": 0, "reason": "The explanation incorrectly states that Option A violates arithmetic rules when A is actually the correct answer, and it completely mismatches the option letters in the rest of the explanation.", "subject": "math"}
+{"id": 67, "score": 2, "reason": "The math and distractors are solid, but the explanation commits a minor formatting error by referring to the incorrect options by their numerical values instead of their letter labels.", "subject": "math"}
+{"id": 68, "score": 1, "reason": "The explanation contains a major error by claiming that Option A results in 7 when Option A is actually the correct answer of 1, demonstrating a mismatched letter mapping.", "subject": "math"}
+{"id": 69, "score": 1, "reason": "The correct answer is accurate, but the distractors are completely implausible for an easy math question, consisting of badly formatted text and entirely unrelated fraction problems.", "subject": "math"}
+{"id": 70, "score": 1, "reason": "Although the correct answer is right, the distractors are not plausible numerical choices; instead, they are entirely unrelated mathematical equations that make the question poorly constructed.", "subject": "math"}
+{"id": 81, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 82, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 83, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 84, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 85, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 71, "score": 0, "reason": "The explanation explicitly states that Option A (-7) is incorrect despite it being the right answer, making the question entirely broken.", "subject": "math"}
+{"id": 72, "score": 0, "reason": "The question is garbled with nonsensical options, and the explanation incorrectly claims that Option A (-7) is wrong.", "subject": "math"}
+{"id": 73, "score": 0, "reason": "The question is completely garbled, presenting false equations like \"2/34/6=132\" as multiple-choice options instead of plausible numbers.", "subject": "math"}
+{"id": 74, "score": 0, "reason": "The explanation contradicts itself by stating Option A (8.72) is incorrect for ignoring the decimal, despite 8.72 being the correct answer and the options being garbled text.", "subject": "math"}
+{"id": 75, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 86, "score": 0, "reason": "The question stem is garbled and cuts off mid-sentence, making it impossible for a test-taker to know what is being asked.", "subject": "math"}
+{"id": 87, "score": 0, "reason": "The question stem cuts off before defining Drink D, and the provided answer options contain mathematically false inequalities (e.g., 3/5 > 5/7).", "subject": "math"}
+{"id": 88, "score": 0, "reason": "The question stem abruptly cuts off mid-sentence after \"Write a\", rendering the prompt incomplete and nonsensical.", "subject": "math"}
+{"id": 89, "score": 0, "reason": "The question stem is truncated at the end and fails to state how many cups of flour Mariah actually has to work with.", "subject": "math"}
+{"id": 90, "score": 3, "reason": "The question is perfectly formed, the math is correct, the explanation clearly walks through the proportional reasoning, and the distractors are plausible.", "subject": "math"}
+{"id": 81, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 82, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 83, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 84, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 85, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 76, "score": 0, "reason": "Broken because the options are garbled, containing fragments of completely different math problems mixed into the choices.", "subject": "math"}
+{"id": 77, "score": 0, "reason": "Broken because the explanation claims a non-existent \"Option E\" is correct while labeling the actual correct answer (Option A) as incorrect.", "subject": "math"}
+{"id": 78, "score": 0, "reason": "Broken because the distractors are nonsensical fragments of other math problems, and the explanation references options that do not exist in the prompt.", "subject": "math"}
+{"id": 79, "score": 0, "reason": "Broken because the formatting is garbled, and the explanation incorrectly treats parts of a single option (Option B) as multiple distinct choices.", "subject": "math"}
+{"id": 80, "score": 0, "reason": "Broken because the question text is abruptly cut off, and the explanation openly admits the provided correct answer cannot be mathematically derived from the given information.", "subject": "math"}
+{"id": 86, "score": 0, "reason": "The question stem is cut off mid-sentence, making it impossible to read and therefore broken.", "subject": "math"}
+{"id": 87, "score": 0, "reason": "The question stem is truncated before providing the recipe for Drink D, and the options contradict the explanation's math, rendering it garbled.", "subject": "math"}
+{"id": 88, "score": 0, "reason": "The question stem abruptly ends with \"Write a\", leaving the actual prompt incomplete and broken.", "subject": "math"}
+{"id": 89, "score": 0, "reason": "The question stem is cut off before stating the amount of flour available, making the question garbled.", "subject": "math"}
+{"id": 90, "score": 3, "reason": "The question stem is complete, the correct answer is right, the distractors are plausible, and the explanation is accurate and helpful.", "subject": "math"}
+{"id": 91, "score": 0, "reason": "The question is completely missing the necessary numerical values (6 cm and 9 cm) to solve for h, making it unanswerable from the provided text.", "subject": "math"}
+{"id": 92, "score": 1, "reason": "The explanation contains major errors, specifically criticizing a non-existent \"1.78 without units\" option when Option A explicitly includes units, and mentioning a non-existent \"1.25\" distractor.", "subject": "math"}
+{"id": 93, "score": 2, "reason": "The math and correct answer are solid, but the explanation contains a minor error by discussing \"8 quarters\" as a wrong answer when it is not one of the provided options.", "subject": "math"}
+{"id": 94, "score": 2, "reason": "Although the correct answer and cross-multiplication steps are accurate, the explanation contains a confusing and irrelevant mathematical statement about the number 0.25.", "subject": "math"}
+{"id": 95, "score": 2, "reason": "The calculation and final answer are perfectly correct, but the explanation lists a non-existent option '30' as a common wrong answer.", "subject": "math"}
+{"id": 81, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 82, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 83, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 84, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 85, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 91, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 92, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 93, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 94, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 95, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 96, "score": 2, "reason": "The question is mathematically sound but the explanation hallucinates a non-existent distractor ('5') in its rationale.", "subject": "math"}
+{"id": 97, "score": 0, "reason": "The stated correct answer ($3 per 9 balloons) is mathematically wrong since it equals 1/3, not 2/3, and the explanation contradicts itself by admitting this before falsely claiming they are equivalent.", "subject": "math"}
+{"id": 98, "score": 2, "reason": "While the correct answer is clearly right, the explanation inexplicably references a non-existent option ('a/2') when detailing the wrong answers.", "subject": "math"}
+{"id": 99, "score": 0, "reason": "The question text is cut off, the stated correct answer is missing from the provided options, and the explanation hallucinates completely unrelated distractors like a \"price-per-gallon formula\" and \"giants\".", "subject": "math"}
+{"id": 100, "score": 3, "reason": "The question is mathematically precise, the correct answer is unequivocally right, and the explanation clearly demonstrates how to find the inverse ratio.", "subject": "math"}
+{"id": 86, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 87, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 88, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 89, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 90, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 101, "score": 3, "reason": "The correct math and answer are provided with plausible distractors and a clear, accurate explanation.", "subject": "math"}
+{"id": 102, "score": 3, "reason": "The question features solid proportional reasoning with plausible distractors and an accurate step-by-step explanation.", "subject": "math"}
+{"id": 105, "score": 0, "reason": "The question is garbled with cut-off text, duplicate correct options, and a completely hallucinated explanation that references numbers not present in the choices.", "subject": "math"}
+{"id": 106, "score": 0, "reason": "The question text is cut off and the explanation is entirely hallucinated, describing incorrect options that do not match the provided list.", "subject": "math"}
+{"id": 107, "score": 0, "reason": "The question text is cut off mid-sentence and the multiple-choice options incoherently mix numerical answers with a qualitative statement.", "subject": "math"}
+{"id": 96, "score": 2, "reason": "The explanation correctly identifies the answer but hallucinates a non-existent option '5' and unnecessarily dismisses equivalent decimal/whole number forms.", "subject": "math"}
+{"id": 97, "score": 0, "reason": "The question is broken because the explanation claims A is correct despite 3/9 not being equivalent to 2/3, while dismissing the actually correct option B.", "subject": "math"}
+{"id": 98, "score": 2, "reason": "The math and correct answer are solid, but the explanation hallucinates a non-existent option 'a/2' at the end.", "subject": "math"}
+{"id": 99, "score": 0, "reason": "The question is completely garbled, featuring a cut-off stem, a missing correct answer, and an explanation that describes options entirely different from those provided.", "subject": "math"}
+{"id": 100, "score": 2, "reason": "Although the stem is slightly cut off and the explanation references a wrong option (1.25) not present in the choices, the correct mathematical reasoning and answer are provided.", "subject": "math"}
+{"id": 91, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 92, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 93, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 94, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 95, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 101, "score": 3, "reason": "The question is well-formed with a correct answer, plausible distractors, and an accurate explanation.", "subject": "math"}
+{"id": 102, "score": 3, "reason": "The math and explanation are completely accurate, and the distractors represent common proportional reasoning errors.", "subject": "math"}
+{"id": 105, "score": 0, "reason": "The question stem is truncated, options A and C are identical, and the explanation references completely different answer choices than what is provided.", "subject": "math"}
+{"id": 106, "score": 0, "reason": "The question stem is cut off and the explanation describes incorrect options containing numbers like 0, 1, and 7, which do not match the provided fractions.", "subject": "math"}
+{"id": 107, "score": 0, "reason": "The question stem is abruptly truncated making it impossible to determine what is being asked, rendering the question broken.", "subject": "math"}
+{"id": 108, "score": 0, "reason": "The explanation incorrectly states that Option A (the actual correct answer of 44) is incorrect and completely misidentifies the values of the options.", "subject": "math"}
+{"id": 109, "score": 0, "reason": "The explanation misaligns the option letters with their corresponding values, falsely claiming Option A is 41% and Option B is 20%.", "subject": "math"}
+{"id": 110, "score": 0, "reason": "The distractors are garbled nonsense containing completely unrelated text and math problems about plant growth that make the question unsalvageable.", "subject": "math"}
+{"id": 111, "score": 0, "reason": "The correct answer is actually wrong because 80% of the total equals $20, making the true total $25, but the explanation falsely claims the $20 watch represents the unspent 20%.", "subject": "math"}
+{"id": 112, "score": 0, "reason": "The explanation completely shuffles the option letters, incorrectly assigning the values of B, C, and D to the wrong letters while evaluating them.", "subject": "math"}
+{"id": 108, "score": 0, "reason": "The explanation incorrectly states that Option A is wrong, directly contradicting the fact that 44 is the correct calculated answer.", "subject": "math"}
+{"id": 109, "score": 1, "reason": "The explanation contains a major letter mismatch, falsely assigning the value of 41% to Option A and 20% to Option B instead of their correct respective letters.", "subject": "math"}
+{"id": 110, "score": 0, "reason": "The distractors are completely garbled, contain broken formatting, and include entirely unrelated text about plant growth, rendering the question broken.", "subject": "math"}
+{"id": 111, "score": 0, "reason": "The question is cut off, the explanation's math contradicts the prompt by treating the watch as the unspent amount rather than the 80% spent, and the actual correct answer of $25 is missing.", "subject": "math"}
+{"id": 112, "score": 1, "reason": "The explanation has a major letter mismatch, incorrectly stating that Option A is 1601 and Option B is 800 rather than matching the actual provided options.", "subject": "math"}
+{"id": 96, "score": 0, "reason": "The question is broken because 7/2 and 3.5 are mathematically identical values yet presented as distinct choices, and the explanation references a non-existent option '5'.", "subject": "math"}
+{"id": 97, "score": 0, "reason": "The question is completely broken because the stated correct answer ($3 per 9 balloons) does not maintain the unit rate of 2/3, and the explanation nonsensically claims 1/3 is equivalent to 2/3.", "subject": "math"}
+{"id": 98, "score": 2, "reason": "The correct answer and distractors are solid, but the explanation loses a point for referencing a non-existent option 'a/", "subject": "math"}
+{"id": 99, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 100, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 113, "score": 0, "reason": "The options are completely garbled, featuring inline calculations, newlines, and nonsensical phrases like \"the width.\"", "subject": "math"}
+{"id": 114, "score": 0, "reason": "This question is broken due to garbled options that include inline math, line breaks, and irrelevant text about apples.", "subject": "math"}
+{"id": 115, "score": 3, "reason": "The question is perfectly formatted with a clear correct answer, plausible distractors, and an accurate explanation.", "subject": "math"}
+{"id": 116, "score": 2, "reason": "While the correct answer and logic are sound, the explanation contains a random formatting artifact (\"Functions and Function Notation\") at the end.", "subject": "math"}
+{"id": 117, "score": 0, "reason": "The correct answer (6) is entirely missing from the provided options, making the question fundamentally broken despite the explanation correctly doing the math.", "subject": "math"}
+{"id": 113, "score": 0, "reason": "The options are garbled, mixing equations with numbers and including completely nonsensical distractors like \"You need more data, for instance the width\".", "subject": "math"}
+{"id": 114, "score": 0, "reason": "The answer choices are severely garbled, mixing mathematical equations into the text of options and including an entirely irrelevant distractor about apples.", "subject": "math"}
+{"id": 115, "score": 3, "reason": "The correct answer is accurate, the distractors are plausible mathematical misconceptions, and the explanation is clear and helpful.", "subject": "math"}
+{"id": 116, "score": 2, "reason": "The correct answer and plausible distractors are solid, but the explanation mistakenly references \"Functions and Function Notation\" instead of the commutative property.", "subject": "math"}
+{"id": 117, "score": 0, "reason": "The correct answer is 6, which is not listed among the options, and the explanation contradictorily claims the answer is both 2 and 6 before concluding 6 is a valid choice.", "subject": "math"}
+{"id": 101, "score": 3, "reason": "Correct answer, plausible distractors, and an accurate, helpful explanation.", "subject": "math"}
+{"id": 102, "score": 3, "reason": "Perfectly constructed question with accurate math and a clear explanation of the unit rate method.", "subject": "math"}
+{"id": 105, "score": 0, "reason": "Broken question because there are two identical correct options (A and C) and the explanation hallucinates incorrect details about the choices.", "subject": "math"}
+{"id": 106, "score": 0, "reason": "Broken question because the explanation incorrectly identifies the right answer (Option A) as wrong and makes nonsensical claims about the distractors.", "subject": "math"}
+{"id": 107, "score": 0, "reason": "Broken question because the prompt is cut off mid-sentence, the explanation introduces unexplained numbers, and the correct answer cannot be deduced from the provided text.", "subject": "math"}
+{"id": 108, "score": 0, "reason": "The explanation incorrectly states that Option A is wrong when A is actually the correct calculated answer.", "subject": "math"}
+{"id": 109, "score": 0, "reason": "The explanation mismatches the option letters with their corresponding percentages, such as labeling Option A as 41% instead of 40%.", "subject": "math"}
+{"id": 110, "score": 0, "reason": "The answer choices B, C, and D contain garbled text and copied fragments from completely unrelated math problems.", "subject": "math"}
+{"id": 111, "score": 0, "reason": "The mathematical logic in the explanation is fundamentally flawed because it treats the $20 watch cost as the unspent 20% rather than the 80% spent.", "subject": "math"}
+{"id": 112, "score": 0, "reason": "The explanation incorrectly identifies the correct option as wrong and misattributes the numerical values to the wrong option letters throughout.", "subject": "math"}
+{"id": 118, "score": 0, "reason": "Options C and D are completely garbled and unrelated to the question, making it impossible to function as a valid multiple-choice item.", "subject": "math"}
+{"id": 119, "score": 0, "reason": "Both options A and D are mathematically correct since 15.40 can be evenly divided by 2, 5, and 7, yet the explanation incorrectly rejects D while accidentally using D's exact calculations to justify A.", "subject": "math"}
+{"id": 120, "score": 0, "reason": "The explanation suffers from severe mathematical contradictions, claiming the net change is -1 but then writing x+5=6, before concluding x=7 while simultaneously stating that option A (x=7) is incorrect.", "subject": "math"}
+{"id": 121, "score": 0, "reason": "The explanation explicitly states that option A is incorrect despite acknowledging that 24x-18 is the correct final result, and the distractors are implausible numbers rather than algebraic expressions.", "subject": "math"}
+{"id": 122, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 123, "score": 1, "reason": "The explanation contains multiple errors, such as referring to option C as \"11\" and providing a mathematically nonsensical rationale for why option B equals -12.", "subject": "math"}
+{"id": 124, "score": 0, "reason": "The question is completely broken because the explanation labels the correct answer (Option A) as wrong, misidentifies the options, and references a nonexistent Option E.", "subject": "math"}
+{"id": 125, "score": 0, "reason": "The question is broken because the explanation explicitly states that Option A, which is the correct answer, is wrong.", "subject": "math"}
+{"id": 126, "score": 0, "reason": "The question is broken because the explanation incorrectly claims that Option A (the correct answer) is wrong, and it also references a nonexistent Option E.", "subject": "math"}
+{"id": 127, "score": 0, "reason": "The question is broken because the explanation incorrectly states that Option A, which contains the correct answer, is incorrect.", "subject": "math"}
+{"id": 113, "score": 0, "reason": "The options are completely garbled, containing equations, sentences, and multiple numbers instead of standard multiple-choice answers.", "subject": "math"}
+{"id": 114, "score": 0, "reason": "The distractors are nonsensical and poorly formatted, featuring irrelevant mentions of apples and random proportions rather than plausible mathematical choices.", "subject": "math"}
+{"id": 115, "score": 3, "reason": "The question features clear formatting, a correct answer, plausible distractors, and an accurate, helpful explanation.", "subject": "math"}
+{"id": 116, "score": 1, "reason": "The question stem asks the student to \"write in your own words\" which makes no sense for a multiple-choice format, and the explanation incorrectly categorizes the topic as Functions.", "subject": "math"}
+{"id": 117, "score": 0, "reason": "The correct answer of 6 is missing from the options, and the explanation contains contradictory math errors, claiming the answer is both 2 and 6 while evaluating distractors incorrectly.", "subject": "math"}
+{"id": 118, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 119, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 120, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 121, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 122, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 123, "score": 0, "reason": "The explanation contains a major factual error regarding the addition of absolute values and references a non-existent distractor (\"11\").", "subject": "math"}
+{"id": 124, "score": 0, "reason": "The explanation explicitly states that Option A is wrong despite A being the correct answer, and it also references a non-existent Option E.", "subject": "math"}
+{"id": 125, "score": 0, "reason": "The explanation directly contradicts the correct answer by stating that Option A is wrong, rendering the question completely broken.", "subject": "math"}
+{"id": 126, "score": 0, "reason": "The explanation erroneously claims that Option A is incorrect even though A is the right answer, and it references a non-existent Option E.", "subject": "math"}
+{"id": 127, "score": 0, "reason": "The explanation is fundamentally broken because it states that Option A is incorrect, even though A is the correct solution to the equation.", "subject": "math"}
+{"id": 128, "score": 1, "reason": "The explanation mislabels the distractors, incorrectly stating that Option A is 66, Option B is 130, and Option C is 70.", "subject": "math"}
+{"id": 129, "score": 0, "reason": "The question is garbled because the distractors are nonsensical copy-pasted text from completely unrelated math problems.", "subject": "math"}
+{"id": 130, "score": 1, "reason": "The explanation attributes the wrong mathematical steps to the wrong options, such as claiming Option A made the -9/3 error when that was actually Option B.", "subject": "math"}
+{"id": 131, "score": 0, "reason": "This question is broken due to completely garbled distractors that consist of", "subject": "math"}
+{"id": 178, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 128, "score": 1, "reason": "The explanation misidentifies the option letters, incorrectly stating that Option A is 66 and shifting the labels for the subsequent choices.", "subject": "math"}
+{"id": 129, "score": 0, "reason": "The question is broken because the distractors are completely garbled, presenting random algebraic equations and temperature scenarios instead of plausible mathematical alternatives.", "subject": "math"}
+{"id": 130, "score": 0, "reason": "The distractors are entirely nonsensical, and the explanation erroneously attributes a calculation error to Option A, which is merely the number 17.", "subject": "math"}
+{"id": 131, "score": 0, "reason": "The question is broken because the distractors are completely unrelated to the prompt, introducing random numbers, variables, and temperature changes.", "subject": "math"}
+{"id": 178, "score": 0, "reason": "The question is broken because it contains duplicate correct options (A and C) and an explanation that references options (2, 6, and 14) from an entirely different question.", "subject": "math"}
+{"id": 179, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 180, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 181, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 182, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 184, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 179, "score": 1, "reason": "The explanation contains a major algebraic error by stating that h must equal p instead of m equaling p to make the equation true.", "subject": "math"}
+{"id": 180, "score": 0, "reason": "The question stem is abruptly cut off, the answer choices are nonsensical, and the explanation references options that do not exist in the prompt.", "subject": "math"}
+{"id": 181, "score": 3, "reason": "The correct answer is properly identified and the explanation accurately clarifies a common misconception about variables representing different numbers.", "subject": "math"}
+{"id": 182, "score": 2, "reason": "The mathematical logic is sound, but the explanation suffers from a copy-paste error where it incorrectly refers to \"Option 0\" and \"Option 1\" instead of the provided letters.", "subject": "math"}
+{"id": 184, "score": 1, "reason": "The mathematical steps to find r=15 are correct, but the explanation completely misaligns the option letters with their corresponding numerical values.", "subject": "math"}
+{"id": 118, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 119, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 120, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 121, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 122, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 185, "score": 1, "reason": "The explanation mistakenly refers to Option A when critiquing Option B, and the distractors \"B-T=1\" and \"never true\" are absurdly obvious rather than plausible.", "subject": "math"}
+{"id": 186, "score": 0, "reason": "The stated correct answer is mathematically wrong because c can be any number less than 5, including negative numbers, not strictly between 0 and 4.", "subject": "math"}
+{"id": 187, "score": 0, "reason": "The question stem is physically cut off mid-sentence before defining the length of the third side, making the problem unsolvable as written.", "subject": "math"}
+{"id": 188, "score": 0, "reason": "The question stem is cut off mid-word and Option D contains improperly formatted, garbled text that breaks standard multiple-choice conventions.", "subject": "math"}
+{"id": 189, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 185, "score": 1, "reason": "The explanation contains a major error by swapping the analysis of Option A and Option B in its text, and the distractors are nonsensical rather than plausible.", "subject": "math"}
+{"id": 186, "score": 1, "reason": "Option C (2) is a debatable wrong answer because 2 is actually a valid possible value for c, making it a poor distractor.", "subject": "math"}
+{"id": 187, "score": 0, "reason": "The question stem is incomplete and the correct answer option consists of an entire worked-out equation string rather than a standard multiple-choice format.", "subject": "math"}
+{"id": 188, "score": 0, "reason": "The question stem is cut off mid-sentence and Option D is garbled across two lines, rendering the question broken.", "subject": "math"}
+{"id": 189, "score": 1, "reason": "The explanation contains a blatant factual error by stating that Option C (-4) implies x is positive.", "subject": "math"}
+{"id": 123, "score": 0, "reason": "The explanation references a non-existent distractor \"11\" and completely fails to address the actual options provided.", "subject": "math"}
+{"id": 124, "score": 0, "reason": "The explanation incorrectly states that Option A (the correct answer) is wrong, references a non-existent Option E, and includes completely garbled distractors like a random temperature problem.", "subject": "math"}
+{"id": 125, "score": 0, "reason": "The explanation explicitly states that Option A is wrong, despite A containing the correct answer of n=6.", "subject": "math"}
+{"id": 126, "score": 0, "reason": "The explanation incorrectly claims Option A (the correct answer) is wrong, and the distractors are nonsensical mathematical strings rather than plausible answers.", "subject": "math"}
+{"id": 127, "score": 0, "reason": "The explanation erroneously states that Option A (the correct answer) is incorrect, completely breaking the question's utility.", "subject": "math"}
+{"id": 190, "score": 0, "reason": "The question stem is garbled and cut off mid-sentence, making it impossible to fully read.", "subject": "math"}
+{"id": 191, "score": 0, "reason": "The question stem is cut off and the explanation contains blatant mathematical errors, incorrectly stating that 84 equals 106 plus 22.", "subject": "math"}
+{"id": 192, "score": 0, "reason": "The explanation absurdly contradicts itself by stating Option A is incorrect before concluding it is the right answer, and the distractors are nonsensical random numbers and equations.", "subject": "math"}
+{"id": 193, "score": 0, "reason": "The question stem is abruptly cut off mid-sentence, rendering the problem incomplete.", "subject": "math"}
+{"id": 194, "score": 0, "reason": "The question stem is cut off immediately after the word \"Let,\" leaving the variable definition completely missing.", "subject": "math"}
+{"id": 128, "score": 0, "reason": "Explanation misaligns option labels with values, calling \"Option A (66)\" incorrect when A is actually 65 (the correct answer).", "subject": "math"}
+{"id": 129, "score": 1, "reason": "Distractors are absurd nonsense options containing unrelated algebra equations and temperature problems rather than plausible math mistakes.", "subject": "math"}
+{"id": 130, "score": 0, "reason": "Explanation incorrectly attributes the calculation error to Option A when Option B clearly shows the wrong work, making the explanation contradictory.", "subject": "math"}
+{"id": 131, "score": 1, "reason": "Options C and D contain completely unrelated temperature and arithmetic problems rather than plausible algebraic translation distractors.", "subject": "math"}
+{"id": 178, "score": 0, "reason": "Options A and C are identical (y-1), and the explanation references non-existent options (2, 6, 14) that don't appear in the question.", "subject": "math"}
+{"id": 190, "score": 0, "reason": "The question stem is abruptly truncated mid-sentence and the distractors are inappropriately formatted as standalone numbers rather than equations.", "subject": "math"}
+{"id": 191, "score": 0, "reason": "The question stem is cut off mid-word, rendering the problem unreadable, and the explanation is an unpunctuated, confusing block of text.", "subject": "math"}
+{"id": 192, "score": 0, "reason": "The explanation is fundamentally broken because it explicitly states that Option A is incorrect before contradicting itself to conclude that Option A is the only valid answer.", "subject": "math"}
+{"id": 193, "score": 0, "reason": "The question stem is truncated mid-sentence, making it impossible to understand the full context of the word problem.", "subject": "math"}
+{"id": 194, "score": 0, "reason": "The question stem is entirely missing after the word \"Let\", and the provided explanation completely fails to justify the correct arithmetic sequence formula.", "subject": "math"}
+{"id": 195, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 196, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 197, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 198, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 199, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 179, "score": 2, "reason": "The explanation contains a factual error by stating m equals n instead of m equals p, and \"sometimes false\" is a logically equivalent and weak distractor.", "subject": "math"}
+{"id": 180, "score": 0, "reason": "The question stem is cut off, the options are nonsensical fragments, and the explanation references options that do not exist in the prompt.", "subject": "math"}
+{"id": 181, "score": 2, "reason": "The question stem lacks proper punctuation or spacing between the two equations which could cause ambiguity, though the explanation and logic are otherwise sound.", "subject": "math"}
+{"id": 182, "score": 0, "reason": "The explanation is completely broken as it references non-existent options like \"Option 0\" and \"Option 1\" instead of the actual A, B, C, D choices.", "subject": "math"}
+{"id": 184, "score": 0, "reason": "The explanation incorrectly maps the option letters to the wrong numerical values, falsely claiming Option A is 16 when the correct answer is actually Option A (r=15).", "subject": "math"}
+{"id": 195, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 196, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 197, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 198, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 199, "score": -1, "reason": "api_fail", "subject": "math"}
+{"id": 200, "score": 0, "reason": "The options are garbled text blocks rather than standard multiple-choice answers, and the explanation contains a blatant mathematical error by claiming substituting -1 yields -23 on both sides when it actually yields -25 on the left.", "subject": "math"}
+{"id": 201, "score": 0, "reason": "The question is garbled, featuring completely nonsensical answer choices that are full text snippets instead of concise options, making it unusable for a standardized test.", "subject": "math"}
+{"id": 202, "score": 0, "reason": "The explanation explicitly labels the correct answer (p=5) as wrong while providing a completely incoherent review of the other options.", "subject": "math"}
+{"id": 203, "score": 0, "reason": "The question stem is cut off, the answer choices fail to answer what \"c is\", and the explanation refers to a $5 ticket price that is nowhere in the prompt.", "subject": "math"}
+{"id": 204, "score": 0, "reason": "The question stem is incomplete, the explanation calculates a final answer of $245 which is not listed among the options, and it incorrectly labels the equation itself as a wrong choice.", "subject": "math"}
+{"id": 200, "score": 0, "reason": "The options are garbled text blocks instead of standard choices, and the explanation contains a blatant arithmetic error by claiming -1-24 equals -23.", "subject": "math"}
+{"id": 201, "score": 0, "reason": "The answer choices are completely broken, formatted as multi-line rambling text blocks rather than concise multiple-choice options.", "subject": "math"}
+{"id": 202, "score": 0, "reason": "The explanation is completely garbled, contradicting itself by stating that the correct option A is wrong and misattributing the distractor explanations to the wrong letters.", "subject": "math"}
+{"id": 203, "score": 0, "reason": "The question stem is incomplete, none of the answer choices actually define the variable \"c\" as requested, and the explanation references a $5 ticket price that appears nowhere in the prompt.", "subject": "math"}
+{"id": 204, "score": -1, "reason": "parse_fail", "subject": "math"}
+{"id": 185, "score": 0, "reason": "The explanation mistakenly attributes Option B's reasoning to Option A, making the explanation completely garbled.", "subject": "math"}
+{"id": 186, "score": 0, "reason": "The correct answer is actually wrong because c could be 4.5 or a negative number, which contradicts the option's restriction to \"between 0 and 4\" even though the explanation notes c must be \"strictly below 5.\"", "subject": "math"}
+{"id": 187, "score": 0, "reason": "The question stem is cut off mid-sentence before the length of the third side is provided, making the question impossible to answer as intended.", "subject": "math"}
+{"id": 188, "score": 0, "reason": "The question stem is abruptly cut off at \"th\" and Option D contains disconnected text, rendering the question garbled.", "subject": "math"}
+{"id": 189, "score": -1, "reason": "parse_fail", "subject": "math"}

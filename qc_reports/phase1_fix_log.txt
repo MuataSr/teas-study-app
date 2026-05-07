@@ -1,0 +1,113 @@
+============================================================
+PHASE 1 FIX PIPELINE — Revise items
+============================================================
+Revise items to fix: 92
+Already done: 0
+Remaining: 92
+Loaded 92 questions from DB
+  ✅ [1/92] ID 29 [math] FIXED (29.3s)
+  ✅ [2/92] ID 71 [math] FIXED (23.8s)
+  ✅ [3/92] ID 83 [math] FIXED (25.9s)
+  ✅ [4/92] ID 184 [math] FIXED (31.8s)
+  ✅ [5/92] ID 225 [science] FIXED (26.3s)
+  ✅ [6/92] ID 368 [science] FIXED (23.9s)
+  ❌ [7/92] ID 412 [math] VALIDATION FAILED: Missing field: explanation (25.4s)
+  ✅ [8/92] ID 409 [reading] FIXED (28.8s)
+  ✅ [9/92] ID 450 [math] FIXED (29.4s)
+  ❌ [10/92] ID 449 [math] VALIDATION FAILED: Explanation leaks answer: 'option c is correct' (26.4s)
+  💾 Saved progress — 10/92 done — ETA 37m — Stats: {'applied': 8, 'validation_failed': 2}
+  ✅ [11/92] ID 448 [math] FIXED (30.0s)
+  ✅ [12/92] ID 475 [math] FIXED (24.7s)
+  ✅ [13/92] ID 481 [math] FIXED (27.1s)
+  ✅ [14/92] ID 485 [math] FIXED (34.6s)
+  ✅ [15/92] ID 506 [english] FIXED (26.6s)
+  ❌ [16/92] ID 487 [math] VALIDATION FAILED: Explanation leaks answer: 'option c is correct' (30.8s)
+  ❌ [17/92] ID 508 [english] VALIDATION FAILED: Explanation leaks answer: 'option a is correct' (30.7s)
+  ✅ [18/92] ID 543 [english] FIXED (26.5s)
+  ❌ [19/92] ID 666 [english] VALIDATION FAILED: Explanation leaks answer: 'option a is correct' (25.4s)
+  ✅ [20/92] ID 698 [english] FIXED (27.4s)
+  💾 Saved progress — 20/92 done — ETA 33m — Stats: {'applied': 15, 'validation_failed': 5}
+  ✅ [21/92] ID 702 [english] FIXED (25.9s)
+  ✅ [22/92] ID 703 [english] FIXED (33.3s)
+  ✅ [23/92] ID 706 [english] FIXED (24.0s)
+  ✅ [24/92] ID 708 [english] FIXED (26.5s)
+  ✅ [25/92] ID 755 [english] FIXED (26.1s)
+  ✅ [26/92] ID 805 [english] FIXED (26.0s)
+  ✅ [27/92] ID 834 [math] FIXED (24.4s)
+  ✅ [28/92] ID 840 [math] FIXED (28.6s)
+  ✅ [29/92] ID 838 [math] FIXED (33.1s)
+  ✅ [30/92] ID 891 [math] FIXED (31.4s)
+  💾 Saved progress — 30/92 done — ETA 29m — Stats: {'applied': 25, 'validation_failed': 5}
+  ✅ [31/92] ID 882 [math] FIXED (27.0s)
+  ✅ [32/92] ID 935 [math] FIXED (33.9s)
+  ✅ [33/92] ID 960 [science] FIXED (22.9s)
+  ❌ [34/92] ID 1030 [science] VALIDATION FAILED: Missing field: explanation (24.5s)
+  ❌ [35/92] ID 1048 [science] VALIDATION FAILED: Missing field: explanation (22.5s)
+  ✅ [36/92] ID 1155 [reading] FIXED (24.1s)
+  ✅ [37/92] ID 1214 [reading] FIXED (33.1s)
+  ❌ [38/92] ID 1221 [reading] VALIDATION FAILED: Missing field: explanation (31.3s)
+  ❌ [39/92] ID 1229 [reading] VALIDATION FAILED: Missing field: explanation (30.7s)
+  ✅ [40/92] ID 1231 [reading] FIXED (41.0s)
+  💾 Saved progress — 40/92 done — ETA 24m — Stats: {'applied': 31, 'validation_failed': 9}
+  ✅ [41/92] ID 1240 [reading] FIXED (34.8s)
+  ✅ [42/92] ID 1260 [reading] FIXED (30.7s)
+  ✅ [43/92] ID 1262 [reading] FIXED (32.3s)
+  ❌ [44/92] ID 1276 [reading] VALIDATION FAILED: Missing field: explanation (30.4s)
+  ✅ [45/92] ID 1282 [reading] FIXED (30.3s)
+  ✅ [46/92] ID 1284 [reading] FIXED (29.3s)
+  ❌ [47/92] ID 1288 [reading] VALIDATION FAILED: Missing field: explanation (30.4s)
+  ❌ [48/92] ID 1297 [reading] VALIDATION FAILED: Missing field: explanation (24.0s)
+  ✅ [49/92] ID 1319 [reading] FIXED (28.0s)
+  ✅ [50/92] ID 1328 [reading] FIXED (32.4s)
+  💾 Saved progress — 50/92 done — ETA 20m — Stats: {'applied': 38, 'validation_failed': 12}
+  ❌ [51/92] ID 1376 [reading] VALIDATION FAILED: Missing field: explanation (30.8s)
+  ❌ [52/92] ID 1406 [reading] VALIDATION FAILED: Missing field: explanation (36.3s)
+  ✅ [53/92] ID 1409 [reading] FIXED (24.4s)
+  ✅ [54/92] ID 1435 [reading] FIXED (37.1s)
+  ✅ [55/92] ID 1431 [reading] FIXED (33.2s)
+  ✅ [56/92] ID 1440 [reading] FIXED (35.4s)
+  ✅ [57/92] ID 1448 [reading] FIXED (35.1s)
+  ✅ [58/92] ID 1460 [reading] FIXED (28.1s)
+  ✅ [59/92] ID 1465 [reading] FIXED (35.1s)
+  ❌ [60/92] ID 1471 [reading] VALIDATION FAILED: Missing field: explanation (36.4s)
+  💾 Saved progress — 60/92 done — ETA 16m — Stats: {'applied': 45, 'validation_failed': 15}
+  ❌ [61/92] ID 1481 [reading] VALIDATION FAILED: Missing field: explanation (27.8s)
+  ❌ [62/92] ID 1490 [reading] VALIDATION FAILED: Explanation leaks answer: 'the correct answer is' (40.1s)
+  ✅ [63/92] ID 1512 [reading] FIXED (31.6s)
+  ✅ [64/92] ID 1523 [reading] FIXED (28.7s)
+  ✅ [65/92] ID 1575 [reading] FIXED (24.9s)
+  ❌ [66/92] ID 1570 [reading] VALIDATION FAILED: Missing option A in question_text; Missing option B in question_text (23.1s)
+  ✅ [67/92] ID 1588 [reading] FIXED (28.7s)
+  ✅ [68/92] ID 1587 [reading] FIXED (19.7s)
+  ✅ [69/92] ID 1607 [reading] FIXED (31.8s)
+  ✅ [70/92] ID 1731 [english] FIXED (32.0s)
+  💾 Saved progress — 70/92 done — ETA 11m — Stats: {'applied': 52, 'validation_failed': 18}
+  ❌ [71/92] ID 1747 [math] VALIDATION FAILED: Missing field: explanation (25.2s)
+  ✅ [72/92] ID 1725 [english] FIXED (30.5s)
+  ✅ [73/92] ID 1755 [english] FIXED (31.6s)
+  ✅ [74/92] ID 1770 [math] FIXED (35.4s)
+  ✅ [75/92] ID 1783 [math] FIXED (30.7s)
+  ✅ [76/92] ID 1779 [math] FIXED (28.1s)
+  ✅ [77/92] ID 1782 [math] FIXED (31.5s)
+  ✅ [78/92] ID 1787 [math] FIXED (31.2s)
+  ✅ [79/92] ID 1797 [science] FIXED (25.4s)
+  ✅ [80/92] ID 1831 [science] FIXED (39.2s)
+  💾 Saved progress — 80/92 done — ETA 6m — Stats: {'applied': 61, 'validation_failed': 19}
+  ✅ [81/92] ID 1895 [english] FIXED (24.5s)
+  ✅ [82/92] ID 1900 [english] FIXED (29.4s)
+  ✅ [83/92] ID 1925 [english] FIXED (23.1s)
+  ✅ [84/92] ID 1943 [english] FIXED (24.7s)
+  ✅ [85/92] ID 1976 [english] FIXED (29.9s)
+  ✅ [86/92] ID 1995 [english] FIXED (20.8s)
+  ✅ [87/92] ID 1991 [english] FIXED (24.5s)
+  ✅ [88/92] ID 1974 [english] FIXED (31.6s)
+  ✅ [89/92] ID 2021 [math] FIXED (30.0s)
+  ✅ [90/92] ID 2027 [math] FIXED (33.0s)
+  💾 Saved progress — 90/92 done — ETA 1m — Stats: {'applied': 71, 'validation_failed': 19}
+  ✅ [91/92] ID 2046 [math] FIXED (30.4s)
+  ✅ [92/92] ID 2068 [math] FIXED (26.1s)
+
+============================================================
+PHASE 1 COMPLETE — 44.8m
+Applied: 73  |  Partial: 0  |  Failed: 19  |  Skipped: 0
+============================================================

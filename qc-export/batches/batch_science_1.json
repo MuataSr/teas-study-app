@@ -1,0 +1,752 @@
+[
+  {
+    "id": 214,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "Which of the following structures is located in the axial skeleton?\nA) scapula (shoulder blade) and femur (thigh bone)\nB) axial skeleton\nC) patella (kneecap)\nD) The sternum",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The axial skeleton forms the central axis of the body and includes the skull, vertebral column, and rib cage (including the sternum)",
+      "The scapula (shoulder blade) and femur (thigh bone) are part of the appendicular skeleton",
+      "The patella (kneecap) is also appendicular"
+    ],
+    "explanation": "The axial skeleton forms the central axis of the body and includes the skull, vertebral column, and rib cage (including the sternum). The scapula (shoulder blade) and femur (thigh bone) are part of the appendicular skeleton. The patella (kneecap) is also appendicular.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 215,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A researcher observes a tissue sample under a microscope and notes that it is avascular, contains tightly packed cells, and is found lining the digestive tract. Which tissue type is this?\nA) Muscle tissue is highly vascularized and specialized for contraction, not for...\nB) Connective tissue varies in vascularization (though much of it is highly...\nC) Epithelial tissue\nD) None of the above",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Epithelial tissue is characterized by tightly packed cells, lack of blood vessels (avascular), and functions as a lining or covering (such as the digestive tract lining)",
+      "Connective tissue varies in vascularization (though much of it is highly vascular), muscle tissue is specialized for contraction, and nervous tissue is for electrochemical signaling",
+      "Muscle tissue is highly vascularized and specialized for contraction, not for lining the digestive tract"
+    ],
+    "explanation": "Epithelial tissue is characterized by tightly packed cells, lack of blood vessels (avascular), and functions as a lining or covering (such as the digestive tract lining). Connective tissue varies in vascularization (though much of it is highly vascular), muscle tissue is specialized for contraction, and nervous tissue is for electrochemical signaling.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 216,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "During a reflex arc, in what correct order do the signals travel?\nA) A sensory receptor detects a stimulus and sends the signal via an afferent (sensory) neuron to the CNS\nB) Receptor \u2192 Afferent neuron \u2192 Interneuron \u2192 Efferent neuron \u2192 Effector\nC) Note that this is the sequence for a polysynaptic reflex arc; simple monosynaptic reflexes (like the knee-jerk reflex) bypass the interneuron entirely\nD) An interneuron in the spinal cord processes the information and synapses with an efferent (motor) neuron, which carries the signal to an effector (like a muscle) to generate a response",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A sensory receptor detects a stimulus and sends the signal via an afferent (sensory) neuron to the CNS",
+      "An interneuron in the spinal cord processes the information and synapses with an efferent (motor) neuron, which carries the signal to an effector (like a muscle) to generate a response",
+      "Note that this is the sequence for a polysynaptic reflex arc; simple monosynaptic reflexes (like the knee-jerk reflex) bypass the interneuron entirely"
+    ],
+    "explanation": "A sensory receptor detects a stimulus and sends the signal via an afferent (sensory) neuron to the CNS. An interneuron in the spinal cord processes the information and synapses with an efferent (motor) neuron, which carries the signal to an effector (like a muscle) to generate a response. Note that this is the sequence for a polysynaptic reflex arc; simple monosynaptic reflexes (like the knee-jerk reflex) bypass the interneuron entirely.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 217,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "Which of the following correctly describes the mechanism of action of antidiuretic hormone (ADH)?\nA) ADH is released by the anterior pituitary in response to low blood osmolarity, which decreases water reabsorption in the collecting ducts and leads to dilute urine.\nB) ADH is released by the posterior pituitary in response to high blood osmolarity\nC) It increases water reabsorption in the collecting duct of the nephron.\nD) It makes the collecting ducts more permeable to water, allowing water to be reabsorbed back into the blood, thus concentrating the urine and decreasing blood osmolarity",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "ADH is released by the posterior pituitary in response to high blood osmolarity",
+      "It makes the collecting ducts more permeable to water, allowing water to be reabsorbed back into the blood, thus concentrating the urine and decreasing blood osmolarity",
+      "ADH is released by the anterior pituitary in response to low blood osmolarity, which decreases water reabsorption in the collecting ducts and leads to dilute urine."
+    ],
+    "explanation": "ADH is released by the posterior pituitary in response to high blood osmolarity. It makes the collecting ducts more permeable to water, allowing water to be reabsorbed back into the blood, thus concentrating the urine and decreasing blood osmolarity.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 218,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "In the heart, which chamber pumps oxygenated blood to the systemic circulation?\nA) The right ventricle pumps oxygenated blood to the systemic circulation, while the left ventricle pumps deoxygenated blood\nB) The left ventricle receives oxygenated blood from the left atrium and pumps it out through the aorta to the rest of the body (systemic circulation)\nC) Left ventricle\nD) The right ventricle pumps deoxygenated blood to the lungs",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The left ventricle receives oxygenated blood from the left atrium and pumps it out through the aorta to the rest of the body (systemic circulation)",
+      "The right ventricle pumps deoxygenated blood to the lungs",
+      "The right ventricle pumps oxygenated blood to the systemic circulation, while the left ventricle pumps deoxygenated blood"
+    ],
+    "explanation": "The left ventricle receives oxygenated blood from the left atrium and pumps it out through the aorta to the rest of the body (systemic circulation). This chamber has the thickest muscle wall to generate the high pressure needed for systemic delivery. The right ventricle pumps deoxygenated blood to the lungs, not the body. None of the above is incorrect because the left ventricle is the specific chamber performing this function.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 219,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "As air is inhaled into the lungs, which of the following physiological events occurs?\nA) Inhalation is an active process driven by the contraction of the diaphragm\nB) The diaphragm relaxes and moves upward, increasing intrapulmonary pressure and forcing air out of the lungs\nC) This increases the volume of the thoracic cavity, which, according to Boyle's Law, decreases the pressure inside the lungs relative to atmospheric pressure, causing air to rush in\nD) The diaphragm contracts and flattens, decreasing intrapulmonary pressure.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Inhalation is an active process driven by the contraction of the diaphragm",
+      "This increases the volume of the thoracic cavity, which, according to Boyle's Law, decreases the pressure inside the lungs relative to atmospheric pressure, causing air to rush in",
+      "The diaphragm relaxes and moves upward, increasing intrapulmonary pressure and forcing air out of the lungs"
+    ],
+    "explanation": "Inhalation is an active process driven by the contraction of the diaphragm. This increases the volume of the thoracic cavity, which, according to Boyle's Law, decreases the pressure inside the lungs relative to atmospheric pressure, causing air to rush in.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 220,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "Which enzyme, produced in the salivary glands, begins the chemical digestion of carbohydrates in the mouth?\nA) mylase\nB) Pepsin digests proteins in the stomach, lipase digests fats (primarily in the small intestine), and trypsin is a pancreatic protease\nC) Ptyalin, an enzyme produced in the stomach, begins the chemical digestion of carbohydrates in the mouth\nD) Pepsin, produced in the stomach, begins the chemical digestion of carbohydrates in the mouth",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Ptyalin, an enzyme produced in the stomach, begins the chemical digestion of carbohydrates in the mouth",
+      "Pepsin digests proteins in the stomach, lipase digests fats (primarily in the small intestine), and trypsin is a pancreatic protease",
+      "Pepsin, produced in the stomach, begins the chemical digestion of carbohydrates in the mouth"
+    ],
+    "explanation": "The enzyme amylase, secreted by salivary glands, starts carbohydrate digestion in the mouth by breaking down starch. Salivary amylase initiates starch breakdown, but pepsin digests stomach proteins, lipase handles fats in the small intestine, and trypsin is a pancreatic protease. None of the above is incorrect because amylase is the specific answer. This option correctly identifies the enzyme for oral carbohydrate digestion.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 221,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A patient is exposed to a novel virus. Which type of white blood cell is primarily responsible for producing antibodies specific to that virus?\nA) When they encounter a specific antigen, they differentiate into plasma cells that secrete massive amounts of highly specific antibodies\nB) T cells (Helper and Cytotoxic) do not produce antibodies\nC) B cells are a key component of adaptive immunity\nD) lymphocytes (B cells)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "B cells are a key component of adaptive immunity",
+      "When they encounter a specific antigen, they differentiate into plasma cells that secrete massive amounts of highly specific antibodies",
+      "T cells (Helper and Cytotoxic) do not produce antibodies"
+    ],
+    "explanation": "B lymphocytes are the primary white blood cells responsible for producing antibodies specific to a novel virus. Upon encountering a viral antigen, these B cells differentiate into plasma cells that secrete massive amounts of highly specific antibodies. In contrast, T cells (Helper and Cytotoxic) play crucial roles in adaptive immunity but do not produce antibodies themselves. Therefore, B cells are the correct answer because they directly generate the antibody response needed to neutralize the virus.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 222,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "Which layer of the skin contains sweat glands, hair follicles, and blood vessels?\nA) Epidermis\nB) ermis\nC) Subcutaneous tissue\nD) It houses all the functional structures of the skin (glands, follicles, vessels)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Epidermis",
+      "It houses all the functional structures of the skin (glands, follicles, vessels)",
+      "Subcutaneous tissue"
+    ],
+    "explanation": "The dermis is the thick, inner layer of skin composed of dense irregular connective tissue. It houses all the functional structures of the skin (glands, follicles, vessels). The epidermis is the thin outer layer of keratinized epithelial cells, and the hypodermis is deep subcutaneous fat.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 224,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "Which of the following is a primary difference between prokaryotic and eukaryotic cells?\nA) Prokaryotic cells contain membrane-bound organelles like mitochondria, while eukaryotic cells do not\nB) Eukaryotic cells contain membrane-bound organelles, while prokaryotic cells do not.\nC) Prokaryotes (bacteria, archaea) lack these enclosed compartments, though they do have ribosomes and DNA\nD) The defining feature of eukaryotic cells (plants, animals, fungi) is the presence of a nucleus and other membrane-bound organelles (mitochondria, ER, Golgi)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The defining feature of eukaryotic cells (plants, animals, fungi) is the presence of a nucleus and other membrane-bound organelles (mitochondria, ER, Golgi)",
+      "Prokaryotes (bacteria, archaea) lack these enclosed compartments, though they do have ribosomes and DNA",
+      "Prokaryotic cells contain membrane-bound organelles like mitochondria, while eukaryotic cells do not"
+    ],
+    "explanation": "The defining feature of eukaryotic cells (plants, animals, fungi) is the presence of a nucleus and other membrane-bound organelles (mitochondria, ER, Golgi). Prokaryotes (bacteria, archaea) lack these enclosed compartments, though they do have ribosomes and DNA.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 225,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "Which organelle is primarily responsible for modifying, sorting, and packaging proteins for transport within or outside the cell?\nA) nucleus\nB) Lysosomes digest, ribosomes synthesize, and mitochondria produce ATP\nC) None of the above\nD) Golgi apparatus",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The Golgi apparatus receives vesicles from the endoplasmic reticulum, processes the proteins, adds molecular tags, and repackages them into new vesicles for secretion or delivery to other parts of the cell",
+      "Lysosomes digest, ribosomes synthesize, and mitochondria produce ATP",
+      "The nucleus is primarily responsible for modifying, sorting, and packaging proteins for transport within or outside the cell"
+    ],
+    "explanation": "The Golgi apparatus receives vesicles from the endoplasmic reticulum, processes the proteins, adds molecular tags, and repackages them into new vesicles for secretion or delivery to other parts of the cell. Lysosomes digest, ribosomes synthesize, and mitochondria produce ATP.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 226,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "A cell has a diploid number (2n) of 46. How many chromosomes will be present in each daughter cell after meiosis II is complete?\nA) 23\nB) Meiosis I separates homologous chromosomes (resulting in two haploid cells with 23 duplicated chromosomes)\nC) Meiosis reduces the chromosome number by half\nD) Meiosis II separates sister chromatids, resulting in four haploid cells with 23 single chromosomes each",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Meiosis reduces the chromosome number by half",
+      "Meiosis I separates homologous chromosomes (resulting in two haploid cells with 23 duplicated chromosomes)",
+      "Meiosis II separates sister chromatids, resulting in four haploid cells with 23 single chromosomes each"
+    ],
+    "explanation": "Meiosis reduces the chromosome number by half. Meiosis I separates homologous chromosomes (resulting in two haploid cells with 23 duplicated chromosomes). Meiosis II separates sister chromatids, resulting in four haploid cells with 23 single chromosomes each.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 227,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "In a DNA molecule, adenine (A) always pairs with thymine (T), and cytosine (C) always pairs with guanine (G). This is known as which rule?\nA) This base-pairing rule is fundamental to the double-helix structure of DNA\nB) Erwin Chargaff discovered that in any species, the amount of adenine equals thymine, and the amount of cytosine equals guanine\nC) Watson-Crick rule\nD) hargaff's rule",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Erwin Chargaff discovered that in any species, the amount of adenine equals thymine, and the amount of cytosine equals guanine",
+      "This base-pairing rule is fundamental to the double-helix structure of DNA",
+      "Watson-Crick rule"
+    ],
+    "explanation": "The question asks for the name of the specific base-pairing rule where adenine pairs with thymine and cytosine with guanine. This is Chargaff's rule, named after Erwin Chargaff who discovered these ratios. Option A correctly identifies this fundamental principle of DNA structure. Option B describes the discovery but fails to name the rule itself as requested. Option C incorrectly attributes the rule to the double-helix structure rather than the base ratios. Option D is false since a valid rule exists. Thus, only A answers the question accurately.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 228,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "In a cross between two heterozygous individuals (Aa x Aa), what is the expected phenotypic ratio of the offspring if 'A' is completely dominant over 'a'?\nA) Only aa will display the recessive phenotype\nB) Because A is dominant, both AA and Aa will display the dominant phenotype\nC) 3:1\nD) A Punnett square for Aa x Aa yields the genotypes AA, Aa, aA, and aa",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A Punnett square for Aa x Aa yields the genotypes AA, Aa, aA, and aa",
+      "Because A is dominant, both AA and Aa will display the dominant phenotype",
+      "Only aa will display the recessive phenotype"
+    ],
+    "explanation": "The expected phenotypic ratio is 3:1 because a cross between two heterozygous parents (Aa x Aa) produces genotypes AA, Aa, and aa in a 1:2:1 ratio. Since 'A' is completely dominant, both AA and Aa individuals express the dominant trait, while only aa individuals show the recessive trait. This results in three offspring with the dominant phenotype for every one with the recessive phenotype. Option A describes the genotypic outcome rather than the phenotypic ratio, making it incorrect for this specific question. The explanation provided in the wrong answers details the genetic mechanism but fails to state the final numerical ratio requested. Therefore, 3:1 is the only answer that accurately reflects the observable traits of the offspring.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 229,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "Which of the following best defines evolution in a biological context?\nA) change in the allele frequency in a population over successive generations.\nB) It is not the physical adaptation of a single individual, nor is it the origin of life\nC) Evolution is fundamentally a genetic shift across a population over time\nD) It is driven by mechanisms like natural selection, genetic drift, and mutation",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Evolution is fundamentally a genetic shift across a population over time",
+      "It is not the physical adaptation of a single individual, nor is it the origin of life",
+      "It is driven by mechanisms like natural selection, genetic drift, and mutation"
+    ],
+    "explanation": "Option A correctly defines evolution as a change in allele frequency within a population over successive generations, which is the standard biological metric. Option B is too vague by calling it a \"genetic shift\" without specifying the population-level frequency change required. Option C is incorrect because evolution does not describe the physical adaptation of a single individual, but rather changes across a group. Option D lists mechanisms like natural selection that drive evolution but does not define the concept itself.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 230,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "In a specific food chain, grasshoppers eat grass, frogs eat grasshoppers, and snakes eat frogs. If a disease wipes out the frog population, what is the most likely short-term effect on the grass?\nA) The grass will decrease because the grasshopper population will increase.\nB) An increased grasshopper population will consume more grass, leading to a short-term decrease in grass biomass\nC) Without their predator (frogs), the grasshopper population will likely surge\nD) The grass will increase because the grasshopper population will decrease due to lack of predators",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Without their predator (frogs), the grasshopper population will likely surge",
+      "An increased grasshopper population will consume more grass, leading to a short-term decrease in grass biomass",
+      "The grass will increase because the grasshopper population will decrease due to lack of predators"
+    ],
+    "explanation": "The grass will decrease because the grasshopper population will increase. Without frogs to eat them, grasshoppers surge and consume more grass, reducing its biomass. Option A correctly identifies this predator-prey dynamic. Option B explains the mechanism but is less direct. Option C is factually true but redundant. Option D is incorrect since the scenario clearly shows an effect.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 231,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "An atom of carbon has 6 protons and 8 neutrons. What is its atomic mass?\nA) The number of electrons does not contribute significantly to atomic mass\nB) 14\nC) 6 protons + 8 neutrons = 14\nD) Atomic mass (or mass number) is the sum of protons and neutrons in the nucleus",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Atomic mass (or mass number) is the sum of protons and neutrons in the nucleus",
+      "6 protons + 8 neutrons = 14",
+      "The number of electrons does not contribute significantly to atomic mass"
+    ],
+    "explanation": "The atomic mass is 14 because it equals the sum of 6 protons and 8 neutrons in the nucleus. Electrons do not contribute significantly to this mass. Option A is wrong as it ignores neutrons. Option B is wrong because it counts electrons. Option C is wrong since it subtracts protons.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 232,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "As you move down Group 17 (the halogens) on the periodic table, what happens to the reactivity of the elements?\nA) As you move down a group, atomic radius increases\nB) Reactivity decreases.\nC) This makes it harder for larger halogens (like iodine) to attract and gain an...\nD) valence electrons get farther from the nucleus and",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "As you move down a group, atomic radius increases",
+      "The valence electrons get farther from the nucleus and are shielded by more inner electron shells",
+      "This makes it harder for larger halogens (like iodine) to attract and gain an electron compared to smaller halogens (like fluorine), decreasing reactivity"
+    ],
+    "explanation": "As you move down a group, atomic radius increases. The valence electrons get farther from the nucleus and are shielded by more inner electron shells. This makes it harder for larger halogens (like iodine) to attract and gain an electron compared to smaller halogens (like fluorine), decreasing reactivity.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 233,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "What type of bond is formed when two atoms share a pair of electrons unequally, resulting in a partial positive and partial negative charge?\nA) The more electronegative atom pulls the shared electrons closer, creating a...\nB) In a polar covalent bond, atoms have differing electronegativities\nC) Polar covalent bond\nD) Nonpolar covalent bonds share equally, and ionic bonds involve complete...",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "In a polar covalent bond, atoms have differing electronegativities",
+      "The more electronegative atom pulls the shared electrons closer, creating a dipole (partial charges)",
+      "Nonpolar covalent bonds share equally, and ionic bonds involve complete transfer, not sharing"
+    ],
+    "explanation": "In a polar covalent bond, atoms have differing electronegativities. The more electronegative atom pulls the shared electrons closer, creating a dipole (partial charges). Nonpolar covalent bonds share equally, and ionic bonds involve complete transfer, not sharing.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 234,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "Which of the following phase changes requires the removal of thermal energy (exothermic)?\nA) Melting, vaporization, and sublimation all require the addition of energy (endothermic)\nB) ondensation\nC) To slow down gas molecules enough for intermolecular forces to bind them into a liquid, thermal energy must be released/removed\nD) Condensation is the change from gas to liquid",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Condensation is the change from gas to liquid",
+      "To slow down gas molecules enough for intermolecular forces to bind them into a liquid, thermal energy must be released/removed",
+      "Melting, vaporization, and sublimation all require the addition of energy (endothermic)"
+    ],
+    "explanation": "Condensation is the change from gas to liquid. To slow down gas molecules enough for intermolecular forces to bind them into a liquid, thermal energy must be released/removed. Melting, vaporization, and sublimation all require the addition of energy (endothermic).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 235,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "In a balanced chemical equation, what does the law of conservation of mass dictate?\nA) The number of molecules of each element must be the same on both sides of the equation, regardless of mass\nB) Therefore, the total mass of the reactants must exactly equal the total mass of the products, which is achieved by ensuring equal atom counts on both sides via coefficients\nC) Matter cannot be created or destroyed in a chemical reaction\nD) The number of atoms of each element must be the same on both sides of the equation.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Matter cannot be created or destroyed in a chemical reaction",
+      "Therefore, the total mass of the reactants must exactly equal the total mass of the products, which is achieved by ensuring equal atom counts on both sides via coefficients",
+      "The number of molecules of each element must be the same on both sides of the equation, regardless of mass"
+    ],
+    "explanation": "The law of conservation of mass dictates that the number of atoms for each element must remain identical on both sides of a balanced equation. While matter cannot be created or destroyed, this principle is mathematically satisfied by ensuring equal atom counts through coefficients. The total mass equality is a direct result of these matching atom numbers, not a separate condition. Options claiming mass equality without atom matching or suggesting none of the above are incorrect because they ignore the fundamental atomic requirement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 236,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A solution has a pH of 4. What is its hydrogen ion [H+] concentration?\nA) pH is defined as the negative base-10 logarithm of the hydrogen ion concentration: \\(pH = -\\log[H+]\\)\nB) Therefore, \\(4 = -\\log[H+]\\), which means \\([H+] = 10^{-4}\\) molar\nC) \\(1 \times 10^{4}\\) M\nD) \\(1 \\times 10^{-4}\\) M",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "pH is defined as the negative base-10 logarithm of the hydrogen ion concentration: \\(pH = -\\log[H+]\\)",
+      "Therefore, \\(4 = -\\log[H+]\\), which means \\([H+] = 10^{-4}\\) molar",
+      "\\(1 \times 10^{4}\\) M"
+    ],
+    "explanation": "The pH of 4 directly indicates a hydrogen ion concentration of \\(1 \\times 10^{-4}\\) M because pH equals the negative log of that value. Option A is correct since \\(10^{-4}\\) matches the calculated molarity from the given pH. Option B is wrong because it misstates the formula relationship rather than providing the final concentration. Option C is incorrect as it fails to offer the specific numerical answer required by the question.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 237,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "If you have 50 grams of salt dissolved in 1 liter of water, what is the percentage concentration of this solution?\nA) (50 g / 1000 mL) x 100 = 5%\nB) 50%\nC) Percentage concentration (mass/volume) is calculated as (mass of solute / volume of solution) x 100\nD) 5%",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Percentage concentration (mass/volume) is calculated as (mass of solute / volume of solution) x 100",
+      "(50 g / 1000 mL) x 100 = 5%",
+      "50%"
+    ],
+    "explanation": "The percentage concentration is found by dividing the mass of the solute by the volume of the solution and multiplying by 100. Using 50 grams of salt and 1000 milliliters of water, the calculation is (\\(\\frac{50}{1000}\\)) x 100, which equals 5%. This confirms the correct answer is 5%. The option stating the formula is wrong because it describes the method rather than the final numerical result. The \"None of the above\" choice is incorrect since 5% is a valid option provided in the question.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 238,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A scientist wants to test whether a new fertilizer increases tomato plant yield compared to standard fertilizer. She plants 50 tomato plants with the new fertilizer and 50 with standard fertilizer, ke\nA) dependent variable\nB) In this experiment, the scientist is measuring the yield to see if it changes...\nC) fertilizer type\nD) Tomato plant yield",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The dependent variable is what is being measured or observed",
+      "In this experiment, the scientist is measuring the yield to see if it changes in response to the fertilizer type",
+      "The fertilizer type is the independent variable"
+    ],
+    "explanation": "The dependent variable is the outcome measured, which is tomato plant yield. This is what the scientist observes to see if it changes based on the fertilizer. The independent variable is the fertilizer type, not the yield. Wrong answers confuse the measured result with the cause or misidentify the variable being tested.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 239,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "In the experiment described in Q25, what role do the plants receiving the standard fertilizer play?\nA) ontrol group\nB) This allows the scientist to compare the results of the experimental group (new fertilizer) against what is already known to occur\nC) The control group receives the standard, established treatment (or no treatment) to provide a baseline\nD) Experimental group",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The control group receives the standard, established treatment (or no treatment) to provide a baseline",
+      "This allows the scientist to compare the results of the experimental group (new fertilizer) against what is already known to occur",
+      "Experimental group"
+    ],
+    "explanation": "The plants receiving standard fertilizer serve as the control group, providing a baseline to compare the new fertilizer's effects. This allows the scientist to determine if the experimental group's results differ from the established norm. Option A describes the control group's function but is redundant with the correct answer. Option B explains the comparison process but does not name the specific role. Option C is incorrect because the control group is essential for valid experimental design.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 240,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A study finds that individuals who drink more coffee tend to have lower rates of depression. The headline reads: \"Drinking Coffee Cures Depression.\" Why is this conclusion scientifically flawed?\nA) The study only shows an association (correlation)\nB) It assumes correlation implies causation without accounting for confounding variables.\nC) A clinical trial is needed to prove causation\nD) There may be confounding variables\u2014perhaps people who can afford more coffee have better healthcare, or a specific chemical in coffee is unrelated to depression but correlated with another factor",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The study only shows an association (correlation)",
+      "There may be confounding variables\u2014perhaps people who can afford more coffee have better healthcare, or a specific chemical in coffee is unrelated to depression but correlated with another factor",
+      "A clinical trial is needed to prove causation"
+    ],
+    "explanation": "The study only shows an association (correlation). There may be confounding variables\u2014perhaps people who can afford more coffee have better healthcare, or a specific chemical in coffee is unrelated to depression but correlated with another factor. A clinical trial is needed to prove causation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 241,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "Which of the following is the most accurate definition of a scientific hypothesis?\nA) proposed, testable explanation for an observed phenomenon.\nB) A tentative, untestable explanation for an observed phenomenon that cannot be falsified\nC) A hypothesis must be testable and falsifiable\nD) It is an educated guess attempting to explain why something happens, not just a guess at what will happen (which is a prediction) or a broad, universally accepted principle (which is a theory)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "A hypothesis must be testable and falsifiable",
+      "It is an educated guess attempting to explain why something happens, not just a guess at what will happen (which is a prediction) or a broad, universally accepted principle (which is a theory)",
+      "A tentative, untestable explanation for an observed phenomenon that cannot be falsified"
+    ],
+    "explanation": "The most accurate definition is A proposed, testable explanation for an observed phenomenon. This aligns with science because hypotheses must be falsifiable and grounded in observation, unlike B which describes an educated guess or C which confuses prediction with explanation. D incorrectly labels a broad principle as a hypothesis, whereas that defines a theory. Therefore, only A captures the essential requirement of being testable and explanatory.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 242,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A researcher measures the height of bean plants every day for 30 days and plots the data on a line graph. The graph shows a steep upward curve from day 1 to day 15, which then flattens out from day 16 to day 30. Which conclusion is best supported by the data?\nA) The flattening of the curve indicates that while the plants are still technically getting taller, the rate of growth has slowed significantly\nB) Bean plant growth rate increases after day 15 due to a sudden burst of nutrient absorption\nC) ean plant growth rate decreases after day 15.\nD) You cannot conclude they stopped growing entirely unless the line is perfectly flat, and you cannot conclude the cause of the slowdown without further experimental data",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The flattening of the curve indicates that while the plants are still technically getting taller, the rate of growth has slowed significantly",
+      "You cannot conclude they stopped growing entirely unless the line is perfectly flat, and you cannot conclude the cause of the slowdown without further experimental data",
+      "Bean plant growth rate increases after day 15 due to a sudden burst of nutrient absorption"
+    ],
+    "explanation": "The flattening of the curve indicates that while the plants are still technically getting taller, the rate of growth has slowed significantly. You cannot conclude they stopped growing entirely unless the line is perfectly flat, and you cannot conclude the cause of the slowdown without further experimental data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 243,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "An experiment tests the effect of temperature on the rate of enzyme activity. The temperature is increased by 10\u00b0C increments. Which of the following must be kept constant?\nA) To ensure that only temperature is affecting the rate of reaction, all other variables must be controlled (kept constant)\nB) The concentration of the enzyme and substrate.\nC) The pH level of the solution\nD) If the enzyme concentration changed along with the temperature, the researcher would not know which variable caused the change in reaction rate",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "To ensure that only temperature is affecting the rate of reaction, all other variables must be controlled (kept constant)",
+      "If the enzyme concentration changed along with the temperature, the researcher would not know which variable caused the change in reaction rate",
+      "The pH level of the solution"
+    ],
+    "explanation": "To ensure that only temperature is affecting the rate of reaction, all other variables must be controlled (kept constant). If the enzyme concentration changed along with the temperature, the researcher would not know which variable caused the change in reaction rate.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 244,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "Which of the following muscle types is striated, multinucleated, and under voluntary control?\nA) Cardiac muscle is also striated but is uninucleated (typically), branched, and...\nB) Smooth muscle is non-striated, spindle-shaped, and involuntary\nC) None of the above\nD) Skeletal muscle",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Skeletal muscle is attached to bones, appears striated (striped) under a microscope due to the organized arrangement of contractile proteins, contains multiple nuclei per cell, and is consciously controlled",
+      "Cardiac muscle is also striated but is uninucleated (typically), branched, and involuntary",
+      "Smooth muscle is non-striated, spindle-shaped, and involuntary"
+    ],
+    "explanation": "Skeletal muscle is attached to bones, appears striated (striped) under a microscope due to the organized arrangement of contractile proteins, contains multiple nuclei per cell, and is consciously controlled. Cardiac muscle is also striated but is uninucleated (typically), branched, and involuntary. Smooth muscle is non-striated, spindle-shaped, and involuntary.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 245,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "Which organelle is known as the \"powerhouse of the cell\" and is the primary site of ATP production through aerobic cellular respiration?\nA) None of the above\nB) Mitochondria\nC) Chloroplasts are known as the 'powerhouse of the cell' and are the primary site...\nD) While the Golgi apparatus packages proteins, the endoplasmic reticulum...",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Mitochondria are double-membraned organelles that convert glucose and oxygen into ATP (adenosine triphosphate) through the processes of the Krebs cycle and electron transport chain",
+      "While the Golgi apparatus packages proteins, the endoplasmic reticulum synthesizes them, and ribosomes translate mRNA, only mitochondria perform aerobic cellular respiration to generate the cell's main energy currency",
+      "Chloroplasts are known as the 'powerhouse of the cell' and are the primary site of ATP production through aerobic cellular respiration"
+    ],
+    "explanation": "Mitochondria are double-membraned organelles that convert glucose and oxygen into ATP (adenosine triphosphate) through the processes of the Krebs cycle and electron transport chain. While the Golgi apparatus packages proteins, the endoplasmic reticulum synthesizes them, and ribosomes translate mRNA, only mitochondria perform aerobic cellular respiration to generate the cell's main energy currency.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 246,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "Which of the following structures is found in all cells, both prokaryotic and eukaryotic?\nA) It is present in both prokaryotes and eukaryotes\nB) The cell membrane is a phospholipid bilayer that surrounds all cells, providing a selective barrier and maintaining homeostasis\nC) ell membrane (plasma membrane)\nD) In contrast, a nucleus, mitochondria, and endoplasmic reticulum are membrane-bound organelles found only in eukaryotic cells",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The cell membrane is a phospholipid bilayer that surrounds all cells, providing a selective barrier and maintaining homeostasis",
+      "It is present in both prokaryotes and eukaryotes",
+      "In contrast, a nucleus, mitochondria, and endoplasmic reticulum are membrane-bound organelles found only in eukaryotic cells"
+    ],
+    "explanation": "The cell membrane is a phospholipid bilayer that surrounds all cells, providing a selective barrier and maintaining homeostasis. It is present in both prokaryotes and eukaryotes. In contrast, a nucleus, mitochondria, and endoplasmic reticulum are membrane-bound organelles found only in eukaryotic cells.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 253,
+    "subject": "science",
+    "topic": "Cardiovascular system",
+    "question_text": "During which phase of the cardiac cycle does the heart relax?\nA) iastole\nB) Systole\nC) Systole is the relaxation phase\nD) Systole is the contraction phase",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Systole is the relaxation phase",
+      "Systole is the contraction phase",
+      "Systole"
+    ],
+    "explanation": "The heart relaxes during diastole, allowing chambers to fill with blood. Systole is the contraction phase, not relaxation. None of the above is incorrect because diastole is a valid phase. This question asks for the specific relaxation phase of the cardiac cycle.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 270,
+    "subject": "science",
+    "topic": "Endocrine system",
+    "question_text": "Oxytocin is produced by which structure?\nA) Hypothalamus (stored and released by posterior pituitary)\nB) Hypophysis\nC) Oxytocin is synthesized in the hypothalamus but stored in and released from the posterior pituitary gland\nD) It stimulates uterine contractions and milk ejection",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Oxytocin is synthesized in the hypothalamus but stored in and released from the posterior pituitary gland",
+      "It stimulates uterine contractions and milk ejection",
+      "Hypophysis"
+    ],
+    "explanation": "The correct answer is the Hypothalamus because oxytocin is synthesized there and then stored and released by the posterior pituitary. Option A is wrong as it describes the synthesis and release process accurately but is not the primary structure of production. Option B is incorrect because it lists the hormone's functions rather than its origin. Option D is false since the other options provide valid information about the hormone's biology.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 276,
+    "subject": "science",
+    "topic": "Muscular system",
+    "question_text": "Which type of muscle contraction occurs when the muscle lengthens while generating force?\nA) Eccentric contraction\nB) Eccentric contractions lengthen the muscle while under tension (e.g., lowering a weight)\nC) Concentric shortens the muscle, and isometric maintains length\nD) Concentric contraction",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Eccentric contractions lengthen the muscle while under tension (e.g., lowering a weight)",
+      "Concentric shortens the muscle, and isometric maintains length",
+      "Concentric contraction"
+    ],
+    "explanation": "The question asks which muscle contraction type involves lengthening while generating force. The correct answer is eccentric contraction, as this specific mechanism occurs when a muscle actively resists a load, causing it to lengthen under tension, such as lowering a weight slowly. In contrast, concentric contractions shorten the muscle fibers during force production, while isometric contractions maintain a constant muscle length without changing size. Therefore, options describing shortening or maintaining length are incorrect because they do not match the definition of lengthening under force provided in the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 278,
+    "subject": "science",
+    "topic": "Muscular system",
+    "question_text": "Which protein makes up the thick filaments in a sarcomere?\nA) Actin\nB) Actin\nC) Titin\nD) Myosin",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Actin",
+      "Actin",
+      "Titin"
+    ],
+    "explanation": "The thick filaments in a sarcomere are composed of the protein myosin, which aligns with the correct answer. Myosin heads extend from these filaments to bind with actin during muscle contraction, pulling thin filaments toward the sarcomere center. Option B describes this binding mechanism rather than filament composition. Option C is incorrect because myosin definitely forms thick filaments. Option D is invalid since myosin is the specific protein responsible.",
+    "difficulty": "easy",
+    "status": "unusable"
+  },
+  {
+    "id": 289,
+    "subject": "science",
+    "topic": "Blood typing and compatibility",
+    "question_text": "Erythroblastosis fetalis can occur when:\nA) n Rh-negative mother carries an Rh-positive fetus\nB) An Rh-positive mother carries an Rh-negative fetus\nC) This is prevented with RhoGAM injections\nD) If maternal anti-Rh antibodies cross the placenta, they attack fetal Rh-positive RBCs",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "If maternal anti-Rh antibodies cross the placenta, they attack fetal Rh-positive RBCs",
+      "This is prevented with RhoGAM injections",
+      "An Rh-positive mother carries an Rh-negative fetus"
+    ],
+    "explanation": "The condition arises when an Rh-negative mother carries an Rh-positive fetus, allowing fetal blood to enter the mother's circulation and trigger antibody production. This maternal immune response can then attack subsequent Rh-positive fetal red blood cells, causing hemolytic disease. The option stating maternal anti-Rh antibodies cross the placenta is incorrect because these antibodies are produced by the mother, not present initially to cross. The claim about RhoGAM injections being a prevention method is also wrong as it describes a treatment strategy rather than the cause of the disease itself.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 291,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "Which type of tissue lines body surfaces and cavities?\nA) Epithelial tissue forms protective coverings and linings of body surfaces, organs, and cavities\nB) Epithelial tissue\nC) It can be simple (one layer) or stratified (multiple layers)\nD) Connective tissue",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Epithelial tissue forms protective coverings and linings of body surfaces, organs, and cavities",
+      "It can be simple (one layer) or stratified (multiple layers)",
+      "Connective tissue"
+    ],
+    "explanation": "The question asks which tissue lines body surfaces and cavities, and the correct answer is epithelial tissue. Epithelial tissue specifically forms protective coverings and linings for body surfaces, organs, and cavities. It can be simple with one layer or stratified with multiple layers. The other options are incorrect because they describe the same tissue rather than naming it, or they offer no valid choice. Therefore, only the option identifying epithelial tissue directly answers the prompt.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 293,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "Which tissue type is characterized by voluntary control and striations?\nA) Cardiac muscle\nB) Cardiac is also striated but involuntary\nC) Skeletal muscle is striated (has alternating bands) and voluntary (consciously controlled)\nD) Skeletal muscle",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Skeletal muscle is striated (has alternating bands) and voluntary (consciously controlled)",
+      "Cardiac is also striated but involuntary",
+      "Cardiac muscle"
+    ],
+    "explanation": "Skeletal muscle is the right choice because it is both striated and under voluntary control. Cardiac muscle is striated but involuntary, so it does not fit the description. Smooth muscle is neither striated nor voluntary. Therefore, skeletal muscle is the only tissue type matching both characteristics.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 295,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "Cartilage is an example of which type of connective tissue?\nA) Cartilage is a supportive connective tissue with a firm extracellular matrix\nB) Types include hyaline, elastic, and fibrocartilage\nC) Supportive connective tissue\nD) Fluid connective tissue",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Cartilage is a supportive connective tissue with a firm extracellular matrix",
+      "Types include hyaline, elastic, and fibrocartilage",
+      "Fluid connective tissue"
+    ],
+    "explanation": "Cartilage is classified as supportive connective tissue because it provides structural resilience through a firm extracellular matrix. This matrix consists of collagen and proteoglycans that maintain tissue integrity. The specific types include hyaline, elastic, and fibrocartilage, confirming its supportive role. Options suggesting other classifications are incorrect as cartilage does not fit those categories.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 296,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "Which tissue type has the greatest capacity for regeneration?\nA) Epithelial tissue regenerates rapidly due to stem cells near the basement membrane\nB) Nervous tissue\nC) Cardiac muscle and nervous tissue have very limited regenerative capacity\nD) Epithelial tissue",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Epithelial tissue regenerates rapidly due to stem cells near the basement membrane",
+      "Cardiac muscle and nervous tissue have very limited regenerative capacity",
+      "Nervous tissue"
+    ],
+    "explanation": "Epithelial tissue possesses the greatest regenerative capacity because its cells are constantly renewed by stem cells located near the basement membrane. In contrast, cardiac muscle and nervous tissue have very limited ability to regenerate, often relying on scarring instead of new growth. Option A is incorrect as it describes the mechanism of epithelial regeneration rather than identifying the tissue type itself. Option C is wrong because it falsely claims these tissues regenerate well, which contradicts established biological principles. Option D is invalid since epithelial tissue is the clear answer to the question.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 298,
+    "subject": "science",
+    "topic": "Immune system - types of immunity",
+    "question_text": "What is the difference between active and passive immunity?\nA) Active immunity (vaccination or infection) is long-lasting\nB) ctive immunity involves antibody production by your own body; passive immunity involves receiving pre-made antibodies\nC) Active immunity involves receiving pre-made antibodies; passive immunity involves antibody production by your own body\nD) Passive immunity (maternal antibodies, antivenom) provides temporary protection",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Active immunity (vaccination or infection) is long-lasting",
+      "Passive immunity (maternal antibodies, antivenom) provides temporary protection",
+      "Active immunity involves receiving pre-made antibodies; passive immunity involves antibody production by your own body"
+    ],
+    "explanation": "Active immunity occurs when your body produces antibodies after vaccination or infection, creating long-lasting protection. Passive immunity involves receiving pre-made antibodies from another source, like maternal transfer or antivenom, offering only temporary defense. Option A incorrectly describes active immunity as long-lasting without mentioning antibody production by the self. Option B wrongly defines passive immunity as temporary without noting the receipt of pre-made antibodies. Option C is invalid because the question clearly distinguishes the two mechanisms.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 303,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "Which statement is NOT part of the cell theory?\nA) Cell theory states: all living things are made of cells, cells are the basic unit of life, and all cells come from pre-existing cells\nB) Prokaryotes lack a nucleus\nC) All cells have a cell wall\nD) ll cells contain a nucleus",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Cell theory states: all living things are made of cells, cells are the basic unit of life, and all cells come from pre-existing cells",
+      "Prokaryotes lack a nucleus",
+      "All cells have a cell wall"
+    ],
+    "explanation": "The statement \"All cells contain a nucleus\" is not part of cell theory because prokaryotes, like bacteria, lack one. Cell theory actually states that all living things are made of cells, cells are the basic unit of life, and all cells come from pre-existing cells. The other options correctly describe these principles or note that prokaryotes lack a nucleus. Therefore, the claim about universal nuclei is the only false statement here.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 304,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "Which organelle is the 'powerhouse of the cell'?\nA) Lysosomes\nB) Mitochondria\nC) They have their own DNA and are thought to have originated from endosymbiotic bacteria\nD) Mitochondria produce ATP through aerobic cellular respiration",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Mitochondria produce ATP through aerobic cellular respiration",
+      "They have their own DNA and are thought to have originated from endosymbiotic bacteria",
+      "Lysosomes"
+    ],
+    "explanation": "The mitochondrion is widely known as the powerhouse of the cell because it generates most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy. While the wrong options describe true features like ATP production or endosymbiotic origins, they do not name the organelle itself. Therefore, identifying the mitochondrion as the specific structure is the only correct response to the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 305,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "What is the primary difference between prokaryotic and eukaryotic cells?\nA) Eukaryotic cells have membrane-bound organelles; prokaryotic cells do not\nB) Prokaryotes (bacteria, archaea) lack these\nC) Eukaryotic cells have a membrane-bound nucleus; prokaryotic cells do not\nD) Eukaryotes (animals, plants, fungi) have a true nucleus and membrane-bound organelles",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Eukaryotes (animals, plants, fungi) have a true nucleus and membrane-bound organelles",
+      "Prokaryotes (bacteria, archaea) lack these",
+      "Eukaryotic cells have membrane-bound organelles; prokaryotic cells do not"
+    ],
+    "explanation": "The primary distinction lies in the presence of a membrane-bound nucleus. Eukaryotic cells, found in animals and plants, possess this true nucleus and membrane-bound organelles. In contrast, prokaryotic cells like bacteria lack these structures entirely. Option A describes eukaryotes but misses the prokaryotic comparison. Option B defines prokaryotes but omits the eukaryotic context. Option C is incorrect because a clear difference exists. This question highlights the fundamental structural divergence between these two cell types.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 306,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "Which organelle is responsible for protein synthesis?\nA) Endoplasmic Reticulum\nB) Ribosome\nC) They exist free in the cytoplasm or bound to the rough endoplasmic reticulum\nD) Mitochondria",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Mitochondria",
+      "They exist free in the cytoplasm or bound to the rough endoplasmic reticulum",
+      "Endoplasmic Reticulum"
+    ],
+    "explanation": "The ribosome is the organelle responsible for protein synthesis by translating mRNA into polypeptide chains. While ribosomes exist free in the cytoplasm or bound to the rough endoplasmic reticulum, they remain the primary site for this process. Option A incorrectly describes their location rather than function. Option B is false because ribosomes do not translate DNA directly. Option C is invalid since ribosomes are the correct answer.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 312,
+    "subject": "science",
+    "topic": "Cell division",
+    "question_text": "Cytokinesis in animal cells involves the formation of a:\nA) Cell plate\nB) Plant cells form a cell plate instead due to their rigid cell wall\nC) leavage furrow\nD) Animal cells divide by forming a cleavage furrow (pinching inward)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Animal cells divide by forming a cleavage furrow (pinching inward)",
+      "Plant cells form a cell plate instead due to their rigid cell wall",
+      "Cell plate"
+    ],
+    "explanation": "The question asks about cytokinesis in animal cells. The correct answer is a cleavage furrow because animal cells lack rigid walls and pinch inward to divide. Wrong answer A is incorrect as it describes the process rather than the structure formed. Wrong answer B is false since plant cells form a cell plate, not a furrow. Wrong answer C is invalid because a cleavage furrow does exist. This distinction highlights how cell structure dictates division mechanisms.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 313,
+    "subject": "science",
+    "topic": "DNA structure and replication",
+    "question_text": "The two strands of DNA are held together by:\nA) Covalent bonds between sugar and phosphate groups\nB) Hydrogen bonds between complementary nitrogenous bases\nC) The sugar-phosphate backbone is held by covalent bonds\nD) Adenine pairs with thymine (2 H-bonds) and guanine pairs with cytosine (3 H-bonds)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Adenine pairs with thymine (2 H-bonds) and guanine pairs with cytosine (3 H-bonds)",
+      "The sugar-phosphate backbone is held by covalent bonds",
+      "Covalent bonds between sugar and phosphate groups"
+    ],
+    "explanation": "The correct answer is hydrogen bonds between complementary nitrogenous bases. These weak bonds specifically connect adenine to thymine and guanine to cytosine, stabilizing the double helix. The sugar-phosphate backbone is incorrect because it relies on strong covalent bonds, not the inter-strand connections described. Options detailing specific base pairings are incomplete as they describe the components rather than the bonding force itself.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 314,
+    "subject": "science",
+    "topic": "DNA structure and replication",
+    "question_text": "In DNA, adenine always pairs with:\nA) Thymine\nB) Guanine\nC) Cytosine\nD) Chargaff's rule: A pairs with T, and G pairs with C",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Chargaff's rule: A pairs with T, and G pairs with C",
+      "Guanine",
+      "Cytosine"
+    ],
+    "explanation": "In DNA, adenine always pairs with thymine according to Chargaff's rule, which states that A matches T while G matches C. Option A correctly identifies this specific pairing found in double-stranded DNA molecules. Option B describes RNA where uracil replaces thymine, making it incorrect for DNA contexts. Option C is irrelevant as it claims no pairing exists, contradicting established biological principles.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 317,
+    "subject": "science",
+    "topic": "DNA structure and replication",
+    "question_text": "The sugar in DNA is:\nA) DNA contains deoxyribose sugar (lacks an oxygen at the 2' carbon)\nB) eoxyribose\nC) RNA contains ribose sugar\nD) Ribose",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "DNA contains deoxyribose sugar (lacks an oxygen at the 2' carbon)",
+      "RNA contains ribose sugar",
+      "Ribose"
+    ],
+    "explanation": "The sugar in DNA is deoxyribose, which lacks an oxygen atom at the 2' carbon position compared to ribose found in RNA. Option A correctly identifies this specific structural difference defining DNA's backbone. Option B is incorrect because it describes RNA's sugar, not DNA's. Option C is wrong as deoxyribose is the actual sugar present. This distinction is fundamental to nucleic acid chemistry.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

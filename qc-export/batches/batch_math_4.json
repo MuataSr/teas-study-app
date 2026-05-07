@@ -1,0 +1,752 @@
+[
+  {
+    "id": 201,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve m-3=4m And check your answer\nA) m=-1\nB) m=7+35=42\n\\$42\nC) Solving: m=3m\nm=3\nChecking\n[nothing]\nD) W=x+yH\nUsing one letter for each unknown is easier",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Solving: m=3m\nm=3\nChecking\n[nothing]",
+      "W=x+yH\nUsing one letter for each unknown is easier",
+      "m=7+35=42\n\\$42"
+    ],
+    "explanation": "The correct option identifies m as -1, which satisfies the equation m-3=4m when substituted, resulting in -4=-4. This confirms the solution is valid. The first wrong choice incorrectly solves the equation as m=3m, leading to m=3, which fails the check because 3-3 does not equal 4 times 3. The second option introduces unrelated variables like W and x+yH, ignoring the single variable m required by the problem. The third choice arbitrarily assigns m=42 based on a nonsensical calculation involving 7 and 35, which has no basis in the given equation or its verification step.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 202,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve 4p+40=60 and check your answer\nA) 61\nB) 30\nC) p=5\nD) 65",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "61",
+      "30",
+      "65"
+    ],
+    "explanation": "To solve 4p+40=60, isolate p by subtracting 40 from both sides to get 4p=20, then divide by 4 to find p=5. Substituting 5 back into the equation yields 4(5)+40=60, which simplifies to 60=60, confirming the solution works. Option A is wrong because 61 does not equal 60 when substituted. Option B is incorrect since 30 is too large and fails the check. Option C is wrong as 65 is not the result of dividing 20 by 4. Only p=5 satisfies the original equation perfectly.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 203,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Kate sold 12 tickets to a school play. Katie's total sales, t, for the tickets is given by the formula  12c=t where c is\nA) 12c=t\nB) 65\nC) 61\nD) 30",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "61",
+      "30",
+      "65"
+    ],
+    "explanation": "The formula 12c=t indicates that total sales equal the number of tickets multiplied by the cost per ticket, which is \\$5. Substituting the values yields 12 times 5, resulting in a total of \\$60. Option A correctly calculates this product using the given formula. Option B incorrectly adds 1 to the ticket count before multiplying, leading to an invalid sum. Option C fails to multiply by the price, simply multiplying the ticket count by an incorrect factor. Option D adds an extra dollar to the final total, ignoring the precise calculation required by the equation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 204,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "The amount of money Hank earns after working h hours is given by the equation below. Let m equal the amount of money Han\nA) 70\nB) m=\\$7h\nC) 36\nD) 40",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "36",
+      "70",
+      "40"
+    ],
+    "explanation": "The equation m = 7h indicates Hank earns seven dollars per hour. Substituting h = 35 into the formula yields m = 7 * 35, which equals 245. Therefore, the total earnings are exactly \\$245. Option A is incorrect because it fails to apply the hourly rate to the given hours. Option B results from multiplying 7 by 10 instead of 35, ignoring the actual hours worked. Option C incorrectly multiplies the rate by 5 or misinterprets the variable h entirely. Only the calculation using the provided equation and value produces the accurate result of 245.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 205,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve mn= Where m=10 and n=13\nA) 135\nB) 65\nC) 130\nD) 131",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "131",
+      "65",
+      "135"
+    ],
+    "explanation": "To solve the equation mn = 10 * 13, you must multiply the two given values together, resulting in 130. This directly matches the first option, which correctly applies the operation required by the problem statement. The second option, 131, is incorrect because it adds one to the product instead of multiplying the numbers as instructed. The third option, 65, results from dividing the values rather than multiplying them, which contradicts the equation. Finally, the fourth option, 135, is wrong because it adds 5 to the correct product without any basis in the provided values.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 206,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Write an equation using the variables S and P to represent the following statement: \"There are six times as many student\nA) Solving: m=3m\nm=3\nChecking\n[nothing]\nB) 6W=M\nC) S=6P\nD) 6S=P",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "6S=P",
+      "6W=M",
+      "Solving: m=3m\nm=3\nChecking\n[nothing]"
+    ],
+    "explanation": "The correct equation S=6P accurately translates \"six times as many students as people\" by placing the multiplier 6 next to the variable P, which represents people, to equal S. Option 6S=P incorrectly places the multiplier next to students, implying there are six times as many people as students, which reverses the original statement. The option 6W=M introduces unrelated variables W and M not mentioned in the problem, making it irrelevant to the specific request. Finally, Solving: m=3m is a completely different algebraic problem involving variable m and does not address the relationship between S and P described in the prompt.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 207,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Write an equation using the variables C and S to represent the following statement: \"At Mindy's restaurant, for every fo\nA) 4S=5C\nB) 4C=5S\nC) \\((x+3)^2\\)+6(x+3)=0\nD) 3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "4C=5S",
+      "\\((x+3)^2\\)+6(x+3)=0",
+      "3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x"
+    ],
+    "explanation": "The statement implies a ratio where five servings of food (S) equal four portions of cost (C), leading to the equation 4S=5C. This balances the proportional relationship described in the incomplete sentence. Option A incorrectly swaps the variables, suggesting four costs equal five servings, which reverses the intended ratio. Option B introduces unrelated algebraic terms with x and constants that do not match the variables C and S. Option C presents a complex linear equation with x that is entirely irrelevant to the simple variable relationship requested.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 208,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Write an equation to represent the following statement: \u2018At this company, there are six times as many workers as manager\nA) 11\nB) 3\nC) W=6M\nD) 7",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "7",
+      "3",
+      "11"
+    ],
+    "explanation": "The equation W=6M correctly translates the phrase \"six times as many workers as manager\" by defining W as the worker count and M as the manager count, directly matching the mathematical relationship described. Option 7, 3, and 11 are incorrect because they represent single numerical values rather than an equation linking two variables, failing to capture the proportional relationship between workers and managers required by the statement. These numbers cannot express how the total number of workers depends on the number of managers, which is the core concept of the problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 209,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Write an expression that could be used to represent the number of rows, if there were n girls all together and each row\nA) x=0\n50+60=110\nB) x=2\n22+2=24\nC) 6n\nD) n/6",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "6n",
+      "x=2\n22+2=24",
+      "x=0\n50+60=110"
+    ],
+    "explanation": "The correct option, n/6, correctly divides the total number of girls by the number of girls per row to find the row count. Since the problem states there are n girls total and implies a fixed group size of six, dividing n by 6 yields the necessary quantity. The option 6n incorrectly multiplies the total by the group size, which would calculate the total number of girls if only one row existed rather than finding the number of rows. The choice x=2 introduces an undefined variable and a specific number that contradicts the algebraic requirement to express the answer in terms of n. Furthermore, the arithmetic expressions 22+2=24 and 50+60=110 are irrelevant calculations that do not represent a relationship between total girls and rows.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 210,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve: 2x+x=24\nA) 13\nB) x=8\nC) 4\nD) 9",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "9",
+      "4",
+      "13"
+    ],
+    "explanation": "To solve the equation 2x plus x equals 24, combine like terms to get 3x equals 24. Dividing both sides by 3 yields x equals 8, making the first option the only valid solution. The option stating 9 is incorrect because substituting it back results in 27, not 24. Similarly, 4 is wrong as it produces 12 when plugged into the equation. Finally, 13 is invalid because 2 times 13 plus 13 equals 39, which does not equal the target value of 24.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 211,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve: 3x+2x=50\nA) 15\nB) 11\nC) x=10\nD) 5",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "11",
+      "5",
+      "15"
+    ],
+    "explanation": "To solve the equation 3x plus 2x equals 50, combine like terms to get 5x equals 50. Dividing both sides by 5 yields x equals 10, making the first option the only valid solution. The second option, 11, is incorrect because substituting it results in 55, which exceeds the given total of 50. The third option, 5, is wrong because multiplying it by 5 gives 25, which is half the required value. The fourth option, 15, fails because 15 times 5 equals 75, far exceeding the equation's constraint. Therefore, only the value of 10 satisfies the mathematical relationship presented in the problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 212,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve: 5x+6x=110\nA) 5\nB) x=10\nC) 15\nD) 11",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "11",
+      "5",
+      "15"
+    ],
+    "explanation": "To solve the equation, combine the like terms 5x and 6x to get 11x equals 110. Dividing both sides by 11 yields x equals 10, which matches the solution. Option A is wrong because it fails to combine terms before dividing. Option B is incorrect as it represents only the coefficient of the first term. Option C is wrong because it adds the constant 6 to the variable sum instead of dividing the total product.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 213,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Simplify: 3(6x-4)+2(3x-3) Show your work\nA) Solving: m=3m\nm=3\nChecking\n[nothing]\nB) 24x-18\nC) n=20n+2n\nD) 3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x",
+      "Solving: m=3m\nm=3\nChecking\n[nothing]",
+      "n=20n+2n"
+    ],
+    "explanation": "The correct answer, 24x-18, is right because it correctly applies the distributive property to get 18x-12 and 6x-6, then combines like terms to reach 24x-18. The first wrong answer fails to combine the x terms after distribution, leaving 18x-18+6x instead of simplifying to 24x-18. The second option incorrectly solves an unrelated equation for m and n, ignoring the simplification task entirely. The third choice presents a nonsensical string of variables and numbers that does not follow any valid algebraic steps for this problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 411,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart shows the distribution of nursing shifts at a hospital: Day shift is 40%, Evening shift is 35%, and Night shift is 25%. If there are 200 nurses total, how many work the Night shift?\n\nA) 50  B) 45  C) 40  D) 55",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "45",
+      "40",
+      "55"
+    ],
+    "explanation": "To find the number of nurses on the Night shift, multiply the total number of nurses by the Night shift percentage shown in the chart. Since 25% of 200 nurses work the Night shift, the calculation is 0.25 times 200, which equals exactly 50 nurses. Option A correctly states this result of 50 nurses based on the provided percentages. Option B is incorrect because it likely calculates the Day shift count of 80 nurses instead. Option C is wrong as it probably represents the Evening shift total of 70 nurses. Option D is inaccurate because it may sum all shifts or use an incorrect percentage for the calculation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 412,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A bar graph displays a patient's temperature readings over four days: Monday: 98.6\u00b0F, Tuesday: 99.2\u00b0F, Wednesday: 100.1\u00b0F, Thursday: 99.8\u00b0F. On which day was the patient's temperature the highest?\n\nA) Monday  B) Tuesday  C) Wednesday  D) Thursday",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Monday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "explanation": "Option C is correct because the bar graph shows Wednesday's temperature at 100.1\u00b0F, which is the highest value among all four days listed. The other options are incorrect as they point to days with lower readings: Monday was 98.6\u00b0F, Tuesday was 99.2\u00b0F, and Thursday was 99.8\u00b0F. Since 100.1\u00b0F exceeds every other recorded temperature, Wednesday is the only day where the patient reached the peak fever. This question requires comparing specific numerical data points to identify the maximum value accurately.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 413,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table lists medication dosages based on patient weight: 50 kg = 10 mg, 60 kg = 12 mg, 70 kg = 14 mg. Following this pattern, what would be the dosage for a patient weighing 80 kg?\n\nA) 15 mg  B) 16 mg  C) 18 mg  D) 20 mg",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "15 mg",
+      "18 mg",
+      "20 mg"
+    ],
+    "explanation": "The pattern shows a 2 mg increase for every 10 kg weight gain, so 80 kg requires 16 mg. Option B correctly identifies this value based on the linear progression in the table. Option A is wrong because it likely suggests 14 mg, which ignores the final step. Option C is incorrect as it probably proposes 18 mg, exceeding the established rate. Option D is wrong since it might list 12 mg, repeating an earlier dosage instead of calculating the new one.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 414,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph tracks a patient's fluid intake: 8 AM: 200 mL, 10 AM: 150 mL, 12 PM: 300 mL. What is the total fluid intake recorded by 12 PM?\n\nA) 550 mL  B) 650 mL  C) 650 mL  D) 750 mL",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "550 mL",
+      "600 mL",
+      "750 mL"
+    ],
+    "explanation": "The total fluid intake is found by summing the recorded amounts at 8 AM, 10 AM, and 12 PM, which equals 650 mL. Option C correctly identifies this sum, while A, B, and D fail to add all three values together. Specifically, A likely omits the 12 PM entry, B might double the 8 AM amount, and D could subtract instead of adding. The question requires a simple addition of the three distinct data points provided in the graph description.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 415,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A clinic's daily patient visits are recorded in a table: Monday: 15, Tuesday: 20, Wednesday: 25. What was the average number of visits per day over these three days?\n\nA) 15  B) 20  C) 26  D) 40",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "15",
+      "26",
+      "40"
+    ],
+    "explanation": "To find the average, sum the visits (15 + 20 + 25 = 60) and divide by the three days, yielding 20. Option B states 20, which matches this calculation. Option A is incorrect because it likely ignores division or miscalculates the sum. Option C is wrong as it may represent the total visits rather than the average per day. Option D is incorrect because it could stem from averaging only two days or using an erroneous number. This question tests basic arithmetic mean skills.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 416,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A frequency table shows the ages of patients in a waiting room: Ages 20-29: 5 patients, Ages 30-39: 10 patients, Ages 40-49: 15 patients. Which age group has the highest frequency?\n\nA) Ages 20-29  B) Ages 30-39  C) Ages 40-49  D) No single group has the highest frequency",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Ages 20-29",
+      "Ages 30-39",
+      "No single group has the highest frequency"
+    ],
+    "explanation": "Option C correctly identifies the 40-49 age group as having the highest frequency of 15 patients, which exceeds the counts for other groups. Option A is incorrect because the 20-29 group only has 5 patients, the lowest total. Option B fails since the 30-39 group has 10 patients, which is less than 15. Option D is wrong as it does not correspond to the group with the maximum frequency shown in the table.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 417,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart shows a household budget: Rent is 50%, Food is 30%, and Savings is 20%. If the amount spent on Food is \\$600, how much is spent on Rent?\n\nA) \\$360  B) \\$400  C) \\$300  D) \\$200",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\$360",
+      "\\$400",
+      "\\$200"
+    ],
+    "explanation": "The correct answer is C because if Food at 30% equals \\$600, then 1% is \\$200, making Rent at 50% equal \\$1000. Option A is wrong as it likely miscalculates the percentage value. Option B is incorrect because it might confuse the percentages or the total amount. Option D is wrong as it probably uses an incorrect multiplier. The math confirms C is the only valid choice for Rent.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 418,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows a store's monthly sales: January: \\$100, February: \\$120, March: \\$150. What is the percent increase in sales from January to March?\n\nA) 33.3%  B) 40%  C) 50%  D) 60%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "33.3%",
+      "40%",
+      "60%"
+    ],
+    "explanation": "The percent increase from January to March is calculated by finding the difference (\\$150 - \\$100 = \\$50), dividing by the original amount (\\$50 / \\$100 = 0.5), and converting to a percentage (50%). Option C correctly states 50%. Option A is incorrect because it likely calculates the raw difference or divides by the final month's sales. Option B is wrong as it might use the wrong formula entirely, such as multiplying instead of dividing. Option D is incorrect because it probably calculates the increase from February to March or uses an incorrect base value. The math confirms C is the only valid choice for the total growth over the two-month period.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 419,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph tracks a runner's heart rate: Resting: 70 bpm, Walking: 100 bpm, Sprinting: 150 bpm. By how many beats per minute did the heart rate increase from Walking to Sprinting?\n\nA) 50 bpm  B) 80 bpm  C) 100 bpm  D) 120 bpm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "50 bpm",
+      "100 bpm",
+      "120 bpm"
+    ],
+    "explanation": "The question asks for the heart rate increase from Walking to Sprinting. Option B states 50 bpm, which is correct because subtracting the Walking rate (100 bpm) from the Sprinting rate (150 bpm) yields exactly 50. Option A claims 80 bpm, which is wrong as it incorrectly subtracts the Resting rate (70 bpm) from the Sprinting rate instead of the Walking rate. Option C suggests 150 bpm, which is incorrect because it mistakenly uses the Sprinting heart rate value as the difference rather than calculating the gap. Option D proposes 220 bpm, which is wrong since it adds the Walking and Sprinting rates together instead of finding their difference.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 420,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot displays study hours versus test scores for a group of students. The plotted points generally slope upwards from left to right. What does this trend indicate?\n\nA) There is no relationship between study hours and test scores.  B) As study hours increase, test scores tend to increase.  C) As study hours increase, test scores tend to decrease.  D) Test scores are constant regardless of the number of study hours.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "There is no relationship between study hours and test scores.",
+      "As study hours increase, test scores tend to decrease.",
+      "Test scores are constant regardless of the number of study hours."
+    ],
+    "explanation": "The upward slope in the scatter plot indicates a positive correlation between study hours and test scores, making option B the correct choice. Options A, C, and D are incorrect because they suggest no relationship, a negative trend, or a random pattern, none of which match the observed upward direction. This specific visual evidence confirms that increased study time is linked to higher scores.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 421,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A hospital staffing table shows: Nurse A works three 8-hour shifts, and Nurse B works four 6-hour shifts. What is the total number of hours worked by both nurses?\n\nA) 32 hours  B) 56 hours  C) 64 hours  D) 48 hours",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "32 hours",
+      "56 hours",
+      "48 hours"
+    ],
+    "explanation": "To find the total hours, calculate Nurse A's 24 hours (3 times 8) plus Nurse B's 24 hours (4 times 6), resulting in 48 total. Option C correctly states this sum. Option A is wrong because it likely ignores one nurse's shifts. Option B is incorrect as it probably adds the shift counts instead of hours. Option D fails by miscalculating the multiplication for one of the nurses.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 422,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A stacked bar chart shows the ER patient population: 40% are pediatric and 60% are adult. If the total number of ER patients represented by the bar is 100, how many are adults?\n\nA) 40  B) 60  C) 60  D) 100",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "40",
+      "60",
+      "100"
+    ],
+    "explanation": "The question asks for the number of adult patients given that 60% of the 100 total ER patients are adults. Option C states 60, which is correct because 60% of 100 equals 60. Option A is wrong as it likely suggests 40, confusing the pediatric percentage with the adult count. Option B might propose 100, incorrectly assuming all patients are adults despite the 60% statistic. Option D could be 140, an impossible number exceeding the total patient count. Thus, only C aligns with the 60% adult figure.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 423,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table lists vaccine doses administered by two clinics: Clinic A gave 150 doses and Clinic B gave 250 doses. What is the ratio of doses given by Clinic A to Clinic B?\n\nA) \\$2:3\\$  B) \\$3:4\\$  C) \\$3:5\\$  D) \\$5:3\\$",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\$2:3\\$",
+      "\\$3:4\\$",
+      "\\$5:3\\$"
+    ],
+    "explanation": "The ratio of Clinic A's 150 doses to Clinic B's 250 doses simplifies to 3:5 when dividing both numbers by their greatest common divisor, 50. Option C correctly represents this simplified 3:5 ratio, while Option A likely shows the unsimplified 150:250, Option B might reverse the order to 5:3, and Option D could present an incorrect fraction like \\(\\frac{3}{2}\\). Since the question asks for the specific relationship between the two given values, only the mathematically reduced form accurately answers the prompt without extra information.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 424,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph shows a patient's blood pressure over three months: January: 130 mmHg, February: 128 mmHg, March: 126 mmHg. If the trend continues linearly, what would the expected blood pressure be in April?\n\nA) 124 mmHg  B) 122 mmHg  C) 120 mmHg  D) 118 mmHg",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "124 mmHg",
+      "120 mmHg",
+      "118 mmHg"
+    ],
+    "explanation": "The expected blood pressure in April is 124 mmHg because the trend decreases by 2 mmHg each month. Option B correctly identifies this value, while A suggests 122 mmHg, C implies 126 mmHg, and D states 128 mmHg. All wrong answers fail to account for the consistent linear drop of 2 mmHg observed from January through March.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 425,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot shows the following approximate data points relating years of experience to hourly wage: (1 yr, \\$10), (2 yrs, \\$12), (3 yrs, \\$14), (4 yrs, \\$18). If the general trend is used to predict the wage for 5 years of experience, which is the most reasonable estimate?\n\nA) \\$20  B) \\$16  C) \\$24  D) \\$18",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\$16",
+      "\\$24",
+      "\\$18"
+    ],
+    "explanation": "The wage increases by \\$2 per year for the first three years, but jumps \\$4 between year 3 and year 4. The most reasonable linear trend line through these points roughly averages to a \\$2.50 increase per year, or follows the steeper recent trend slightly tempered, pointing closely to \\$20.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 426,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A histogram displays patient weights in intervals: 100-110 lbs (2 patients), 110-120 lbs (5 patients), 120-130 lbs (8 patients), 130-140 lbs (3 patients). In which weight interval does the median patient fall?\n\nA) 110-120 lbs  B) 100-110 lbs  C) 120-130 lbs  D) 130-140 lbs",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "110-120 lbs",
+      "100-110 lbs",
+      "130-140 lbs"
+    ],
+    "explanation": "First, find the total number of patients: 2 + 5 + 8 + 3 = 18. The median is the average of the 9th and 10th patients when ordered. The first 7 patients fall in the 100-120 lbs range. Patients 8 through 15 fall in the 120-130 lbs range. Since both the 9th and 10th patients are in this group, the median interval is 120-130 lbs.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 427,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table lists medical supply costs: Gloves are \\$2 per box, and Masks are \\$5 per box. A department has a budget of \\$100. If they purchase 10 boxes of masks, how many boxes of gloves can they buy with the remaining money?\n\nA) 10  B) 15  C) 18  D) 20",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "10",
+      "15",
+      "20"
+    ],
+    "explanation": "The department spends \\$50 on ten mask boxes, leaving \\$50 for gloves. Since gloves cost \\$2 per box, they can buy 25 boxes. Option C states 25, which matches the calculation. Option A suggests 10, ignoring the mask cost entirely. Option B implies 50, forgetting gloves are \\$2 each. Option D claims 20, miscalculating the remaining funds.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 428,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph tracks a patient's weight loss over 4 weeks: Week 1: 180 lbs, Week 2: 176 lbs, Week 3: 174 lbs, Week 4: 170 lbs. What is the approximate percent decrease in weight from Week 1 to Week 4?\n\nA) 2.22%  B) 5.56%  C) 6.25%  D) 11.11%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "2.22%",
+      "6.25%",
+      "11.11%"
+    ],
+    "explanation": "The percent decrease is calculated by dividing the weight lost (30 lbs) by the initial weight (180 lbs), yielding 16.7%, which matches option B. Options A, C, and D are incorrect because they likely result from dividing by the wrong number or miscalculating the total loss. Specifically, A might use the final weight as the base, C could ignore the initial value, and D may double the loss. The math confirms B is the only accurate approximation of the 16.7% drop.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 429,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart divides a 300-pill inventory into three medications by degree: Med A takes up 120\u00b0, Med B takes up 150\u00b0, and Med C takes up 90\u00b0. How many pills are Med B?\n\nA) 120  B) 150  C) 100  D) 90",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "120",
+      "150",
+      "90"
+    ],
+    "explanation": "To find Med B pills, divide its 150\u00b0 share by the total 360\u00b0 and multiply by 300 pills. This yields 125 pills, matching option C. Option A is wrong because it likely ignores the degree-to-pill conversion. Option B is incorrect as it may use an improper fraction or miscalculate the ratio. Option D fails since it does not align with the proportional math required. The question asks for Med B count based on pie chart degrees.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 430,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A data table shows a patient's daily blood sugar readings for four days: 90 mg/dL, 95 mg/dL, 100 mg/dL, 105 mg/dL. What is the difference between the mean of these readings and the range of these readings?\n\nA) 0  B) 10  C) 20  D) 30",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "82.5",
+      "5",
+      "15"
+    ],
+    "explanation": "The mean of 90, 95, 100, and 105 is 97.5. The range is 105 minus 90, which equals 15. Subtracting the range from the mean gives 97.5 minus 15, resulting in 82.5. Option B matches this calculation. Option A is incorrect because it likely adds the values instead of finding the mean. Option C is wrong as it might confuse the mean with the median or range. Option D is incorrect because it could subtract the mean from the range or use wrong arithmetic.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 431,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A hospital bed is 1.5 meters long. How many centimeters long is the bed?\n\nA) 15 centimeters  B) 150 centimeters  C) 1500 centimeters  D) 15000 centimeters",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "15 centimeters",
+      "1500 centimeters",
+      "15000 centimeters"
+    ],
+    "explanation": "The bed is 1.5 meters long, and since 1 meter equals 100 centimeters, multiplying 1.5 by 100 gives 150 centimeters. Option B correctly states 150 cm. Option A is wrong because it likely confuses meters with centimeters without conversion. Option C is incorrect as it may use an improper decimal shift. Option D is wrong because it fails to apply the standard metric conversion factor accurately.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 432,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A rectangular patient room is 5 meters wide and 12 meters long. What is the perimeter of the room?\n\nA) 17 meters  B) 60 meters  C) 44 meters  D) 26 meters",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "17 meters",
+      "60 meters",
+      "26 meters"
+    ],
+    "explanation": "The perimeter of a rectangle is calculated by adding twice the width and twice the length, which equals 34 meters for this room. Option C correctly states 34 meters, matching the formula 2(5 + 12). Option A is wrong because it likely confuses perimeter with area, yielding 60 square meters instead of a linear distance. Option B is incorrect as it may only add the dimensions once, resulting in 17 meters, which ignores the full boundary. Option D is wrong because it might double the area or use an invalid calculation method unrelated to the perimeter definition.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 433,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A bottle of liquid medication weighs 3 kilograms. What is its weight in grams?\n\nA) 30 grams  B) 300 grams  C) 3,000 grams  D) 30,000 grams",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "30 grams",
+      "300 grams",
+      "3,000 grams"
+    ],
+    "explanation": "The correct answer is D because converting 3 kilograms to grams requires multiplying by 1,000, resulting in 3,000 grams. Option A is wrong as it likely suggests 30 grams, which ignores the standard metric conversion factor. Option B is incorrect if it proposes 300 grams, mistakenly dividing instead of multiplying. Option C fails if it states 30,000 grams, erroneously multiplying by 10,000 rather than 1,000.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 434,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A square surgical tray has a side length of 9 inches. What is the perimeter of the tray?\n\nA) 18 inches  B) 36 inches  C) 81 inches  D) 54 inches",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "18 inches",
+      "36 inches",
+      "54 inches"
+    ],
+    "explanation": "The perimeter of a square is four times its side length, so multiplying 9 inches by 4 yields 36 inches, making option C the only correct choice. Options A, B, and D are incorrect because they likely result from calculation errors or misapplying formulas, such as finding the area instead of the perimeter. Since the question asks for the total distance around the tray, any answer not equal to 36 inches fails to meet the geometric definition of perimeter.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 435,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A nurse's station countertop is 4 meters long and 2 meters wide. What is the area of the countertop?\n\nA) 6 square meters  B) 8 square meters  C) 10 square meters  D) 12 square meters",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "6 square meters",
+      "10 square meters",
+      "12 square meters"
+    ],
+    "explanation": "The area of a rectangle is found by multiplying its length by its width. For this countertop, multiplying 4 meters by 2 meters yields 8 square meters, which matches option B. Option A suggests 6 square meters, likely from adding the dimensions instead of multiplying. Option C proposes 12 square meters, perhaps by incorrectly using a different formula. Option D states 16 square meters, which would result from squaring the length alone. Only option B correctly applies the area formula to the given measurements.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 436,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient drinks 250 milliliters of water. How many liters is this equivalent to?\n\nA) 0.25 L  B) 0.025 L  C) 25 L  D) 2.5 L",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "0.25 L",
+      "25 L",
+      "2.5 L"
+    ],
+    "explanation": "The question asks to convert 250 milliliters to liters. Since there are 1,000 milliliters in one liter, dividing 250 by 1,000 yields 0.25 liters, which matches option B. Option A is incorrect because it likely suggests 250 liters, ignoring the decimal shift needed for unit conversion. Option C is wrong as it may propose 2.5 liters, mistakenly moving the decimal one place too far. Option D is invalid because it could state 0.025 liters, which represents an extra decimal place error.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 437,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A medical supply box has dimensions of 2 cm, 3 cm, and 4 cm. What is its volume?\n\nA) 9 cm\u00b3  B) 12 cm\u00b3  C) 24 cm\u00b3  D) 48 cm\u00b3",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "9 cm\u00b3",
+      "12 cm\u00b3",
+      "48 cm\u00b3"
+    ],
+    "explanation": "The volume of a rectangular prism is found by multiplying its length, width, and height. Option C correctly calculates 2 times 3 times 4 to equal 24 cubic centimeters. Options A, B, and D are incorrect because they fail to use the proper multiplication formula for volume. Only C provides the accurate result based on the given dimensions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 438,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the area of a triangular bandage with a base of 10 cm and a height of 6 cm?\n\nA) 30 cm\u00b2  B) 60 cm\u00b2  C) 120 cm\u00b2  D) 150 cm\u00b2",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "30 cm\u00b2",
+      "120 cm\u00b2",
+      "150 cm\u00b2"
+    ],
+    "explanation": "The area of a triangle is found by multiplying the base by the height and dividing by two. Using the given values of 10 cm and 6 cm, the calculation is (10 * 6) / 2, which equals 30 square centimeters. Option B correctly states this result, while A, C, and D provide incorrect numerical values that do not match the formula. This question tests basic geometry skills required for the TEAS exam.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 439,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A wound dressing covers an area of 5,000 square millimeters. How many square centimeters is this?\n\nA) 50  B) 500  C) 50000  D) 500000",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "50",
+      "500",
+      "5000"
+    ],
+    "explanation": "Option C is right because it converts 5,000 square millimeters to 50 square centimeters by dividing by 100, the correct factor for area. The wrong choices fail this math: A suggests 500, B implies 5, and D claims 5000, all ignoring that 1 cm\u00b2 equals 100 mm\u00b2. Since 5,000 divided by 100 is exactly 50, only C reflects the proper unit conversion for the wound dressing area.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 440,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A cylindrical vial has a radius of 2 cm and a height of 10 cm. What is its approximate volume? (Use 3.14 for \\(\\pi\\))\n\nA) 12.56 cm\u00b3  B) 125.6 cm\u00b3  C) 251.2 cm\u00b3  D) 502.4 cm\u00b3",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "12.56 cm\u00b3",
+      "251.2 cm\u00b3",
+      "502.4 cm\u00b3"
+    ],
+    "explanation": "The volume of a cylinder is calculated using the formula V = \\(\\pi\\)r\u00b2h. Substituting the given values, we get V = 3.14 \u00d7 2\u00b2 \u00d7 10 = 125.6 cm\u00b3. Option B matches this result, making it the correct choice. Options A, C, and D are incorrect because they do not align with the calculated volume of 125.6 cm\u00b3.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 441,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A doctor prescribes 5 grams of a medication. How many milligrams is this?\n\nA) 50  B) 500  C) 5000  D) 50000",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "50 mg",
+      "500 mg",
+      "5000 mg"
+    ],
+    "explanation": "To convert 5 grams to milligrams, multiply by 1,000 since there are 1,000 mg in 1 g, yielding 5,000 mg. Option D is correct because it states 5,000 mg. Option A (50 mg) is wrong as it divides instead of multiplies. Option B (500 mg) is incorrect because it only multiplies by 100. Option C (5,000,000 mg) is wrong as it multiplies by 1,000,000.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 442,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "An L-shaped desk is made of two rectangles: one is 4 ft by 3 ft, and the other is 2 ft by 3 ft. What is the total perimeter of the outside edges of the desk?\n\nA) 20 ft  B) 22 ft  C) 24 ft  D) 26 ft",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "20 ft",
+      "22 ft",
+      "26 ft"
+    ],
+    "explanation": "The correct option C calculates the perimeter by summing the outer edges: 4 + 3 + 2 + 3 + 3 + 2, which equals 17 feet. Options A, B, and D are incorrect because they likely include internal shared sides or miscalculate the total length of the outer boundary. The key is to trace only the outside edges of the L-shape without double-counting the segment where the two rectangles meet. This method ensures the accurate measurement of the desk's total perimeter.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 443,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the surface area of a rectangular box with dimensions 2 cm, 3 cm, and 4 cm?\n\nA) 44 cm\u00b2  B) 50 cm\u00b2  C) 52 cm\u00b2  D) 60 cm\u00b2",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "44 cm\u00b2",
+      "50 cm\u00b2",
+      "60 cm\u00b2"
+    ],
+    "explanation": "The surface area of a box is 2(lw + lh + wh), which for 2, 3, and 4 cm equals 2(6 + 8 + 12) = 48 cm\u00b2. Option C states 48 cm\u00b2, matching this calculation. Option A likely lists 37 cm\u00b2, which is the volume (2\u00d73\u00d74), not surface area. Option B might show 24 cm\u00b2, perhaps from adding dimensions incorrectly. Option D could be 52 cm\u00b2, a common error from misapplying the formula. Only C correctly uses the surface area formula with the given dimensions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 444,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "An IV solution contains 50 mg of a drug in every 5 mL of fluid. Using unit analysis, how many milligrams of the drug are in 15 mL of fluid?\n\nA) 15 mg  B) 50 mg  C) 75 mg  D) 100 mg",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "15 mg",
+      "75 mg",
+      "100 mg"
+    ],
+    "explanation": "To solve this, set up a ratio where 50 mg corresponds to 5 mL, then multiply by 15 mL to find the total drug amount. Option B correctly calculates 300 mg by scaling the concentration three times. Option A is wrong because it fails to account for the full volume, yielding an incorrect low number. Option C is incorrect as it likely adds volumes instead of multiplying concentrations. Option D is wrong because it ignores the unit analysis entirely, producing a random value.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 445,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the approximate volume of a cone-shaped container with a radius of 3 cm and a height of 4 cm? (Use 3.14 for \\(\\pi\\))\n\nA) 37.68 cm\u00b3  B) 37.7 cm\u00b3  C) 150.72 cm\u00b3  D) 12.56 cm\u00b3",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "37.68 cm\u00b3",
+      "150.72 cm\u00b3",
+      "12.56 cm\u00b3"
+    ],
+    "explanation": "The volume of a cone is found using V = (\\(\\frac{1}{3}\\))\\(\\pi\\)r\u00b2h. Plugging in r = 3, h = 4, and \\(\\pi\\) = 3.14 gives V \u2248 (\\(\\frac{1}{3}\\))(3.14)(9)(4) \u2248 37.68 cm\u00b3. Option B matches this result. Option A is too high because it likely forgets the \\(\\frac{1}{3}\\) factor. Option C is incorrect as it may use the wrong radius or height values. Option D is wrong because it calculates the volume of a cylinder instead of a cone.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 446,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A car is traveling at a speed of 36 kilometers per hour. What is its speed in meters per second?\n\nA) 10  B) 12  C) 100  D) 36",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "12",
+      "100",
+      "36"
+    ],
+    "explanation": "To convert 36 km/h to m/s, divide by 3.6 since there are 1000 meters in a kilometer and 3600 seconds in an hour. The calculation 36 divided by 3.6 equals exactly 10 meters per second, making option A the correct choice. Options B, C, and D are incorrect because they fail to apply the proper unit conversion factor, resulting in values that do not match the physical reality of the speed change. This math problem tests your ability to handle standard metric conversions accurately.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 447,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the approximate area of a circular healing wound with a diameter of 10 cm? (Use 3.14 for \\(\\pi\\))\n\nA) 31.4 cm\u00b2  B) 25.0 cm\u00b2  C) 78.5 cm\u00b2  D) 157.0 cm\u00b2",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "31.4 cm\u00b2",
+      "25.0 cm\u00b2",
+      "157.0 cm\u00b2"
+    ],
+    "explanation": "The area of a circle is found by squaring the radius and multiplying by \\(\\pi\\). Since the diameter is 10 cm, the radius is 5 cm. Using 3.14 for \\(\\pi\\), the calculation is 3.14 times 25, which equals approximately 78.5 square centimeters. Option C matches this result, while A, B, and D are incorrect because they do not follow the proper formula or arithmetic steps needed to solve for the area of the circular wound.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {"id": 214, "verdict": "PASS"},
+  {"id": 215, "verdict": "PASS"},
+  {"id": 216, "verdict": "PASS"},
+  {"id": 217, "verdict": "PASS"},
+  {"id": 218, "verdict": "PASS"},
+  {"id": 219, "verdict": "PASS"},
+  {
+    "id": 220,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option A reads 'mylase' instead of 'amylase' — truncated/misspelled enzyme name renders the option incorrect."]
+  },
+  {
+    "id": 221,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Marked 'hard' but is simple recall — asking which WBC produces antibodies (B cells) is basic single-step knowledge."]
+  },
+  {
+    "id": 222,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option B reads 'ermis' instead of 'dermis' — truncated answer text."]
+  },
+  {"id": 224, "verdict": "PASS"},
+  {
+    "id": 225,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Marked 'hard' but is simple recall — identifying the Golgi apparatus as the organelle that modifies/sorts/packages proteins is basic single-step knowledge."]
+  },
+  {"id": 226, "verdict": "PASS"},
+  {
+    "id": 227,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation references option letters (A, B, C, D) but the descriptions don't match the actual option text — e.g., says 'Option C incorrectly attributes the rule to the double-helix structure' but Option C is 'Watson-Crick rule', not a description of the double helix. Explanation contradicts the question content.",
+      "Rule 8: Correct answer option D reads 'hargaff's rule' instead of 'Chargaff's rule' — truncated answer text."
+    ]
+  },
+  {"id": 228, "verdict": "PASS"},
+  {"id": 229, "verdict": "PASS"},
+  {"id": 230, "verdict": "PASS"},
+  {
+    "id": 231,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option B is wrong because it counts electrons' but Option B (14) IS the correct answer. The explanation contradicts itself by labeling the correct answer as wrong."]
+  },
+  {"id": 232, "verdict": "PASS"},
+  {"id": 233, "verdict": "PASS"},
+  {
+    "id": 234,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option B reads 'ondensation' instead of 'Condensation' — truncated answer text."]
+  },
+  {"id": 235, "verdict": "PASS"},
+  {
+    "id": 236,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option A is correct since 10⁻⁴ matches the calculated molarity' but the correct answer is D (1 × 10⁻⁴ M), not A (which contains the pH formula definition). The explanation contradicts the correct answer."]
+  },
+  {
+    "id": 237,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Marked 'hard' but is a single-step calculation — dividing 50g by 1000mL and multiplying by 100 is straightforward arithmetic."]
+  },
+  {"id": 238, "verdict": "PASS"},
+  {
+    "id": 239,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option A reads 'ontrol group' instead of 'Control group' — truncated answer text."]
+  },
+  {"id": 240, "verdict": "PASS"},
+  {
+    "id": 241,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation mischaracterizes multiple options — says 'Option B describes an educated guess' but B actually says 'A tentative, untestable explanation... that cannot be falsified'; says 'C confuses prediction with explanation' but C says 'A hypothesis must be testable and falsifiable' (a true statement). Explanation contradicts the actual option text."]
+  },
+  {
+    "id": 242,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option C reads 'ean plant growth rate decreases after day 15' instead of 'Bean plant...' — truncated answer text."]
+  },
+  {"id": 243, "verdict": "PASS"},
+  {"id": 244, "verdict": "PASS"},
+  {"id": 245, "verdict": "PASS"},
+  {
+    "id": 246,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option C reads 'ell membrane (plasma membrane)' instead of 'Cell membrane...' — truncated answer text."]
+  },
+  {
+    "id": 253,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option A reads 'iastole' instead of 'Diastole' — truncated answer text."]
+  },
+  {
+    "id": 270,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option A is wrong as it describes the synthesis and release process accurately but is not the primary structure of production' but Option A (Hypothalamus) IS the correct answer. The explanation labels the correct answer as wrong."]
+  },
+  {"id": 276, "verdict": "PASS"},
+  {
+    "id": 278,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option D is invalid since myosin is the specific protein responsible' but Option D (Myosin) IS the correct answer. The explanation labels the correct answer as invalid."]
+  },
+  {
+    "id": 289,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Explanation contains a factual error — it claims 'maternal anti-Rh antibodies... are produced by the mother, not present initially to cross [the placenta]' but in erythroblastosis fetalis, maternal anti-Rh antibodies absolutely DO cross the placenta to attack fetal Rh-positive RBCs. That crossing is the central mechanism of the disease."]
+  },
+  {"id": 291, "verdict": "PASS"},
+  {"id": 293, "verdict": "PASS"},
+  {"id": 295, "verdict": "PASS"},
+  {
+    "id": 296,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option D is invalid since epithelial tissue is the clear answer to the question' but Option D (Epithelial tissue) IS the correct answer. The explanation calls the correct answer 'invalid' while simultaneously saying it is the answer."]
+  },
+  {
+    "id": 298,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option B wrongly defines passive immunity as temporary without noting the receipt of pre-made antibodies' but Option B IS the correct answer and correctly states 'active immunity involves antibody production by your own body; passive immunity involves receiving pre-made antibodies.' The explanation contradicts itself."]
+  },
+  {
+    "id": 303,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer option D reads 'll cells contain a nucleus' instead of 'All cells contain a nucleus' — truncated answer text."]
+  },
+  {"id": 304, "verdict": "PASS"},
+  {
+    "id": 305,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option C is incorrect because a clear difference exists' but Option C (Eukaryotic cells have a membrane-bound nucleus; prokaryotic cells do not) IS the correct answer. The explanation labels the correct answer as incorrect."]
+  },
+  {
+    "id": 306,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option B is false because ribosomes do not translate DNA directly' but Option B (Ribosome) IS the correct answer. The explanation labels the correct answer as false."]
+  },
+  {
+    "id": 312,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation states 'Wrong answer C is invalid because a cleavage furrow does exist' but Option C (Cleavage furrow) IS the correct answer. The explanation labels the correct answer as a wrong answer.",
+      "Rule 8: Correct answer option C reads 'leavage furrow' instead of 'Cleavage furrow' — truncated answer text."
+    ]
+  },
+  {"id": 313, "verdict": "PASS"},
+  {
+    "id": 314,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option B describes RNA where uracil replaces thymine' but Option B actually says 'Guanine', not uracil. The explanation misrepresents the option content."]
+  },
+  {
+    "id": 317,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation states 'Option B is incorrect because it describes RNA's sugar, not DNA's' but Option B (Deoxyribose) IS the correct answer and is DNA's sugar. The explanation labels the correct answer as incorrect.",
+      "Rule 8: Correct answer option B reads 'eoxyribose' instead of 'Deoxyribose' — truncated answer text."
+    ]
+  }
+]

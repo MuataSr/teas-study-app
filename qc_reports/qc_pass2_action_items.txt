@@ -1,0 +1,1240 @@
+TEAS Study App — Pass 2 Action Items
+============================================================
+
+ACCEPT (no action): 80
+REVISE: 11
+REWRITE: 296
+ERROR: 917
+
+REWRITE REQUIRED
+------------------------------------------------------------
+#27 [MATH] (score: 1)
+  Issues: Options B, C, and D are completely garbled and improperly formatted. Option C restates the question within the answer choice. Option D shows an unrelated subtraction problem. The distractors are not plausible fraction answers for a simple addition problem. The explanation directly states the correct answer value.
+  Fix: Rewrite the entire question with clean formatting. Use proper fraction distractors that reflect common student errors: adding numerators and denominators (3/7), incorrect common denominator calculation, or a close but wrong answer like 5/12 or 3/4. Remove the correct answer value from the explanation and instead explain the method without stating the final result.
+
+#44 [MATH] (score: 1)
+  Issues: Distractors are nonsensical and not mathematically plausible (none of A, B, or C represent common student errors). Options are formatted inconsistently - some show equations, others show only answers. Explanation directly reveals the correct answer at the end.
+  Fix: Rewrite with plausible distractors based on common fraction multiplication errors. Format all options consistently as just the answer value. Remove the final sentence from explanation that explicitly names the correct answer. Example distractors: 4/10 (error of adding numerators/denominators), 3/8 (forgetting to multiply denominator), 4/16 (adding numerators incorrectly).
+
+#52 [MATH] (score: 1)
+  Issues: Distractors B and C are completely unrelated to the question (they're addition of negative numbers, not fraction division). Option A just restates the question with a wrong answer appended rather than providing a clean distractor. The explanation directly reveals the correct answer. This is fundamentally broken.
+  Fix: Rewrite entirely with plausible distractors that are common mistakes for fraction division (e.g., not flipping the divisor: 21/10, flipping the wrong fraction: 15/14, incorrectly simplifying: 7/6). Remove the correct answer from the explanation and instead explain the general method of dividing fractions by multiplying by the reciprocal.
+
+#86 [MATH] (score: 1)
+  Issues: The question stem is incomplete - it cuts off mid-sentence at 'of the giants that' without finishing the thought. A student cannot determine what is being asked.
+  Fix: Rewrite the complete question: 'Adrian has conquered only 6 giants in his new video game, Giant Trouble, but this is only two-fifths of the giants that he must defeat to win the game. How many total giants must he defeat?'
+
+#100 [MATH] (score: 0)
+  Issues: Question text is cut off mid-sentence ('you wan'). There is a mismatch between displayed options (A=75, C=1/2) and the distractors field (A=1/2, C=75). The explanation references wrong answers (1/3, 1.25) that are not even options. The question is fundamentally broken and unusable.
+  Fix: Rewrite the entire question. Complete the question stem (e.g., 'You changed your mind and now you want to restore it to its original size. What scaling factor must you apply?'). Ensure the options displayed match the distractors field exactly. Remove references to non-existent options from the explanation.
+
+#180 [MATH] (score: 0)
+  Issues: Question stem is incomplete/cut off mid-sentence. Option C is a full sentence explanation rather than a proper answer choice, while distractors are single digits - completely inconsistent format. Variables 'b' and 'g' are never defined in the question. Explanation references non-existent options (c, e) and mislabels options (a, b instead of A, B).
+  Fix: Rewrite entirely: Complete the question stem with a clear mathematical question about the mouse distribution. Define any variables used. Create four properly formatted, parallel answer choices (e.g., all numbers or all equations). Write an explanation that matches the actual options and teaches the reasoning without confusing mislabeling.
+
+#187 [MATH] (score: 1)
+  Issues: Question stem is incomplete - cuts off mid-sentence ('and the third'). Answer choices are in completely different formats: option A is a full worked equation while B, C, D are single numbers. It's unclear whether the question asks for the value of x or asks students to select the correct equation. The explanation doesn't teach why the answer is correct, only points out a common mistake.
+  Fix: Complete the question stem (e.g., 'The perimeter of a triangle is 44 cm. One side is 14 cm, the second side is 2x cm, and the third side is x cm. What is the value of x?'). Make all answer choices consistent single numbers. Rewrite explanation to explain setting up the perimeter equation and solving for x step by step.
+
+#190 [MATH] (score: 1)
+  Issues: The question stem is incomplete - it cuts off mid-sentence at 'If H stands for the'. Additionally, the options are inconsistent: one is an algebraic equation while the other three are random numbers with no units or context. The question never actually asks what the student should find.
+  Fix: Rewrite the entire question. Example: 'Mary's basic wage is $20 per week. She is also paid $2 for each hour of overtime she works. If H represents the number of overtime hours and W represents her total weekly wage, which equation correctly models this situation?' Then provide four distinct algebraic equations as options (e.g., W=20+2H, W=20H+2, W=2H, W=20+H).
+
+#194 [MATH] (score: 1)
+  Issues: Question stem is incomplete - ends with 'Let' and cuts off. Options are mismatched: A, B, C are numbers while D is an equation, making it unclear what is being asked. The explanation references information not in the question (50 seats, last row) and is nonsensical. No actual question is posed.
+  Fix: Rewrite the entire question. Example: 'The first row of a concert hall has 10 seats. Each row thereafter has 2 more seats than the row in front of it. Which equation represents S, the number of seats in row R?' Then provide four distinct equation options as distractors, and write an explanation that actually explains the arithmetic sequence formula.
+
+#204 [MATH] (score: 0)
+  Issues: Question text is incomplete (cuts off at 'Han'). The explanation references h=35 which is never mentioned in the question. The explanation says the answer is 245, but the correct answer is marked as m=$7h. The explanation then incorrectly explains why Option B (the supposed correct answer) is wrong. Distractors are random numbers with no apparent connection to anything.
+  Fix: Rewrite the entire question from scratch. Include complete question text that specifies the hourly rate and asks either for the equation OR a specific calculation (not both). Ensure the explanation matches the actual question, references only information provided, and does not contradict the correct answer.
+
+#209 [MATH] (score: 0)
+  Issues: The question stem is incomplete - it cuts off at 'each row' without specifying how many girls per row. Without this critical information, the question is unanswerable. Additionally, distractors A and B are nonsensical arithmetic that have no relation to the problem context, making them implausible rather than challenging.
+  Fix: Complete the question stem: 'Write an expression that could be used to represent the number of rows, if there were n girls all together and each row contains 6 girls.' Replace distractors with plausible algebraic expressions like n+6, n-6, or 6-n that represent common student errors when setting up division problems.
+
+#238 [SCIENCE] (score: 1)
+  Issues: Question stem is truncated/incomplete (cuts off at 'ke'). Distractor B is an explanation fragment, not a valid answer choice. Distractor A is meta (names the variable type rather than identifying it). Correct answer text appears verbatim in explanation.
+  Fix: Rewrite with complete question stem asking 'What is the dependent variable in this experiment?' Provide proper distractors like 'Amount of water given,' 'Number of plants used,' and 'Type of fertilizer.' Rewrite explanation without using the exact answer text.
+
+#434 [MATH] (score: 1)
+  Issues: Critical errors: The correct answer field is malformed showing 'C) 81 inches D) 54 inches'. The explanation correctly calculates perimeter as 36 inches but incorrectly identifies this as option C when option B is 36 inches. Option C (81 inches) is actually the area, not perimeter. The question is internally contradictory and broken.
+  Fix: Rewrite the entire question with correct metadata. The correct answer should be B) 36 inches. The correct answer field should only contain 'B) 36 inches'. The explanation should correctly state that option B is the answer, and clarify that 81 inches (option C) would be the area, serving as a plausible distractor for students who confuse perimeter and area formulas.
+
+#459 [MATH] (score: 0)
+  Issues: The correct answer is factually wrong: 8.2 - 7.6 = 0.6, not 1.4. The Correct Answer field is corrupted with extra text (includes distractors). The explanation contradicts itself by stating the result is 0.6 but claiming it matches option B when 0.6 is option A. This question is completely broken.
+  Fix: Rewrite entirely. Set correct answer to A) 0.6, fix the corrupted answer field, and write a coherent explanation that correctly identifies 0.6 as the answer and explains why the other options (1.4, 6.8, 8.2) are wrong.
+
+#479 [MATH] (score: 0)
+  Issues: Duplicate correct answer: both B and C show 60 cm³ in the question text. The Correct Answer field is garbled with extra text. The explanation references Option C as correct but the answer key says B. The distractors JSON shows C as 30 cm³ which contradicts the question display. Question is completely broken.
+  Fix: Rewrite the entire question with distinct answer choices: A) 12 cm³, B) 20 cm³, C) 60 cm³, D) 120 cm³. Set correct answer to C. Fix explanation to match and explain the multiplication process clearly.
+
+#1140 [READING] (score: 0)
+  Issues: The correct answer labeled as 'A' is not an answer choice at all—it is an explanation of why B is wrong. The actual main idea answer (something about low local election turnout and voter guides helping) is completely missing from the options. This question is fundamentally broken.
+  Fix: Rewrite the entire question. Replace option A with the actual main idea such as 'Voter turnout in local elections is low partly due to lack of candidate information, and voter guides can help increase participation.' Remove the explanation text from the answer choices and restructure the answer key properly.
+
+#1141 [READING] (score: 1)
+  Issues: The correct answer (Option B) is completely missing from the question. Students would see only options A, C, and D with no option B visible. The formatting is corrupted with Option A appearing twice and explanation text mixed into the answer choices.
+  Fix: Rewrite the entire question with proper formatting. Include Option B as 'To inform readers about photosynthesis and its importance' or similar, and ensure all four options are clearly presented before the correct answer is revealed.
+
+#1143 [READING] (score: 0)
+  Issues: The correct answer 'Citizens aged 18 and older' is not among the answer choices. Option D contains explanation text instead of an actual answer choice, making the question completely non-functional.
+  Fix: Rewrite entirely. Replace option D with 'Citizens aged 18 and older' as the correct answer. Remove all explanation text from the answer choices field.
+
+#1144 [READING] (score: 1)
+  Issues: Option A is completely missing from the question stem - only B, C, and D are displayed. The 'correct answer' provided is not a tone descriptor like the distractors, but rather a full analytical justification. Additionally, the correct answer text is identical to the explanation, which directly gives away the answer rather than teaching why.
+  Fix: Rewrite the question with all four options visible in the stem. Make option A a proper tone descriptor (e.g., 'Objective and factual' or 'Neutral and impersonal'). Write a separate explanation that teaches the student how to identify objective tone without copying the answer text verbatim.
+
+#1145 [READING] (score: 1)
+  Issues: Answer choices listed twice with B missing from first listing. Question asks for a 'theme' but correct answer is a factual restatement, not a thematic statement. All distractors are false factual claims rather than themes. The question type and answer format are fundamentally mismatched.
+  Fix: Rewrite entirely. If testing theme, rephrase as 'Which of the following best expresses the main idea of this passage?' and provide options like: A) Scientific discoveries often face institutional resistance, B) The Catholic Church opposed all astronomy, C) Galileo was the first to study the stars, D) Telescopes changed how people viewed the universe. Make sure correct answer is a proper main idea, not a passage excerpt.
+
+#1147 [READING] (score: 0)
+  Issues: The correct answer (D) is actually the explanation text, not a vocabulary option. None of the answer choices A-C provide the actual meaning of 'relentless' (persistent/unyielding). The question is fundamentally broken - a student cannot select the correct definition because it isn't offered as an option.
+  Fix: Rewrite entirely with proper answer choices. Include the correct meaning as one option (e.g., 'Persistent' or 'Unyielding') and keep plausible but incorrect distractors like 'Occasional,' 'Secretive,' and 'Unsuccessful.' Move the explanation to the explanation field only, not as an answer choice.
+
+#1148 [READING] (score: 2)
+  Issues: The 'correct answer' is not a conclusion drawn from the passage—it is a meta-description of what the passage does. A proper conclusion would state something like 'Dehydration may contribute to confusion and falls in older adults.' Additionally, the correct answer text appears verbatim in the explanation, which gives away the answer.
+  Fix: Rewrite with an actual conclusion as the correct answer. Example correct answer: 'Dehydration likely contributes to confusion and falls in elderly patients during heat waves.' Ensure the explanation teaches the reasoning without repeating the exact answer wording.
+
+#1149 [READING] (score: 0)
+  Issues: The correct answer B is completely missing from the answer choices. What is listed as 'Correct Answer: B)' is actually an explanation fragment ('A is wrong; the passage never says rates are unpredictable'), not an actual answer choice. The options jump from A to C to D with no B option provided.
+  Fix: Rewrite the entire question. Include a proper B option as the correct answer (e.g., 'B) Compound interest allows savings to grow significantly over time without additional deposits'), ensure all options A-D are present, and place the explanation of why each distractor is wrong only in the explanation section, not in the correct answer field.
+
+#1150 [READING] (score: 1)
+  Issues: The correct answer (C) does not actually describe the author's point of view - it describes the literary technique used (first-person pronouns). Options A, B, and D are all point-of-view descriptions, but C is a meta-explanation that doesn't answer what was asked. Additionally, the explanation begins with the exact wording of the correct answer, giving it away.
+  Fix: Rewrite the correct answer to actually describe the author's point of view (e.g., 'Supportive of jury duty despite acknowledging its inconveniences'). Make all four options parallel descriptions of potential viewpoints. Rewrite the explanation to analyze the passage content without copying the correct answer text verbatim.
+
+#1151 [READING] (score: 1)
+  Issues: Distractor A actually strengthens the argument rather than weakening it. Distractors B and C are irrelevant and not plausible. Option D is obviously correct because it is 10x longer than other options. The options are duplicated in the question text. The explanation simply restates the correct answer verbatim, giving it away completely.
+  Fix: Rewrite entirely with properly functioning distractors that could plausibly weaken the argument, make all options similar in length, remove duplicate options, and write an explanation that teaches the reasoning without copying the answer text.
+
+#1152 [READING] (score: 0)
+  Issues: Option A is not an actual answer choice - it contains meta-text 'This directly matches the description in the option' instead of stating what the Act outlawed. The correct answer content is completely missing. The explanation is circular and references non-existent content in option A.
+  Fix: Replace option A with the actual answer: 'Discrimination based on race, color, religion, sex, or national origin' and rewrite the explanation to properly justify why this is correct based on the passage without circular reasoning.
+
+#1153 [READING] (score: 0)
+  Issues: Option B is completely missing from the answer choices. The correct organizational structure (sequential/chronological order) is not even offered as an option. The answer key references B but B is undefined in the choices list. The explanation acknowledges the passage is sequential but that option doesn't exist.
+  Fix: Rewrite the entire question. Include 'Sequential/Chronological order' as option B, and ensure all four options (A, B, C, D) are properly displayed. The correct answer should be the sequential option since the passage uses first, second, third, finally transition words.
+
+#1154 [READING] (score: 0)
+  Issues: Option C is not an answer choice at all—it is meta-commentary explaining why option A is wrong. There is no correct answer among the options provided. The actual main point (that rotating pesticides is essential to slow resistance) is completely missing as a choice.
+  Fix: Replace option C with an actual answer choice such as 'Rotating different pesticide types is essential to slow insect resistance' and ensure the explanation describes the reasoning without embedding answer text verbatim.
+
+#1156 [READING] (score: 2)
+  Issues: Option B is not a proper answer choice - it's a full explanatory sentence rather than a concise option like A, C, and D. The options are not parallel in structure. Additionally, the explanation restates the correct answer verbatim, giving it away.
+  Fix: Rewrite option B as a proper answer choice format (e.g., 'To inform readers about the New Deal's programs and impact') matching the 'To [verb]...' structure of other options. Rewrite the explanation to explain why the passage is informational without restating the answer choice directly.
+
+#1157 [READING] (score: 1)
+  Issues: Option C is not a conclusion from the passage but meta-commentary about another option being wrong. Options are duplicated in the question stem. The correct answer must be an actual conclusion, not a critique of another answer choice.
+  Fix: Rewrite with proper conclusion options: A) Both types are caused by lifestyle, B) Only Type 1 causes high blood sugar, C) Both types share high blood sugar as an outcome despite different causes, D) Insulin is unnecessary in both. Correct answer should be C, and explanation should explain why C follows from the passage without restating the answer verbatim.
+
+#1158 [READING] (score: 0)
+  Issues: The correct answer (D) is not a summary at all—it's an explanation of why option A is wrong. None of A, B, or C are correct summaries of the passage. The question asks 'which best summarizes' but provides no valid summary option. The explanation incorrectly claims D is a summary. This question is fundamentally broken.
+  Fix: Rewrite entirely. The correct answer must be an actual summary like 'The Constitution divides power between federal and state governments to prevent any single level from becoming too powerful.' Distractors A, B, and C should be plausible but incorrect summaries, not false factual statements. Remove the explanation-as-answer format entirely.
+
+#1159 [READING] (score: 1)
+  Issues: The correct answer text is completely missing. Option A contains explanation text ('The other options are incorrect...') instead of the actual answer 'Without fever' or 'No fever'. The question is fundamentally broken as students cannot see or select the correct answer.
+  Fix: Rewrite the entire question with proper options: A) Without fever, B) With high fever, C) With low blood pressure, D) Short of breath. Ensure the correct answer text appears only in Option A and the explanation does not repeat the answer verbatim.
+
+#1161 [READING] (score: 1)
+  Issues: The question asks for an 'example' of homeostasis but the correct answer is a definition, not an example. None of the answer choices are actual examples of homeostasis. The answer choices are also duplicated in the question text. The explanation acknowledges the actual examples (sweating, blood sugar regulation) weren't provided as options.
+  Fix: Rewrite entirely. Either change the question to ask for the definition, or change the answer choices to include actual examples like 'Sweating when body temperature rises' or 'Releasing glucagon when blood sugar drops' as the correct answer, with plausible non-homeostasis distractors like 'Shivering when entering a cold room' or 'Coughing when inhaling dust'.
+
+#1162 [READING] (score: 1)
+  Issues: Option D is not a tone description but an explanation. The question asks 'What is the author's tone?' but no answer choice actually states the tone (e.g., 'urgent,' 'assertive,' 'advocacy-driven'). Options are duplicated in the question text. The explanation IS the answer choice, giving it away completely.
+  Fix: Rewrite entirely. Create four distinct tone options: one correct (e.g., 'Urgent and persuasive') and three plausible distractors (e.g., 'Calm and detached,' 'Apologetic and uncertain,' 'Humorous and lighthearted'). Write a separate explanation that teaches how to identify tone markers without copying the answer verbatim.
+
+#1164 [READING] (score: 2)
+  Issues: Option B is written as an explanation rather than a concise main idea statement. Option A is duplicated in the question text. The format is broken with the correct answer appearing as explanatory text rather than a proper answer choice.
+  Fix: Rewrite option B as an actual main idea statement like 'The Marshall Plan helped rebuild Europe's economies to prevent communism and restore trade.' Remove the duplicate option A. Ensure all answer choices are parallel, concise statements that could plausibly be main ideas.
+
+#1165 [READING] (score: 1)
+  Issues: Question stem is incomplete ('What structure?' should specify text/organizational structure). The correct answer option C is not a structure type but rather an explanation sentence. The actual correct answer 'cause-effect' is missing from options entirely. Options A, B, D are structure types while C is a full explanation, making them inconsistent. Explanation gives away the answer directly.
+  Fix: Rewrite completely: Question stem should ask 'What text structure is used in this passage?' Options should be: A) Chronological B) Compare-contrast C) Cause-effect D) Description. Correct answer should be C. Explanation should explain why the passage demonstrates cause-effect without copying the exact wording of the correct answer into the explanation.
+
+#1166 [READING] (score: 2)
+  Issues: Duplicate options listed twice in the question. Correct answer D is dramatically longer than distractors, making it obvious through test-taking strategy alone. Explanation contains verbatim text of the correct answer, giving it away. Distractors are all directly contradicted by the passage and too easy to eliminate without careful reasoning.
+  Fix: Rewrite with balanced option lengths. Create plausible distractors that require careful reading to eliminate (e.g., partially true statements, inferences beyond the passage). Make explanation teach the reasoning without restating the correct answer verbatim. Remove duplicate options.
+
+#1167 [READING] (score: 0)
+  Issues: The correct answer A does not exist as an option. The 'correct answer' text only explains why B is wrong rather than stating the actual answer. The explanation references 'a dropped gauze pad' which does not appear anywhere in the question or options. All listed options (B, C, D) violate sterile technique, so there is no valid correct answer among the choices.
+  Fix: Rewrite the question entirely. Include a correct action that follows sterile technique (e.g., 'Discarding a sterile item that fell on the floor') as option A, and ensure all distractors are clearly incorrect actions. Make sure the correct answer text actually states what the correct action is, not just why other options are wrong.
+
+#1168 [READING] (score: 0)
+  Issues: The correct answer (B) is not a point of view option at all - it's an explanation of why A is wrong. The actual correct answer 'third person' is not listed among the choices. The explanation explicitly states 'Option B is right' which gives away the answer. The question is fundamentally broken.
+  Fix: Rewrite entirely. Include 'Third person objective' as an option and make it the correct answer. Remove explanation text from answer choices. Rewrite explanation to explain WHY third person is correct based on pronouns used (he, his) without explicitly stating which option is correct.
+
+#1169 [READING] (score: 0)
+  Issues: The correct answer (C) is not a conclusion from the passage - it is meta-commentary explaining why option A is wrong. No valid conclusion option is provided. The question is fundamentally broken.
+  Fix: Rewrite entirely. Replace option C with an actual conclusion such as 'Expectations can produce real physiological changes' or 'The placebo effect demonstrates mind-body connections.' Remove the meta-commentary that currently serves as the 'correct answer.'
+
+#1171 [READING] (score: 1)
+  Issues: The correct answer option A text is completely missing from the question. The options list shows B, C, and D but never states what A actually is. Additionally, there are duplicate option listings creating formatting confusion. The explanation references Option A being correct but never reveals what it says.
+  Fix: Rewrite the entire question with all four complete options clearly listed. Option A should be something like 'To instruct' or 'To explain a procedure.' Remove the duplicate option listings and ensure the correct answer text is present before the explanation.
+
+#1173 [READING] (score: 1)
+  Issues: The correct answer C is not a summary at all—it's a meta-statement criticizing option A. A summary question must have summary options as answer choices. The explanation falsely claims C 'captures all three' elements of the passage when C contains zero summarizing content. Options are duplicated in the question text.
+  Fix: Rewrite entirely with actual summary options. Example correct answer: 'Osmosis is the passive movement of water across semipermeable membranes from low to high solute concentration.' Distractors should be plausible but inaccurate summaries like 'Osmosis requires energy to move solutes across membranes' or 'Water moves from high to low solute concentration during osmosis.'
+
+#1174 [READING] (score: 0)
+  Issues: The correct answer D is not a definition of 'ambiguous' - it is meta-commentary explaining why option A is wrong. None of the answer choices actually provide the correct definition of ambiguous (unclear/open to interpretation). The question asks 'what does ambiguous mean?' but no option answers that question.
+  Fix: Rewrite with proper answer choices: A) Very clear B) Proven false C) Highly significant D) Unclear or open to multiple interpretations. The correct answer should be D, and the explanation should explain why the context clues (difficult to draw firm conclusions, conflicting data) point to the definition being unclear.
+
+#1176 [READING] (score: 1)
+  Issues: Option B is completely missing from the answer choices - only A, C, and D appear. Option A is duplicated. The 'correct answer' listed is actually explanation text, not a proper answer choice. The explanation quotes the exact phrase that should constitute the answer choice, giving it away entirely.
+  Fix: Rewrite the entire question with four proper answer choices including a clear option B such as 'Critical and informative' or 'Skeptical and warning'. Remove the quoted phrase from the explanation and instead explain the reasoning without revealing the answer text directly.
+
+#1178 [READING] (score: 0)
+  Issues: The correct answer (emergencies where patient lacks capacity) is not offered as any of the answer choices. Options A, B, and C are all scenarios where consent IS required per the passage. Option D is an explanation rather than a proper answer choice. The question is unanswerable as written.
+  Fix: Rewrite with proper answer choices that include 'emergencies where patient lacks capacity' as an option. Example: A) Elective surgery B) Routine vaccination C) Research participation D) Emergency treatment when patient lacks capacity
+
+#1179 [READING] (score: 0)
+  Issues: The correct answer 'Problem-Solution' is not listed as any option. Option A contains a meta-explanation about D being wrong rather than stating an actual text structure. This makes the question completely non-functional.
+  Fix: Rewrite with proper options: A) Problem-Solution B) Chronological order C) Compare-contrast D) Cause-effect. Make sure the correct answer option actually states the text structure name, not an explanation about another option.
+
+#1180 [READING] (score: 1)
+  Issues: Option B is completely broken - it contains explanation text instead of an actual answer choice. The correct answer text is missing entirely from the options. The explanation also directly gives away the answer by starting with 'Option B is right.'
+  Fix: Rewrite with four complete, distinct inference options. The correct answer should be something like 'Vaccinated individuals can still be affected when community coverage is below herd immunity threshold.' Remove the answer giveaway from explanation opening.
+
+#1182 [READING] (score: 0)
+  Issues: Correct answer D is not a definition of 'mitigate' - it's an explanation of why another option is wrong. No option actually provides the correct definition (reduce/lessen). The explanation falsely claims Option D states 'reduce or lessen' when it doesn't. The question structure is fundamentally broken.
+  Fix: Rewrite entirely with proper answer choices: A) Increase B) Reduce C) Ignore D) Cause. Correct answer should be B) Reduce. The explanation should then explain why reduce is correct and why the other options are wrong based on context clues.
+
+#1184 [READING] (score: 0)
+  Issues: Option B is not an actual answer choice—it is an explanation fragment about why option A is wrong. The actual main idea (that stewardship programs reduce resistance through careful prescribing) is completely missing from all answer options. This question is fundamentally broken as no correct answer exists.
+  Fix: Replace option B with the actual main idea: 'Antibiotic stewardship programs help reduce resistance by promoting careful prescribing practices.' Then rewrite the explanation to explain why this captures the main idea without giving away the answer directly in the option text.
+
+#1185 [READING] (score: 0)
+  Issues: The question is fundamentally broken. Option C does not exist in the original answer choices (only A, B, D are listed). The 'correct answer' C is actually just the explanation text, not a valid point of view option. None of the actual answer choices provided (Critical labor perspective, Neutral academic, First-person worker) match the correct answer (pro-industrialist/admiring stance). The explanation directly gives away the answer rather than teaching why. Answer choices are duplicated in the prompt.
+  Fix: Rewrite entirely with proper answer choices that include the correct pro-industrialist perspective as an option. Example: A) Critical labor perspective B) Pro-industrialist perspective C) Neutral academic D) First-person worker. Correct answer should be B. Write an explanation that teaches how to identify point of view through textual evidence without stating the answer directly in the first sentence.
+
+#1186 [READING] (score: 0)
+  Issues: The question is fundamentally broken: options A/B/C are duplicated, option D is written as an explanation rather than an actual answer choice, the question stem 'What nuanced conclusion?' is incomplete, and the explanation gives away the answer by stating 'which only D captures.' The correct answer IS the explanation, making this circular and unanswerable as a multiple choice question.
+  Fix: Rewrite entirely. Create a complete question stem like 'Based on the passage, which conclusion is best supported?' Provide four distinct, plausible answer choices where one is a proper conclusion (e.g., 'Social media produces mixed effects on political engagement') and the others are plausible distractors. Remove all meta-references to option letters from the explanation.
+
+#1187 [READING] (score: 0)
+  Issues: The correct answer 'Recommendation' is not listed as any option. Option D is meta-commentary about option A rather than an actual answer choice. The explanation falsely claims Option D matches the definition. The question stem gives away the answer before asking it by spelling out the full acronym. The explanation gives away that none of A, B, or C are correct.
+  Fix: Rewrite entirely: Remove 'Recommendation' from the question stem, replace Option D with 'Recommendation' as the correct answer, and rewrite the explanation to explain what SBAR is used for and why Recommendation is the correct component without referencing which options are wrong.
+
+#1188 [READING] (score: 0)
+  Issues: Option B is not an answer choice at all - it contains explanation text ('Option A is incorrect as the text focuses on scientific rigor, not entertainment') instead of an actual answer like 'To explain how bias was reduced' or 'To demonstrate methodological rigor'. The correct answer doesn't exist among the options.
+  Fix: Rewrite entirely with proper answer choices. Option B should be something like 'To demonstrate the study's methodological rigor' or 'To explain how bias was minimized'. Remove the explanation text that accidentally replaced the actual B option.
+
+#1190 [READING] (score: 0)
+  Issues: The correct answer option A does not contain an actual task - it contains an explanation about why other options are wrong. The actual correct answer 'advocating for children in court' is missing from all answer choices entirely. The question is impossible to answer correctly as written.
+  Fix: Rewrite the question with proper answer choices. Option A should be 'Advocating for children in court' which is the actual task mentioned in the passage. The explanation should not be used as an answer choice.
+
+#1191 [READING] (score: 1)
+  Issues: Critical formatting error: option B (the correct answer 'oxygen') is completely missing from the answer choices list, making the question unsolvable. The explanation also directly reveals the answer rather than teaching reasoning.
+  Fix: Rewrite the entire question with all four options properly displayed (A: Carbon dioxide, B: Oxygen, C: Water, D: Sunlight) and revise the explanation to teach students to distinguish between inputs and outputs of photosynthesis without stating the answer directly.
+
+#1192 [READING] (score: 0)
+  Issues: The question is fundamentally broken. Option C does not contain an actual answer choice - instead it contains explanation text ('Option A is wrong as the text describes a shift to urban centers...'). The actual correct answer (increased urban population or migration to urban centers) is never presented as an option. The options list is duplicated with different content, and the structure is completely mangled.
+  Fix: Rewrite the entire question with four proper answer choices including the correct answer 'Increased urban population' or 'Migration from rural to urban centers' as one of the options A-D. Remove all explanation text from the answer choices themselves.
+
+#1194 [READING] (score: 1)
+  Issues: The correct answer (A) is not a summary statement—it's an explanation fragment explaining why B is wrong. No valid summary option is provided. The question asks for a summary but none of the choices actually summarize the passage.
+  Fix: Rewrite option A as an actual summary (e.g., 'Time management is essential for college students, and while tools can help organize schedules, procrastination remains a challenge'). Ensure all options are complete summary statements that could plausibly answer the question.
+
+#1195 [READING] (score: 1)
+  Issues: Option B is completely missing from the answer choices - the question lists A, C, D but skips B entirely. The 'B' that appears is actually explanation text, not an answer option. The explanation also directly gives away the answer by quoting passage text verbatim.
+  Fix: Rewrite the entire question with properly formatted answer choices including a legitimate option B (e.g., 'Telehealth provides accessibility benefits but has limitations for certain conditions'). Ensure the explanation teaches the reasoning without directly quoting the correct answer's supporting evidence verbatim.
+
+#1196 [READING] (score: 1)
+  Issues: Option C is not a detail from the passage but rather an explanation of why option A is wrong. The actual correct answer (precipitation returning water to complete the cycle) is never presented as an option. Option A appears twice. The question structure is fundamentally broken.
+  Fix: Rewrite entirely. The correct option should be 'Precipitation returns the water to the Earth, completing the cycle' since this explicitly mentions 'completing the cycle' which directly supports the idea of continuity. Provide four distinct details from the passage as options.
+
+#1200 [READING] (score: 1)
+  Issues: The correct answer option C is completely missing - instead of containing the actual answer (that cells would burst/swell), it contains explanation text. The question is unsolvable as presented because no option describes water moving into cells causing them to burst, which is what the passage states.
+  Fix: Rewrite the entire answer set. Option C should be 'The cells would swell and potentially burst.' Ensure all four options (A, B, C, D) contain actual answer choices, not explanation text. The explanation should then properly reference why C is correct without having answer text embedded in it.
+
+#1202 [READING] (score: 1)
+  Issues: Option A is not a valid answer choice - it is meta-commentary explaining why B is wrong rather than stating what the passage conveys. The actual correct answer (about the Magna Carta's historical significance as a foundation for constitutional law) is completely missing from the options.
+  Fix: Replace option A with an actual answer choice such as 'Its foundational role in establishing principles of constitutional law' and remove the explanation text that was incorrectly placed as an answer option.
+
+#1203 [READING] (score: 1)
+  Issues: Option B is not an actual answer choice - it contains explanation text instead of a response. Option A is duplicated. The question is unanswerable in its current format.
+  Fix: Rewrite with proper answer choices. Option B should be 'By changing their attitudes, beliefs, or actions to achieve consistency' and remove the duplicate option A. The explanation should be separate from the answer choice text.
+
+#1204 [READING] (score: 0)
+  Issues: The correct answer (C) is not actually an answer to the question - it is meta-commentary explaining why option A is wrong. No option provided states the actual purpose of the summary section (to write a brief summary of the lecture). Options are duplicated in the question text. The explanation incorrectly treats option C as a valid answer.
+  Fix: Rewrite entirely with proper answer choices. The correct answer should state something like 'To briefly summarize the main points after the lecture.' Include three plausible distractors that are clearly wrong based on the passage, such as options referring to writing during lecture, keywords in cues section, or listing everything said.
+
+#1205 [READING] (score: 0)
+  Issues: Option D is not an answer choice but an explanation of why A is wrong. The correct answer (at least 20 seconds) is completely missing from all options. The explanation then incorrectly claims D is supported by the text when D contains no actual answer.
+  Fix: Rewrite entirely. The correct answer choice should be 'At least 20 seconds' and the other options should be plausible but incorrect time durations (e.g., 'Exactly 5 seconds', 'No more than 10 seconds', 'At least one full minute'). Remove the explanation text from option D entirely.
+
+#1206 [READING] (score: 1)
+  Issues: The correct answer option (A) is completely broken - it contains explanation text instead of the actual answer 'Convection currents in the mantle.' Students cannot select the correct answer because it was never provided as an option. The question is unusable in its current form.
+  Fix: Rewrite option A to be 'Convection currents in the mantle' and ensure the explanation does not duplicate the answer text directly. The correct answer should appear only in the labeled answer field, not embedded in the explanation or option text.
+
+#1207 [READING] (score: 0)
+  Issues: The correct answer 'outright treason' is not a tone—it's a phrase quoted from the passage. Answer choices are malformed with duplicate A options. The explanation describes a 'dramatic' tone but this is not offered as an answer choice.
+  Fix: Rewrite with proper tone options: A) Apathetic B) Dramatic C) Humorous D) Somber. Set correct answer to B) Dramatic. Keep the existing explanation which correctly supports 'dramatic' as the answer.
+
+#1208 [READING] (score: 0)
+  Issues: The correct answer option C is completely missing from the answer choices. The 'correct answer' field contains explanation text instead of an actual answer choice. The answer choices skip from B to D. The actual correct answer (to inform readers) is not even presented as an option.
+  Fix: Rewrite entirely. Include all four options (A, B, C, D) with the correct answer being something like 'To inform readers about what sociologists do.' Ensure the correct answer field contains only the letter and text of the correct choice, not explanation text.
+
+#1209 [READING] (score: 1)
+  Issues: The correct answer field contains a text fragment rather than a valid answer choice. Second-person point of view is the actual correct answer but is not listed as an option at all. Option D is corrupted - appears to be a copy-paste error from the explanation. The question is unsolvable as written.
+  Fix: Rewrite the question with 'Second-person' as option D (the correct answer). Remove the corrupted text fragment. Ensure all four options are valid point-of-view choices: A) First-person singular, B) Third-person limited, C) Third-person omniscient, D) Second-person.
+
+#1210 [READING] (score: 1)
+  Issues: Answer choice A is completely missing its actual text - instead of showing 'Sequential order' or 'Chronological order,' it displays the explanation text. The question is fundamentally broken because students cannot see what option A actually says.
+  Fix: Rewrite the entire question with proper answer choices: A) Sequential/chronological order, B) Compare and contrast, C) Cause and effect, D) Problem and solution. Remove the giveaway phrase 'Option A is the only choice that accurately reflects this step-by-step progression' from the explanation.
+
+#1211 [READING] (score: 1)
+  Issues: Option B is missing its actual answer text entirely - it only contains explanation text that was mistakenly placed in the options. The options are also duplicated in the question field. This makes the question completely unusable as students cannot see what answer B actually says.
+  Fix: Rewrite the entire question with properly formatted options. Option B should contain an actual definition like 'B) Contrary to intuition or common sense' or 'B) Contrary to what one would expect'. Remove all duplicate option listings and ensure the explanation is separate from the answer choices.
+
+#1212 [READING] (score: 0)
+  Issues: The correct answer listed as 'C) proved too much,' is not a valid text structure option and appears to be random text from the passage. The actual correct answer 'cause and effect' is completely missing from the options. Additionally, the options are duplicated with formatting inconsistencies.
+  Fix: Rewrite the question entirely with proper options: A) Chronological B) Spatial C) Cause and effect D) Compare and contrast, and set the correct answer to C. Remove the duplicated option list.
+
+#1213 [READING] (score: 2)
+  Issues: Option D is not an organizational structure label like the other options - it is a full sentence description, making it obviously different and not a proper answer choice. The correct structure 'compare and contrast' is never actually presented as an option. Additionally, the explanation begins with the exact text of the correct answer, giving it away directly.
+  Fix: Rewrite with proper structure labels: A) Chronological order, B) Problem and solution, C) Sequential order, D) Compare and contrast. Rewrite the explanation to analyze the passage's features (juxtaposition, contrasting language like 'conversely,' paired descriptions) that indicate compare and contrast structure, without stating the answer verbatim at the start.
+
+#1216 [READING] (score: 0)
+  Issues: Question is fundamentally broken: options are duplicated, Option C is an explanation fragment rather than a text structure choice, and the actual correct answer (cause and effect) is not among the options at all. The passage clearly demonstrates cause-and-effect structure but this option is missing entirely.
+  Fix: Rewrite with proper options: A) Problem and solution, B) Cause and effect, C) Chronological order, D) Compare and contrast. Correct answer should be B) Cause and effect. Remove duplicate options entirely and ensure all choices are valid text structure types.
+
+#1217 [READING] (score: 0)
+  Issues: The correct answer D is not an answer choice at all - it is an explanation of why option A is wrong. None of options A, B, C, or D provide the actual definition of 'veneer' (a thin surface layer or facade). The explanation even references 'a superficial appearance' as if that's what option D says, but it doesn't. The question is fundamentally broken.
+  Fix: Rewrite the question entirely. Replace option D with an actual definition like 'A thin, superficial outward appearance' or 'A facade that conceals what lies beneath.' Ensure all four options are plausible definitions of 'veneer' with only one being correct. Remove any explanation text from the answer choices themselves.
+
+#1218 [READING] (score: 1)
+  Issues: Option A is completely malformed - it contains explanation text instead of an actual tone descriptor. The answer choice reads 'to condemn the politicians. These strong negative adjectives...' which is not a valid tone option. The correct answer text is also duplicated in the 'Correct Answer' field mixed with explanation content. The options are listed out of order (B, C, D, A).
+  Fix: Rewrite the entire question with proper formatting. Option A should be a single tone word like 'Indignant' or 'Critical'. Remove the explanation text that leaked into the answer choice. Ensure options are presented in A, B, C, D order and the Correct Answer field contains only the letter and the tone word.
+
+#1219 [READING] (score: 1)
+  Issues: Option B is not formatted as a purpose statement like the other options - it's a full explanatory sentence that gives away the answer. The options are also duplicated in the question text. The correct answer option should be phrased as 'To argue that...' or 'To critique...' to match the format of distractors.
+  Fix: Rewrite option B as a proper purpose statement: 'B) To argue that standardized testing fails to accurately measure student intelligence.' Remove the duplicate options listing. Ensure the explanation doesn't mirror the exact wording of the correct answer option.
+
+#1220 [READING] (score: 1)
+  Issues: Options are duplicated (A and B appear twice, D appears twice with different text). The correct answer C is a full explanatory sentence rather than a parallel option format like the others. The actual organizational structure (problem-solution) is not offered as an option. The explanation contains the exact text of the correct answer.
+  Fix: Rewrite entirely with proper parallel options: A) Chronological sequence, B) Compare and contrast, C) Problem and solution, D) Cause and effect. Make all options short phrases. Write a new explanation that teaches the concept without copying the answer verbatim.
+
+#1222 [READING] (score: 0)
+  Issues: Correct answer option A is corrupted with explanation text leaked into it. The actual correct answer (third-person omniscient) is not listed as any option - only 'third-person limited' appears. The question is unanswerable as formatted.
+  Fix: Rewrite entirely: include 'Third-person omniscient' as an option (likely option A), ensure correct answer field contains only the letter or full option text, remove all leaked explanation text from the answer field, and verify all options are distinct point-of-view categories.
+
+#1223 [READING] (score: 0)
+  Issues: The correct answer option B is completely missing from the question. Options skip from A directly to C, making the question unsolvable. The explanation references 'Option B' which does not exist in the question stem.
+  Fix: Rewrite the entire question with four complete options (A, B, C, D) where B is the correct answer describing hierarchical social levels or tiers, e.g., 'B) Layers or levels' or 'B) Ranked categories of people'.
+
+#1224 [READING] (score: 1)
+  Issues: The correct answer C is not an inference about student behavior—it's a meta-explanation of why other options are wrong. The question asks 'what can be inferred about student behavior' but no valid inference is presented as an option. The explanation directly names the correct option ('Option C is right'), violating the rule against giving away the answer.
+  Fix: Rewrite entirely. Create an actual inference as the correct answer (e.g., 'Students often study late into the night during finals week'). Make all four options distinct inferences about student behavior. Write an explanation that teaches the reasoning without naming the letter of the correct answer.
+
+#1226 [READING] (score: 1)
+  Issues: The answer choice A is missing entirely - instead, the explanation text is placed where option A should be. The actual correct answer ('It is likely to be highly unreactive') never appears as a selectable option. The explanation also gives away the answer verbatim rather than teaching reasoning.
+  Fix: Rewrite the entire question with proper formatting: Option A should be 'It is likely to be highly unreactive' (the actual inference), B should be 'It is likely to be highly reactive', C should be 'It will only react with water', D should be 'It cannot be placed on the periodic table'. The explanation should explain the reasoning process without stating the answer verbatim as the first sentence.
+
+#1227 [READING] (score: 1)
+  Issues: Option B is missing from the question stem options list. The 'correct answer' B is not actually a conclusion about the printing press's impact - it's a meta-statement about the text's structure. The explanation directly repeats the correct answer text, giving it away.
+  Fix: Rewrite entirely. Create a proper conclusion answer like 'It accelerated the spread of new ideas in Europe' as the correct option. Include all four options (A, B, C, D) in the question stem. Write an explanation that teaches the reasoning without quoting the answer verbatim.
+
+#1233 [READING] (score: 2)
+  Issues: Correct answer D is a paragraph-length explanation rather than a proper answer choice, creating extreme imbalance with distractors. Answer options A, B, C are duplicated in the question text. The explanation directly quotes/repeats the correct answer text, giving it away. This is fundamentally broken.
+  Fix: Rewrite entirely. Create a proper concise conclusion statement for the correct answer (e.g., 'Both genetics and environment interact to shape human behavior'). Ensure all answer choices are similar in length and format. Write an explanation that teaches the reasoning without directly restating the correct answer verbatim.
+
+#1235 [READING] (score: 1)
+  Issues: Option B is completely missing - it's replaced with an explanation fragment. The correct answer is labeled B but no actual answer choice B exists. Options are duplicated and the structure is mangled beyond use.
+  Fix: Rewrite the entire question. Include a proper option B such as 'They are at risk for outbreaks of preventable diseases' and remove all duplicated options and explanation fragments from the answer choices section.
+
+#1236 [READING] (score: 1)
+  Issues: Option C is not an answer choice at all - it is an explanation of why option A is wrong. No valid synthesis statement exists among the options. The options are duplicated in the question text. A student cannot select a proper answer because none of the choices actually synthesize the passage.
+  Fix: Rewrite with four proper answer choices where one is a correct synthesis (e.g., 'Deforestation in the Amazon produces interconnected environmental, biological, and social consequences') and the other three are plausible but incorrect statements. Remove the duplicated option list entirely.
+
+#1239 [READING] (score: 3)
+  Issues: The correct answer is meta-commentary about the passages rather than an actual synthesis of their content. A synthesis should combine the key points from both passages into a unified statement, not just observe that advantages and challenges exist. Additionally, the explanation verbatim repeats the correct answer, giving it away. There is also a duplicate option A in the question stem.
+  Fix: Rewrite option B to be an actual synthesis such as 'Remote work provides flexibility and cost savings for employees and employers, but it can also erode company culture and contribute to employee burnout.' Rewrite the explanation to explain why this synthesis captures both passages without repeating the answer verbatim. Remove the duplicate option A.
+
+#1242 [READING] (score: 1)
+  Issues: Option C is not an answer choice at all - it contains explanation text ('A is wrong—the passage mentions Jefferson as the primary drafter but never argues he was the most important Founder') instead of an actual answer. The actual correct answer (something like 'To provide an overview of the Declaration of Independence') is completely missing. This makes the question unsolvable.
+  Fix: Replace option C with an actual answer choice such as 'To provide an overview of the Declaration of Independence's content and context.' Remove the explanation text from the answer choices and ensure the correct answer is a proper purpose statement.
+
+#1243 [READING] (score: 1)
+  Issues: The correct answer B is not an actual answer choice but rather an explanation fragment. The explanation contains the exact text of answer B, giving away the answer. All distractors are obviously false rather than plausible misreadings of the passage. This is fundamentally broken.
+  Fix: Rewrite entirely. Create a proper main idea statement as the correct answer (e.g., 'Solar panels convert sunlight into electricity without producing emissions'). Write plausible distractors such as details from the passage rather than completely false statements. Ensure the explanation teaches reasoning without copying the answer text verbatim.
+
+#1244 [READING] (score: 0)
+  Issues: The correct answer (A) is not actually a main idea statement - it's a meta-explanation about why option B is wrong. None of the four options provided actually state the main idea of the passage. The question is fundamentally broken.
+  Fix: Rewrite entirely. The correct answer option should state the actual main idea, such as 'Civic engagement through multiple activities helps ensure government remains responsive to citizens' needs.' Replace option A with this statement, and create new distractors that are plausible misreadings of the passage.
+
+#1245 [READING] (score: 0)
+  Issues: The correct answer (Solar energy) is completely missing from the answer choices presented to students. Options jump from A to C, skipping B entirely, yet B is marked as correct. The 'Correct Answer' field contains explanation text instead of the actual answer. This question is non-functional.
+  Fix: Rewrite the entire question with four properly labeled options (A, B, C, D) where option B is 'Solar energy'. Format the correct answer field to show only 'B) Solar energy' and move the explanation reasoning to the explanation section only.
+
+#1246 [READING] (score: 1)
+  Issues: The correct answer doesn't actually answer the question asked. The question asks 'what role do teachers play?' but the answer is a continuation phrase ('It further details this role...') that is grammatically incoherent as a standalone response. The answer should be 'student advocacy' or similar. Additionally, all distractors are implausible and obviously wrong—no student would select them. The explanation also contains the exact correct answer text.
+  Fix: Rewrite entirely. Question: 'According to the passage, what is the primary role teachers play?' Correct answer: 'Student advocacy' or 'Advocating for students.' Create plausible distractors like 'Curriculum development,' 'Student discipline,' 'Parent communication' (which is mentioned but not the primary role). Write an explanation that teaches why advocacy is the main role without quoting the answer verbatim.
+
+#1247 [READING] (score: 2)
+  Issues: Option A is not an actual answer choice - it's a meta-statement about what the text does rather than a main idea statement. A proper main idea would be something like 'The Industrial Revolution brought economic progress but also created social problems that reform movements later addressed.' Additionally, the explanation contains the exact text of the correct answer, giving it away directly.
+  Fix: Rewrite option A as an actual main idea statement (e.g., 'The Industrial Revolution transformed economies and increased productivity, but also created social problems that eventually led to reform movements'). Rewrite the explanation to teach why this is the main idea without quoting the answer verbatim.
+
+#1248 [READING] (score: 1)
+  Issues: Option B is not a detail from the passage but a meta-explanation that literally states 'making it the strongest support for its importance' - it gives away the answer within the answer choice itself. The correct answer should be the actual passage detail 'This process forms the foundation of most food chains and replenishes atmospheric oxygen.' Also, option A appears twice in the listing, and the explanation just repeats the flawed answer choice.
+  Fix: Rewrite option B as the actual passage detail: 'Photosynthesis forms the foundation of most food chains and replenishes atmospheric oxygen.' Keep A, C, and D as they are (they are plausible distractors). Rewrite the explanation to teach why this detail specifically connects to ecosystem importance rather than just repeating the answer.
+
+#1250 [READING] (score: 1)
+  Issues: Option A is not an actual protection - it's a meta-statement saying 'This directly matches the text's description of protected rights' which is circular and doesn't name a specific right. The correct answer should be one of the actual protections listed in the passage (freedom of speech, religion, press, right to bear arms, etc.). Additionally, the explanation gives away the answer by using the exact same wording as option A.
+  Fix: Rewrite option A to be an actual protection mentioned in the passage, such as 'Freedom of speech' or 'The right to bear arms'. Rewrite the explanation to explain why that specific protection is correct based on the passage text without using the exact answer wording.
+
+#1251 [READING] (score: 2)
+  Issues: The answer choices are duplicated in the question text. Option C is not an actual answer choice - it reads as a meta-description ('This directly aligns with the text's informational goal...') rather than a proper purpose statement like the other options. The correct answer text is also embedded in the explanation, giving it away. A student cannot reasonably select C as written.
+  Fix: Rewrite the entire question with proper formatting. Create a valid option C such as 'To inform readers about blood pressure, hypertension risks, and lifestyle management strategies.' Remove the duplicate answer lines and ensure the explanation does not contain the exact correct answer text.
+
+#1252 [READING] (score: 1)
+  Issues: The question structure is fundamentally broken. Option A appears twice in the choices, option B is completely missing from the answer choices list but listed as correct, and the 'correct answer' text is actually an explanation fragment rather than a proper answer choice. The explanation also directly repeats what should be the answer text.
+  Fix: Rewrite entirely with proper formatting. Create four distinct answer choices (A, B, C, D) where B is a proper main idea summary like 'A thesis statement presents the central argument and helps readers understand the writer's purpose.' Remove the duplicate option A and ensure the explanation describes why B is correct without copying the answer text verbatim.
+
+#1253 [READING] (score: 1)
+  Issues: The correct answer (D) is not a detail from the passage at all - it's meta-commentary about what would answer the question. The actual detail that supports the small intestine's role ('Nutrients are primarily absorbed in the small intestine') is missing from the options entirely. This violates the basic premise of the question asking for 'a detail from the passage.'
+  Fix: Rewrite the question with the actual passage detail as the correct answer. Option D should be: 'Nutrients are primarily absorbed in the small intestine.' Also remove the duplicated options A-C that appear twice in the question stem, and ensure the explanation doesn't simply repeat the correct answer text.
+
+#1254 [READING] (score: 1)
+  Issues: Option A is missing entirely - the explanation text has been placed where the answer choice should be. Students cannot see what option A actually states, making the question unsolvable as formatted.
+  Fix: Rewrite the question with proper formatting. Option A should be a concise answer choice like 'The importance of grounding nursing interventions in scientific evidence' rather than the current explanation text. The explanation should then be separated and placed in the explanation field only.
+
+#1256 [READING] (score: 0)
+  Issues: Option B is completely missing from the question stem. The options jump from A to C to D. The 'Correct Answer' field contains explanation text instead of the actual answer choice (should be something about PPE). The explanation references Option B but it doesn't exist in the question.
+  Fix: Rewrite the entire question. Include all four options (A, B, C, D) with B being the correct answer about PPE. Format the correct answer field to only contain the answer choice text, not explanation. Example: Correct Answer: B) Use of personal protective equipment (PPE)
+
+#1261 [READING] (score: 1)
+  Issues: The correct answer option A is completely missing from the question. Only options B, C, and D are provided as answer choices. The 'Correct Answer' field contains an explanation rather than an actual answer like 'Careful and thorough' or 'Extremely detailed.' A student cannot select an answer that doesn't exist.
+  Fix: Rewrite the entire question with four complete answer choices, where option A is the actual definition of meticulous (e.g., 'A) Careful and thorough' or 'A) Showing great attention to detail'), and ensure the correct answer field contains only the answer text, not an explanation.
+
+#1262 [READING] (score: 2)
+  Issues: Option A appears twice in the question, making it fundamentally broken. Additionally, the explanation begins by restating the correct answer verbatim, which gives away the answer directly rather than teaching the reasoning.
+  Fix: Remove the duplicate option A. Rewrite the explanation to lead with reasoning about the text evidence (short sentences, glossary, bilingual availability = accessibility features) and conclude with why this eliminates the distractors, without starting with the exact correct answer text.
+
+#1263 [READING] (score: 1)
+  Issues: The correct answer option B is completely missing from the choices presented to students. Option A appears twice in the question text. Students cannot answer this question because the correct option is not available to select.
+  Fix: Rewrite the entire question. Include all four options (A, B, C, D) with option B being the correct answer such as 'To engage readers emotionally before presenting logical evidence and practical solutions.' Remove the duplicate option A text and ensure the explanation does not reveal the answer directly in the first sentence.
+
+#1264 [READING] (score: 2)
+  Issues: Options A, B, C are duplicated in the question. Option D is not formatted consistently with other options (it's a sentence rather than a word pair). Most critically, the explanation contains the exact text of the correct answer ('The context implies strength and adaptation rather than weakness'), which gives away the answer directly to students who read explanations.
+  Fix: Remove duplicate options. Rewrite Option D as a parallel word pair like 'Strong and adaptable' or 'Persistent and determined'. Rewrite the explanation to explain the reasoning without quoting the correct answer verbatim - describe the contextual clues (solidarity, resourcefulness, positive outcome after disaster) that point to resilience meaning the ability to recover/bounce back.
+
+#1267 [READING] (score: 0)
+  Issues: The correct answer option B is completely missing from the displayed choices. Only options A, C, and D are visible to the student. Additionally, the explanation directly states the definition of 'necessitate' ('create a need or make something unavoidable'), which gives away the answer rather than teaching reasoning.
+  Fix: Rewrite the entire question with all four options properly displayed. Option B should be something like 'Make necessary or require' without the explanation directly defining the target word. The explanation should guide students to infer meaning from context clues rather than stating the definition outright.
+
+#1272 [READING] (score: 0)
+  Issues: The correct answer (narrative perspective/point of view) is completely missing from all options. Option D is a meta-statement explaining why A is wrong, not an actual answer choice. None of A, B, or C address what the question asks about. The question and answer choices are fundamentally misaligned.
+  Fix: Rewrite the question entirely with proper answer choices. The correct answer should be something like 'Narrative perspective and point of view' or 'The author's use of narrative structure.' Include plausible distractors related to other craft elements like symbolism, dialogue, or characterization that are distinct from the correct answer.
+
+#1273 [READING] (score: 0)
+  Issues: The correct answer option A is completely missing from the answer choices. The options jump from nothing for A directly to B, C, D. The 'correct answer' listed is just a restatement of the question, not an actual definition of conflation. None of the provided options (B, C, D) contain the actual meaning of conflation, making this question unsolvable.
+  Fix: Rewrite entirely with four proper answer choices. Option A should be something like 'Mistakenly treating two different concepts as identical' or 'Confusing or merging distinct ideas.' Ensure all four options (A, B, C, D) are present and one correctly defines conflation in this context.
+
+#1279 [READING] (score: 0)
+  Issues: Option B is not an actual answer choice - it is meta-commentary explaining why option A is wrong rather than stating a practical implication. The question asks 'What practical implication follows?' but no option actually provides one. Option A is duplicated. The explanation directly states 'Option B is right' which gives away the answer.
+  Fix: Rewrite with a proper correct answer such as 'Improving hand hygiene compliance could significantly reduce healthcare-associated infections' and ensure all distractors are actual answer choices that represent plausible but incorrect implications. Remove the duplicate option A and rewrite the explanation to explain the reasoning without directly naming the correct option.
+
+#1281 [READING] (score: 0)
+  Issues: Option A (the correct answer) is completely missing its actual text - instead it contains explanation content about Option B. The question is unsolvable because the correct answer choice is not provided.
+  Fix: Rewrite the entire question. Provide a proper Option A text such as 'Effective healthcare approaches must address social determinants alongside medical treatment' and ensure all four options have distinct, clear answer texts before the correct answer designation and explanation.
+
+#1283 [READING] (score: 1)
+  Issues: The answer choices are duplicated and malformed. Option B is not an actual answer choice but rather explanation text ('Options A, C, and D are incorrect...'). The correct inference about antibiotic stewardship is completely missing from the options. This is not a functional question.
+  Fix: Rewrite the entire question with four proper, distinct answer choices. The correct answer should be a valid inference like 'Antibiotics should be prescribed only when necessary for bacterial infections.' Ensure all options are plausible inferences, not explanation text.
+
+#1286 [READING] (score: 1)
+  Issues: Option C is not an answer choice at all - it contains explanation text instead of an actual answer. The correct answer addressing selection bias/sampling limitations is completely missing from the options.
+  Fix: Replace option C with an actual answer choice like 'The sample may not represent nurses in rural settings or those who would not volunteer for mindfulness training.' Remove the explanation text from the answer choices and place it only in the explanation section.
+
+#1289 [READING] (score: 1)
+  Issues: Option A is not a substantive answer choice - it is a meta-description ('This choice captures the tension...') rather than an actual nuanced interpretation. The correct answer must state WHAT the nuanced interpretation is, not describe that it captures tension. Additionally, the explanation directly gives away the answer by opening with 'Option A correctly synthesizes...'
+  Fix: Rewrite option A as an actual substantive interpretation, such as: 'The New Deal expanded federal economic power while simultaneously perpetuating racial inequities through worker exclusions.' Also revise the explanation to explain the reasoning without starting with confirmation of the correct answer.
+
+#1290 [READING] (score: 1)
+  Issues: The correct answer option A is completely missing from the displayed choices. Only options B, C, and D are shown, all of which are incorrect distractors. The 'Correct Answer' field contains explanation text instead of the actual answer. This question is unsolvable as formatted.
+  Fix: Rewrite the entire question with all four options properly displayed, including the correct answer (e.g., 'A) Providing written directions alongside verbal instructions reduces student confusion and improves assignment completion'). Ensure the Correct Answer field contains only the answer choice letter and text, not explanation content.
+
+#1291 [READING] (score: 0)
+  Issues: Option B is completely missing its text - only options A, C, and D have content provided. The correct answer is listed as B but there is no B option text anywhere in the question. Additionally, the explanation begins with a meta-definition rather than explaining why the answer is correct.
+  Fix: Rewrite the entire question including the missing option B text (which should be 'Oxygen is released as a byproduct' based on the explanation). Restructure options as A, B, C, D with all four having actual answer text. Rewrite the explanation to explain why the correct answer is right without starting with a definition of 'explicitly stated.'
+
+#1292 [READING] (score: 0)
+  Issues: The correct answer C is not a main idea statement - it is an explanation fragment ('Option A is wrong since...'). No valid main idea option exists. Options are duplicated in the question. The entire answer structure is broken.
+  Fix: Rewrite completely. The correct answer should be a proper main idea statement like 'Colonial resistance to British taxation led to American independence.' Provide four distinct main idea statements as options (A-D), ensure only one is correct based on the passage, and write an explanation that teaches why the correct answer captures the main idea without containing the exact answer text.
+
+#1294 [READING] (score: 0)
+  Issues: The correct answer option B is completely missing from the question. The options list shows A, C, D but no B. The correct answer field doesn't contain an actual answer—it just explains why A is wrong. Options are also duplicated in the formatting.
+  Fix: Rewrite the entire question with four properly formatted options, ensuring option B contains one of the three food safety practices explicitly mentioned in the passage (e.g., 'Washing hands regularly' or 'Keeping raw and cooked foods separate' or 'Maintaining proper refrigeration temperatures').
+
+#1299 [READING] (score: 1)
+  Issues: The answer choices are completely non-parallel in format: A, B, and C are short organizational pattern labels, while D is a full paragraph that contains the entire explanation. This makes the question self-answering and structurally invalid. The correct organizational pattern (comparison/contrast) is not offered as a proper option alongside the other choices.
+  Fix: Rewrite with four parallel, short answer choices: A) Cause and effect, B) Chronological order, C) Problem and solution, D) Compare and contrast. Then write an explanation that teaches why comparison is correct without copying the answer text word-for-word.
+
+#1300 [READING] (score: 0)
+  Issues: Option A is not a key detail from the passage - it is a meta-explanation about why option B is wrong. The correct answer must be an actual detail from the text, not a commentary on another option. The question is fundamentally broken.
+  Fix: Rewrite option A to be an actual key detail from the passage, such as 'Workers often faced poor conditions' or 'Factories increased production efficiency.' All answer options should be factual claims that can be evaluated against the passage text.
+
+#1302 [READING] (score: 1)
+  Issues: The correct answer D does not actually state a main idea - it is meta-commentary about the passage. The question asks 'What is the main idea?' but D responds with an explanation format rather than a summary statement. Additionally, options A-C are duplicated in the question text, and the explanation uses the exact wording from option D, giving away the answer.
+  Fix: Rewrite option D as an actual main idea statement such as 'Matter exists in three states with different properties, and temperature changes can cause transitions between them.' Remove duplicated options. Rewrite explanation without quoting the correct answer verbatim. Consider making distractors more plausible (e.g., partial truths or misinterpretations rather than direct contradictions of the passage).
+
+#1304 [READING] (score: 0)
+  Issues: Option C is not a valid answer choice - it is a meta-explanation fragment explaining why Option A is wrong, not an actual 'shared idea' response to the question. No correct answer exists among the choices. Additionally, the options list appears twice in the question text, and the distractors object is malformed.
+  Fix: Rewrite entirely with a proper correct answer choice like 'Climate change has significant environmental impacts' and three distinct plausible distractors that are actual ideas (not explanations). Remove the duplicate options list and ensure the explanation teaches the reasoning without copying the answer verbatim.
+
+#1306 [READING] (score: 0)
+  Issues: The correct answer option A is completely missing from the question stem - only options B, C, and D are listed. The 'Correct Answer' field contains explanation text ('Option B is wrong since...') instead of the actual answer text. The question is fundamentally broken and unsolvable as written.
+  Fix: Rewrite the entire question. Include all four options in the question stem with option A being the actual correct conclusion (e.g., 'Consistent study habits improve academic performance'). Ensure the Correct Answer field contains only the answer text, not an explanation. Remove the duplicated options that appear after the question stem.
+
+#1308 [READING] (score: 2)
+  Issues: Answer choices are duplicated and option C is missing from the first listing. Option C is written as a full explanation rather than a standard answer choice format. The explanation verbatim repeats the correct answer text.
+  Fix: Rewrite with properly formatted single set of answer choices (A-D) using standard structure labels like 'Sequential/Chronological order'. Ensure the explanation teaches WHY sequential structure is correct based on textual evidence without repeating the answer choice verbatim.
+
+#1309 [READING] (score: 0)
+  Issues: The correct answer D is not an actual answer—it's meta-commentary about the question itself rather than stating what the key difference IS. Options A, B, and C all start with 'Both' which describes similarities, not differences. The question asks for a difference but no option actually states one. The explanation also contains the exact text of option D, giving it away completely.
+  Fix: Rewrite the question with answer choices that actually state the difference. Example: A) One supports only plants while the other includes meat, B) One focuses on weight loss while the other focuses on health, C) One is scientific while the other is anecdotal, D) Both passages have identical dietary recommendations. The correct answer should clearly state the plant-based vs. balanced-with-meat distinction described in the prompt.
+
+#1311 [READING] (score: 0)
+  Issues: The correct answer 'standardized instruments' is not a style description - it's a phrase from the passage. The question asks about author's style but none of the options describe 'formal/academic' which the explanation identifies as correct. Option B is missing from the first option listing, and the explanation contradicts itself by identifying formal style as correct but listing a non-style phrase as the answer.
+  Fix: Rewrite entirely: Change the question to ask about the author's tone/style, make option B 'Formal and academic' or similar, remove the duplicate option listing, and ensure the correct answer actually answers the question being asked.
+
+#1312 [READING] (score: 0)
+  Issues: The correct answer C contains a factual error - it states '2 times higher' but the passage clearly says '3.2 times higher.' Additionally, the options are duplicated in the question text with C missing from the first set. Option C is also not a proper inference - it's a misstated data point rather than a logical conclusion drawn from the data.
+  Fix: Rewrite entirely with a proper inference as the correct answer (e.g., 'Higher levels of air pollution are associated with increased respiratory hospital visits') and ensure all options are distinct, plausible, and formatted correctly. The correct answer should be an actual inference, not a restatement of data.
+
+#1313 [READING] (score: 1)
+  Issues: Option D is not a main idea statement—it's a meta-analysis of passage structure. Options A, B, and C are all explicitly false statements, not plausible distractors. No actual main idea is presented as an answer choice. The correct answer IS the explanation, which violates test design principles.
+  Fix: Rewrite with a proper main idea as the correct answer (e.g., 'World War I resulted from multiple structural factors including alliances, militarism, imperialism, and nationalism rather than a single event'). Create plausible distractors that are too narrow (focusing only on one cause), too broad, or slightly misrepresent the passage's emphasis.
+
+#1315 [READING] (score: 1)
+  Issues: Option A is not a main idea statement - it's meta-commentary about the passage structure. A main idea should be a declarative summary like 'Meteorologists use multiple tools to predict weather conditions.' Options B, C, and D are not plausible main ideas; they are simply false factual claims. The question stem asks for the main idea but none of the options present an actual main idea.
+  Fix: Rewrite entirely. Create a proper main idea answer (e.g., 'Meteorologists use various tools and data to predict weather conditions days in advance') and make distractors plausible but incomplete main ideas (e.g., focusing on only one tool, or only one data type). Remove the explanatory text from option A.
+
+#1316 [READING] (score: 0)
+  Issues: The correct answer 'problem and solution' is not among the answer choices. Option D is an explanation fragment, not a valid answer choice. The explanation falsely claims option D contains 'problem and solution' when it clearly does not. The question is fundamentally broken and cannot be answered correctly.
+  Fix: Rewrite the entire question. Add 'Problem and solution' as option D and make it the correct answer. Ensure all options are actual structural choices, not explanation fragments. The explanation should then properly justify why problem-solution fits the passage structure.
+
+#1318 [READING] (score: 0)
+  Issues: The correct answer B is not an actual answer choice—it's an explanation of why A is wrong. All visible options (A, C, D) are incorrect statements. There is no valid correct answer for a student to select.
+  Fix: Rewrite entirely. Create a proper main idea answer choice such as 'Digestion is a multi-stage process involving several organs working in sequence' and ensure all four options (A, B, C, D) are complete answer choices with only one being correct. Remove the explanation text from the answer field.
+
+#1319 [READING] (score: 0)
+  Issues: The question is fundamentally broken. Options are duplicated, option C is not a proper answer choice but rather an explanation text ('The passage uses hyperbole...'), and the actual correct answer 'sarcastic' is never presented as a selectable option. The correct answer field references C but C is not a valid answer choice.
+  Fix: Rewrite entirely with proper formatting. Option C should be 'Sarcastic and critical' or similar, and the explanation should be moved to the explanation field only. Remove the duplicate options listing.
+
+#1322 [READING] (score: 1)
+  Issues: The correct answer B is not a valid answer choice - it is a phrase quoted from the passage rather than a statement of author's purpose. The options are also duplicated in the question text. A proper answer should state the purpose (e.g., 'To persuade readers to donate money to help hungry families') not quote text from the passage.
+  Fix: Rewrite the correct answer as a proper purpose statement: 'B) To persuade readers to donate to help feed hungry children in their communities.' Remove the duplicated options list. Ensure all answer choices follow the same 'To [verb]...' format for consistency.
+
+#1323 [READING] (score: 1)
+  Issues: The 'correct answer' labeled as C is not an answer choice at all - it's an explanation of why option A is wrong. No valid skill is presented as an option. The question asks 'what skill is most needed' but none of the actual choices (A, B, D) represent a real reading comprehension skill like comparing arguments or evaluating evidence. The explanation gives away the answer in the first sentence.
+  Fix: Rewrite entirely with proper answer choices. The correct option should be an actual skill like 'Comparing and evaluating opposing arguments' or 'Analyzing the evidence and reasoning on both sides.' All four options should be distinct skills, one correct and three plausible but inferior alternatives.
+
+#1324 [READING] (score: 1)
+  Issues: The correct answer D is not a main idea statement—it's meta-commentary explaining why A is wrong. None of the options represent actual main ideas. Options A, B, and C are all obviously false rather than plausible distractors. The explanation contains the exact correct answer text. The question structure is fundamentally broken for a 'main idea' question type.
+  Fix: Rewrite entirely. Create a proper main idea question with 4 plausible options where one correctly summarizes the passage's central point (e.g., 'The heart is a four-chambered organ that continuously circulates blood throughout the body'). Distractors should be partially true details or minor points, not obviously false statements. The correct answer should be a complete, standalone statement.
+
+#1325 [READING] (score: 1)
+  Issues: Answer choice A is not a text structure type - it's an explanation sentence instead of 'Cause and effect.' The actual correct structure name is missing from all options. The explanation copies the exact text of the 'correct answer,' giving it away entirely. This question is fundamentally broken as a student who knows the answer cannot select it.
+  Fix: Rewrite entirely. Make A) 'Cause and effect' as the correct answer. Remove the explanatory sentence from option A. Rewrite the explanation to describe what cause and effect structure looks like without copying the answer choice text. All four options must be parallel text structure names.
+
+#1329 [READING] (score: 0)
+  Issues: The correct answer labeled as 'A)' is not an actual answer choice - it's an explanation fragment ('Option B is wrong because dismissing studies ignores valuable information found in each'). There is no actual option A that answers the question 'what should a reader do?' The question is fundamentally broken as a student cannot select a proper answer.
+  Fix: Rewrite entirely. Create a proper option A that states what the reader should do, such as 'A) Recognize that both studies may be valid and that caffeine has both benefits and drawbacks depending on context and timing.' Then ensure all four options (A, B, C, D) are actual answer choices, not explanations. Remove the explanation fragment from the correct answer field.
+
+#1331 [READING] (score: 1)
+  Issues: The correct answer 'Compare and contrast' never appears as an option choice. Option C contains the explanation text instead of an actual answer choice. Options are duplicated/mangled in the question stem.
+  Fix: Rewrite the entire question with properly formatted options: A) Cause and effect, B) Sequential order, C) Compare and contrast, D) Problem and solution. Remove the explanation from appearing in the answer choices.
+
+#1333 [READING] (score: 3)
+  Issues: The correct answer choice contains explanatory meta-text ('This directly supports the main idea that...') rather than being a concise statement of the main idea. All three distractors are blatantly contradictory to the passage rather than plausible but incorrect. The explanation directly restates the correct answer text verbatim.
+  Fix: Rewrite option A as a concise main idea statement like 'Supply and demand influence market prices through natural adjustments.' Create plausible distractors such as 'Gasoline prices are determined solely by travel trends,' 'Producers control market prices without consumer influence,' or 'Price changes occur randomly without predictable patterns.' Rewrite explanation to analyze passage evidence without restating the answer choice.
+
+#1337 [READING] (score: 0)
+  Issues: The correct answer option B (sunlight energy) is completely missing from the answer choices. The options jump from A to C to D, making the question unanswerable. The explanation references option B but no such option exists in the choices.
+  Fix: Rewrite the entire question with all four options properly included: A) Carbon dioxide, B) Sunlight energy, C) Glucose, D) Water. Ensure all options are present and correctly lettered before publishing.
+
+#1338 [READING] (score: 0)
+  Issues: The correct answer (1787) is not listed as any option. Option C is an explanation fragment rather than an answer choice. The question is completely non-functional.
+  Fix: Rewrite entirely with proper options: A) 1776, B) 1787, C) 1788, D) 1789. The correct answer should be B) 1787, which is explicitly stated in the passage as the drafting year.
+
+#1339 [READING] (score: 1)
+  Issues: The correct answer (D) is not a summary statement at all - it is an explanation fragment explaining why A is wrong. No valid summary option exists among the choices. The question is fundamentally broken and cannot be answered correctly.
+  Fix: Rewrite the question entirely with a proper summary as the correct answer. For example, D should be something like 'Voting is essential for representative government, and educating voters increases participation.' Also remove the answer giveaway from the explanation.
+
+#1340 [READING] (score: 0)
+  Issues: The correct answer (60-100 bpm) is not listed among the options. Option A contains an explanation rather than an actual answer choice. The question is fundamentally broken and cannot be scored.
+  Fix: Rewrite entirely. Include '60 to 100 beats per minute' as the actual correct answer option. Remove the explanation text from the answer choice. Format options properly as A) 60 to 100 beats per minute, B) 40 to 60 beats per minute, C) 100 to 120 beats per minute, D) Below 50 beats per minute. Rewrite explanation to teach without directly stating the answer.
+
+#1341 [READING] (score: 0)
+  Issues: The correct answer 'Precipitation' is completely missing from the answer choices. Option B contains meta-explanation text 'This direct sequence confirms it is the next step' instead of an actual answer. The explanation incorrectly states 'Option B, Precipitation' when B does not say Precipitation. This is a broken question where the correct answer was never properly inserted into the options.
+  Fix: Rewrite the entire question with proper answer choices: A) Evaporation B) Precipitation C) Runoff D) Heating. The correct answer should be B) Precipitation. Ensure the answer text in the key matches the actual option text.
+
+#1342 [READING] (score: 1)
+  Issues: Option C is not a real answer choice - it literally says 'C is the strongest evidence' which gives away the answer. The actual correct answer (Social Security Act creating retirement benefits) referenced in the explanation was never included as an option. Options are listed twice with formatting errors. The explanation directly reveals the answer.
+  Fix: Rewrite entirely with proper options: A) Unemployment peaked in 1933, B) Critics disliked Roosevelt personally, C) The Social Security Act created federal retirement benefits, D) The Civilian Conservation Corps planted trees. Correct answer should be C. Remove answer-revealing language from explanation.
+
+#1344 [READING] (score: 1)
+  Issues: Option A is not an actual answer choice but rather a meta-explanation. The correct answer 'to protect patient privacy' is not listed among the options. The question is fundamentally malformed.
+  Fix: Rewrite with proper answer choices: A) To protect patient privacy B) To increase hospital revenue C) To allow sharing of records D) To replace state nursing laws. The correct answer should be A, and the explanation should explain why privacy protection is the main purpose based on the passage without quoting the exact wording of a distractor explanation.
+
+#1345 [READING] (score: 1)
+  Issues: The correct answer C is not an answer choice at all - it's a full explanatory sentence. The actual answer choices A, B, and D are all short phrases, making C immediately identifiable as different and therefore correct. This completely breaks the question format and makes it unscorable.
+  Fix: Rewrite with a proper concise answer choice C such as 'To prevent resistant bacteria' that matches the format of other options. Remove the explanation text from the answer choice. Ensure all four options are parallel in length and structure.
+
+#1346 [READING] (score: 0)
+  Issues: The question is completely broken. Option A is not an answer choice at all - it is an explanation/disclaimer text. The actual answer choices provided (B, C, D) are ALL incorrect - none of them match what the passage states (allocating congressional seats, distributing federal funds for schools and roads). There is no valid correct answer among the options.
+  Fix: Rewrite the entire question. Include 'Allocating congressional seats' and 'Distributing federal funds for schools and roads' as two of the answer choices, with one marked correct. Create plausible but clearly incorrect distractors that don't appear in the passage, such as 'Setting state tax rates' and 'Determining presidential term limits'. Ensure the correct answer is an actual answer choice, not explanation text.
+
+#1347 [READING] (score: 0)
+  Issues: The correct answer 'separate but equal' is not among the options. Option B is referenced as correct but has no content defined. Options are duplicated and malformed (A appears twice, C appears twice). None of the provided answer choices are correct based on the passage.
+  Fix: Rewrite the question entirely with proper options: A) Separate but equal, B) Federal supremacy, C) Judicial review, D) States' rights. The correct answer must be present among the choices.
+
+#1349 [READING] (score: 0)
+  Issues: The correct answer 'At the end of the introduction' is completely missing from the options. Option C is meta-commentary about Option A being incorrect, not an actual answer choice. Options are duplicated in the question text. The explanation contains contradictory claims about the passage mentioning the conclusion when it does not.
+  Fix: Replace option C with 'At the end of the introduction' which is the actual correct answer from the passage. Remove the duplicated options. Rewrite the explanation to accurately reflect what the passage states without contradictions.
+
+#1350 [READING] (score: 1)
+  Issues: The answer choices are fundamentally broken. Option B is not an actual answer choice - it contains explanation text ('This directly matches the question's request for a cold response') instead of the correct answer 'shivering generates heat through muscle contractions' which is what the passage states. The options are also duplicated in the question text.
+  Fix: Rewrite the entire question with proper answer choices: A) Sweat glands activating, B) Shivering generating heat through muscle contractions, C) Insulin lowering glucose levels, D) Rising body temperature. The correct answer should be B with a proper explanation that references the passage.
+
+#1351 [READING] (score: 0)
+  Issues: Option B is completely missing from the question. The correct answer is listed as B but the actual text of option B never appears in the options. The question is literally unanswerable as presented. Additionally, options are duplicated and formatting is broken.
+  Fix: Rewrite the entire question. Include option B with the correct answer text (e.g., 'B) It reduces errors and improves patient safety'). Remove duplicate option listings. Ensure all four options A-D are clearly presented before the correct answer is revealed.
+
+#1352 [READING] (score: 1)
+  Issues: Answer choices A, B, C are duplicated. Option D is not an answer choice at all—it is a full explanation paragraph. The correct answer is not presented as a concise option. This is a structural failure, not a minor formatting issue.
+  Fix: Rewrite with four proper answer choices. D should be a concise answer like 'Growth of urban populations and poor working conditions' or 'Workers moved to factory towns and child labor emerged.' The explanation should be separate and not embedded in the answer choice.
+
+#1353 [READING] (score: 1)
+  Issues: Option B is completely missing from the answer choices yet is marked as the correct answer. The question displays A, C, and D but never shows what B actually says, making it impossible for a student to select the correct answer.
+  Fix: Rewrite the entire question with all four options properly displayed, including Option B which should be 'To instruct readers on proper handwashing technique' or similar.
+
+#1354 [READING] (score: 2)
+  Issues: Answer choice C is not a proper answer choice—it's a full explanatory sentence instead of a simple term like 'Informative' or 'Objective.' The correct answer text appears verbatim in the explanation. Answer choices are listed twice in confusing duplicate format. The question structure is fundamentally broken.
+  Fix: Rewrite with proper answer choices: A) Sarcastic B) Angry C) Informative D) Humorous. Rewrite the explanation in fresh language that teaches why informative is correct without repeating the answer verbatim. Remove duplicate answer listings.
+
+#1355 [READING] (score: 0)
+  Issues: Option A is completely missing its actual answer text and instead contains explanation text. The correct definition of tachycardic (having a fast heart rate) is not present as any answer choice, making the question impossible to answer correctly.
+  Fix: Rewrite the entire question with proper option A text such as 'A) Having a rapid heart rate' and ensure all options contain only answer text, not explanation text.
+
+#1356 [READING] (score: 2)
+  Issues: The correct answer D is not an actual answer choice—it is a full explanation written as an option. Options A-C are listed twice. The 'correct answer' and explanation are nearly identical, completely defeating the purpose of a multiple choice question.
+  Fix: Rewrite with four proper text structure options: A) Compare and contrast, B) Chronological order, C) Problem and solution, D) Cause and effect. Make D the correct answer. Write a separate explanation that teaches why cause-and-effect is correct without copying the answer verbatim.
+
+#1358 [READING] (score: 1)
+  Issues: Option A is completely missing from the question stem. The 'Correct Answer' field contains explanation text instead of the actual answer choice. The question is fundamentally malformed and cannot be answered as presented.
+  Fix: Rewrite the entire question. Include all four options in the question stem with option A being the correct answer (e.g., 'A) Offer study strategies'). Ensure the Correct Answer field contains only the answer letter and text, not explanation content. Move all explanation to the Explanation field.
+
+#1359 [READING] (score: 0)
+  Issues: The correct answer 'Having a lower solute concentration' is completely missing from the options. Option C contains explanation text instead of an actual answer choice. The question is fundamentally broken.
+  Fix: Rewrite the entire question with proper answer choices: A) Having a higher solute concentration, B) Having a lower solute concentration (correct), C) Having an equal solute concentration, D) Containing no solutes whatsoever. Also consider moving this to Science section since it tests biology content rather than reading comprehension.
+
+#1360 [READING] (score: 1)
+  Issues: Answer choices are duplicated (A, B, C appear twice). The 'correct answer' D is not an actual answer choice but contains the full explanation as its text. A proper tone descriptor like 'Critical' or 'Urgent' is completely missing from the options. The explanation repeats the exact text of the correct answer.
+  Fix: Rewrite entirely with proper answer choices: A) Celebratory B) Indifferent C) Humorous D) Critical. Make the correct answer simply 'D) Critical'. Rewrite the explanation to explain WHY the tone is critical without using the exact explanation text as the answer.
+
+#1362 [READING] (score: 0)
+  Issues: The correct answer (first person) is not among the options. Option C is missing and replaced with corrupted explanation text. The correct answer field contains explanation text instead of an actual answer choice.
+  Fix: Rewrite with proper options: A) First person, B) Second person, C) Third-person omniscient, D) Objective historian. Set correct answer to A) First person and clean up the explanation.
+
+#1363 [READING] (score: 0)
+  Issues: Option B is not an actual answer choice - it contains the explanation instead of a purpose statement like 'To persuade readers to verify sources.' The correct answer is completely missing from the options. Options are duplicated in the question text. The explanation gives away the answer by stating 'The correct answer is right because.'
+  Fix: Rewrite entirely with four proper author's purpose options (e.g., To persuade, To inform, To entertain, To describe) and an explanation that discusses why the text is persuasive without naming the correct option directly.
+
+#1364 [READING] (score: 0)
+  Issues: Option D is not a definition of 'concise' but rather an explanation of why other options are wrong. No actual correct definition is provided. Options A-C are duplicated. The explanation directly states 'Option D is right' which gives away the answer.
+  Fix: Replace option D with an actual definition such as 'Brief and to the point while still complete.' Remove duplicated options A-C. Rewrite explanation to explain the meaning of concise using context clues without stating which option is correct.
+
+#1365 [READING] (score: 2)
+  Issues: The correct answer 'Compare and contrast' is never presented as an option. Option A contains explanation text instead of the actual answer label, making the question unanswerable. Students cannot select the correct structure because it's missing from the choices entirely.
+  Fix: Rewrite with proper answer choices: A) Compare and contrast, B) Cause and effect, C) Chronological, D) Problem and solution. The explanation should describe why compare-and-contrast is correct without copying the answer choice text directly.
+
+#1367 [READING] (score: 0)
+  Issues: Option C is not an answer choice at all - it is meta-commentary explaining why option A is wrong. There is no actual correct answer option present. The correct answer should state the author's purpose (e.g., 'Explain the importance of respecting patient autonomy') but this option does not exist. The explanation references content that isn't in any option.
+  Fix: Rewrite entirely with four proper answer choices: A) Argue nurses should override patient decisions (incorrect - opposite of passage), B) Describe how to insert IVs (incorrect - off topic), C) Explain the importance of respecting patient autonomy (correct), D) Promote paternalistic care (incorrect - contradicts passage). Remove the meta-commentary from option C.
+
+#1368 [READING] (score: 1)
+  Issues: The correct answer option A is completely missing its actual text. The explanation text appears to have been accidentally placed as the answer choice. Students cannot select an answer that isn't there.
+  Fix: Rewrite the entire question with a proper answer choice for A, such as 'A) Formally approved and made official' or similar. Remove the explanation text from the answer position and ensure it only appears in the explanation section.
+
+#1369 [READING] (score: 1)
+  Issues: Answer choices are duplicated in the question stem. Option D is not a proper answer choice but contains the full explanation text. The explanation directly gives away the answer by stating 'The correct answer is Third-person objective.' The question structure is fundamentally broken.
+  Fix: Rewrite with proper formatting: options A-D should be concise point-of-view terms only (A) First-person, B) Second-person, C) Persuasive/editorial, D) Third-person objective). Remove duplicated options. Rewrite explanation to teach the concept without explicitly stating the correct answer - describe the features of third-person objective writing and let the student connect it to the answer choice.
+
+#1371 [READING] (score: 0)
+  Issues: Option B is not a conclusion statement - it's a meta-explanation about why option A is wrong. The correct answer must be an actual conclusion supported by the passage, not commentary on another option. Additionally, the correct answer text appears verbatim in the explanation.
+  Fix: Rewrite all answer choices as actual conclusions. The correct answer should be something like 'Adults who sleep less than six hours tend to have higher blood pressure than those who sleep seven to eight hours.' Replace option B with this, and create new distractors that are plausible but incorrect conclusions (e.g., confusing correlation with causation in different directions, overgeneralizing the findings). Remove the correct answer text from the explanation.
+
+#1377 [READING] (score: 0)
+  Issues: The correct answer choice B is completely missing from the question. The 'Correct Answer' field contains explanation text ('Option D fails because 200 students total...') rather than an actual answer choice like 'Practice tests are more effective than rereading.' The explanation also gives away reasoning about specific distractors. This question is fundamentally broken and cannot be scored.
+  Fix: Rewrite entirely. Add the missing correct answer choice B (e.g., 'Practice testing led to higher exam scores than rereading'). Remove explanation text from the Correct Answer field. Rewrite explanation to teach the concept without referencing specific option letters or giving away distractor reasoning.
+
+#1379 [READING] (score: 1)
+  Issues: Option C is a full paragraph explanation rather than a proper answer choice; options A and B are duplicated in the question text; the 'correct answer' is just the explanation text repeated, not an actual answer choice; no valid multiple choice option exists stating the correct relationship
+  Fix: Rewrite entirely. The correct relationship should be a concise answer choice like 'Higher hand hygiene compliance is associated with lower infection rates.' Create four distinct, brief answer choices (A-D) that are proper options, not paragraphs. Remove all duplication and ensure the explanation teaches why without being copy-pasted as the answer.
+
+#1386 [READING] (score: 2)
+  Issues: Option A is missing the actual answer text entirely - it contains only explanation text instead of 'To pump oxygenated blood to the rest of the body.' The explanation gives away the answer by directly quoting the exact passage. Distractors are duplicated in the question structure. The question is functionally broken.
+  Fix: Rewrite the entire question with proper formatting: Option A should be 'To pump oxygenated blood to the rest of the body.' Remove the duplicated distractors field. Rewrite the explanation to teach the reasoning without quoting the exact answer text directly - instead explain that the passage contrasts right vs left heart functions and the left side handles oxygenated blood distribution to body tissues.
+
+#1387 [READING] (score: 0)
+  Issues: Option B is completely missing from the question. The 'Correct Answer' field contains explanation text rather than the actual answer choice. The question lists options A, C, D but never shows B. This makes the question unusable as students cannot see or select the correct answer.
+  Fix: Rewrite the entire question including all four answer choices (A, B, C, D) with B being the actual correct summary such as 'Green plants convert light energy, carbon dioxide, and water into glucose and oxygen, a process essential for most life on Earth.' Ensure the correct answer field contains only the answer text, and move all analysis to the explanation section without revealing the answer directly.
+
+#1388 [READING] (score: 1)
+  Issues: The correct answer option C is not an actual answer—it's a meta-statement describing what a correct answer would do ('This directly matches the reason provided in the text'). The actual reason (unhappy with heavy taxation and arbitrary rule) is missing from all options. The explanation reveals the true answer but it was never provided as a choice.
+  Fix: Replace option C with the actual answer: 'C) They were unhappy with his heavy taxation and arbitrary rule.' Then revise the explanation to explain why this is correct based on the passage text without restating the answer verbatim as the opening phrase.
+
+#1390 [READING] (score: 0)
+  Issues: The correct answer 'rises into the atmosphere' is completely missing from the options. Option A contains explanation text instead of an actual answer choice. A student cannot select the correct answer because it doesn't exist among the choices.
+  Fix: Rewrite the options to include 'It rises into the atmosphere' as option A, then list the other three distractors as B, C, and D. Ensure the correct answer is a complete answer choice, not an explanation.
+
+#1391 [READING] (score: 1)
+  Issues: Option B is not an answer choice at all - it is an explanation about why option A is wrong. The actual correct answer (that more soldiers died from unsanitary conditions than wounds) is completely missing from the options. Option A appears twice. The question is fundamentally broken.
+  Fix: Rewrite the entire question with four proper answer choices. The correct answer B should be: 'More soldiers died from unsanitary conditions than from their actual wounds during the Crimean War.' Remove the duplicate option A and ensure all options are actual answer choices, not explanations.
+
+#1392 [READING] (score: 0)
+  Issues: Option C does not contain an actual answer - it is meta-text ('This directly matches the description in the option') rather than stating how metamorphic rocks form. Options A and B are duplicated in the question listing. The question is fundamentally broken as the correct answer option is nonsensical.
+  Fix: Rewrite the entire question. Option C should be 'Existing rocks are subjected to extreme heat and pressure deep underground' to match the passage content. Remove duplicate options and ensure all four answer choices are distinct, plausible, and one clearly matches the passage.
+
+#1393 [READING] (score: 0)
+  Issues: The 'correct answer' D is not a main idea statement at all—it's an explanation of why option A is wrong. None of the four options (A, B, C, or D) actually state the main idea of the passage. The explanation falsely claims 'Option D combines all three elements' when D does nothing of the sort. This question is fundamentally broken.
+  Fix: Rewrite entirely. The correct answer should be a proper main idea statement like 'The Declaration of Independence announced the colonies' separation from Britain by arguing for natural rights and listing grievances against the king.' Remove the current D option entirely and create four legitimate main idea options where only one captures the passage's central message.
+
+#1394 [READING] (score: 0)
+  Issues: The correct answer option A is completely missing its actual text. Instead of showing 'They provide the body with energy,' Option A displays explanation text about Option B being incorrect. The options are also duplicated in the question block, making it completely unusable for students.
+  Fix: Rewrite the entire question with proper formatting. Option A should read 'They provide the body with energy.' Remove the duplicated options list. Ensure the correct answer field contains only the answer text, not explanation content.
+
+#1396 [READING] (score: 0)
+  Issues: Option C does not contain an actual answer choice - it contains explanation text instead of the correct main idea statement. No option presents the actual main idea of the passage, making the question unanswerable.
+  Fix: Replace option C with an actual main idea statement such as 'The Harlem Renaissance was a significant cultural movement that allowed African American artists to express their experiences and challenge racial stereotypes.' Ensure all options are complete answer choices before adding any explanation text.
+
+#1397 [READING] (score: 0)
+  Issues: The correct answer (D) is not an actual answer choice - it's explanation text describing why other options are wrong. The actual correct answer 'by releasing endorphins' is never presented as an option. This means no student could possibly select the right answer.
+  Fix: Replace option D with 'By releasing endorphins, which are natural mood lifters' and rewrite the explanation to explain why this is correct without copying the full text of the correct answer into the explanation.
+
+#1398 [READING] (score: 0)
+  Issues: The correct answer is completely broken - 'A)' is listed as 'Option B is wrong as the text mentions...' which is not an answer choice at all. There is no Option A in the question stem. The explanation references an Option A about Jefferson that doesn't exist as a choice. None of the actual options (B, C, D) are correct explicit details from the passage, making this unsolvable.
+  Fix: Rewrite entirely. Include a valid Option A that IS an explicit detail from the passage (e.g., 'The expedition was commissioned by President Thomas Jefferson in 1803'), then make B, C, and D plausible but incorrect details not found in the text. Ensure the correct answer field contains only the answer letter and option text, not an explanation.
+
+#1399 [READING] (score: 1)
+  Issues: The correct answer option B is completely missing from the question. The options jump from A to C to D, but B is listed as the correct answer. This makes the question unanswerable.
+  Fix: Rewrite the entire question including all four options (A, B, C, D) with option B being the correct answer stating something like 'It moves water toward areas of high solute concentration without requiring energy.' Ensure the explanation doesn't directly reveal the correct answer text.
+
+#1400 [READING] (score: 1)
+  Issues: Answer choices are duplicated (A and B appear twice). Option C is not a proper summary but rather a meta-explanation that quotes the passage directly. The explanation violates the rule against giving away the answer by restating option C verbatim.
+  Fix: Rewrite option C as an actual summary (e.g., 'The Industrial Revolution's urbanization brought both significant hardships and eventual positive reforms'). Remove duplicate options. Rewrite explanation to teach the reasoning without restating the correct answer verbatim.
+
+#1402 [READING] (score: 1)
+  Issues: The correct answer option A contains explanation text ('Conversely, option B is wrong because...') instead of the actual answer. The real correct answer (something like 'outraged and critical') is completely missing from the options, making this question unsolvable.
+  Fix: Replace option A with the actual correct tone description (e.g., 'Outraged and critical') and remove the explanation fragment from the answer field. The explanation should remain in the explanation section only, and should not reveal the answer directly in the answer choices.
+
+#1410 [READING] (score: 0)
+  Issues: The correct answer (A) does not actually define 'fastidious'—it provides a meta-explanation about context clues instead of a definition. The question asks what a word means, but none of the answer choices offer an actual definition. This is fundamentally broken.
+  Fix: Replace answer A with an actual definition like 'Excessively particular or fussy about details' and make the other distractors alternative definitions (e.g., 'Lenient and forgiving,' 'Related to strong odors,' 'Medically necessary'). Move the context clue explanation solely to the explanation section.
+
+#1411 [READING] (score: 1)
+  Issues: Severely malformed question. Answer choices are duplicated and option B contains explanation text instead of an actual answer choice (should be 'Sequential' or 'Process'). The correct answer label is not properly presented as a selectable option. This makes the question unusable.
+  Fix: Rewrite entirely with proper formatting: Option B should be 'Sequential' or 'Process/Sequential' as a text structure label. Remove the duplicated answer choices. The explanation should not start with the exact text that appears as the answer choice.
+
+#1412 [READING] (score: 0)
+  Issues: The correct answer option is completely missing. Option C contains explanation text ('Option B is wrong since...') rather than an actual answer choice. None of the provided options (A, B, D) state the actual author's purpose, which is to debunk/refute the 10% brain myth. The question is unanswerable as written.
+  Fix: Replace option C with the actual correct answer such as 'To debunk the myth that humans only use 10% of their brains' and remove the explanation text from the option. Ensure all four options are actual answer choices, not explanations.
+
+#1413 [READING] (score: 0)
+  Issues: Option D is not an answer choice at all—it is an explanation. The actual correct answer (third-person objective) is not even listed as an option. The 'correct answer' and 'explanation' are identical text. This question is fundamentally non-functional.
+  Fix: Rewrite entirely. The options should be: A) First-person, B) Second-person, C) Third-person omniscient, D) Third-person objective. The correct answer should be D, and the explanation should explain WHY third-person objective is correct and why third-person omniscient is wrong, without simply restating the answer.
+
+#1415 [READING] (score: 1)
+  Issues: Option B is not an answer choice - it is an explanation. The question asks 'what does lethargy mean' but none of the options provide an actual definition of the word. Option B instead explains why lethargy fits the context. This is a fundamental structural error.
+  Fix: Replace option B with an actual definition such as 'A state of extreme sluggishness or drowsiness' and remove the duplicated explanation text from the answer choice. All options should be potential definitions of lethargy, not explanations of the passage.
+
+#1417 [READING] (score: 1)
+  Issues: The correct answer D is not an actual answer to the question asked - it's a meta-statement explaining why option A is wrong rather than stating how Passage B relates to Passage A. The options are duplicated in the question text. The explanation contains the exact text of the 'correct answer', making the flag reason valid.
+  Fix: Rewrite entirely with proper answer choices. The correct answer should be something like 'It presents a limitation or counterargument to the benefits described in Passage A.' Remove the duplicated options and ensure the explanation teaches the concept without containing the exact answer wording.
+
+#1422 [READING] (score: 0)
+  Issues: The correct answer labeled as 'A' is not an answer choice at all - it is an explanation of why option B is wrong. There is no actual correct answer option provided. Options B, C, and D are all incorrect statements, but no valid inference is offered as the correct choice. The question structure is completely broken.
+  Fix: Rewrite the entire question with four proper answer choices including a correct inference such as 'A) Coral reefs are highly sensitive to temperature changes and their decline can harm broader marine ecosystems.' Ensure the correct answer is an actual answer option, not meta-commentary about other options.
+
+#1427 [READING] (score: 1)
+  Issues: The correct answer (B) is not an inference at all - it is meta-commentary explaining why other options are wrong. The actual logical inference (that doctors were misled) is never presented as an answer choice. This is a fundamental structural failure making the question unusable.
+  Fix: Rewrite the question entirely. The correct inference should be presented as an actual answer option such as 'Doctors were misled by pharmaceutical companies about the addictive nature of opioids.' The other options should be distinct plausible-sounding inferences that go beyond what the text supports.
+
+#1430 [READING] (score: 1)
+  Issues: The correct answer B is not an actual answer choice - it is an explanation/meta-commentary ('Without this mechanism, a person would struggle to produce warmth in freezing conditions, directly matching the inference'). Option A is duplicated. The question structure is completely broken.
+  Fix: Rewrite the entire question. Create four proper inference-based answer choices (e.g., 'They would have difficulty warming themselves in cold conditions' for the correct answer) and ensure the explanation does not copy the exact wording of the correct answer choice.
+
+#1432 [READING] (score: 0)
+  Issues: The correct answer is not an actual answer choice. Option A does not exist as a valid conclusion - instead, it contains meta-commentary explaining why option B is wrong. The question asks for a valid conclusion but none of the presented options (B, C, D) are valid conclusions. This question is completely unanswerable as written.
+  Fix: Rewrite the entire question. Create an actual option A that presents a valid conclusion combining both passages (e.g., 'The printing press had complex effects, both increasing literacy and enabling the spread of misinformation'). Ensure all four options are proper answer choices, not explanations or meta-commentary about other options.
+
+#1436 [READING] (score: 1)
+  Issues: The correct answer (A) does not actually state a main idea of the passage—it is meta-commentary about the other options being wrong. A main idea question must have an answer that summarizes the passage's central point. Additionally, the explanation contains the exact text of the correct answer.
+  Fix: Rewrite the correct answer to actually state the main idea, such as 'Hypertension management requires a comprehensive approach including lifestyle modifications, pharmacological treatment when needed, and consistent monitoring.' Then rewrite the explanation to explain why this captures the main idea without using the exact answer text.
+
+#1437 [READING] (score: 0)
+  Issues: The correct answer option B is completely missing from the question. Only options A, C, and D are listed as choices, but the answer key indicates B is correct. The explanation references 'saving countless soldiers during World War II' which appears in the passage but was never included as an option. Additionally, option A appears twice in the question text.
+  Fix: Rewrite the entire question. Include four distinct options (A, B, C, D) with option B being 'Mass production during World War II saved countless soldiers from wound infections.' Remove duplicate option A entry. Ensure the correct answer is actually present among the choices.
+
+#1438 [READING] (score: 0)
+  Issues: The correct answer (C) is not a summary statement at all - it is a meta-explanation about why option A is wrong. This completely breaks the question since no valid summary option exists among the choices. Additionally, none of the other options (A, B, D) are reasonable summaries of the passage.
+  Fix: Rewrite entirely with four actual summary statements as options. A proper correct answer would be something like: 'Urban heat islands raise city temperatures through built surfaces, but green infrastructure can help reduce these effects.' Create plausible but flawed distractors that misrepresent scope, add unsupported claims, or miss key points.
+
+#1439 [READING] (score: 0)
+  Issues: The correct answer D is not an actual answer choice but a meta-statement about other options being wrong. The actual documented consequences (autoimmune disorders and metabolic diseases) from the passage are not listed as any option. This is fundamentally broken - no real answer is provided. The explanation directly states 'Option D is correct' violating the rule against giving away the answer.
+  Fix: Rewrite entirely with proper answer choices. Correct answer should be 'Autoimmune disorders and metabolic diseases.' Create three plausible but clearly wrong distractors like: 'Increased resistance to viral infections,' 'Enhanced digestive enzyme production,' or 'Permanent restoration of immune system balance.'
+
+#1440 [READING] (score: 2)
+  Issues: The correct answer choice A is not formatted as a proper answer option - it reads as meta-commentary about the text rather than a complete answer. Additionally, the explanation uses nearly identical wording to answer choice A, directly giving away the answer.
+  Fix: Rewrite answer choice A as a proper statement: 'To protect vulnerable individuals who cannot be vaccinated.' Then rewrite the explanation to explain why this is correct without parroting the answer text, such as: 'The passage states that herd immunity protects vulnerable individuals who cannot be vaccinated, making this the primary purpose described in the text.'
+
+#1441 [READING] (score: 1)
+  Issues: The correct answer (Option B) is completely missing from the options list. There are duplicate Option A entries, and the options jump from A to C to D without ever showing what B actually says. The question is fundamentally broken and cannot be answered as presented.
+  Fix: Rewrite the entire question, ensuring all four options (A, B, C, D) are included with distinct text. Option B should state something like 'Factory workers faced hazardous conditions and needed advocacy for safer environments' to match the passage's explanation for union formation.
+
+#1442 [READING] (score: 0)
+  Issues: Option C is not a valid answer choice - it contains meta-commentary/explanation text instead of a proper response. Options A and B are duplicated in the question listing. The 'correct answer' field contains explanation text rather than an actual answer a student could select.
+  Fix: Rewrite entirely with proper answer choices. Option C should be: 'C) It is typically structured and time-limited.' Remove duplicate A and B options. The explanation should not contain the exact answer text verbatim as the first sentence - instead, explain the reasoning without directly quoting the correct answer.
+
+#1443 [READING] (score: 0)
+  Issues: The correct answer option D is not a valid answer choice - it is a meta-explanation rather than an actual geological event. The passage clearly states transform boundaries generate earthquakes, but 'earthquakes' is not listed as any option. The question is fundamentally broken.
+  Fix: Rewrite the question entirely with proper answer choices. Option D should be 'Frequent earthquake activity' or similar. All four options must be actual geological events that could plausibly answer the question, with only one being correct based on the passage.
+
+#1444 [READING] (score: 0)
+  Issues: The correct answer is completely missing from the options. Option A contains explanation text ('Option B is incorrect...') instead of an actual answer choice. The actual correct answer based on the passage (dealing with spore-forming pathogens like C. difficile) does not appear as any option.
+  Fix: Rewrite entirely. Replace option A with the actual correct answer: 'When dealing with spore-forming pathogens like Clostridioides difficile.' Remove the explanation text that was incorrectly placed as an answer option.
+
+#1445 [READING] (score: 1)
+  Issues: Option B is missing its actual answer text - instead it contains explanation language. The options list is duplicated and malformed. A student cannot see what the correct answer actually says, making the question unusable.
+  Fix: Rewrite the entire question with properly formatted options. Option B should contain the actual answer text such as 'To provide relief, recovery, and reform through expanded federal involvement in the economy.' Remove the duplicated options list and ensure the explanation does not contain the exact wording of the correct answer choice.
+
+#1452 [READING] (score: 1)
+  Issues: Answer choice A is not a proper answer option - it's an explanation fragment starting with 'This directly links...' rather than a complete, student-selectable answer. The correct answer text also appears verbatim in the explanation, giving away the answer. The question is fundamentally broken.
+  Fix: Rewrite answer choice A as a proper standalone answer such as 'They are highly vulnerable to opportunistic microbes' and remove the answer text from the explanation. The explanation should explain why the passage supports the correct answer without repeating it verbatim.
+
+#1453 [READING] (score: 0)
+  Issues: The correct answer option B is completely missing. Option B contains explanation text ('Option A is incorrect because...') instead of an actual answer choice. Option A appears twice in the question stem. The correct answer is never actually presented as a selectable option, making this question fundamentally broken.
+  Fix: Rewrite the entire question. Replace option B with an actual answer choice such as 'To present a balanced view of telemedicine's benefits and limitations.' Remove the duplicate option A. Ensure the correct answer appears as a proper option in the question, not as explanation text.
+
+#1454 [READING] (score: 0)
+  Issues: Answer choices are duplicated (A, B, D appear twice). Option C is a full sentence describing passage content, not a tone descriptor like the other options. The question asks for a 'word' but C is a sentence. The correct answer doesn't actually identify the tone - it summarizes the passage's message. The explanation contains the exact correct answer text.
+  Fix: Rewrite entirely. Provide four distinct tone descriptors as options (e.g., A) Detached and objective, B) Urgent and alarmist, C) Nostalgic and reflective, D) Humorous and lighthearted). The correct answer should be a tone descriptor like 'Urgent and alarmist.' Ensure no answer choice text appears verbatim in the explanation.
+
+#1455 [READING] (score: 1)
+  Issues: The correct answer D is not a text structure label but a content description. The actual text structure (sequence/chronological order/process) is missing entirely from the options. Options are duplicated in the question stem. The explanation directly gives away the answer. None of the provided structure options are correct.
+  Fix: Rewrite with proper text structure options: A) Cause and effect, B) Compare and contrast, C) Problem and solution, D) Sequence/chronological order. Make D the correct answer. Write an explanation that teaches how to identify sequential text structures using transition words like 'first, next, then, finally' without copying the answer verbatim.
+
+#1456 [READING] (score: 1)
+  Issues: The correct answer option A is not an actual answer choice—it is an explanation fragment. A 'most nearly means' question requires an answer that is a definition or synonym, not meta-commentary about the text. The option should say something like 'Sorting patients by injury severity' not an explanation about confirming a sorting mechanism.
+  Fix: Rewrite option A as an actual definition answer such as 'Sorting or categorizing patients based on the severity of their injuries' and ensure the explanation does not simply repeat the answer text verbatim but instead explains the reasoning process.
+
+#1459 [READING] (score: 1)
+  Issues: Duplicate options A, B, C appear twice. Correct answer D does not actually answer the question asked - it states 'This directly supports the argument against extended shifts' which is not a purpose statement. The question asks for the author's primary purpose, but D is meta-commentary, not a purpose. The explanation merely restates the answer rather than teaching why the author's purpose is what it is.
+  Fix: Rewrite entirely. The correct answer should be a proper purpose statement like 'To argue that mandatory overtime compromises patient safety' or 'To persuade readers that adequate hiring is essential for patient safety.' Ensure all four options are distinct purpose statements, remove duplicates, and write an explanation that teaches how to identify authorial purpose from tone words like 'conveniently ignores' and imperative language.
+
+#1460 [READING] (score: 1)
+  Issues: Major format error: Option A contains a full explanatory sentence while options B, C, and D are only short phrases. This breaks parallel structure and makes the correct answer obvious by appearance alone. Additionally, the explanation repeats the exact text of the correct answer, giving it away.
+  Fix: Rewrite with parallel answer choices: A) Sequential/cyclical B) Compare and contrast C) Cause and effect D) Problem and solution. Rewrite the explanation to discuss the characteristics of sequential/cyclical text (step-by-step progression, signal words like 'then' and 'finally', repeating nature) without stating 'the passage uses sequential and cyclical structure' verbatim.
+
+#1461 [READING] (score: 1)
+  Issues: The answer choices are duplicated and malformed. Option B is not an actual answer choice but rather an explanation fragment ('The text contrasts this with abandonment...'). The correct answer is not presented as a proper multiple-choice option. The question is structurally broken.
+  Fix: Rewrite the entire question with proper formatting. The correct answer choice should be something like 'A deliberate policy of noninterference' or 'Strategic withholding of intervention.' Ensure all four options (A, B, C, D) are properly formatted as answer choices, not explanations. The explanation should then teach why the correct answer is right without copying the exact answer text.
+
+#1462 [READING] (score: 1)
+  Issues: The correct answer listed is 'cumbersome interfaces,' which is not a tone description but a phrase from the passage. The explanation describes the tone as 'critical yet constructive' but this option does not exist in the choices. Options are duplicated in the question text. The question is fundamentally broken.
+  Fix: Completely rewrite the question. Replace option C with 'Critical but constructive' as the correct answer. Remove duplicated options. Ensure all options are valid tone descriptors that match the explanation.
+
+#1463 [READING] (score: 0)
+  Issues: The correct answer 'Limit' is not listed as any option. Option D is a full explanatory sentence instead of a word replacement. The answer choices are duplicated in the question text. The question asks for a word replacement but provides an explanation as the 'correct answer'. This is fundamentally broken.
+  Fix: Rewrite the entire question. The answer choices should be: A) Beginning B) Advantage C) Mystery D) Limit. Remove the duplicated options and ensure the correct answer is actually present as a choice. The explanation should NOT include the phrase that was flagged as it gives away reasoning.
+
+#1466 [READING] (score: 0)
+  Issues: The question is completely broken. Option C is missing from the answer choices - instead, the explanation text was inserted where option C should be. A student sees only options A, B, and D, yet the correct answer is marked as C. The actual correct answer choice ('a state of balance' or similar) never appears as a selectable option.
+  Fix: Rewrite the entire question with four properly formatted answer choices: A) A sudden increase in metabolic rate, B) A complete shutdown of organ systems, C) A state of balance, D) An unpredictable external environment. Keep the explanation separate from the answer choices.
+
+#1468 [READING] (score: 1)
+  Issues: Option A is completely missing from the question stem and replaced with explanation text. The answer choices start with B instead of A. The 'Correct Answer' field contains explanation text rather than the actual answer. The question is fundamentally broken and unusable.
+  Fix: Rewrite the entire question with properly formatted answer choices: A) Advocacy for limiting resident work hours, B) Neutral reporting without any clear stance, C) Opposition to limiting resident work hours, D) Personal anecdote about surviving medical school. Set correct answer to A. Rewrite explanation to describe the advocacy stance without explicitly stating 'the author supports limiting work hours'.
+
+#1469 [READING] (score: 1)
+  Issues: The correct answer option B is completely missing from the answer choices. A) Curative appears twice. The question is unanswerable because 'Preventive' (the actual correct answer based on the explanation) is not listed as any option.
+  Fix: Rewrite the entire question with proper answer choices: A) Curative B) Preventive C) Experimental D) Surgical. Ensure the correct answer text actually appears in the options list and is not duplicated elsewhere.
+
+#1476 [READING] (score: 0)
+  Issues: Option A is not a valid answer choice - it's a meta-statement about option B being incorrect, not an inference from the passage. The question asks for a 'best supported inference' but no actual inference is provided among the options. Options B, C, and D are all extreme statements using absolute language (completely, primarily, exclusively) that are clearly unsupported, but there is no correct answer presented.
+  Fix: Rewrite the entire question. Create four distinct inference options where one is a reasonable inference supported by the passage (e.g., 'Verifying patient understanding of discharge instructions can reduce hospital readmissions'), and three distractors that are plausible but go beyond what the text supports or misrepresent the passage.
+
+#1480 [READING] (score: 0)
+  Issues: The correct answer option A is completely missing - instead of containing an actual answer choice, it contains explanation text ('Option B is incorrect as the text states...'). This makes the question unanswerable. Additionally, the explanation directly gives away the answer by stating what the text says about adverse drug events, violating the rule that explanations should not reveal answers directly.
+  Fix: Rewrite the entire question. Provide a proper correct answer for option A such as 'It reduces preventable complications and decreases nursing workload.' Ensure the explanation teaches the reasoning process without directly stating the correct answer in the first sentence. Remove the duplicated options that appear after the question stem.
+
+#1486 [READING] (score: 0)
+  Issues: The question is completely broken: there is no actual question stem asking anything, Option A is missing entirely despite being listed as the correct answer, the options are duplicated, and the format is incoherent. The passage exists but no task is given to the student.
+  Fix: Rewrite from scratch. Include a clear question stem (e.g., 'Which of the following statements is supported by the passage?'), provide all four options including the correct one, ensure each option is distinct, and format properly. The correct answer should be something like 'Antibiotics are ineffective against viral infections' based on the passage content.
+
+#1487 [READING] (score: 0)
+  Issues: No question stem exists - the passage is presented but no actual question is asked. The 'correct answer' B is not an answer choice but rather explanation text about option A. The entire question structure is broken - a student would have no idea what they're being asked to identify.
+  Fix: Rewrite entirely with a clear question stem such as 'According to the passage, what serves as the primary fuel for plant growth and development?' Then provide four distinct answer choices: A) Oxygen, B) Glucose, C) Chlorophyll, D) Sunlight, with B as correct. Remove all meta-commentary from answer choices.
+
+#1488 [READING] (score: 0)
+  Issues: No actual question prompt is provided - just a passage followed by options. The 'correct answer' C is meta-commentary about why A is wrong, not a valid answer choice. Options are duplicated in the prompt. This is not a functional question.
+  Fix: Rewrite entirely: Add an actual question stem (e.g., 'Which of the following statements is supported by the passage?'), create four substantive answer choices that are actual claims about the passage, and ensure the correct answer is a valid inference rather than meta-commentary about another option.
+
+#1489 [READING] (score: 1)
+  Issues: No actual question prompt is provided - just a passage followed by answer choices. Answer options A, B, C are duplicated in the text. Distractors are implausible and obviously contradict the passage rather than being plausible misreadings. The correct answer merely restates passage content without testing any comprehension skill. Explanation repeats the correct answer verbatim.
+  Fix: Rewrite entirely: Add a clear question prompt (e.g., 'Which of the following best summarizes the main finding of this study?'), remove duplicate options, create plausible distractors that might tempt students who misread or overgeneralize (e.g., 'Moderate exercise eliminates all post-surgical complications' or 'Patients who exercised recovered in under six months'), and write an explanation that explains the reasoning without restating the answer word-for-word.
+
+#1492 [READING] (score: 1)
+  Issues: Fundamentally broken question format. Option C is not an answer choice but a meta-commentary explaining why A is wrong. There is no actual question stem asking students to do anything. The 'correct answer' is literally an explanation, not a substantive option. This is not a valid multiple choice question.
+  Fix: Completely rewrite. Add a proper question stem like 'Which of the following statements is NOT supported by the passage?' Then make option C an actual false statement (e.g., 'All mutations result in disease') rather than meta-commentary about another option.
+
+#1493 [READING] (score: 1)
+  Issues: Option D is a full sentence, not a word as the question asks. Options A-C are duplicated in the listing. The actual answer (calm/composed/steady) is never presented as a choice. The explanation contains the exact text of option D, giving away the answer.
+  Fix: Rewrite with proper options that are single words: A) Panicked B) Angry C) Confused D) Composed. Remove duplicate option listings. Ensure explanation does not copy the correct answer verbatim.
+
+#1494 [READING] (score: 0)
+  Issues: The correct answer option A text is completely missing - replaced with explanation text. Option B appears twice in the question body. The question structure is malformed and non-functional.
+  Fix: Rewrite the entire question with proper formatting. Include Option A as 'To inform about the printing press's impact on communication' or similar, and ensure all four options appear exactly once in the question stem. Move all explanation text to the explanation field only.
+
+#1496 [READING] (score: 0)
+  Issues: Option C is not an actual answer choice - it's a meta-statement ('This directly matches the consequence described in the text') rather than a substantive answer. The actual correct answer based on the passage (organ failure/organs deprived of oxygen and nutrients) is not listed among any options.
+  Fix: Rewrite the question entirely. Replace option C with the actual correct answer such as 'Organs would be deprived of oxygen and nutrients, leading to organ failure' and ensure all distractors are distinct, plausible but clearly incorrect answers based on the passage.
+
+#1497 [READING] (score: 1)
+  Issues: The correct answer (D) does not answer the question asked. The question asks what the metaphor suggests, but D is an explanatory statement about textual support rather than an interpretation. No option actually states that time takes away valuable things like youth or moments. Additionally, the explanation essentially repeats the answer text verbatim, and distractors are implausibly obvious.
+  Fix: Rewrite with a proper correct answer such as 'Time gradually takes away youth, vitality, and life's precious moments.' Create plausible distractors like 'Time brings wisdom and experience,' 'Time rewards patience,' and 'Time helps people appreciate what they have.' Ensure the explanation teaches the concept without copying the answer verbatim.
+
+#1498 [READING] (score: 1)
+  Issues: Question is fundamentally broken: no actual question prompt exists, Option A text is never provided (only explanations about it), options are duplicated in a confusing manner, and the correct answer field shows explanation text instead of the answer itself
+  Fix: Rewrite entirely: Add an actual question stem (e.g., 'Which conclusion is supported by the passage?'), provide the actual text for all four options including A, remove the duplicated options, and ensure the correct answer field contains only the answer text not an explanation
+
+#1499 [READING] (score: 1)
+  Issues: The correct answer (Option B) is completely missing from the question. Only options A, C, and D are shown, but the answer key references B. Additionally, all visible distractors directly contradict the passage rather than being plausible misinterpretations of the main idea.
+  Fix: Rewrite the entire question. Include the actual correct answer option (e.g., 'B) Vaccines train the immune system to recognize pathogens without causing illness'). Create plausible distractors that could reasonably be mistaken for the main idea, not just obviously false statements that contradict the passage.
+
+#1500 [READING] (score: 2)
+  Issues: Options are duplicated in the question stem, option C is a full explanation rather than a concise answer choice (should say something like 'Sequential' or 'Chronological order'), the first option listing skips from B to D, and the explanation merely repeats the answer text rather than teaching why sequential organization is correct.
+  Fix: Rewrite the question with four proper concise answer choices: A) Compare and contrast, B) Cause and effect, C) Sequential/chronological order, D) Problem and solution. Write a new explanation that teaches students to identify sequential organization by looking for transition words like 'first,' 'next,' 'after,' and 'finally,' and explains why the other patterns don't fit without just restating the correct answer.
+
+#1503 [READING] (score: 1)
+  Issues: Option B is completely missing from the question choices - only A, C, and D are listed. The 'correct answer' field contains text that was never presented as an option. The explanation is identical to the correct answer text and gives away the answer directly rather than explaining why it's correct.
+  Fix: Rewrite the entire question: include option B (e.g., 'B) Formal and academic') in the choices, make the explanation teach WHY technical vocabulary and neutral tone indicate academic writing without stating the answer verbatim, and ensure all four options are distinct writing styles appropriate for a TEAS reading question.
+
+#1505 [READING] (score: 0)
+  Issues: The correct answer (D) does not actually answer the question asked. None of the options list a task social workers perform according to the passage. Option D is a meta-statement about why A is wrong, not an actual answer. The explanation falsely claims D 'combines two of these directly from the text' when it contains no task from the passage at all.
+  Fix: Rewrite the question entirely. The correct answer should be one of the actual tasks from the passage (e.g., 'They connect families with housing resources'). The distractors should be plausible but incorrect tasks not mentioned in the passage. Example: A) They connect families with housing resources. [CORRECT] B) They perform surgical procedures in hospitals. C) They prescribe medications for mental health conditions. D) They design public school curricula for all grade levels.
+
+#1506 [READING] (score: 0)
+  Issues: The correct answer C is not an answer choice at all - it is an explanation about why option A is wrong. The actual correct answer (to inform readers) is missing entirely from the options. The question structure is completely broken with duplicated options and no valid correct answer presented.
+  Fix: Rewrite entirely. The correct answer should be an actual author's purpose statement like 'Inform readers about the theory of evolution and its supporting evidence.' Remove the meta-explanation from the answer choices and ensure all four options are parallel purpose statements (persuade, entertain, inform, convince to reject).
+
+#1507 [READING] (score: 0)
+  Issues: The correct answer (B) is not an actual answer choice - it is meta-commentary explaining why other options are wrong. There is no option that states 'Taxation' or any correct answer from the passage. The options are duplicated in the question text. The explanation claims B is correct because it lists taxation, but option B contains no such reference. This is fundamentally broken.
+  Fix: Rewrite entirely. The correct answer choice must be 'Taxation' or similar wording that directly matches what the passage states. Remove the duplicated options and ensure option B is an actual answer, not an explanation. Format should be: A) Slavery B) Taxation C) Immigration D) Industrialization, with correct answer B.
+
+#1508 [READING] (score: 1)
+  Issues: No question stem is present - there is only a passage followed by answer choices. The correct answer D is formatted as a full sentence while distractors A-C are short phrases, creating an obvious giveaway. The explanation copies the correct answer text verbatim.
+  Fix: Add an actual question stem (e.g., 'According to the passage, which of the following best describes the approach of cultural relativism?'). Format all answer choices consistently as short phrases. Rewrite the explanation to teach the concept without restating the correct answer word-for-word.
+
+#1509 [READING] (score: 0)
+  Issues: The question stem is missing entirely - there is no actual question being asked, just a passage. Option A is referenced as the correct answer but is never presented in the answer choices. The 'correct answer' field contains explanation text rather than an actual answer. The question structure is completely broken and unusable.
+  Fix: Rewrite the entire question: Include a clear question stem like 'According to the passage, what is the primary purpose of the scientific method?', provide all four answer choices (A through D) where A states 'To develop and test scientific knowledge', and ensure the correct answer field contains only the answer text without explanation mixed in.
+
+#1510 [READING] (score: 0)
+  Issues: The correct answer option C is completely missing from the question - only A, B, and D appear as choices. The 'correct answer' C is actually the explanation text, not an actual answer choice. Options A, B, and D are duplicated in the question stem. The explanation directly gives away the answer by stating 'formal, objective tone' which should be the actual option C text.
+  Fix: Rewrite the entire question. Add the missing option C as 'Objective and formal' or similar. Remove all duplicated options. Rewrite the explanation to discuss characteristics of objective tone without explicitly stating the answer phrase. The explanation should guide reasoning without giving away the exact wording of the correct choice.
+
+#1511 [READING] (score: 0)
+  Issues: The question is fundamentally broken. Option D is not an answer choice—it's an explanation fragment about why option A is wrong. The options are duplicated. The actual correct answer (that price is determined by the interaction of supply and demand) is never presented as a selectable option. The explanation references 'Option D paraphrases this directly' but no such option exists.
+  Fix: Rewrite entirely. The correct answer choice should be something like 'The price of a good or service is determined by the interaction between supply and demand.' Provide four distinct answer choices (A-D) where one correctly paraphrases the passage and three are plausible distractors. Remove the duplicated options and ensure the correct answer is actually listed as a choice.
+
+#1513 [READING] (score: 1)
+  Issues: Missing question stem entirely - no actual question is asked. Option A is not an answer choice but an explanation. The correct answer 'to serve as a tomb for the pharaoh' is not listed among the choices. Options B, C, D appear duplicated in the question text.
+  Fix: Rewrite the entire question: Include a proper stem like 'According to the passage, what was the primary purpose of the Great Pyramid of Giza?' Add the correct answer as option A: 'To serve as a tomb for the pharaoh' and keep B, C, D as distractors. Remove the duplicated options and the explanation that was incorrectly placed as option A.
+
+#1514 [READING] (score: 0)
+  Issues: No actual question prompt exists - only a passage is provided. Options A, B, C are duplicated. The correct answer is listed as D but D does not exist in the options. The explanation references 'D lists all three' but no D option is present. The question is completely non-functional.
+  Fix: Rewrite entirely: Create an actual question stem (e.g., 'According to the passage, which three mechanisms drive adaptation through natural selection?'), provide four distinct non-duplicated answer choices where only one is correct based on the passage, and ensure the explanation matches the actual correct option.
+
+#1515 [READING] (score: 1)
+  Issues: The correct answer (A) is not a main idea statement at all - it is a meta-commentary about the other options being wrong. The explanation claims Option A 'links self-management education to reduced readmissions' but that content does not appear in Option A. The question asks for the main idea but no actual main idea is presented as a choice.
+  Fix: Rewrite the correct answer to actually state the main idea, such as 'Community clinic nurses reduced hospital readmissions through patient self-management education and coordinated care.' Then ensure the distractors are plausible but incorrect main idea statements, not the current options which are extreme misinterpretations.
+
+#1517 [READING] (score: 1)
+  Issues: The correct answer option A is not a summary sentence at all—it is meta-commentary explaining why a summary would be correct. The question asks for 'which sentence best summarizes' but no actual summary sentence is provided as an option. Additionally, the explanation verbatim repeats the answer text, giving it away completely.
+  Fix: Rewrite option A to be an actual summary sentence such as 'Gas lighting in 19th-century cities extended commercial hours and improved safety, though adoption varied due to costs.' Then rewrite the explanation to teach the skill of identifying summary statements without repeating the answer verbatim.
+
+#1521 [READING] (score: 0)
+  Issues: The correct answer option A is not an actual answer choice but rather an explanation about why option B is wrong. There is no valid conclusion statement provided as the correct answer. The question asks 'what can be concluded' but no correct conclusion appears among the options.
+  Fix: Rewrite the question entirely. Provide an actual conclusion statement as option A, such as 'A) The triage protocol emphasizing rapid assessment and pain control was associated with higher patient satisfaction scores.' Ensure all options are answer choices, not explanations.
+
+#1523 [READING] (score: 1)
+  Issues: The correct answer choice A is missing its actual text - instead, the explanation text is placed where option A should appear. This makes the question completely non-functional for a test-taker. Additionally, the explanation gives away the answer directly by restating the correct answer verbatim.
+  Fix: Rewrite the entire question with proper formatting. Include the actual answer text for option A (e.g., 'Antibiotic use declined without increasing infection rates'). Rewrite the explanation to explain WHY the answer is correct without restating it verbatim - for example, explain what 'explicit outcome' means and how to identify it in the passage, then point to where that information appears.
+
+#1524 [READING] (score: 1)
+  Issues: The correct answer option C is not an actual answer choice—it is the explanation written as an option. A student cannot select this. The actual answer content about wind shear is embedded in a meta-description rather than presented as a selectable option.
+  Fix: Rewrite option C as an actual answer choice: 'C) Wind shear at different altitudes can spread ash over wide regions.' Then rewrite the explanation to explain WHY this is the correct answer without starting with 'Choice C accurately reflects...'. The explanation should teach the reasoning, not just restate the answer.
+
+#1526 [READING] (score: 1)
+  Issues: Answer choices are mislabeled (two A options, no B option). The 'correct answer' B is actually the explanation text, not a proper answer choice. The explanation directly states the answer verbatim rather than teaching why.
+  Fix: Rewrite the entire question with properly labeled choices A-D where B is an actual answer choice like 'Supportive and optimistic about simulation labs.' Restructure the explanation to analyze textual evidence (citing positive outcomes, advocating position) without restating the answer directly.
+
+#1528 [READING] (score: 1)
+  Issues: The correct answer labeled as 'A' is not actually an answer choice—it's an explanation fragment about why option C is wrong. The actual correct point of view (first-person/public address) mentioned in the explanation is completely missing from the options. This makes the question unanswerable.
+  Fix: Rewrite the question with proper answer choices. Option A should be something like 'First-person public address directly appealing to the audience' and all options should represent distinct points of view. The current 'correct answer' text should only appear in the explanation, not as an answer choice.
+
+#1531 [READING] (score: 1)
+  Issues: Option D is not an actual answer choice—it's an explanation of why A is wrong. There is no valid correct answer presented. The question is fundamentally broken because no proper summary statement exists among the options.
+  Fix: Create a proper option D that actually summarizes the leaflet's recommendation (e.g., 'Insulin timing should be individualized and coordinated with meals'), then remove the explanation text from the answer choice and place it only in the explanation section.
+
+#1532 [READING] (score: 0)
+  Issues: The correct answer option A is completely missing its text. The question lists options B, C, and D but option A has no content. The explanation references 'Option A is correct' but never states what option A actually says, making it impossible for a student to answer the question.
+  Fix: Rewrite the entire question including the missing option A text (e.g., 'A) To argue in favor of vaccination mandates as a collective responsibility'). Ensure all four options are clearly presented with their full text, and verify the correct answer is properly labeled and complete.
+
+#1533 [READING] (score: 0)
+  Issues: Critical formatting error: Option B 'Systemic' is completely missing from the answer choices. Instead, option B contains explanation text. The options list A, C, D twice with no B choice containing the actual answer word. Additionally, the explanation uses verbatim phrasing that matches what the correct answer should be, giving it away.
+  Fix: Rewrite the entire question with proper option formatting: A) Individualistic, B) Systemic, C) Apathetic, D) Anecdotal. Rewrite the explanation to explain WHY systemic is correct without using the exact definitional phrasing that would appear in the answer choice itself. The explanation should describe the reasoning process rather than providing a ready-made definition.
+
+#1534 [READING] (score: 0)
+  Issues: Option C is completely missing as an answer choice. The 'Correct Answer' field contains an explanation rather than an actual answer. The options are duplicated (A, B, D appear twice). The explanation references 'chronological sequence' matching 'option C perfectly' but no such option exists. The question is fundamentally broken.
+  Fix: Rewrite the entire question. Include a proper option C that states 'Chronological sequence' or 'Problem-solution with symptoms described first.' Ensure all four answer choices (A, B, C, D) are distinct organizational patterns, the correct answer field contains only the letter and answer text, and the explanation teaches without giving away the answer directly.
+
+#1535 [READING] (score: 1)
+  Issues: The correct answer labeled as D is actually an explanation of why A is wrong, not a real answer choice. None of the actual options (A, B, C) are correct - the memo's purpose was to recommend increasing afternoon staffing, which isn't listed as any option. The question also has duplicated options listed twice.
+  Fix: Rewrite the question entirely with four proper answer choices including the correct one (e.g., 'To recommend increasing afternoon staffing based on patient volume data'). Ensure the correct answer is an actual purpose statement, not meta-commentary about other options.
+
+#1539 [READING] (score: 1)
+  Issues: The correct answer choice C is not a proper answer option - it's a full explanatory sentence rather than a concise answer like the other options. The explanation directly gives away the answer by restating option C verbatim. There is also a duplicate option A in the question text.
+  Fix: Rewrite entirely with a proper concise answer for C such as 'The researchers statistically controlled for these variables to isolate the relationship between exercise and well-being.' Remove the duplicate option A. Rewrite the explanation to explain the concept without copying the correct answer text.
+
+#1542 [READING] (score: 1)
+  Issues: Option C is not a detail from the passage but a full explanatory sentence that gives away the answer. The question asks 'Which detail' but C is a meta-explanation, not a detail. Options A and B are duplicated in the question stem. The explanation just repeats the answer text verbatim. The correct answer should be 'incubation at set temperatures for 24 hours' as an actual detail from the passage.
+  Fix: Rewrite the question with proper options that are actual details from or about the passage. The correct answer should be something like 'The incubation at set temperatures for 24 hours' and distractors should be plausible but clearly wrong details. Remove the duplicate options and ensure the explanation teaches why without restating the full answer.
+
+#1544 [READING] (score: 1)
+  Issues: Option A is completely missing - what appears as option A is actually explanation text ('Option C fails because...'). The correct answer cannot be determined because the actual option A text is absent. The question structure is fundamentally broken.
+  Fix: Rewrite the entire question. Option A should be something like 'Presenting multiple possible explanations with supporting rationale' to correctly identify the differential diagnosis reasoning strategy. Ensure all four options are properly formatted before the correct answer and explanation sections.
+
+#1545 [READING] (score: 1)
+  Issues: The correct answer is not an actual claim - it's a circular meta-statement that says 'this option is validated' without stating what the actual claim is. The explanation references ports facilitating exchange, but the answer choice A doesn't mention ports at all. This is fundamentally broken.
+  Fix: Rewrite with a proper claim as option A, such as 'Maritime trade facilitated cultural exchange across Mediterranean societies.' Then ensure the explanation addresses why this claim is supported without copying the answer text verbatim.
+
+#1546 [READING] (score: 0)
+  Issues: The correct answer option B is completely missing from the question. Options skip from A to C to D, and option A appears twice. The question is unsolvable as written because the correct answer choice does not exist in the question stem.
+  Fix: Rewrite the entire question with all four answer options (A, B, C, D) properly included. Option B should state something like 'Specificity has not yet been confirmed by larger studies.' Remove the duplicate option A and ensure all four choices are distinct and properly lettered.
+
+#1547 [READING] (score: 1)
+  Issues: Option C is written as a full explanation sentence rather than a concise answer choice. Answer options A, B, D are duplicated in the question stem. The 'Correct Answer' field contains explanation text instead of just 'C'. The explanation begins with verbatim text from option C, directly giving away the answer.
+  Fix: Rewrite option C as a concise answer choice like 'Increasing funding for early literacy programs'. Remove duplicate options from the stem. Set Correct Answer to just 'C'. Rewrite the explanation to explain the reasoning without repeating the answer choice verbatim - start by analyzing what the passage states about early investment, then connect that to the conclusion.
+
+#1548 [READING] (score: 1)
+  Issues: Answer choices A, B, C are duplicated. Option D doesn't actually state the research focus - it's a meta-statement claiming to be 'the only choice reflecting the described research' without identifying what that focus is. The explanation copies the answer text directly, giving it away. The question is fundamentally broken.
+  Fix: Rewrite entirely. Create four distinct answer choices where D actually states the research focus (e.g., 'The relationship between rising sea temperatures and coral bleaching events over three decades'). Ensure distractors are plausible but clearly wrong. Write an explanation that teaches the reasoning without copying the correct answer verbatim.
+
+#1549 [READING] (score: 0)
+  Issues: The correct answer choice (structured checklists) is completely missing from the options. Option A contains explanation text instead of an actual answer choice. The question is impossible to answer as formatted.
+  Fix: Rewrite entirely. Option A should be 'Structured checklists' or similar. The explanation text currently in option A should only appear in the explanation section, not as an answer choice.
+
+#1552 [READING] (score: 0)
+  Issues: Option D doesn't answer the question asked - it's meta-commentary about the text rather than stating an actual result attributed to price ceilings. The question asks for a RESULT but D is a description of what the text does. Also, options A-C are duplicated in the question text, and the explanation contains the exact answer text verbatim.
+  Fix: Rewrite entirely with a proper correct answer that states an actual result (e.g., 'Rent controls can lead to fewer available units' or 'Price ceilings can cause shortages'). Ensure distractors are plausible misreadings of the passage and the explanation teaches the concept without copying the answer verbatim.
+
+#1553 [READING] (score: 1)
+  Issues: The correct answer D is not a statement capturing the passage's assertion—it's meta-commentary explaining why A is wrong. The question asks for a statement about program components, but D doesn't identify any components. The explanation falsely claims 'D names all three' components when D names none. The answer text itself gives away reasoning. This is fundamentally broken question design.
+  Fix: Rewrite entirely. Create a proper correct answer that actually states what the program's components are (e.g., 'The program incorporated standardized patient interactions, feedback sessions, and objective assessments'). Make distractors plausible misreadings of the passage. Ensure the explanation teaches the reasoning without the correct answer containing the explanation.
+
+#1556 [READING] (score: 1)
+  Issues: Completely broken formatting: option B is missing from the answer choices entirely, and the 'Correct Answer' field contains explanation text rather than an actual answer choice. The correct answer cannot be selected because it doesn't exist in the options list. The options skip from A to C to D.
+  Fix: Rewrite the entire question with proper formatting. Include four complete answer choices (A, B, C, D) where B is an actual inference that follows from the passage (e.g., 'Community-norms messaging may be more effective for sustained behavior change than fear-based messaging'). Ensure the Correct Answer field contains only the answer letter and text, not explanation content.
+
+#1557 [READING] (score: 1)
+  Issues: Option A is not an actual answer choice - it's a meta-description rather than stating the actual intervention (simplified dosing and financial counseling). The correct answer content is completely missing from the options. The explanation reveals the answer that should have been presented as Option A but wasn't.
+  Fix: Rewrite with proper answer choices. Option A should be 'Simplified dosing and financial counseling' as the correct answer. B, C, and D can remain as plausible distractors. The explanation should then explain why this combination addresses both complex regimens and cost barriers without giving away the answer in the explanation text.
+
+#1558 [READING] (score: 2)
+  Issues: Duplicate options (A and B appear twice), severe length imbalance between correct answer C (full paragraph) and distractors (short sentences), distractors are implausible/absurd for a 'hard' question (e.g., DNA tests, surveys 'always guarantee' causation), and explanation verbatim copies the correct answer text.
+  Fix: Rewrite entirely: fix the duplicated options, create plausible distractors that a student might actually select (e.g., 'Longitudinal data would have eliminated all confounding variables', 'Self-reported empathy measures are unreliable in adolescents', 'Controlling for socioeconomic status eliminates all confounds'), keep all options similar in length, and rewrite the explanation to teach the concept without copying the answer verbatim.
+
+#1560 [READING] (score: 0)
+  Issues: The correct answer (Option A) is completely missing from the answer choices. The 'Correct Answer' field contains explanation text about Option B being wrong rather than the actual answer text. A student cannot select the right answer because it doesn't exist in the choices.
+  Fix: Rewrite the entire question. Include Option A with the correct conclusion text (e.g., 'A) The protocol likely improved motor recovery compared to standard care'). Ensure the Correct Answer field contains only the letter and text of the correct option, and move all explanations to the Explanation field only.
+
+#1561 [READING] (score: 1)
+  Issues: Option B is completely missing from the question stem - students cannot see or select the correct answer. Additionally, the explanation contains the exact text of the correct answer, giving it away directly.
+  Fix: Rewrite the entire question including all four options in the question stem (A, B, C, D). Rewrite the explanation to teach why B is correct without quoting the answer text verbatim - instead explain that both editorials used the same type of evidence (economic data) but interpreted it differently to reach opposing conclusions about the tax's merits.
+
+#1562 [READING] (score: 0)
+  Issues: The correct answer option C is completely missing from the answer choices. The text that should be option C appears only in the explanation. Students would see only options A, B, and D, with no option C to select. This is a fundamentally broken question.
+  Fix: Rewrite the entire question with four complete answer choices including the correct option C (e.g., 'Removing a keystone species can dramatically alter ecosystem composition despite its small biomass'). Ensure all four options (A, B, C, D) are present in the question stem, and rewrite the explanation to explain why C is correct without revealing the answer text verbatim.
+
+#1572 [READING] (score: 1)
+  Issues: The correct answer field is corrupted - it lists both C and D as correct, but D (Swing status) is actually wrong according to the explanation. This is a fundamental data error that breaks the question entirely.
+  Fix: Fix the correct answer field to show only 'C' as the correct answer. The question content and explanation are otherwise adequate, but the answer key corruption makes this unusable as-is.
+
+#1582 [READING] (score: 1)
+  Issues: Critical flaw: No passage is provided for students to analyze, yet the question asks about 'the passage structure.' Additionally, the correct answer field is corrupted - it contains multiple options concatenated together instead of just 'B) Cause-effect.' Without an actual passage, the question is unanswerable and the structure type is ambiguous.
+  Fix: Rewrite entirely by providing a complete passage (3-5 sentences minimum) about the Lewis and Clark expedition that clearly demonstrates cause-effect structure, then ask about the passage structure. Ensure the correct answer field contains only 'B) Cause-effect' and that the passage actually supports this answer over other structures.
+
+#1584 [READING] (score: 1)
+  Issues: Answer choices are duplicated/malformed with two sets of A, B, D options. Correct answer C is not formatted as a proper purpose statement and doesn't parallel the other options. Explanation directly repeats the answer text, giving it away.
+  Fix: Rewrite entirely with properly formatted, parallel answer choices (e.g., 'To persuade readers about the severity of antibiotic resistance,' 'To entertain readers with a story about bacteria,' 'To describe the chemical structure of antibiotics,' 'To argue that all antibiotics should be banned'). The explanation should explain WHY the answer is correct without copying the exact answer text.
+
+#1586 [READING] (score: 1)
+  Issues: The correct answer (C) does not actually define 'mitigate' - it's a meta-statement about other options instead of providing the actual meaning ('reduce or lessen'). Options are duplicated in the question. The question is fundamentally broken as a vocabulary-in-context item.
+  Fix: Rewrite with proper answer choices: A) Increase or intensify, B) Reduce or lessen, C) Ignore or disregard, D) Study or investigate. Correct answer should be B. Remove duplicate options. The explanation is actually good but doesn't match the broken answer choice provided.
+
+#1589 [READING] (score: 1)
+  Issues: The correct answer (A) is formatted as an explanation rather than a tone descriptor. Options B, C, and D are actual tone descriptions, but A is a full sentence explaining why the tone is urgent. This creates a fundamentally broken question where answer choices are not parallel in structure or format.
+  Fix: Rewrite with parallel answer choices that are all tone descriptors. Example: A) Urgent and cautionary B) Celebratory and triumphant C) Indifferent and unconcerned D) Ironic and mocking. Then move the current A text into the explanation only.
+
+#1594 [READING] (score: 1)
+  Issues: Option B is completely missing from the answer choices presented to students - only A, C, and D appear. This makes the question unsolvable. Additionally, the correct answer text appears verbatim in the explanation, violating the rule against giving away answers directly. The formatting is corrupted with option A appearing twice.
+  Fix: Rewrite the entire question with proper formatting. Include all four options (A, B, C, D) where B should be something like 'B) Increased realism and naturalistic representation.' Remove the duplicated option A. Rewrite the explanation to teach the reasoning without quoting the correct answer directly - for example: 'Passage A describes medieval art as flat and symbolic, while Passage B describes Renaissance innovations in perspective and anatomy. The correct choice identifies this shift, while the other options either describe medieval characteristics or represent the opposite trend.'
+
+#1596 [READING] (score: 0)
+  Issues: The correct answer B is not a valid answer choice - it is explanatory text rather than a location answer. The question asks 'where' but B does not provide a location. There is no option stating 'along plate boundaries' which is what the passage actually says. The answer options are malformed with two A labels and missing a proper B option. The explanation gives away the answer text directly.
+  Fix: Rewrite the question entirely. The correct answer option should be 'Along plate boundaries where plates converge, diverge, or slide past one another' or similar. Ensure all four options (A-D) are properly labeled and are actual location-based answers. Remove the explanatory sentence from the correct answer choice and ensure the explanation doesn't directly repeat the answer text.
+
+#1603 [READING] (score: 0)
+  Issues: The correct answer field is corrupted/malformed, containing 'Neuropathy C) Insulin D) Exercise' instead of just 'B) Neuropathy'. This makes the question completely non-functional in any testing system. The flag reason about 100% word overlap appears to be triggered by this data corruption rather than an actual distractor quality issue.
+  Fix: Rewrite the entire question entry with properly formatted fields. Correct answer should be just 'B) Neuropathy'. The question stem, distractors, and explanation are otherwise adequate for an easy reading comprehension question.
+
+#1606 [READING] (score: 2)
+  Issues: Option B is not an actual answer choice—it's an explanation rather than a definition. Answer choices must provide word meanings (e.g., 'Unites or combines'), not explanatory reasoning. Additionally, option A appears twice in the question stem.
+  Fix: Rewrite with proper answer choices: A) Separates or divides, B) Unites or combines, C) Clashes or conflicts, D) Destroys or eliminates. Then ensure the explanation teaches the reasoning without copying the exact answer text.
+
+#1608 [READING] (score: 1)
+  Issues: Option B is missing from the question stem, appearing only in the answer section. The 'correct answer' B is written as an explanation rather than a proper answer choice for a primary purpose question. Option A is duplicated. The explanation directly restates the correct answer text. None of the answer choices are properly formatted as purpose statements (e.g., 'To argue for...')
+  Fix: Rewrite entirely with four proper purpose-based answer choices (e.g., 'To argue that mandated nurse-to-patient ratios improve patient outcomes,' 'To describe the history of nursing legislation,' etc.), ensure all options A-D appear in the question, and write an explanation that teaches the concept without restating the correct answer verbatim.
+
+#1610 [READING] (score: 2)
+  Issues: The Correct Answer field is completely malformed - it lists all four options instead of just 'A) Descriptive'. The question text is awkwardly phrased with 'The structure is descriptive-chronological. No, primarily:' which reads like internal drafting notes rather than a proper exam question. The passage is only two sentences, making structural analysis questionable.
+  Fix: Rewrite with proper formatting: provide a slightly longer passage (3-4 sentences), phrase the question clearly as 'Which text structure is primarily used in the passage?', ensure the Correct Answer field contains only 'A) Descriptive', and remove the confusing meta-commentary from the question stem.
+
+#1611 [READING] (score: 1)
+  Issues: The correct answer option B is not an answer choice at all - it contains explanation text ('The phrase unchecked directly supports...') instead of a definition. The actual definition of proliferate (to multiply/increase rapidly) is completely missing from the options.
+  Fix: Replace option B with an actual definition such as 'Multiply rapidly' or 'Increase abundantly'. Remove the explanation text from the answer choice. The distractors (A, C, D) are adequate but B must be a proper answer, not an explanation.
+
+#1612 [READING] (score: 2)
+  Issues: The correct answer field is corrupted - it contains text from options B, C, and D merged together instead of just option B. The question is malformed and unusable in its current state.
+  Fix: Rewrite the entire question with proper formatting. The correct answer should only be 'B) Persuade balance'. Also, the question stem is oddly phrased - it references a passage that isn't provided. Consider either including the passage or reframing as a standalone question about author's purpose terminology.
+
+#1613 [READING] (score: 1)
+  Issues: Fundamentally broken: no actual passages provided (only one-sentence summaries), correct answer field is corrupted and merges with distractors, answer choices are incomplete fragments rather than proper options, explanation references content not present in the question, and students cannot evaluate arguments they cannot read.
+  Fix: Completely rewrite with actual passage text included, properly formatted answer choices as complete sentences (e.g., 'Passage 2 is stronger because it uses empirical environmental data to support its argument'), and ensure the correct answer field contains only option B.
+
+#1614 [READING] (score: 1)
+  Issues: Correct Answer field is corrupted showing multiple options. Options A, C, and D are grammatically incomplete fragments. Question stem 'Inference on implications:' is non-standard phrasing. The flag reason about word overlap suggests formatting corruption.
+  Fix: Rewrite entirely with proper question stem like 'Based on the passage, what can be inferred about quantum entanglement?' Use complete answer choices: A) It operates according to classical physics principles, B) It challenges the principle of locality, C) It proves Einstein's theories were entirely incorrect, D) It shows particles cannot be connected across distances. Ensure correct answer field contains only 'B'.
+
+#1789 [ENGLISH] (score: 0)
+  Issues: Critical mismatch: the distractors in the JSON (about a surgeon performing a laparotomy) are completely different from the options displayed in the question (about a nursing student). The explanation references 'will perform, will remove, will suture' which has nothing to do with the actual question stem. This appears to be a corrupted merge of two different questions.
+  Fix: Rewrite the entire question from scratch. Use the nursing student stem with the four options as displayed (A-D with assess/assessing/documenting variations), and write an explanation that correctly explains parallel structure after 'to' (all items should be base verb forms: to assess, to document, to communicate).
+
+#1792 [ENGLISH] (score: 1)
+  Issues: Critical mismatch: the question stem shows options about a nurse and fire alarm (dangling modifier topic), but the distractors field contains completely different sentences about medication administration. The explanation also describes a different question about restrictive modifiers identifying 'the patient'. Nothing matches.
+  Fix: Rewrite entirely with consistent options and explanation. The correct distractors should be: A) Walking through the hallway, the fire alarm startled the nurse. (dangling modifier - alarm isn't walking), C) The nurse was startled walking through the hallway by the fire alarm. (awkward placement), D) Startled by the fire alarm, walking through the hallway the nurse was. (inverted awkward structure). Explanation should teach that introductory modifying phrases must modify the subject that immediately follows.
+
+#1795 [ENGLISH] (score: 0)
+  Issues: Options A and C are identical. Options B and D are identical. The correct answer field is malformed and contains multiple options concatenated. The explanation incorrectly claims the sentence specifies 'when the nurse arrived' when it actually specifies where the patient arrived. This question is completely non-functional.
+  Fix: Rewrite entirely with four distinct options that demonstrate different modifier placements (e.g., misplaced modifiers, dangling modifiers, correctly placed modifiers). Example: A) After arriving at the clinic, the nurse administered the medication. (dangling - who arrived?) B) The nurse administered the medication after the patient arrived at the clinic. (correct) C) The nurse administered the medication at the clinic after arriving. (ambiguous - who arrived?) D) Arriving after the medication, the patient was seen by the nurse. (illogical sequence)
+
+#1811 [ENGLISH] (score: 0)
+  Issues: The distractors in the JSON field do not match the options shown in the question text. The explanation discusses object pronouns, prepositions, and nursing communication which has nothing to do with the question about 'who' as a subject pronoun. This is a completely broken question with mismatched components.
+  Fix: Rewrite the entire question from scratch. Ensure distractors match the actual options presented, focus on 'who' vs 'whom' usage as subject vs object pronouns, and write an explanation that actually explains why 'who' is correct as a subject pronoun in the chosen answer.
+
+#1816 [SCIENCE] (score: 1)
+  Issues: Critical typo in correct answer: 'ontrolled variable' instead of 'controlled variable'. This makes the question unusable as students would be confused by the misspelled answer choice.
+  Fix: Rewrite the entire question with correct spelling: change 'ontrolled variable' to 'controlled variable' in both the answer choice and ensure all text is properly formatted.
+
+#1878 [ENGLISH] (score: 1)
+  Issues: Critical mismatch: the distractors in the JSON ('The nurse finished her shift and then she drove home' etc.) do not match the options shown in the question text ('After reviewing the chart the nurse contacted the physician' etc.). The explanation discusses coordinating conjunctions and independent clauses, which is completely unrelated to the actual question about introductory elements.
+  Fix: Rewrite the question entirely. Either (1) make it about introductory elements with correct matching distractors like 'After reviewing the chart the nurse...' and 'The nurse, contacted the physician...' with an explanation about introductory phrases, OR (2) make it about comma rules with coordinating conjunctions joining independent clauses, with appropriate options and explanation. The distractors JSON must match the displayed options exactly.
+
+#1879 [ENGLISH] (score: 0)
+  Issues: Critical mismatch: The distractors JSON contains completely different sentences about a patient having a fever that do not match the answer choices B, C, D shown in the question. The explanation also discusses conciseness of fever-related statements and has nothing to do with correcting run-on sentences. The question stem, answer options, and explanation are entirely disconnected.
+  Fix: Rewrite entirely. The question stem about run-on correction is fine, but the distractors must actually be the incorrect revisions shown (B, C, D from the displayed options), and the explanation must explain WHY adding a comma and coordinating conjunction corrects a run-on (two independent clauses joined without proper punctuation or conjunction), not discuss fever-related conciseness.
+
+#1880 [ENGLISH] (score: 0)
+  Issues: Critical mismatch: the options shown in the question (patient refused treatment) are completely different from the distractors listed (study found improved patient mobility). The explanation references content not in the question and states 'Option B is correct' when A is marked as correct. This appears to be a corrupted mashup of two different questions.
+  Fix: Rewrite the question entirely. Either use the patient/nurse scenario with semicolon placement errors as distractors, OR use the study results scenario. Ensure the explanation matches the actual question content and correctly identifies the right answer.
+
+#1881 [ENGLISH] (score: 0)
+  Issues: Critical data mismatch: the distractors in the JSON field are completely different sentences from the options shown in the question text. Additionally, the explanation discusses semicolon usage and references 'Option D' as correct, but the question is about colons and the stated correct answer is A. This appears to be a corrupted merge of two different questions.
+  Fix: Rewrite the entire question from scratch. Ensure the question options match the distractors JSON, the correct answer matches the explanation, and the explanation actually explains colon usage rules rather than semicolon rules.
+
+#1890 [ENGLISH] (score: 0)
+  Issues: The distractors field and explanation are from a completely different question about lisinopril medication dosing. They have nothing to do with the dangling modifier question. This is a data integrity failure where metadata from one question was mixed with another.
+  Fix: Rewrite entirely with correct distractors that are all plausible sentences about dangling modifiers (not medication), and an explanation that teaches what a dangling modifier is and why option B contains one while the others do not.
+
+#1989 [ENGLISH] (score: 2)
+  Issues: The correct answer is marked as B, but the explanation clearly states that Option A is correct. This is a critical accuracy error where the answer key contradicts its own explanation. A student reading the explanation would be confused about which answer is actually correct.
+  Fix: Change the correct answer from B to A. The explanation already correctly identifies why A is right and B, C, and D are wrong - only the answer key needs to be fixed to match the explanation.
+
+#2069 [ENGLISH] (score: 0)
+  Issues: Critical mismatch: the question asks about plural possessive of 'patients' with options about medications, but the distractors JSON contains completely different sentences about 'diagnosis/diagnoses'. The explanation also discusses diagnosis pluralization which is entirely unrelated to the actual question asked.
+  Fix: Rewrite entirely. If testing plural possessive of 'patients', use consistent options all about patients/medications: A) patients' medications (correct), B) patient's medications (singular possessive), C) patients medication's (wrong apostrophe placement), D) patients's medications (incorrect double possessive). Write explanation that explains why 'patients'' is correct for plural possessive.
+
+#1873 [ENGLISH] (score: 0)
+  Issues: Critical mismatch: the question stem shows options about patient documentation (temperature, medication, treatment, lab results), but the distractors JSON contains completely different options about tetanus vaccines and infections. The explanation discusses tetanus toxin mechanisms, which is irrelevant to both versions. This appears to be two different questions merged incorrectly.
+  Fix: Rewrite the question entirely. Decide on one topic: either (1) claims vs. factual evidence in medical documentation using the original stem options, or (2) a tetanus-related question. Ensure distractors match the question stem exactly, and write an explanation that actually teaches why the correct answer is correct for the question being asked.
+
+#1891 [ENGLISH] (score: 0)
+  Issues: Options ['A', 'B', 'C', 'D'] not found in question text; Correct answer is D but no option D) found in question text
+  Fix: Fix option formatting and answer-letter mapping
+
+#1903 [ENGLISH] (score: 0)
+  Issues: Options ['A', 'B', 'C', 'D'] not found in question text; Correct answer is A but no option A) found in question text
+  Fix: Fix option formatting and answer-letter mapping
+
+REVISION NEEDED
+------------------------------------------------------------
+#1284 [READING] (score: 4)
+  Issues: Options A, B, and C are duplicated in the question text. The explanation repeats the correct answer verbatim, directly giving away the answer. Distractors are all extremely obvious and don't test nuanced reading comprehension.
+  Fix: Remove duplicate options. Rewrite explanation to explain the reasoning without copying the correct answer text (e.g., 'The critique identifies a prerequisite condition that must be met for the proposal to succeed, rather than invalidating the proposal entirely'). Consider making at least one distractor more plausible, such as 'Infrastructure gaps affect only a small minority of rural areas.'
+
+#1287 [READING] (score: 4)
+  Issues: Option A is duplicated in the question listing. Option B is written as a full explanatory statement rather than a concise answer choice, making it stylistically inconsistent with other options. The explanation directly restates the exact text of the correct answer, giving it away.
+  Fix: Rewrite option B as a concise choice like 'Evaluate evidence for both accountability benefits and stress/curriculum drawbacks' and remove the duplicate option A. Rewrite the explanation to describe the reasoning without quoting the answer verbatim, such as: 'The best approach when facing competing claims is to examine the evidence for each specific outcome mentioned, rather than dismissing one side entirely or assuming both are equally valid without analysis.'
+
+#1328 [READING] (score: 4)
+  Issues: Correct answer D does not follow parallel structure with other options (A, B, C use 'To [verb]' format while D is a full sentence). Explanation begins with the exact text of the correct answer, giving it away directly. Options A, B, C are duplicated in the question text.
+  Fix: Change option D to 'To inform readers about what black holes are and how they form.' Rewrite explanation to start by analyzing the passage's tone and language choices first, then conclude with the purpose without using the exact answer wording. Remove duplicated options.
+
+#1405 [READING] (score: 4)
+  Issues: Answer choices A, B, C are duplicated. Option D is formatted inconsistently - it's a full sentence rather than a concise answer choice like 'First-person point of view'. The explanation directly restates the exact text of the correct answer, giving it away.
+  Fix: Remove duplicated options. Change D to 'First-person point of view'. Rewrite explanation to teach the concept without restating the answer verbatim, e.g., 'The passage uses first-person pronouns like 'I' to indicate the narrator is the clinical instructor sharing personal observations.'
+
+#1478 [READING] (score: 4)
+  Issues: The options are duplicated in the question text. Option C is significantly longer than other options, telegraphing the correct answer. The explanation begins by essentially restating the correct answer verbatim, giving it away.
+  Fix: Remove the duplicate option listing. Shorten option C to something like 'It generalizes findings from limited human trials to all populations.' Rewrite the explanation to start by identifying the core logical flaw (overgeneralization from narrow samples) without using the exact wording of the correct answer, then explain why each distractor is wrong.
+
+#1565 [READING] (score: 4)
+  Issues: The correct answer field is corrupted - it contains the full text of options B, C, and D instead of just the correct answer. This formatting error would break automated grading systems.
+  Fix: Fix the correct answer field to only contain 'B) Nurses provide comprehensive patient care.' The question content, distractors, and explanation are otherwise solid for a medium-difficulty main idea question.
+
+#1214 [READING] (score: 5)
+  Issues: The explanation contains the exact text of the correct answer, directly giving it away. The rule states the explanation should NOT give away the answer directly.
+  Fix: Rewrite the explanation to explain the reasoning without repeating the answer text. For example: 'The author uses strong emotional language like "magic" and "trust me" to convince readers to take action, which indicates a persuasive purpose rather than simply providing information, entertaining, or describing structure.'
+
+#1378 [READING] (score: 5)
+  Issues: Explanation contains the exact verbatim text of the correct answer, which gives it away rather than teaching the reasoning. Additionally, answer choices are duplicated in the question formatting.
+  Fix: Rewrite the explanation to teach the inference skill without repeating the answer verbatim. For example: 'The key to this inference is recognizing the contrast the author creates between harsh conditions and the soldiers' continued commitment. When a passage presents difficulties alongside expressions of dedication, this pattern indicates resilient morale.' Remove the duplicated answer choices.
+
+#1519 [READING] (score: 5)
+  Issues: Answer choice A is not formatted as a proper option—it's a full sentence explanation rather than a concise 'To [verb]...' statement parallel to B, C, and D. Additionally, the explanation merely restates the correct answer verbatim rather than teaching the reasoning behind why it's correct.
+  Fix: Change option A to 'To demonstrate how local engagement strategies improved vaccination coverage.' Revise the explanation to teach the concept of identifying author's purpose (e.g., 'The passage describes specific outreach methods and their outcome, which is characteristic of an informative/explanatory purpose focused on demonstrating a strategy's effectiveness') without repeating the answer text directly.
+
+#1607 [READING] (score: 5)
+  Issues: Answer choice A is a full sentence explanation rather than a concise answer label like the other options. The explanation ends with the exact text of answer A, essentially giving away the answer directly rather than teaching the reasoning.
+  Fix: Change answer A to 'First-person' to match the format of B, C, and D. Remove the final sentence from the explanation since it just restates the answer. The explanation already adequately explains why first-person is correct by citing 'I' and 'me' pronouns.
+
+#1794 [SCIENCE] (score: 6)
+  Issues: The correct answer option C contains a typo: 'onnective tissue' instead of 'Connective tissue'. This is a significant error in the answer key itself that could confuse students and would be flagged in any quality review.
+  Fix: Change option C from 'onnective tissue' to 'Connective tissue'.
+

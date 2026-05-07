@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1316,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Rural hospitals across the country are facing a crisis. Emergency departments are overcrowded, with patients waiting an average of six hours for care. Many facilities were built decades ago for much smaller populations. Several health policy experts have proposed expanding existing hospitals and building new outpatient centers in underserved areas.\"\n\nWhat structure does the author use?\n\nA) Chronological order.\nB) Compare and contrast.\nC) Description and classification.\n\nA) Chronological order.\nB) Compare and contrast.\nC) Description and classification.\nD) Option A is incorrect because the text does not follow a timeline of past, present, and future events",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Chronological order.",
+      "B) Compare and contrast.",
+      "C) Description and classification."
+    ],
+    "explanation": "The passage presents a clear problem regarding overcrowded rural hospitals and long patient wait times, followed immediately by proposed solutions like expanding facilities and building new centers. This direct progression from identifying an issue to suggesting fixes defines the problem and solution structure found in option D. Option A is incorrect because the text does not follow a timeline of past, present, and future events. Option B fails since there is no comparison between two different subjects or ideas. Finally, option C is wrong because the author does not categorize hospitals by type or describe their features in detail. The text focuses solely on a specific crisis and its remedies rather than organizing information by time, comparison, or classification.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1317,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: \"A 2023 study by the National Education Association found that students in classrooms with one-to-one device programs scored 15% higher on standardized math tests compared to students in traditional classrooms. Teachers reported that adaptive learning software allowed them to personalize instruction for struggling students.\"\n\nPassage B: \"Critics of classroom technology point to research showing that students with laptops open during lectures spend an average of 40 minutes per class on non-academic tasks. A study at West Point found that students who used laptops scored lower on final exams than those who took notes by hand.\"\n\nWhat conclusion is supported by both passages?\n\nB) Technology in classrooms is entirely beneficial.\nC) Handwritten notes are always superior to digital tools.\nD) Neither passage provides credible evidence.\n\nA) Option B is wrong because Passage B explicitly states that laptops can lower scores and increase distractions, contradicting the idea that technology is entirely beneficial\nB) Technology in classrooms is entirely beneficial.\nC) Handwritten notes are always superior to digital tools.\nD) Neither passage provides credible evidence.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Technology in classrooms is entirely beneficial.",
+      "C) Handwritten notes are always superior to digital tools.",
+      "D) Neither passage provides credible evidence."
+    ],
+    "explanation": "Option A is correct because Passage A highlights the positive impact of technology on test scores, while Passage B details the negative effects on focus and exam results, proving both acknowledge significant effects. Option B is wrong because Passage B explicitly states that laptops can lower scores and increase distractions, contradicting the idea that technology is entirely beneficial. Option C is incorrect since Passage A does not compare note-taking methods, only contrasting device programs with traditional classrooms, making the claim of handwritten superiority unsupported. Option D is wrong because both passages cite specific studies, such as the National Education Association research and the West Point findings, providing credible evidence for their respective points.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1318,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Digestion begins in the mouth, where enzymes in saliva start breaking down carbohydrates. Food then travels down the esophagus to the stomach, where stomach acid and enzymes break down proteins. The partially digested material moves into the small intestine, where nutrients are absorbed into the bloodstream. Finally, waste passes to the large intestine before elimination.\"\n\nWhat is the main idea?\n\nA) Only the stomach is involved in digestion.\nC) Digestion happens instantly in one organ.\nD) Enzymes are not important for breaking down food.\n\nA) Only the stomach is involved in digestion.\nB) A contradicts the passage\u2014multiple organs are involved, not just the stomach\nC) Digestion happens instantly in one organ.\nD) Enzymes are not important for breaking down food.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Only the stomach is involved in digestion.",
+      "C) Digestion happens instantly in one organ.",
+      "D) Enzymes are not important for breaking down food."
+    ],
+    "explanation": "The passage traces food's journey through four distinct stages: the mouth (carbohydrate breakdown), the stomach (protein breakdown), the small intestine (nutrient absorption), and the large intestine (waste elimination). The keyword 'then' and 'finally' reinforce the sequential, multi-step nature. Option B captures this. A contradicts the passage\u2014multiple organs are involved, not just the stomach. C is wrong because the passage describes a lengthy process across organs, not an instant event. D is false; enzymes are mentioned twice (saliva and stomach) as essential to breakdown.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1319,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Oh, what a brilliant idea \u2014 let's just cut all funding to public libraries. Because who needs free access to books, computers, and community programs? Clearly, the solution to budget problems is to take resources from the people who need them most.\"\n\nWhat is the tone?\n\nA) Genuinely enthusiastic and supportive.\nB) Neutral and informative.\nD) Deeply sorrowful and mournful.\n\nA) Genuinely enthusiastic and supportive.\nB) Neutral and informative.\nC) The passage uses hyperbole and rhetorical questions to mock the proposed funding cuts, making the speaker's tone clearly sarcastic.\nD) Deeply sorrowful and mournful.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Genuinely enthusiastic and supportive.",
+      "B) Neutral and informative.",
+      "D) Deeply sorrowful and mournful."
+    ],
+    "explanation": "The passage uses hyperbole and rhetorical questions to mock the proposed funding cuts, making the speaker's tone clearly sarcastic. The phrase \"brilliant idea\" is used ironically to highlight the absurdity of removing essential resources from those who need them most. Option A is wrong because the speaker expresses no genuine support for cutting libraries. Option B fails as the text is highly opinionated, not neutral. Option D is incorrect since there is no indication of deep sorrow or mourning in the text.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1320,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A longitudinal study followed 1,000 adults over five years, tracking their exercise habits and stress levels. Participants who exercised at least three times per week reported 40% lower stress levels compared to sedentary participants. The study controlled for diet, sleep, and income.\"\n\nWhat inference can be made from this study?\n\nA) Stress is caused only by lack of exercise.\nB) Diet has no effect on stress levels.\nC) Only intense exercise reduces stress.\n\nA) Stress is caused only by lack of exercise.\nB) Diet has no effect on stress levels.\nC) Only intense exercise reduces stress.\nD) Option A is wrong as the text never claims stress is caused *only* by a lack of exercise, ignoring other potential factors",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Stress is caused only by lack of exercise.",
+      "B) Diet has no effect on stress levels.",
+      "C) Only intense exercise reduces stress."
+    ],
+    "explanation": "Option D is correct because the passage explicitly links participants exercising three times weekly with 40% lower stress compared to sedentary individuals, supporting the inference that regular exercise may help manage stress. Option A is wrong as the text never claims stress is caused *only* by a lack of exercise, ignoring other potential factors. Option B is incorrect since the study controlled for diet, implying it was a variable, not one with no effect. Option C is wrong because the passage specifies frequency (\"three times per week\") rather than intensity, making the claim about intense exercise unsupported by the data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1321,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Smallpox was once one of the deadliest diseases in human history, killing an estimated 300 million people in the 20th century alone. A global vaccination campaign led by the World Health Organization began in 1967. Through systematic immunization, surveillance, and containment, the disease was declared eradicated in 1980. It remains the only human disease to have been completely eliminated.\"\n\nWhat is the main idea?\n\nB) Smallpox is still a major global health threat.\nC) The World Health Organization only works on vaccination campaigns.\nD) Eradication of any disease is scientifically impossible.\n\nA) B is the opposite of the passage's claim that smallpox was declared eradicated\nB) Smallpox is still a major global health threat.\nC) The World Health Organization only works on vaccination campaigns.\nD) Eradication of any disease is scientifically impossible.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Smallpox is still a major global health threat.",
+      "C) The World Health Organization only works on vaccination campaigns.",
+      "D) Eradication of any disease is scientifically impossible."
+    ],
+    "explanation": "The passage tells the story of smallpox from a deadly threat to the only human disease ever eradicated, crediting a global vaccination campaign led by the WHO. Option A captures the central message: vaccines, through coordinated global effort, can eliminate diseases. B is the opposite of the passage's claim that smallpox was declared eradicated. C overgeneralizes; the WHO led this campaign but the passage never says it 'only' does vaccinations. D is directly contradicted by the passage's statement that smallpox was completely eliminated.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1322,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Every night, thousands of children go to bed hungry in communities across America. These are not statistics \u2014 they are children in your neighborhood, your school, your town. A donation of just \\$25 can feed a family for an entire week. Can you really turn away when the need is this great?\"\n\nWhat is the author's primary purpose?\n\nA) To inform readers about childhood hunger statistics.\nC) To entertain readers with a personal story.\nD) To describe different types of food assistance programs.\n\nA) To inform readers about childhood hunger statistics.\nB) Can you really turn away\nC) To entertain readers with a personal story.\nD) To describe different types of food assistance programs.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To inform readers about childhood hunger statistics.",
+      "C) To entertain readers with a personal story.",
+      "D) To describe different types of food assistance programs."
+    ],
+    "explanation": "The author's primary purpose is to persuade readers to donate by using rhetorical questions and emotional appeals about local children. Phrases like \"Can you really turn away\" directly challenge the audience to act, while the specific offer of feeding a family for a week highlights the immediate impact of a \\$25 donation. This persuasive strategy aims to evoke empathy and compel action rather than simply presenting facts.\n\nOption A is incorrect because, although statistics are mentioned, the text focuses on personal connection and emotional urgency rather than objective data presentation. Option C fails because there is no personal narrative or fictional story included in the passage. Option D is wrong as the text never describes specific programs or types of food assistance, focusing instead on the general need for aid.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1323,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: \"Proponents of universal healthcare argue that a single-payer system would reduce administrative costs by an estimated 15%, expand coverage to millions of uninsured Americans, and improve public health outcomes by increasing access to preventive care.\"\n\nPassage B: \"Opponents counter that a single-payer system would require significant tax increases, could lead to longer wait times for specialist care, and might reduce incentives for medical innovation due to government price controls on treatments and pharmaceuticals.\"\n\nWhat skill is most needed to evaluate these two passages?\n\nA) Memorizing statistics from both passages.\nB) Identifying which passage is longer.\nD) Choosing which author is more trustworthy based on tone.\n\nA) Memorizing statistics from both passages.\nB) Identifying which passage is longer.\nC) Option A is wrong because memorizing the 15% statistic or other numbers does not help assess the validity of the underlying arguments\nD) Choosing which author is more trustworthy based on tone.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Memorizing statistics from both passages.",
+      "B) Identifying which passage is longer.",
+      "D) Choosing which author is more trustworthy based on tone."
+    ],
+    "explanation": "To evaluate these passages effectively, one must compare the distinct arguments presented by proponents and opponents regarding single-payer healthcare. Option C is correct because it requires analyzing how each side justifies its claims, such as cost reduction versus tax increases, and spotting hidden assumptions like the inevitability of wait times. Option A is wrong because memorizing the 15% statistic or other numbers does not help assess the validity of the underlying arguments. Option B is incorrect since the length of the text is irrelevant to the quality of the ideas or the strength of the evidence provided. Option D fails because tone alone cannot determine trustworthiness without examining the factual support for each author's specific points.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1324,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"The heart is a muscular organ roughly the size of a fist. It has four chambers \u2014 two atria and two ventricles \u2014 that work together to pump blood. The right side pumps blood to the lungs for oxygenation, while the left side pumps oxygen-rich blood to the rest of the body. This continuous cycle occurs roughly 100,000 times per day.\"\n\nWhat is the main idea?\n\nA) The heart only pumps blood to the lungs.\nB) The heart has two chambers.\nC) Blood circulation is not essential for survival.\n\nA) The heart only pumps blood to the lungs.\nB) The heart has two chambers.\nC) Blood circulation is not essential for survival.\nD) A is wrong; the passage says the right side pumps to the lungs but the left side pumps to the body",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The heart only pumps blood to the lungs.",
+      "B) The heart has two chambers.",
+      "C) Blood circulation is not essential for survival."
+    ],
+    "explanation": "The passage describes the heart's structure (four chambers, two atria, two ventricles) and function (right side pumps to lungs, left side pumps to the body) in a 'continuous cycle' of ~100,000 beats per day. Option D summarizes the core function\u2014continuous blood circulation. A is wrong; the passage says the right side pumps to the lungs but the left side pumps to the body. B contradicts the passage's explicit statement of four chambers. C is unsupported and logically flawed; the passage describes circulation as essential, not optional.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1325,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The Dust Bowl of the 1930s was caused by a combination of severe drought and poor farming practices. Farmers had plowed up native grasses that held soil in place. When the rains stopped, the loose topsoil turned to dust and blew away in massive storms. Thousands of families lost their farms and migrated west in search of work.\"\n\nWhat structure does the author use?\n\nB) Compare and contrast.\nC) Sequential order.\nD) Problem and solution.\n\nA) The text shows how one set of conditions directly caused the soil to blow away and families to move\nB) Compare and contrast.\nC) Sequential order.\nD) Problem and solution.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Compare and contrast.",
+      "C) Sequential order.",
+      "D) Problem and solution."
+    ],
+    "explanation": "Option A is correct because the passage explicitly links severe drought and poor farming practices to the resulting Dust Bowl storms and family migration. The text shows how one set of conditions directly caused the soil to blow away and families to move. Option B is incorrect as there is no comparison between two different subjects or groups within the text. Option C fails because the events are not presented as a strict step-by-step timeline but rather as interconnected factors leading to an outcome. Option D is wrong because the passage describes the causes of a disaster rather than offering a specific plan or solution to fix the problem.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1326,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A hospital study tracked 500 post-surgical patients over six weeks. Group A received standard meals. Group B received protein-supplemented meals with 50% more calories and added vitamins. After six weeks, Group B had 25% fewer complications, healed an average of 4 days faster, and reported higher energy levels.\"\n\nWhat conclusion is supported by this study?\n\nA) Nutrition has no effect on surgical recovery.\nC) Only vitamins matter for healing.\nD) All post-surgical patients need the same diet.\n\nA) Nutrition has no effect on surgical recovery.\nB) The study directly supports the conclusion that improved nutrition contributes to faster recovery because Group B, which received protein-rich meals with extra calories and vitamins, healed four days faster and had fewer complications than Group A.\nC) Only vitamins matter for healing.\nD) All post-surgical patients need the same diet.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Nutrition has no effect on surgical recovery.",
+      "C) Only vitamins matter for healing.",
+      "D) All post-surgical patients need the same diet."
+    ],
+    "explanation": "The study directly supports the conclusion that improved nutrition contributes to faster recovery because Group B, which received protein-rich meals with extra calories and vitamins, healed four days faster and had fewer complications than Group A. This evidence rules out the idea that nutrition has no effect, as the distinct difference in outcomes proves a clear link between the dietary changes and recovery speed. Option C is incorrect because the results show that the combination of protein, calories, and vitamins worked together, not just vitamins alone. Similarly, Option D is wrong since the study demonstrates that different diets yield different results, contradicting the claim that all patients need the same diet. Finally, Option A is false because the data explicitly shows that the protein-supplemented group recovered better, proving nutrition significantly impacts surgical healing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1327,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"A bill begins as an idea, often introduced by a member of Congress. It is first assigned to a committee, which holds hearings and may amend the text. If the committee approves it, the bill goes to the full House or Senate for debate and voting. If both chambers pass matching versions, it is sent to the president for final approval or veto.\"\n\nWhat is the main idea?\n\nA) Only the president can create new laws.\nB) Bills are voted on immediately without review.\nD) Committees have no role in the legislative process.\n\nA) Only the president can create new laws.\nB) Bills are voted on immediately without review.\nC) The text explicitly details the journey through committees, full chambers, and final vetoes, proving the process is multi-step and organized\nD) Committees have no role in the legislative process.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Only the president can create new laws.",
+      "B) Bills are voted on immediately without review.",
+      "D) Committees have no role in the legislative process."
+    ],
+    "explanation": "Option C correctly identifies the passage's focus on the sequential steps from idea to presidential approval, highlighting the structured nature of lawmaking. The text explicitly details the journey through committees, full chambers, and final vetoes, proving the process is multi-step and organized. Option A is wrong because the passage states bills often start with Congress members, not just the president. Option B contradicts the text which mentions committees holding hearings and amending text before voting occurs. Option D is incorrect since the passage clearly assigns committees the vital role of reviewing and potentially amending bills.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1328,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Black holes are regions in space where gravity is so strong that nothing, not even light, can escape. They form when massive stars collapse at the end of their life cycle. Scientists cannot observe black holes directly but detect them by their effect on nearby stars and gas. The boundary around a black hole is called the event horizon.\"\n\nWhat is the author's purpose?\n\nA) To argue that black holes do not exist.\nB) To persuade readers to study astronomy.\nC) To entertain with a fictional space story.\n\nA) To argue that black holes do not exist.\nB) To persuade readers to study astronomy.\nC) To entertain with a fictional space story.\nD) The author presents factual definitions and scientific processes regarding black holes without taking a stance, arguing, or telling a story.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) To argue that black holes do not exist.",
+      "B) To persuade readers to study astronomy.",
+      "C) To entertain with a fictional space story."
+    ],
+    "explanation": "The author presents factual definitions and scientific processes regarding black holes without taking a stance, arguing, or telling a story. This neutral tone and clear explanation of concepts like the event horizon aim to educate a broad audience rather than convince them of a specific viewpoint or entertain with fiction. Option A is wrong because the text confirms black holes exist by describing their formation and effects. Option B is incorrect as there is no call to action urging readers to pursue astronomy studies. Option C fails because the language is factual and descriptive, lacking the narrative elements of a fictional space story. Therefore, the primary goal is simply to convey accurate science to general readers.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1329,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Study A: \"Researchers at Johns Hopkins found that 200mg of caffeine improved reaction time by 12% and increased alertness for up to 3 hours in healthy adults.\"\n\nStudy B: \"A University of California study found that 200mg of caffeine increased anxiety scores by 25% and disrupted sleep patterns when consumed after 2 PM, with effects lasting up to 8 hours.\"\n\nGiven these conflicting results, what should a reader do?\n\nB) Dismiss both studies because they contradict each other.\nC) Assume the second study is more accurate.\nD) Conclude that caffeine is entirely harmful and should be avoided.\n\nA) Option B is wrong because dismissing studies ignores valuable information found in each\nB) Dismiss both studies because they contradict each other.\nC) Assume the second study is more accurate.\nD) Conclude that caffeine is entirely harmful and should be avoided.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Dismiss both studies because they contradict each other.",
+      "C) Assume the second study is more accurate.",
+      "D) Conclude that caffeine is entirely harmful and should be avoided."
+    ],
+    "explanation": "To answer this question, you must synthesize the conflicting data from both studies rather than rejecting either. Study A highlights caffeine's benefits like improved reaction time, while Study B warns of negative effects such as increased anxiety and sleep disruption. Evaluating both sides allows you to conclude that caffeine has complex effects with both benefits and drawbacks, making option A the only logical choice. Option B is wrong because dismissing studies ignores valuable information found in each. Option C is incorrect since there is no evidence provided to prove the second study is superior. Finally, option D is too extreme as it ignores the positive findings presented in Study A.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1330,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"The kidneys filter about 200 quarts of blood daily, removing waste products and excess fluid. This waste becomes urine, which travels through the ureters to the bladder. Adequate water intake is essential because dehydration reduces blood volume, making the kidneys work harder. Chronic dehydration can contribute to kidney stones over time.\"\n\nWhat is the main idea?\n\nA) The kidneys only filter waste once per week.\nC) Drinking water has no effect on kidney performance.\nD) Kidney stones are caused by drinking too much water.\n\nA) The kidneys only filter waste once per week.\nB) Options A, C, and D are wrong because the text says kidneys filter daily, not weekly, and notes that water intake significantly affects performance by preventing stones\nC) Drinking water has no effect on kidney performance.\nD) Kidney stones are caused by drinking too much water.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The kidneys only filter waste once per week.",
+      "C) Drinking water has no effect on kidney performance.",
+      "D) Kidney stones are caused by drinking too much water."
+    ],
+    "explanation": "Option B is right because the passage explicitly links adequate water intake to kidney function, stating that dehydration forces kidneys to work harder and can cause stones. Options A, C, and D are wrong because the text says kidneys filter daily, not weekly, and notes that water intake significantly affects performance by preventing stones. Option D contradicts the passage which claims dehydration causes stones, not excessive drinking. Option C is incorrect since the text directly states water is essential for maintaining blood volume and reducing kidney strain.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1331,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Behaviorism, proposed by B.F. Skinner, argues that all behavior is learned through reinforcement and punishment. In contrast, cognitive psychology emphasizes the role of internal mental processes like memory, attention, and problem-solving. While behaviorism focuses on observable actions, cognitive psychology explores the invisible workings of the mind.\"\n\nWhat structure does the author use?\n\nA) Cause and effect.\nB) Sequential order.\nD) Problem and solution.\n\nA) Cause and effect.\nB) Sequential order.\nC) The passage places behaviorism and cognitive psychology side by side, noting that behaviorism focuses on 'observable actions' while cognitive psychology explores 'internal mental processes.' This direct contrast defines the compare-and-contrast structure.\nD) Problem and solution.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Cause and effect.",
+      "B) Sequential order.",
+      "D) Problem and solution."
+    ],
+    "explanation": "The passage places behaviorism and cognitive psychology side by side, noting that behaviorism focuses on 'observable actions' while cognitive psychology explores 'internal mental processes.' This direct contrast defines the compare-and-contrast structure.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1332,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"Researchers at a sleep laboratory tested 50 participants on reaction time tasks after varying amounts of sleep. Those who slept 8 hours had an average reaction time of 250 milliseconds. Participants with 6 hours of sleep averaged 320 milliseconds. Those with only 4 hours averaged 450 milliseconds. The difference between 8-hour and 4-hour sleepers was statistically significant (p &lt; 0.01).\"\n\nWhat inference can be made from these findings?\n\nA) Sleep has no measurable effect on reaction time.\nB) Only 4 hours of sleep causes impairment.\nC) Reaction time is not a reliable measure of sleep quality.\n\nA) Sleep has no measurable effect on reaction time.\nB) Only 4 hours of sleep causes impairment.\nC) Reaction time is not a reliable measure of sleep quality.\nD) Option A is wrong because the data clearly demonstrates a measurable effect, with reaction times increasing significantly as sleep duration drops",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Sleep has no measurable effect on reaction time.",
+      "B) Only 4 hours of sleep causes impairment.",
+      "C) Reaction time is not a reliable measure of sleep quality."
+    ],
+    "explanation": "Option D is correct because the passage shows reaction time worsening as sleep decreases from 8 to 4 hours, indicating a dose-dependent relationship where less sleep leads to greater impairment. Option A is wrong because the data clearly demonstrates a measurable effect, with reaction times increasing significantly as sleep duration drops. Option B is incorrect since the text shows impairment at 6 and 4 hours, not just at 4 hours, and the 8-hour group also had a baseline that differed from the 4-hour group. Option C is wrong because the study uses reaction time to successfully measure the impact of sleep, proving it is a reliable metric for this context. The statistical significance further supports that sleep duration directly influences performance.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1333,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"When a product is in high demand but supply is limited, sellers can raise prices. Conversely, when supply exceeds demand, prices tend to fall. This principle explains why gasoline costs more during holiday weekends when travel increases. Markets naturally adjust as producers respond to price signals by increasing or decreasing production.\"\n\nWhat is the main idea?\n\nB) Prices are set by the government only.\nC) Supply and demand have no effect on cost.\nD) Gasoline prices never change regardless of demand.\n\nA) This directly supports the main idea that supply and demand influence market prices through natural adjustments\nB) Prices are set by the government only.\nC) Supply and demand have no effect on cost.\nD) Gasoline prices never change regardless of demand.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Prices are set by the government only.",
+      "C) Supply and demand have no effect on cost.",
+      "D) Gasoline prices never change regardless of demand."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that sellers raise prices when demand is high and supply is limited, while prices fall when supply exceeds demand. This directly supports the main idea that supply and demand influence market prices through natural adjustments. Option B is wrong as the text describes market mechanisms, not government setting, and mentions producers responding to signals. Option C contradicts the passage which clearly links supply and demand to price changes like gasoline costs. Option D is incorrect because the text provides specific examples of gasoline prices rising and falling based on travel and supply conditions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1334,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The memorial stood silent against the gray November sky. Visitors moved slowly along the engraved wall, some pausing to trace names with their fingertips. A single wreath of white flowers rested at the base, left by someone who understood the weight of what was lost. The air was still, as if the world itself had stopped to remember.\"\n\nWhat is the tone?\n\nA) Lighthearted and cheerful.\nC) Angry and confrontational.\nD) Humorous and witty.\n\nA) Lighthearted and cheerful.\nB) The description of visitors tracing names shows deep respect, confirming the serious tone\nC) Angry and confrontational.\nD) Humorous and witty.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Lighthearted and cheerful.",
+      "C) Angry and confrontational.",
+      "D) Humorous and witty."
+    ],
+    "explanation": "Option B is right because words like \"silent,\" \"gray,\" and \"weight of what was lost\" create a heavy, solemn mood fitting a memorial. The description of visitors tracing names shows deep respect, confirming the serious tone. Option A is wrong because no joyful or happy elements exist in the passage. Option C is incorrect as there is no anger or conflict mentioned in the text. Option D fails because the passage lacks any jokes or wit, focusing instead on quiet reflection.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1335,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Report A: \"Hospital A reduced patient wait times by 35% after hiring 20 additional nurses and implementing a triage system that prioritizes cases by severity. Patient satisfaction scores improved from 72% to 88%.\"\n\nReport B: \"Hospital B achieved similar wait-time reductions by installing an electronic check-in system and using AI-powered scheduling software. Their approach required no additional staff but cost \\$2 million in technology upgrades.\"\n\nWhat conclusion can be drawn from comparing both reports?\n\nA) Only hiring more nurses improves hospital efficiency.\nB) Technology solutions are always more cost-effective.\nD) Both hospitals wasted money on unnecessary improvements.\n\nA) Only hiring more nurses improves hospital efficiency.\nB) Technology solutions are always more cost-effective.\nC) Option A is incorrect as Report B shows efficiency gains without hiring nurses, contradicting the claim that only hiring works\nD) Both hospitals wasted money on unnecessary improvements.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Only hiring more nurses improves hospital efficiency.",
+      "B) Technology solutions are always more cost-effective.",
+      "D) Both hospitals wasted money on unnecessary improvements."
+    ],
+    "explanation": "Option C is correct because both reports demonstrate that distinct strategies\u2014hiring staff versus technology\u2014successfully reduced wait times, proving multiple paths to efficiency exist with varying costs and benefits. Option A is incorrect as Report B shows efficiency gains without hiring nurses, contradicting the claim that only hiring works. Option B is wrong because Report A's staff-based approach likely incurred lower costs than Hospital B's \\$2 million technology upgrade, disproving that technology is always more cost-effective. Option D is false since both hospitals achieved their stated goals of reduced wait times and improved satisfaction, indicating their improvements were necessary and successful.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1336,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Wearing seat belts is the single most effective practice for reducing injuries in car accidents. Studies show that seat belts reduce fatal injury risk by 45% for front-seat passengers. Despite this, approximately 10% of drivers still do not buckle up regularly. Public awareness campaigns continue to emphasize this simple lifesaving habit.\n\nWhat is the main idea?\n\nA) Seat belts are uncomfortable and should be optional.\nB) All drivers always wear seat belts without exception.\nC) Public awareness campaigns have been discontinued.\n\nA) Seat belts are uncomfortable and should be optional.\nB) All drivers always wear seat belts without exception.\nC) Public awareness campaigns have been discontinued.\nD) This choice synthesizes the statistical evidence with the observed behavioral gap",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Seat belts are uncomfortable and should be optional.",
+      "B) All drivers always wear seat belts without exception.",
+      "C) Public awareness campaigns have been discontinued."
+    ],
+    "explanation": "Option D correctly captures the passage's dual focus on seat belts' 45% reduction in fatal injury risk for front-seat passengers and the fact that 10% of drivers still skip buckling up regularly. This choice synthesizes the statistical evidence with the observed behavioral gap. Option A is incorrect because the text never mentions discomfort or suggests seat belts should be optional; it calls them a \"simple lifesaving habit.\" Option B is wrong since the passage explicitly states that approximately 10% of drivers do not buckle up, contradicting the claim of universal compliance. Option C is false because the text confirms that public awareness campaigns continue to emphasize this safety practice rather than being discontinued.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1337,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Plants produce their own food through photosynthesis. Chlorophyll in leaf cells captures sunlight energy. That energy converts carbon dioxide and water into glucose and oxygen. The oxygen released is essential for animal respiration.\n\nAccording to the passage, what does chlorophyll capture?\n\nA) Carbon dioxide\nC) Glucose\nD) Water\n\nA) Carbon dioxide\nB) Options A, C, and D are incorrect because the passage lists carbon dioxide, glucose, and water as inputs or products of the reaction, not as substances captured by chlorophyll\nC) Glucose\nD) Water",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Carbon dioxide",
+      "C) Glucose",
+      "D) Water"
+    ],
+    "explanation": "The passage explicitly states that chlorophyll in leaf cells captures sunlight energy to initiate the process of photosynthesis, making option B the only accurate choice based on the text. Options A, C, and D are incorrect because the passage lists carbon dioxide, glucose, and water as inputs or products of the reaction, not as substances captured by chlorophyll. Specifically, the text notes that energy converts these other materials into glucose and oxygen, confirming chlorophyll's sole role in capturing sunlight. Therefore, only option B directly reflects the function described in the first two sentences of the passage.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1338,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The United States Constitution was drafted in 1787 during the Philadelphia Convention. Delegates created a system of three branches to balance power. It was ratified in 1788 and took effect in 1789.\n\nWhen was the Constitution drafted?\n\nA) 1776\nB) 1788\nD) 1789\n\nA) 1776\nB) 1788\nC) Option A is incorrect because 1776 refers to the Declaration of Independence, which is not mentioned in the provided excerpt\nD) 1789",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 1776",
+      "B) 1788",
+      "D) 1789"
+    ],
+    "explanation": "The passage explicitly states that the United States Constitution was drafted in 1787 during the Philadelphia Convention, making option C the only accurate choice based on the text. Option A is incorrect because 1776 refers to the Declaration of Independence, which is not mentioned in the provided excerpt. Option B is wrong as the text specifies 1788 as the ratification year, distinct from the drafting period. Finally, option D is inaccurate because the passage notes 1789 was the year the Constitution took effect, not when it was drafted.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1339,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Voting is a fundamental civic duty in a democracy. It allows citizens to choose representatives who reflect their values. Low turnout can lead to policies that do not represent the majority. Educating voters about registration deadlines increases participation.\n\nWhich statement best summarizes the passage?\n\nA) Voting is optional in most democracies.\nB) Representatives choose voters based on values.\nC) Registration deadlines prevent people from voting.\n\nA) Voting is optional in most democracies.\nB) Representatives choose voters based on values.\nC) Registration deadlines prevent people from voting.\nD) A contradicts the passage, which calls voting a 'fundamental civic duty,' not optional",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Voting is optional in most democracies.",
+      "B) Representatives choose voters based on values.",
+      "C) Registration deadlines prevent people from voting."
+    ],
+    "explanation": "The passage makes two connected points: (1) voting lets citizens choose representatives who reflect their values, and (2) low turnout threatens representation, while voter education improves it. Option D captures both ideas concisely. A contradicts the passage, which calls voting a 'fundamental civic duty,' not optional. B reverses the relationship\u2014citizens choose representatives, not the other way around. C is wrong; the passage says education about deadlines increases participation, not that deadlines prevent voting.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1340,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Nurses assess vital signs to monitor patient stability. Normal adult blood pressure is typically around 120 over 80 mmHg. A heart rate between 60 and 100 beats per minute is considered normal at rest. Temperature above 100.4 degrees Fahrenheit may indicate fever. Respiratory rate is counted for one full minute to ensure accuracy.\n\nWhat is considered a normal resting heart rate for adults according to the passage?\n\nB) 40 to 60 beats per minute\nC) 100 to 120 beats per minute\nD) Below 50 beats per minute\n\nA) Option B suggests 40 to 60 beats per minute, which falls below the lower limit of the normal range provided in the text\nB) 40 to 60 beats per minute\nC) 100 to 120 beats per minute\nD) Below 50 beats per minute",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 40 to 60 beats per minute",
+      "C) 100 to 120 beats per minute",
+      "D) Below 50 beats per minute"
+    ],
+    "explanation": "The passage explicitly states that a heart rate between 60 and 100 beats per minute is considered normal at rest for adults, making option A the only choice matching this specific range. Option B suggests 40 to 60 beats per minute, which falls below the lower limit of the normal range provided in the text. Option C lists 100 to 120 beats per minute, exceeding the upper limit of 100 mentioned for a normal resting state. Option D indicates below 50 beats per minute, which is significantly lower than the 60-beat minimum established by the passage as the standard for adults.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1341,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Evaporation turns surface water into vapor when heated by the sun. The vapor rises and cools to form clouds through condensation. Precipitation returns water to earth as rain or snow. Runoff then carries water back to oceans, completing the cycle.\n\nWhich step follows condensation in the water cycle as described?\n\nA) Evaporation\nC) Runoff\nD) Heating\n\nA) Evaporation\nB) This direct sequence confirms it is the next step\nC) Runoff\nD) Heating",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Evaporation",
+      "C) Runoff",
+      "D) Heating"
+    ],
+    "explanation": "Option B, Precipitation, is correct because the passage explicitly states that vapor cools to form clouds through condensation, and immediately follows this by saying precipitation returns water to earth. This direct sequence confirms it is the next step. Option A is incorrect as evaporation is the initial process where the sun heats surface water, occurring before condensation. Option C is wrong because runoff happens after precipitation returns water to oceans, not before condensation. Option D is incorrect since heating by the sun drives evaporation, which precedes the condensation phase entirely.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1342,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Great Depression left millions unemployed by 1933. President Franklin Roosevelt introduced the New Deal, a series of programs and reforms. The Civilian Conservation Corps provided jobs in conservation, while the Social Security Act created retirement benefits. Critics argued the programs expanded federal power excessively. Despite debate, these initiatives reshaped the relationship between government and citizens.\n\nWhich detail supports the claim that the New Deal changed government roles?\n\nA) Unemployment peaked in 1933.\nB) Critics disliked Roosevelt personally.\nD) The Civilian Conservation Corps planted trees.\n\nA) Unemployment peaked in 1933.\nB) Critics disliked Roosevelt personally.\nC) C is the strongest evidence\nD) The Civilian Conservation Corps planted trees.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Unemployment peaked in 1933.",
+      "B) Critics disliked Roosevelt personally.",
+      "D) The Civilian Conservation Corps planted trees."
+    ],
+    "explanation": "The question asks which detail supports the claim that the New Deal changed the relationship between government and citizens. The Social Security Act creating federal retirement benefits represents a direct expansion of government responsibility into citizens' personal financial security\u2014a fundamentally new government role. C is the strongest evidence. A is context (unemployment existed) but doesn't show government change. B misrepresents the passage\u2014critics argued about federal power, not Roosevelt personally. D describes a CCC activity but doesn't demonstrate a changed government-citizen relationship the way a new federal benefit program does.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1343,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Academic integrity requires students to credit original authors. Paraphrasing without citation still constitutes plagiarism. Proper citation includes author name, year, and source. Universities may assign failing grades for intentional violations.\n\nWhat does the passage state about paraphrasing?\n\nA) It is always acceptable without citation.\nB) It requires only the year of publication.\nC) It is preferred over direct quotes.\n\nA) It is always acceptable without citation.\nB) It requires only the year of publication.\nC) It is preferred over direct quotes.\nD) It further clarifies that proper citation must include the author name, year, and source, confirming that citation is mandatory regardless of the method used",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) It is always acceptable without citation.",
+      "B) It requires only the year of publication.",
+      "C) It is preferred over direct quotes."
+    ],
+    "explanation": "The passage explicitly states that paraphrasing without citation still constitutes plagiarism, directly supporting option D. It further clarifies that proper citation must include the author name, year, and source, confirming that citation is mandatory regardless of the method used. Option A is incorrect because the text says paraphrasing without citation is plagiarism, not acceptable. Option B is wrong as the passage requires the author name and source, not just the year. Option C is invalid since the text does not compare paraphrasing to direct quotes regarding preference.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1344,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Health Insurance Portability and Accountability Act protects patient privacy. Nurses may not share patient information without consent. Violations can result in fines and loss of licensure.\n\nWhat is the main purpose of HIPAA according to the passage?\n\nB) To increase hospital revenue\nC) To allow sharing of records\nD) To replace state nursing laws\n\nA) The sentence \"Nurses may not share patient information without consent\" directly illustrates this protective function\nB) To increase hospital revenue\nC) To allow sharing of records\nD) To replace state nursing laws",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To increase hospital revenue",
+      "C) To allow sharing of records",
+      "D) To replace state nursing laws"
+    ],
+    "explanation": "The passage explicitly states that HIPAA protects patient privacy, making option A the only choice supported by the text. The sentence \"Nurses may not share patient information without consent\" directly illustrates this protective function. Options B, C, and D are incorrect because the text mentions nothing about revenue, encourages sharing only with consent, and does not discuss replacing state laws. Therefore, the primary goal described is safeguarding patient confidentiality.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1345,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Antibiotics target bacterial infections, not viral illnesses like colds. Overuse of antibiotics contributes to resistant bacteria. Patients should complete the full prescribed course. Stopping early may allow surviving bacteria to multiply.\n\nWhy should patients finish their antibiotic prescription?\n\nA) To prevent viral infections\nB) To reduce healthcare costs\nD) To cure colds faster\n\nA) To prevent viral infections\nB) To reduce healthcare costs\nC) The text links antibiotic overuse and incomplete courses to the development of these resistant strains, making prevention the primary goal\nD) To cure colds faster",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) To prevent viral infections",
+      "B) To reduce healthcare costs",
+      "D) To cure colds faster"
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that stopping early allows surviving bacteria to multiply, which directly contributes to resistant bacteria. The text links antibiotic overuse and incomplete courses to the development of these resistant strains, making prevention the primary goal. Option A is wrong because the passage notes antibiotics target bacterial infections, not viral illnesses like colds. Option B is incorrect as the text never mentions healthcare costs or financial implications of finishing prescriptions. Option D is wrong since the passage clarifies antibiotics cannot treat viral illnesses, so they cannot cure colds faster.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1346,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The U.S. Census occurs every ten years as mandated by the Constitution. It counts every resident to allocate congressional seats. Data also guides distribution of federal funds for schools and roads. An accurate count ensures fair representation.\n\nWhat is one use of census data mentioned in the passage?\n\nB) Setting state tax rates\nC) Determining presidential term limits\nD) Choosing Supreme Court justices\n\nA) While the text mentions counting residents for congressional seats, it never links the census to setting state tax rates, determining presidential term limits, or choosing Supreme Court justices\nB) Setting state tax rates\nC) Determining presidential term limits\nD) Choosing Supreme Court justices",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Setting state tax rates",
+      "C) Determining presidential term limits",
+      "D) Choosing Supreme Court justices"
+    ],
+    "explanation": "The passage explicitly states that census data guides the distribution of federal funds for schools and roads, making option A the only supported choice. While the text mentions counting residents for congressional seats, it never links the census to setting state tax rates, determining presidential term limits, or choosing Supreme Court justices. Options B, C, and D describe functions unrelated to the specific uses of census data listed in the text. Therefore, only option A directly reflects the information provided.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1347,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The 1954 Brown v. Board of Education decision declared school segregation unconstitutional. The ruling overturned the separate but equal doctrine from Plessy v. Ferguson. Implementation was slow and met resistance in Southern states. In 1957, federal troops were sent to Little Rock to enforce integration. The case became a cornerstone for later civil rights legislation.\n\nWhich previous legal doctrine did Brown v. Board overturn?\n\nA) Federal supremacy\nC) Judicial review\nD) States rights\n\nA) Federal supremacy\nB) Option A is incorrect because federal supremacy is not discussed as being overturned; rather, federal troops were sent to enforce the law\nC) Judicial review\nD) States rights",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Federal supremacy",
+      "C) Judicial review",
+      "D) States rights"
+    ],
+    "explanation": "The passage explicitly states that the Brown v. Board ruling overturned the separate but equal doctrine established by Plessy v. Ferguson. Option B is the only choice directly supported by the text's mention of this specific legal principle. Option A is incorrect because federal supremacy is not discussed as being overturned; rather, federal troops were sent to enforce the law. Option C is wrong since judicial review remains a valid method for courts to evaluate legislation, as seen in this case. Option D is incorrect because states rights were not the doctrine overturned; instead, the ruling challenged the application of states rights to maintain segregation. The text clearly links Brown v. Board to the invalidation of the separate but equal concept.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1348,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Type 2 diabetes affects how the body uses insulin. Risk factors include obesity, family history, and inactivity. Management often involves diet, exercise, and medication. Regular blood glucose monitoring helps prevent complications.\n\nWhich is listed as a risk factor for type 2 diabetes?\n\nA) High calcium intake\nB) Regular exercise\nC) Frequent handwashing\n\nA) High calcium intake\nB) Regular exercise\nC) Frequent handwashing\nD) The text states that risk factors include obesity, family history, and inactivity",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) High calcium intake",
+      "B) Regular exercise",
+      "C) Frequent handwashing"
+    ],
+    "explanation": "Option D is correct because the passage explicitly lists obesity as a risk factor for type 2 diabetes. The text states that risk factors include obesity, family history, and inactivity. Option A is incorrect because high calcium intake is never mentioned in the passage. Option B is wrong since regular exercise is listed as a management strategy, not a risk factor. Option C is incorrect as frequent handwashing is unrelated to diabetes risk and appears nowhere in the text.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1349,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A strong thesis statement presents a clear, arguable claim. It should appear at the end of the introduction. The thesis guides the organization of body paragraphs. Vague statements weaken the overall argument.\n\nWhere should a thesis statement appear according to the passage?\n\nA) In the middle of the conclusion\nB) At the beginning of each body paragraph\nD) In the title only\n\nA) In the middle of the conclusion\nB) At the beginning of each body paragraph\nC) Option A is incorrect because the passage mentions the conclusion only as a location for the thesis, not the middle\nD) In the title only",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) In the middle of the conclusion",
+      "B) At the beginning of each body paragraph",
+      "D) In the title only"
+    ],
+    "explanation": "The passage explicitly states that a thesis statement should appear at the end of the introduction to guide the organization of body paragraphs. This direct instruction confirms option C is the only valid placement described in the text. Option A is incorrect because the passage mentions the conclusion only as a location for the thesis, not the middle. Option B is wrong since the text links the thesis to the introduction, not individual body paragraphs. Option D is invalid because the passage does not suggest placing the thesis solely in the title. Therefore, the text clearly identifies the end of the introduction as the proper location for a strong thesis statement.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1350,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Homeostasis is the body's ability to maintain stable internal conditions. When body temperature rises, sweat glands activate to cool the skin. When temperature drops, shivering generates heat through muscle contractions. Hormones like insulin regulate blood glucose levels. These feedback mechanisms keep vital functions within narrow ranges.\n\nWhich example illustrates a homeostatic response to cold?\n\nA) Sweat glands activating\nC) Insulin lowering glucose\nD) Rising body temperature\n\nA) Sweat glands activating\nB) This directly matches the question's request for a cold response\nC) Insulin lowering glucose\nD) Rising body temperature",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Sweat glands activating",
+      "C) Insulin lowering glucose",
+      "D) Rising body temperature"
+    ],
+    "explanation": "Option B is right because the passage explicitly states that when temperature drops, shivering generates heat through muscle contractions. This directly matches the question's request for a cold response. Option A is wrong since sweat glands activate when temperature rises to cool the skin, which is the opposite of a cold response. Option C is incorrect because insulin regulates blood glucose, not body temperature or cold conditions. Option D fails because rising body temperature is the problem the body tries to fix, not a homeostatic response to cold itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1351,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "SBAR stands for Situation, Background, Assessment, Recommendation. Nurses use SBAR to communicate clearly during handoffs. The structure reduces errors and improves patient safety. It ensures critical information is not omitted.\n\nWhat is the primary benefit of SBAR mentioned?\n\nA) It replaces written documentation\nC) It increases patient visits\nD) It shortens shift length\n\nA) It replaces written documentation\nB) While options A, C, and D suggest replacing documentation, increasing visits, or shortening shifts, none of these outcomes are mentioned in the provided information\nC) It increases patient visits\nD) It shortens shift length",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It replaces written documentation",
+      "C) It increases patient visits",
+      "D) It shortens shift length"
+    ],
+    "explanation": "The passage explicitly states that the SBAR structure reduces errors and improves patient safety, making option B the only choice supported by the text. While options A, C, and D suggest replacing documentation, increasing visits, or shortening shifts, none of these outcomes are mentioned in the provided information. The text focuses solely on communication clarity and error reduction to ensure critical data is not omitted. Therefore, the primary benefit highlighted is the direct improvement in safety through better handoff communication.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1352,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Industrial Revolution began in Britain in the late 18th century. Steam power mechanized textile production and transportation. Urban populations grew as workers moved to factory towns. Child labor and poor working conditions prompted reform movements. By the mid-19th century, industrialization spread to the United States and Europe.\n\nWhat social consequence of industrialization is noted?\n\nA) Decline of steam power\nB) Decrease in urban populations\nC) End of textile production\n\nA) Decline of steam power\nB) Decrease in urban populations\nC) End of textile production\nD) The passage lists several consequences of industrialization: steam power mechanized production, workers moved to factory towns (urban population growth), and child labor/poor conditions prompted reform.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Decline of steam power",
+      "B) Decrease in urban populations",
+      "C) End of textile production"
+    ],
+    "explanation": "The passage lists several consequences of industrialization: steam power mechanized production, workers moved to factory towns (urban population growth), and child labor/poor conditions prompted reform. The question asks specifically about social consequences, not technological ones. D names two social consequences directly stated: urban population growth and poor working conditions. A is wrong\u2014steam power was a technological driver, not a consequence, and the passage says it 'mechanized' production, not that it declined. B contradicts the passage, which says urban populations 'grew.' C is false\u2014textile production was the first industry to be mechanized.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1353,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Wash your hands for at least 20 seconds. Wet hands, apply soap, scrub all surfaces including thumbs and fingernails. Rinse thoroughly under running water. Dry with a clean towel.\n\nWhat is the author's primary purpose?\n\nA) To persuade readers to buy soap\nC) To entertain with a story\nD) To argue against sanitizer use\n\nA) To persuade readers to buy soap\nB) Option A is wrong as there is no mention of brands or sales pitches to encourage buying soap\nC) To entertain with a story\nD) To argue against sanitizer use",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To persuade readers to buy soap",
+      "C) To entertain with a story",
+      "D) To argue against sanitizer use"
+    ],
+    "explanation": "The passage provides a clear sequence of steps for handwashing, making its primary purpose instructional. Option B is right because the text explicitly lists actions like wetting hands and scrubbing surfaces to teach proper technique. Option A is wrong as there is no mention of brands or sales pitches to encourage buying soap. Option C fails because the dry, procedural tone lacks narrative elements needed for entertainment. Option D is incorrect since the text never discusses or critiques hand sanitizer usage at all.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1354,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Volcanic eruptions release magma, ash, and gases from beneath Earth's crust. Some eruptions are explosive, while others produce slow lava flows. Scientists monitor seismic activity to predict eruptions.\n\nWhich word best describes the tone?\n\nA) Sarcastic\nB) Angry\nD) Humorous\n\nA) Sarcastic\nB) Angry\nC) The text simply states what happens during eruptions and how scientists track them, which defines an informative tone\nD) Humorous",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Sarcastic",
+      "B) Angry",
+      "D) Humorous"
+    ],
+    "explanation": "Option C is right because the passage objectively lists facts about volcanic eruptions and scientific monitoring without emotional language. The text simply states what happens during eruptions and how scientists track them, which defines an informative tone. Options A, B, and D are wrong because the text lacks sarcasm, anger, or humor; it presents neutral data without mocking, criticizing, or making jokes. The dry, factual style confirms the tone is purely educational.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1355,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The patient was tachycardic, with a heart rate of 124 beats per minute. The nurse notified the provider promptly.\n\nWhat does tachycardic mean in context?\n\nB) Having low blood pressure\nC) Having difficulty breathing\nD) Having a fever\n\nA) Option B is incorrect because the text mentions only the heart rate, not blood pressure levels\nB) Having low blood pressure\nC) Having difficulty breathing\nD) Having a fever",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Having low blood pressure",
+      "C) Having difficulty breathing",
+      "D) Having a fever"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states the patient's heart rate was 124 beats per minute, which defines tachycardia as a fast heart rate. Option B is incorrect because the text mentions only the heart rate, not blood pressure levels. Option C is wrong since there is no mention of respiratory distress or breathing difficulties in the scenario. Option D is incorrect as the passage provides no information regarding the patient's temperature or fever status.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1356,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Severe drought in the 1930s dried out Great Plains soil. Farmers had removed native grasses that held soil in place. Strong winds then lifted the dry topsoil into massive dust storms. Thousands of families were forced to migrate west.\n\nWhat text structure does the passage use?\n\nA) Compare and contrast\nB) Chronological order only\nC) Problem and solution\n\nA) Compare and contrast\nB) Chronological order only\nC) Problem and solution\nD) The passage chains causes to effects: drought + grass removal \u2192 dry soil \u2192 dust storms \u2192 migration.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Compare and contrast",
+      "B) Chronological order only",
+      "C) Problem and solution"
+    ],
+    "explanation": "The passage chains causes to effects: drought + grass removal \u2192 dry soil \u2192 dust storms \u2192 migration. Every sentence links an action to its consequence, the hallmark of cause-and-effect structure. No timeline order, comparison, or problem-solution framing is used.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1357,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Mandatory voting would strengthen democracy by ensuring all voices are heard. Countries with compulsory voting report higher civic engagement. Critics call it coercion, but the benefits outweigh concerns. A healthy democracy requires participation, not apathy.\n\nWhat is the author's point of view?\n\nA) Neutral observer\nC) Opposed to all voting\nD) Undecided about democracy\n\nA) Neutral observer\nB) A is wrong because the author takes a clear stance, not a neutral one\nC) Opposed to all voting\nD) Undecided about democracy",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Neutral observer",
+      "C) Opposed to all voting",
+      "D) Undecided about democracy"
+    ],
+    "explanation": "The author's position is clear from the opening sentence ('would strengthen democracy'), supporting evidence (countries with compulsory voting report higher engagement), dismissal of criticism ('benefits outweigh concerns'), and concluding statement ('requires participation, not apathy'). Every element signals support. B is correct. A is wrong because the author takes a clear stance, not a neutral one. C is the opposite\u2014the author supports voting, not opposes it. D is wrong; the author is decisive, not undecided.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1358,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "To improve retention, review notes within 24 hours of lecture. Use active recall by testing yourself, not just rereading. Space study sessions over several days.\n\nThe author's purpose is to...\n\nB) Criticize college lectures\nC) Tell a personal story\nD) Sell textbooks\n\nA) Option B is incorrect because the text never mentions college lectures negatively, nor does it critique the teaching style\nB) Criticize college lectures\nC) Tell a personal story\nD) Sell textbooks",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Criticize college lectures",
+      "C) Tell a personal story",
+      "D) Sell textbooks"
+    ],
+    "explanation": "The passage explicitly lists actionable methods like reviewing notes within 24 hours and using active recall to enhance memory retention, directly supporting the purpose of offering study strategies. Option A accurately reflects this instructional intent by focusing on practical techniques for learning. Option B is incorrect because the text never mentions college lectures negatively, nor does it critique the teaching style. Option C fails as there is no personal narrative or anecdote included in the brief advice. Finally, Option D is wrong since no specific textbooks are promoted or sold within the text.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1359,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"When a red blood cell is placed in a hypotonic solution, water moves into the cell through osmosis because the solution has a lower solute concentration than the cell's interior. The cell swells as water enters, and in extreme cases, it may burst \u2014 a process called hemolysis.\"\n\nIn this context, 'hypotonic' most nearly means:\n\nA) Having a higher solute concentration.\nB) Having an equal solute concentration.\nD) Containing no solutes whatsoever.\n\nA) Having a higher solute concentration.\nB) Having an equal solute concentration.\nC) Option A is incorrect as it claims a higher concentration, contradicting the text's description of water moving into the cell\nD) Containing no solutes whatsoever.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Having a higher solute concentration.",
+      "B) Having an equal solute concentration.",
+      "D) Containing no solutes whatsoever."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that a hypotonic solution has a \"lower solute concentration than the cell's interior,\" which directly defines the term. Option A is incorrect as it claims a higher concentration, contradicting the text's description of water moving into the cell. Option B is wrong because an equal concentration implies equilibrium, not the net water influx described. Option D is inaccurate since the passage mentions solutes exist inside the cell, meaning the solution cannot contain none. The text clearly links the lower concentration to the swelling and potential bursting of the red blood cell.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1360,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Constant beeping from monitors desensitizes staff to critical alerts. When every alarm sounds urgent, none feel urgent. This dangerous normalization puts patients at risk. Hospitals must prioritize smarter alarm management.\n\nThe tone is best described as...\n\nA) Celebratory\nB) Indifferent\nC) Humorous\n\nA) Celebratory\nB) Indifferent\nC) Humorous\nD) The text explicitly links dangerous normalization to patient harm, reflecting a critical stance on hospital protocols",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Celebratory",
+      "B) Indifferent",
+      "C) Humorous"
+    ],
+    "explanation": "Option D captures the author's urgent warning about patient safety risks from alarm desensitization. The text explicitly links dangerous normalization to patient harm, reflecting a critical stance on hospital protocols. Options A, B, and C fail because the passage contains no joy, celebration, or humor, and it actively opposes indifference by highlighting severe consequences. The serious tone demands immediate action rather than indifference or celebration.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1361,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "First, check responsiveness and call for help. Next, begin chest compressions at 100 to 120 per minute. Then, give rescue breaths if trained. Continue until help arrives.\n\nWhich structure is used?\n\nB) Description\nC) Argument\nD) Comparison\n\nA) Option B is wrong as the text does not merely describe a single concept but orders events\nB) Description\nC) Argument\nD) Comparison",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Description",
+      "C) Argument",
+      "D) Comparison"
+    ],
+    "explanation": "The passage outlines a specific order of actions, starting with checking responsiveness, followed by chest compressions, and finally rescue breaths. This chronological arrangement clearly demonstrates a sequence where one step must be completed before the next begins. Option A is right because the text uses transition words like \"First,\" \"Next,\" and \"Then\" to guide the reader through a step-by-step process. Option B is wrong as the text does not merely describe a single concept but orders events. Option C is incorrect because no claim or evidence supporting a viewpoint is presented. Option D fails since the passage does not compare two different subjects or ideas.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1362,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "I left Ellis Island with only a suitcase and hope. The streets were louder than my village. I knew work would be hard, but freedom felt possible.\n\nFrom what point of view is the passage written?\n\nA) Third-person omniscient\nB) Second person\nD) Objective historian\n\nA) Third-person omniscient\nB) Second person\nC)  and reveal thoughts of multiple characters. Option B is wrong as second person addresses the reader with \nD) Objective historian",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Third-person omniscient",
+      "B) Second person",
+      "D) Objective historian"
+    ],
+    "explanation": "The passage uses \"I\" and \"my,\" which are clear indicators of a first-person point of view, allowing the narrator to share personal feelings directly. Option A is incorrect because third-person omniscient would use pronouns like \"he\" or \"she\" and reveal thoughts of multiple characters. Option B is wrong as second person addresses the reader with \"you,\" which does not appear here. Option D fails because an objective historian would maintain a detached tone without using personal pronouns or emotional language.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1363,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "False health claims spread faster than corrections online. Algorithms reward sensational content, not accuracy. Readers must verify sources before sharing. Media literacy is no longer optional.\n\nWhat is the author's primary purpose?\n\nA) To entertain with memes\nC) To describe algorithm code\nD) To promote social media use\n\nA) To entertain with memes\nB) The correct answer is right because the author's repeated emphasis on the need for verification and the non-optional nature of media literacy aims to convince readers to adopt these habits.\nC) To describe algorithm code\nD) To promote social media use",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To entertain with memes",
+      "C) To describe algorithm code",
+      "D) To promote social media use"
+    ],
+    "explanation": "The correct answer is right because the author's repeated emphasis on the need for verification and the non-optional nature of media literacy aims to convince readers to adopt these habits. The wrong answers are incorrect because the text does not contain entertainment elements like memes, nor does it provide technical descriptions of algorithm code or promote social media usage.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1364,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The triage nurse's assessment was concise but comprehensive. In under two minutes, she documented vital signs, pain level, allergies, current medications, and the chief complaint \u2014 all without omitting any critical detail that would affect treatment decisions.\"\n\nIn this context, 'concise' most nearly means:\n\nA) Lengthy and highly detailed.\nB) Confusing and disorganized.\nC) Slow and deliberate.\n\nA) Lengthy and highly detailed.\nB) Confusing and disorganized.\nC) Slow and deliberate.\nD) The other choices contradict the text: A claims lengthiness which ignores the two-minute timeframe, B suggests confusion which clashes with the clear documentation of vital signs, and C implies slowness which directly opposes the rapid completion described",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Lengthy and highly detailed.",
+      "B) Confusing and disorganized.",
+      "C) Slow and deliberate."
+    ],
+    "explanation": "Option D is right because the passage states the nurse's assessment was comprehensive yet completed in under two minutes, proving it was brief without omitting critical details. The other choices contradict the text: A claims lengthiness which ignores the two-minute timeframe, B suggests confusion which clashes with the clear documentation of vital signs, and C implies slowness which directly opposes the rapid completion described. Therefore, only D captures the dual meaning of being short and complete as shown in the scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1365,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Mitosis produces two identical diploid cells for growth. Meiosis produces four genetically diverse haploid cells for reproduction. Both involve DNA replication, but only meiosis includes two divisions. Understanding both is key to genetics.\n\nThe passage primarily uses which structure?\n\nB) Cause and effect\nC) Chronological\nD) Problem solution\n\nA) Each sentence pairs mitosis and meiosis: what each produces, how outcomes differ, and what they share (DNA replication).\nB) Cause and effect\nC) Chronological\nD) Problem solution",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Cause and effect",
+      "C) Chronological",
+      "D) Problem solution"
+    ],
+    "explanation": "Each sentence pairs mitosis and meiosis: what each produces, how outcomes differ, and what they share (DNA replication). This parallel treatment of two subjects' similarities and differences is the classic compare-and-contrast pattern. No sequence or cause-effect is presented.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

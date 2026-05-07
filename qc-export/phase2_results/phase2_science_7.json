@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1658,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but requires only simple recall that solid-to-liquid is called melting. No multi-step reasoning or calculation needed."
+    ]
+  },
+  {
+    "id": 1659,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1660,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1661,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: answer option D reads only 'positive' instead of 'B positive,' making the option incomplete and malformed."
+    ]
+  },
+  {
+    "id": 1662,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1663,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1664,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall that helicase unwinds the DNA double helix."
+    ]
+  },
+  {
+    "id": 1665,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall that helicase unwinds the DNA double helix. Nearly identical to Q1664."
+    ]
+  },
+  {
+    "id": 1666,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation mismatch: the explanation states 'Lactic acid accumulates when oxygen is insufficient to complete aerobic respiration, causing cells to rely on anaerobic glycolysis,' which correctly identifies aerobic respiration as the impaired process. Yet the correct answer is marked as C (Glycolysis), which is the process that CONTINUES, not the one that is impaired.",
+      "Rule 8 — Factual error: the impaired process causing lactic acid buildup is aerobic respiration (Krebs cycle/ETC), not glycolysis. The correct answer should be A, not C."
+    ]
+  },
+  {
+    "id": 1667,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1668,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall that vaccines stimulate the adaptive immune system to produce antibodies. Standard introductory-level knowledge."
+    ]
+  },
+  {
+    "id": 1669,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1670,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1671,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1672,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1673,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: answer option D reads 'owman's capsule' instead of 'Bowman's capsule.' The leading 'B' is missing, making the option malformed."
+    ]
+  },
+  {
+    "id": 1674,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but identifying wolves eating deer as predation is simple recall of a basic ecological concept."
+    ]
+  },
+  {
+    "id": 1675,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation mismatch/contradiction: the explanation states 'frogs rely on mosquitoes as a food source. If the mosquito population decreases, frogs will have less food available, which typically leads to a decline in the frog population.' This directly contradicts the marked correct answer D, which claims the frog population will increase.",
+      "Rule 8 — Factual error: the correct answer D ('frog population will likely increase due to reduced predation pressure from mosquitoes') is ecologically wrong. Frogs are the predators OF mosquitoes, so fewer mosquitoes means less food for frogs, leading to a decrease, not an increase. Mosquitoes do not prey on frogs, so 'reduced predation pressure' is false."
+    ]
+  },
+  {
+    "id": 1676,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1677,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1678,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: the question is malformed with two full sets of answer options — the standard A–D choices followed by a second set with explanations embedded in each option. The wrong_answers array also contains full explanatory text instead of simple distractor text. This structural corruption makes the question unusable as-is."
+    ]
+  },
+  {
+    "id": 1679,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but identifying the independent variable in a straightforward experiment is single-step reasoning at an introductory level."
+    ]
+  },
+  {
+    "id": 1680,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1681,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1682,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1683,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but only requires reading a short table of 4–5 values and recognizing they fall within a 300 mL range. Basic data comparison, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1684,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall that systole is the phase of ventricular contraction that ejects blood."
+    ]
+  },
+  {
+    "id": 1685,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1686,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1687,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall that glucagon raises blood glucose levels."
+    ]
+  },
+  {
+    "id": 1688,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: answer option D reads 'ontraction' instead of 'Contraction.' The leading 'C' is missing, making the option malformed."
+    ]
+  },
+  {
+    "id": 1689,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: answer option B reads 'ctin filaments' instead of 'Actin filaments.' The leading 'A' is missing, making the option malformed."
+    ]
+  },
+  {
+    "id": 1690,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: the explanation states 'the peripheral nervous system contains the sensory neurons and spinal cord circuits that process simple reflexes.' The spinal cord is part of the CENTRAL nervous system, not the peripheral nervous system. A spinal reflex arc integrates in the spinal cord (CNS), so attributing it primarily to the PNS is incorrect."
+    ]
+  },
+  {
+    "id": 1691,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: similar to Q1690, the reflex arc integration occurs in the spinal cord (CNS). While the answer acknowledges 'the spinal cord is central,' attributing the reflex primarily to the PNS is misleading. The question also says 'stepping on a hot stove' which is physiologically odd (hands touch stoves, feet step on surfaces)."
+    ]
+  },
+  {
+    "id": 1692,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1693,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall of the photosynthesis equation (CO2 + water + sunlight → glucose). No multi-step reasoning required."
+    ]
+  },
+  {
+    "id": 1694,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1695,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: answer option B reads 'ytoplasm' instead of 'Cytoplasm.' The leading 'C' is missing, making the option malformed."
+    ]
+  },
+  {
+    "id": 1696,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1697,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1698,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is a single-step calculation: 5 g / 100 mL × 100 = 5%. No complex reasoning or multi-step process involved."
+    ]
+  },
+  {
+    "id": 1699,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1700,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall that the diaphragm contracts and moves downward during inhalation to increase thoracic volume."
+    ]
+  },
+  {
+    "id": 1701,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1741,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: answer option D reads 'ell membrane' instead of 'Cell membrane.' The leading 'C' is missing, making the option malformed. Additionally, the explanation incorrectly states 'ribosomes are also located inside the nucleus (attached to the nucleolus) in eukaryotes.' Ribosomes are assembled in the cytoplasm after rRNA export from the nucleolus; functional ribosomes are not found inside the nucleus."
+    ]
+  },
+  {
+    "id": 1745,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation mismatch/contradiction: the explanation states 'only plant cell walls contain peptidoglycan' and then immediately contradicts this with '(they typically contain cellulose instead).' The sentence structure asserts peptidoglycan in plants then retracts it, creating confusion.",
+      "Rule 8 — Factual error: plant cell walls contain cellulose, NOT peptidoglycan. Bacterial cell walls contain peptidoglycan. The explanation incorrectly suggests plant cell walls contain peptidoglycan."
+    ]
+  },
+  {
+    "id": 1750,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is simple recall that insulin regulates glucose, which comes from carbohydrates.",
+      "Rule 8 — Factual error: answer option B reads 'arbohydrates' instead of 'Carbohydrates.' The leading 'C' is missing, making the option malformed."
+    ]
+  },
+  {
+    "id": 1752,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1757,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: marked 'hard' but is trivially simple recall that lower pH values are more acidic. Among pH 2, 7, 9, and 12, selecting pH 2 as most acidic requires no multi-step reasoning."
+    ]
+  },
+  {
+    "id": 1761,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation mismatch: the question asks what phase water transitions TO when an ice pack is applied to skin. The explanation discusses freezing ('When water freezes to form ice, it undergoes a phase change from a liquid to a solid state'), but applying ice to warm skin causes MELTING (solid → liquid), not freezing. The explanation addresses the wrong process entirely.",
+      "Rule 8 — Factual error: when an ice pack is applied to warm skin, the ice absorbs heat and melts (solid → liquid). The correct answer should be A (Liquid), not B (Solid). The water is already solid in the ice pack; it transitions to liquid upon contact with warm skin."
+    ]
+  }
+]

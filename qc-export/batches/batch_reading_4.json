@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1266,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A historical narrative about the Underground Railroad alternates between the perspectives of freedom seekers, conductors, and station masters. This multi-voiced approach highlights the collaborative nature of the network and the diverse risks participants faced. What text structure is used here?\n\nA) Chronological order only\nB) Problem and solution\nD) Spatial description\n\nA) Chronological order only\nB) Problem and solution\nC) This approach directly supports the text's goal of highlighting diverse risks and collaborative efforts through different voices\nD) Spatial description",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Chronological order only",
+      "B) Problem and solution",
+      "D) Spatial description"
+    ],
+    "explanation": "Option C is correct because the passage explicitly states the narrative alternates between freedom seekers, conductors, and station masters, which defines a multiple points of view structure. This approach directly supports the text's goal of highlighting diverse risks and collaborative efforts through different voices. Option A is incorrect because while events may occur over time, the primary focus described is the shifting perspectives, not a strict timeline. Option B fails because the text does not present a specific problem requiring a single solution, but rather illustrates a complex historical network. Option D is wrong as there is no mention of describing objects or locations based on physical space or layout.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1267,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "In a policy brief, the phrase 'fiscal constraints necessitate prioritization' is used to explain why certain healthcare programs may not be funded. In this context, 'necessitate' most nearly means:\n\nA) Suggest as a possibility\nC) Delay or postpone\nD) Eliminate entirely\n\nA) Suggest as a possibility\nB) Options A, C, and D fail because they imply uncertainty, waiting, or removal, which contradict the strong, mandatory tone of the original phrase regarding funding decisions\nC) Delay or postpone\nD) Eliminate entirely",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Suggest as a possibility",
+      "C) Delay or postpone",
+      "D) Eliminate entirely"
+    ],
+    "explanation": "Option B is right because \"necessitate\" directly means to create a need or make something unavoidable, fitting the sentence's logic that budget limits force a choice. Options A, C, and D fail because they imply uncertainty, waiting, or removal, which contradict the strong, mandatory tone of the original phrase regarding funding decisions. The context clearly shows a cause-and-effect relationship where constraints force action, ruling out suggestions of possibility or delay. Therefore, only the definition of making something necessary aligns with the strict requirement implied by the policy brief.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1268,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A nursing textbook chapter on pain management begins with definitions and types of pain, then discusses assessment tools, followed by pharmacological and non-pharmacological interventions, and concludes with evaluation strategies. What is the primary organizational pattern of this chapter?\n\nA) Random assortment of topics for variety\nB) Comparison of nursing schools' curricula\nC) Focus on only one type of pain intervention\n\nA) Random assortment of topics for variety\nB) Comparison of nursing schools' curricula\nC) Focus on only one type of pain intervention\nD) The chapter follows a logical progression from theory to practice to evaluation, as evidenced by its structure moving from definitions and assessment tools to interventions and concluding with evaluation strategies.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Random assortment of topics for variety",
+      "B) Comparison of nursing schools' curricula",
+      "C) Focus on only one type of pain intervention"
+    ],
+    "explanation": "The chapter follows a logical progression from theory to practice to evaluation, as evidenced by its structure moving from definitions and assessment tools to interventions and concluding with evaluation strategies. This sequence mirrors the standard nursing process, establishing foundational knowledge before applying it through treatments and verifying outcomes. Option A is incorrect because the text clearly outlines a structured flow rather than a random assortment of topics. Option B is wrong since the passage discusses pain management concepts, not nursing school curricula comparisons. Option C fails because the text explicitly covers both pharmacological and non-pharmacological interventions, not just one type.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1269,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "An op-ed about social media's impact on mental health uses rhetorical questions ('Are we trading connection for comparison?'), vivid metaphors ('digital echo chambers'), and appeals to shared values like authenticity and well-being. What is the author's primary rhetorical strategy?\n\nB) Presenting only statistical data without interpretation.\nC) Avoiding any mention of potential benefits of social media.\nD) Writing in a purely technical, academic style.\n\nA) The author's use of phrases like \"digital echo chambers\" and questions about trading connection for comparison directly supports the strategy of engaging the reader emotionally rather than just informing them\nB) Presenting only statistical data without interpretation.\nC) Avoiding any mention of potential benefits of social media.\nD) Writing in a purely technical, academic style.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Presenting only statistical data without interpretation.",
+      "C) Avoiding any mention of potential benefits of social media.",
+      "D) Writing in a purely technical, academic style."
+    ],
+    "explanation": "Option A is correct because the passage explicitly lists rhetorical questions, vivid metaphors, and appeals to shared values, all of which constitute persuasive language designed to provoke reflection and concern about mental health. The author's use of phrases like \"digital echo chambers\" and questions about trading connection for comparison directly supports the strategy of engaging the reader emotionally rather than just informing them.\n\nOption B is incorrect because the text never mentions statistical data; instead, it relies entirely on rhetorical devices and metaphors to make its point. Option C is wrong since the author does not avoid benefits but rather critiques the negative trade-offs of social media usage. Finally, Option D fails because the writing style is clearly not technical or academic; it uses emotive language and metaphors typical of an opinion piece rather than a formal research paper.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1270,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A research abstract states: 'While our findings suggest a correlation between sleep duration and academic performance, causation cannot be inferred due to the study's cross-sectional design.' The author's tone in this sentence is best described as:\n\nA) Enthusiastic and promotional\nB) Dismissive of the study's value\nD) Confused and uncertain about results\n\nA) Enthusiastic and promotional\nB) Dismissive of the study's value\nC) This phrasing demonstrates a cautious approach by acknowledging what the data can and cannot prove without overreaching\nD) Confused and uncertain about results",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Enthusiastic and promotional",
+      "B) Dismissive of the study's value",
+      "D) Confused and uncertain about results"
+    ],
+    "explanation": "Option C is right because the author explicitly states causation cannot be inferred due to the cross-sectional design, showing careful precision about study limits. This phrasing demonstrates a cautious approach by acknowledging what the data can and cannot prove without overreaching. The other options fail to match this measured tone. Option A is wrong because there is no excitement or promotion in the neutral statement about design constraints. Option B is incorrect since the author does not dismiss value but rather clarifies the type of evidence provided. Option D is wrong as the sentence is logically clear and confident, not confused or uncertain about the results.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1271,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "In a legal document, the phrase 'notwithstanding any provision to the contrary' is used to emphasize that a specific clause overrides other sections. What is the function of this phrase in terms of text structure?\n\nA) To introduce a new, unrelated topic\nC) To summarize the document's main argument\nD) To provide historical context for the agreement\n\nA) To introduce a new, unrelated topic\nB) This directly matches the definition of establishing hierarchical priority within the text structure\nC) To summarize the document's main argument\nD) To provide historical context for the agreement",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To introduce a new, unrelated topic",
+      "C) To summarize the document's main argument",
+      "D) To provide historical context for the agreement"
+    ],
+    "explanation": "Option B is right because the phrase explicitly states that one clause overrides others, creating a clear hierarchy where specific rules take precedence over general ones. This directly matches the definition of establishing hierarchical priority within the text structure. Options A, C, and D are incorrect because the phrase connects clauses logically rather than introducing unrelated topics or summarizing arguments. It also lacks historical references, focusing instead on current legal weight and structural dominance instead.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1272,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A literary analysis of a novel discusses how the author uses shifting narrative perspectives\u2014from first-person diary entries to third-person omniscient narration\u2014to reveal different characters' motivations and biases. What aspect of craft is the analyst examining?\n\nA) The historical accuracy of the novel's setting\nB) The author's biography and its influence on themes\nC) The economic themes in the novel\n\nA) The historical accuracy of the novel's setting\nB) The author's biography and its influence on themes\nC) The economic themes in the novel\nD) Option A is incorrect because the text never mentions historical settings or accuracy",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The historical accuracy of the novel's setting",
+      "B) The author's biography and its influence on themes",
+      "C) The economic themes in the novel"
+    ],
+    "explanation": "The passage explicitly describes shifting narrative perspectives from first-person diaries to third-person narration, which directly defines point of view. This technique allows the analyst to examine how these specific narrative choices influence the reader's perception of character motivations and biases. Option D correctly identifies this craft element and its impact on understanding. Option A is incorrect because the text never mentions historical settings or accuracy. Option B is wrong as the passage focuses on narrative structure, not the author's personal life. Option C is invalid since economic themes are not discussed in the provided analysis.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1273,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "In a scientific critique, the reviewer writes: 'The authors' conflation of correlation with causation undermines their central argument.' The word 'conflation' in this context most nearly means:\n\nB) Careful distinction between ideas\nC) Strong support for a hypothesis\nD) Simplification for public understanding\n\nA) The reviewer says the authors 'conflate' correlation with causation.\nB) Careful distinction between ideas\nC) Strong support for a hypothesis\nD) Simplification for public understanding",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Careful distinction between ideas",
+      "C) Strong support for a hypothesis",
+      "D) Simplification for public understanding"
+    ],
+    "explanation": "The reviewer says the authors 'conflate' correlation with causation. In scientific writing, confusing these two distinct concepts is a well-known logical error\u2014correlation means two things occur together, while causation means one causes the other. 'Conflation' here means mistakenly merging or treating as identical two ideas that should remain separate. A matches perfectly. B is the opposite\u2014careful distinction is what the authors failed to do. C is wrong; conflation weakens an argument, it doesn't support it. D doesn't fit\u2014simplification for the public is a different concept entirely.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1274,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A describes how reading regularly improves vocabulary by exposing readers to new words in context. It cites a study showing that students who read 30 minutes daily score higher on language tests. Passage B argues that audiobooks provide similar benefits, especially for auditory learners who struggle with print text.\n\nHow do the two passages relate to each other?\n\nA) Both passages oppose any form of reading.\nB) Passage A contradicts everything in Passage B.\nD) Only Passage B is supported by research.\n\nA) Both passages oppose any form of reading.\nB) Passage A contradicts everything in Passage B.\nC) Passage A cites a study on daily reading, while Passage B highlights audiobooks for auditory learners, showing two paths to the same result\nD) Only Passage B is supported by research.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Both passages oppose any form of reading.",
+      "B) Passage A contradicts everything in Passage B.",
+      "D) Only Passage B is supported by research."
+    ],
+    "explanation": "Option C is right because both texts agree that reading enhances vocabulary and test scores, despite using different delivery methods like print versus audiobooks. Passage A cites a study on daily reading, while Passage B highlights audiobooks for auditory learners, showing two paths to the same result. Option A is wrong as neither passage opposes reading; they both advocate for it. Option B is incorrect because Passage A does not contradict Passage B, as audiobooks are presented as a complementary benefit. Option D is wrong since Passage A also presents research evidence regarding student scores.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1275,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A study finds that teachers who participate in professional development workshops report higher job satisfaction and better student outcomes. The workshops cover new teaching strategies, technology integration, and classroom management. Teachers who attend at least two workshops per year show the greatest improvement.\n\nWhat conclusion can be drawn from this study?\n\nA) All teachers dislike professional development.\nB) Workshops have no measurable impact on students.\nD) Only new teachers benefit from additional training.\n\nA) All teachers dislike professional development.\nB) Workshops have no measurable impact on students.\nC) Option A is wrong as the text states teachers report higher satisfaction, contradicting the claim that they dislike the training\nD) Only new teachers benefit from additional training.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) All teachers dislike professional development.",
+      "B) Workshops have no measurable impact on students.",
+      "D) Only new teachers benefit from additional training."
+    ],
+    "explanation": "Option C is right because the passage explicitly connects workshops covering strategies and technology to higher job satisfaction and better student outcomes, proving a link to effectiveness. Option A is wrong as the text states teachers report higher satisfaction, contradicting the claim that they dislike the training. Option B is incorrect since the study clearly shows improved student outcomes, directly refuting the idea of no measurable impact. Option D is wrong because the text mentions teachers generally without specifying that only new educators benefit from the workshops.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1276,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1 argues that renewable energy investments create long-term economic growth. Passage 2 acknowledges this but emphasizes the need for workforce retraining to ensure equitable benefits. What is the relationship between the arguments in these passages?\n\nA) Passage 2 completely contradicts Passage 1's main claim.\nB) Both passages ignore economic factors in energy policy.\nC) Passage 1 focuses on environmental benefits while Passage 2 discusses health impacts.\n\nA) Passage 2 completely contradicts Passage 1's main claim.\nB) Both passages ignore economic factors in energy policy.\nC) Passage 1 focuses on environmental benefits while Passage 2 discusses health impacts.\nD) This demonstrates a clear additive relationship where the second passage expands upon the first by addressing implementation equity",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Passage 2 completely contradicts Passage 1's main claim.",
+      "B) Both passages ignore economic factors in energy policy.",
+      "C) Passage 1 focuses on environmental benefits while Passage 2 discusses health impacts."
+    ],
+    "explanation": "Option D is correct because Passage 2 explicitly accepts the premise of Passage 1 regarding economic growth while introducing the specific requirement for workforce retraining to ensure fair distribution of benefits. This demonstrates a clear additive relationship where the second passage expands upon the first by addressing implementation equity. Option A is incorrect as Passage 2 does not contradict the claim of growth; it merely adds a necessary condition for that growth to be equitable. Option B is false because both passages explicitly discuss economic factors, with Passage 1 focusing on growth and Passage 2 on the workforce needed to sustain it. Option C is wrong since neither passage focuses primarily on environmental benefits or health impacts, making these distractors irrelevant to the text's content.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1277,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A car owner reports that the engine makes a grinding noise when turning left. The mechanic inspects the vehicle and finds worn brake pads on the front left wheel. Replacing the pads resolves the issue. The mechanic recommends checking brake pads every 12,000 miles.\n\nWhat can be inferred from this passage?\n\nA) The car needs a completely new engine.\nB) Grinding noises are normal in all vehicles.\nC) Brake pads never need to be replaced.\n\nA) The car needs a completely new engine.\nB) Grinding noises are normal in all vehicles.\nC) Brake pads never need to be replaced.\nD) The text explicitly states that replacing these specific pads resolved the unusual engine sound, proving a causal relationship between the pads and the noise",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The car needs a completely new engine.",
+      "B) Grinding noises are normal in all vehicles.",
+      "C) Brake pads never need to be replaced."
+    ],
+    "explanation": "Option D is correct because the passage directly links the grinding noise to the worn brake pads on the front left wheel, which were the only issue found and fixed. The text explicitly states that replacing these specific pads resolved the unusual engine sound, proving a causal relationship between the pads and the noise. Option A is incorrect as the mechanic only replaced the pads, implying the engine itself was fine and did not require a complete overhaul. Option B is wrong because the passage describes the grinding noise as a specific problem that was fixed, not a normal occurrence for all vehicles. Option C is incorrect since the mechanic explicitly recommends checking and replacing the pads every 12,000 miles, contradicting the idea that they never need replacement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1278,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Historical documents show that the 19th Amendment granted women the right to vote in 1920. However, many women of color faced additional barriers like poll taxes and literacy tests for decades after. What conclusion is best supported by integrating these facts?\n\nA) The 19th Amendment was ineffective and should not have been passed.\nB) All women gained equal voting rights immediately in 1920.\nD) Poll taxes were only applied to men until the 1960s.\n\nA) The 19th Amendment was ineffective and should not have been passed.\nB) All women gained equal voting rights immediately in 1920.\nC) This directly supports the conclusion that legal rights did not immediately ensure equal access for everyone\nD) Poll taxes were only applied to men until the 1960s.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The 19th Amendment was ineffective and should not have been passed.",
+      "B) All women gained equal voting rights immediately in 1920.",
+      "D) Poll taxes were only applied to men until the 1960s."
+    ],
+    "explanation": "Option C is right because the passage explicitly states that despite the 19th Amendment granting voting rights in 1920, women of color still faced significant barriers like poll taxes and literacy tests for decades. This directly supports the conclusion that legal rights did not immediately ensure equal access for everyone. Option A is wrong because the text describes additional hurdles rather than the amendment itself being ineffective or a mistake. Option B contradicts the passage which notes that many women faced barriers long after 1920, proving equal rights were not immediate. Option D is incorrect since the passage mentions poll taxes applied to women of color specifically, not just men until the 1960s.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1279,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A states that handwashing reduces healthcare-associated infections by up to 50%. Passage B notes that compliance with hand hygiene protocols among staff averages only 40% in many facilities. What practical implication follows from combining these passages?\n\nA) Handwashing is ineffective because compliance is low.\nC) Infection rates are unrelated to hand hygiene practices.\nD) Facilities should stop monitoring compliance to save resources.\n\nA) Handwashing is ineffective because compliance is low.\nB) Option A is wrong because the passage explicitly states handwashing reduces infections by up to 50%, proving it is effective despite low compliance\nC) Infection rates are unrelated to hand hygiene practices.\nD) Facilities should stop monitoring compliance to save resources.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Handwashing is ineffective because compliance is low.",
+      "C) Infection rates are unrelated to hand hygiene practices.",
+      "D) Facilities should stop monitoring compliance to save resources."
+    ],
+    "explanation": "Option B is right because it logically connects the 50% infection reduction from Passage A with the 40% compliance gap in Passage B, showing that better adherence would drastically lower infections. Option A is wrong because the passage explicitly states handwashing reduces infections by up to 50%, proving it is effective despite low compliance. Option C is incorrect since Passage A directly links handwashing to infection reduction, establishing a clear relationship. Option D is wrong because stopping monitoring would likely worsen the 40% compliance rate, contradicting the goal of reducing infections.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1280,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A research article reports that a new drug reduced symptom severity in 70% of trial participants, but the study excluded patients with comorbid conditions. What is a reasonable limitation to infer about applying these results to general patient populations?\n\nA) The drug is unsafe for all patients outside the trial.\nB) Comorbid conditions improve drug effectiveness.\nC) The 70% result is definitely inaccurate due to exclusion criteria.\n\nA) The drug is unsafe for all patients outside the trial.\nB) Comorbid conditions improve drug effectiveness.\nC) The 70% result is definitely inaccurate due to exclusion criteria.\nD) This creates a gap between the trial population and the general patient population, making it reasonable to infer the drug's effectiveness could vary for them",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The drug is unsafe for all patients outside the trial.",
+      "B) Comorbid conditions improve drug effectiveness.",
+      "C) The 70% result is definitely inaccurate due to exclusion criteria."
+    ],
+    "explanation": "Option D is correct because the study explicitly excluded patients with comorbid conditions, meaning the 70% symptom reduction likely does not apply to those with multiple health issues. This creates a gap between the trial population and the general patient population, making it reasonable to infer the drug's effectiveness could vary for them. Option A is wrong because the passage only discusses symptom severity, not safety, so claiming the drug is unsafe for all outside patients is an unsupported leap. Option B is incorrect since the text never suggests comorbidities improve outcomes; in fact, their exclusion implies they might negatively affect results. Option C is wrong because excluding specific groups is a standard research practice, not necessarily evidence that the 70% figure is inaccurate or invalid.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1281,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1 describes how social determinants like housing and education influence health outcomes. Passage 2 presents a community program that addresses food insecurity to improve diabetes management. What does integrating these passages suggest about effective healthcare approaches?\n\nB) Medical treatment alone is sufficient for managing chronic diseases.\nC) Food insecurity is unrelated to diabetes outcomes.\nD) Community programs replace the need for healthcare providers.\n\nA) Option B is incorrect as Passage 1 explicitly shows that medical treatment ignores social determinants, making it insufficient\nB) Medical treatment alone is sufficient for managing chronic diseases.\nC) Food insecurity is unrelated to diabetes outcomes.\nD) Community programs replace the need for healthcare providers.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Medical treatment alone is sufficient for managing chronic diseases.",
+      "C) Food insecurity is unrelated to diabetes outcomes.",
+      "D) Community programs replace the need for healthcare providers."
+    ],
+    "explanation": "Option A is correct because both passages demonstrate that social factors like housing, education, and food security directly impact health outcomes, implying clinical care must address these needs. Option B is incorrect as Passage 1 explicitly shows that medical treatment ignores social determinants, making it insufficient. Option C contradicts Passage 2, which presents clear evidence that food insecurity worsens diabetes management. Option D is wrong because the community program complements rather than replaces the clinical work of healthcare providers.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1282,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "An argument claims that mandatory vaccination policies infringe on personal freedom. A counterargument states that herd immunity protects vulnerable populations who cannot be vaccinated. What is the core tension between these positions?\n\nA) The cost of vaccines versus their effectiveness.\nB) Whether vaccines cause more harm than good.\nD) The role of government in funding healthcare research.\n\nA) The cost of vaccines versus their effectiveness.\nB) Whether vaccines cause more harm than good.\nC) The first position prioritizes individual choice, while the counterargument emphasizes the collective need for herd immunity to safeguard those who cannot be vaccinated\nD) The role of government in funding healthcare research.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The cost of vaccines versus their effectiveness.",
+      "B) Whether vaccines cause more harm than good.",
+      "D) The role of government in funding healthcare research."
+    ],
+    "explanation": "Option C correctly identifies the fundamental conflict between personal autonomy and the duty to protect the community, which is the essence of the debate presented. The first position prioritizes individual choice, while the counterargument emphasizes the collective need for herd immunity to safeguard those who cannot be vaccinated. This creates a direct clash between personal rights and public safety obligations.\n\nOption A is incorrect because the passage never discusses financial costs or economic factors related to vaccine pricing. Option B is wrong as the text does not evaluate the safety profile or potential harms of vaccines, focusing instead on freedom and protection. Option D is inaccurate because the argument concerns policy enforcement and public health outcomes, not government funding for medical research.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1283,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A explains that antibiotics treat bacterial infections but not viral ones. Passage B discusses rising antibiotic resistance due to overprescription. What inference about antibiotic stewardship is best supported?\n\nA) Antibiotics should never be prescribed under any circumstances.\nC) Viral infections will eventually become treatable with antibiotics.\nD) Antibiotic resistance is solely caused by patient non-adherence.\n\nA) Antibiotics should never be prescribed under any circumstances.\nB) Options A, C, and D are incorrect as they contradict the text's distinction between bacterial and viral infections or misattribute resistance causes\nC) Viral infections will eventually become treatable with antibiotics.\nD) Antibiotic resistance is solely caused by patient non-adherence.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Antibiotics should never be prescribed under any circumstances.",
+      "C) Viral infections will eventually become treatable with antibiotics.",
+      "D) Antibiotic resistance is solely caused by patient non-adherence."
+    ],
+    "explanation": "Option B is supported because the passage links overprescription directly to rising resistance, implying that limiting use to clinically necessary cases is the logical solution. Options A, C, and D are incorrect as they contradict the text's distinction between bacterial and viral infections or misattribute resistance causes. Option A ignores the text's statement that antibiotics treat bacterial infections, while Option C falsely suggests antibiotics can treat viruses. Option D incorrectly claims patient non-adherence is the sole cause, whereas the passage highlights overprescription as a primary driver. Therefore, only Option B accurately reflects the stewardship strategy needed to address the documented problem of resistance.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1284,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A policy proposal argues for expanding telehealth to improve rural healthcare access. A critique notes that broadband infrastructure gaps may limit telehealth's reach. What is the most reasonable conclusion about implementing this proposal?\n\nA) Telehealth should be abandoned because of infrastructure challenges.\nB) Rural areas do not need healthcare access improvements.\nC) Broadband access is unrelated to healthcare delivery.\n\nA) Telehealth should be abandoned because of infrastructure challenges.\nB) Rural areas do not need healthcare access improvements.\nC) Broadband access is unrelated to healthcare delivery.\nD) Success cannot be guaranteed without addressing these technological barriers, making parallel funding essential for the proposal to work",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Telehealth should be abandoned because of infrastructure challenges.",
+      "B) Rural areas do not need healthcare access improvements.",
+      "C) Broadband access is unrelated to healthcare delivery."
+    ],
+    "explanation": "Option D correctly identifies that expanding telehealth requires simultaneous investment in broadband infrastructure to function effectively, as the critique explicitly links infrastructure gaps to limited reach. Success cannot be guaranteed without addressing these technological barriers, making parallel funding essential for the proposal to work. Option A is incorrect because abandoning telehealth ignores the potential benefits for rural access despite existing challenges. Option B is false since the proposal itself demonstrates a clear need for improved healthcare in rural areas. Finally, Option C contradicts the critique which directly states that broadband access is a critical factor in healthcare delivery.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1285,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1 presents data showing a decline in smoking rates after graphic warning labels were implemented. Passage 2 argues that such labels may disproportionately distress individuals with anxiety disorders. What is a balanced evaluation of these perspectives?\n\nB) Graphic warnings are ineffective because they cause distress to some people.\nC) Anxiety disorders are not a legitimate concern in public health planning.\nD) Smoking rates are unaffected by warning label design.\n\nA) This balanced view captures the dual nature of public health interventions described in the text\nB) Graphic warnings are ineffective because they cause distress to some people.\nC) Anxiety disorders are not a legitimate concern in public health planning.\nD) Smoking rates are unaffected by warning label design.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Graphic warnings are ineffective because they cause distress to some people.",
+      "C) Anxiety disorders are not a legitimate concern in public health planning.",
+      "D) Smoking rates are unaffected by warning label design."
+    ],
+    "explanation": "Option A correctly synthesizes both passages by acknowledging that while graphic labels reduce smoking rates for the general population, they may cause distress for individuals with anxiety. This balanced view captures the dual nature of public health interventions described in the text. Option B is incorrect because it ignores the first passage's evidence of declining smoking rates, focusing only on the negative side. Option C falsely dismisses anxiety as irrelevant, contradicting Passage 2's argument that these disorders require consideration in policy. Finally, Option D is wrong as it directly contradicts Passage 1, which explicitly states that smoking rates have declined following the implementation of these warnings.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1286,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A study finds that mindfulness training reduces nurse burnout scores by 30%. However, the sample was drawn from a single urban hospital with voluntary participants. What is the strongest limitation to consider when generalizing these findings?\n\nA) Mindfulness training is too expensive to implement widely.\nB) Burnout cannot be measured reliably with surveys.\nD) The 30% reduction is definitely an overestimate.\n\nA) Mindfulness training is too expensive to implement widely.\nB) Burnout cannot be measured reliably with surveys.\nC) The other options are wrong: A focuses on cost, which is irrelevant to generalizability; B claims surveys are unreliable, contradicting the study's use of them; and D suggests the 30% figure is an overestimate, ignoring that the limitation is about scope, not the magnitude of the finding\nD) The 30% reduction is definitely an overestimate.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Mindfulness training is too expensive to implement widely.",
+      "B) Burnout cannot be measured reliably with surveys.",
+      "D) The 30% reduction is definitely an overestimate."
+    ],
+    "explanation": "Option C is right because the study used a single urban hospital and voluntary participants, meaning results likely do not apply to nurses in different settings or with different motivations. The other options are wrong: A focuses on cost, which is irrelevant to generalizability; B claims surveys are unreliable, contradicting the study's use of them; and D suggests the 30% figure is an overestimate, ignoring that the limitation is about scope, not the magnitude of the finding.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1287,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Argument X claims that standardized testing improves educational accountability. Argument Y counters that such tests narrow curricula and increase student stress. What is the most constructive way to evaluate these competing claims?\n\nA) Accept Argument X because accountability is the top priority.\nC) Reject all standardized testing because of student stress.\nD) Assume both arguments are equally valid without further analysis.\n\nA) Accept Argument X because accountability is the top priority.\nB) Evaluating evidence on these specific outcomes allows for a balanced approach rather than ignoring either side\nC) Reject all standardized testing because of student stress.\nD) Assume both arguments are equally valid without further analysis.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Accept Argument X because accountability is the top priority.",
+      "C) Reject all standardized testing because of student stress.",
+      "D) Assume both arguments are equally valid without further analysis."
+    ],
+    "explanation": "Option B is right because it directly addresses the need to weigh both the accountability benefits and the curriculum/stress drawbacks mentioned in the arguments. Evaluating evidence on these specific outcomes allows for a balanced approach rather than ignoring either side. This method ensures a comprehensive understanding of the claims before forming a conclusion.\n\nOption A is wrong because it ignores Argument Y entirely, dismissing the valid concerns about stress and narrowed curricula without evidence. Option C is wrong as it rejects all testing based solely on stress, failing to consider the potential benefits of accountability. Option D is wrong because assuming equal validity without analysis avoids the critical work of distinguishing which claims are better supported by data.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1288,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A describes how implicit bias training for healthcare providers reduced disparities in pain management recommendations. Passage B notes that training effects diminished after six months without reinforcement. What conclusion about bias interventions is best supported?\n\nA) Implicit bias training is useless because effects fade.\nB) Pain management disparities are impossible to eliminate.\nC) Six months is sufficient time to change deep-seated biases permanently.\n\nA) Implicit bias training is useless because effects fade.\nB) Pain management disparities are impossible to eliminate.\nC) Six months is sufficient time to change deep-seated biases permanently.\nD) This evidence directly supports the conclusion that sustained impact requires ongoing, integrated strategies rather than isolated interventions",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Implicit bias training is useless because effects fade.",
+      "B) Pain management disparities are impossible to eliminate.",
+      "C) Six months is sufficient time to change deep-seated biases permanently."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that training effects diminished after six months without reinforcement, implying that one-time efforts are insufficient for lasting change. This evidence directly supports the conclusion that sustained impact requires ongoing, integrated strategies rather than isolated interventions. Option A is wrong as the text only notes effects fading without reinforcement, not that training is useless, since initial disparities were reduced. Option B is incorrect because the passage shows disparities were successfully reduced, proving they are not impossible to eliminate. Finally, Option C is false because the text indicates biases weakened but did not permanently change, contradicting the claim that six months is enough for permanent alteration.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1289,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A historical analysis argues that the New Deal expanded federal power to address economic crisis. A contrasting view emphasizes that many New Deal programs excluded agricultural and domestic workers, disproportionately affecting Black Americans. What is the most nuanced interpretation of these perspectives?\n\nB) The New Deal was entirely beneficial with no negative consequences.\nC) Economic policy should never consider social equity implications.\nD) Historical analysis cannot reconcile conflicting interpretations.\n\nA) This choice captures the tension between economic expansion and social exclusion described in the contrasting views\nB) The New Deal was entirely beneficial with no negative consequences.\nC) Economic policy should never consider social equity implications.\nD) Historical analysis cannot reconcile conflicting interpretations.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The New Deal was entirely beneficial with no negative consequences.",
+      "C) Economic policy should never consider social equity implications.",
+      "D) Historical analysis cannot reconcile conflicting interpretations."
+    ],
+    "explanation": "Option A correctly synthesizes the passage by acknowledging the New Deal's macroeconomic success while noting its failure to include agricultural and domestic workers, thus perpetuating racial inequities. This choice captures the tension between economic expansion and social exclusion described in the contrasting views. Option B is incorrect because the text explicitly mentions programs that excluded specific groups, proving the New Deal had negative consequences for many. Option C misinterprets the historical analysis by suggesting economic policy should never consider equity, whereas the passage implies these exclusions were a critical flaw. Option D is wrong because the text presents two distinct perspectives that can be reconciled by examining both economic and social impacts simultaneously.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1290,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A teacher notices that students who receive clear instructions before an assignment are less likely to ask repeated questions. She begins providing written directions alongside verbal ones. Over the next month, student confusion decreases and assignment completion rates improve.\n\nWhat is the main idea?\n\nB) Verbal instructions should never be used.\nC) Students who ask questions are failing.\nD) Written directions always confuse students more.\n\nA) Option B is incorrect because the text states teachers provide verbal instructions alongside written ones, implying verbal methods remain useful rather than being banned\nB) Verbal instructions should never be used.\nC) Students who ask questions are failing.\nD) Written directions always confuse students more.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Verbal instructions should never be used.",
+      "C) Students who ask questions are failing.",
+      "D) Written directions always confuse students more."
+    ],
+    "explanation": "Option A correctly identifies that clear instructions reduce confusion and improve performance, directly supported by the passage showing decreased confusion and higher completion rates when both verbal and written directions were used. Option B is incorrect because the text states teachers provide verbal instructions alongside written ones, implying verbal methods remain useful rather than being banned. Option C misinterprets the scenario by suggesting students asking questions are failing, whereas the passage indicates asking questions stems from confusion caused by unclear instructions. Option D is wrong as the text explicitly links written directions to improved outcomes, contradicting the claim that they always cause more confusion.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1291,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Photosynthesis is the process by which plants convert sunlight into energy. This process occurs in the chloroplasts of plant cells and uses carbon dioxide and water. Oxygen is released as a byproduct. Without photosynthesis, most life on Earth would not survive.\n\nQuestion: Which detail is explicitly stated?\n\nA) Photosynthesis occurs in animals\nC) Sunlight is optional for photosynthesis\nD) Photosynthesis produces nitrogen\n\nA) Photosynthesis occurs in animals\nB) The question asks which detail is 'explicitly stated'\u2014meaning you can point to the exact sentence in the passage.\nC) Sunlight is optional for photosynthesis\nD) Photosynthesis produces nitrogen",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Photosynthesis occurs in animals",
+      "C) Sunlight is optional for photosynthesis",
+      "D) Photosynthesis produces nitrogen"
+    ],
+    "explanation": "The question asks which detail is 'explicitly stated'\u2014meaning you can point to the exact sentence in the passage. The passage says 'Oxygen is released as a byproduct,' making B directly verifiable. A contradicts the passage, which states photosynthesis occurs in plants, not animals. C is wrong because the passage says plants 'convert sunlight into energy,' implying sunlight is essential, not optional. D is fabricated; the passage mentions carbon dioxide and water as inputs, never nitrogen.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1292,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "During the American Revolution, colonists protested British taxation without representation. Events like the Boston Tea Party showed growing resistance. Eventually, the colonies declared independence in 1776. This marked the beginning of a new nation.\n\nQuestion: What is the main idea?\n\nA) Taxes were fair to colonists\nB) The Boston Tea Party ended the war\nD) Britain supported colonial independence\n\nA) Taxes were fair to colonists\nB) The Boston Tea Party ended the war\nC) Option A is wrong since the text states colonists protested taxation, implying it was unfair, not fair\nD) Britain supported colonial independence",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Taxes were fair to colonists",
+      "B) The Boston Tea Party ended the war",
+      "D) Britain supported colonial independence"
+    ],
+    "explanation": "Option C is right because the passage explicitly links colonist protests against taxation to the 1776 declaration of independence, showing resistance led to a new nation. Option A is wrong since the text states colonists protested taxation, implying it was unfair, not fair. Option B is incorrect because the Boston Tea Party only showed growing resistance, while the war ended much later in 1783. Option D is wrong as the passage describes British taxation and colonial resistance, not British support for independence.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1293,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A study examined how sleep affects memory. Participants who slept eight hours performed better on memory tests than those who slept four hours. Researchers concluded that adequate sleep improves cognitive function. This suggests sleep is essential for learning.\n\nQuestion: Which statement best summarizes the passage?\n\nA) Sleep is unnecessary for learning\nB) Memory tests are unreliable\nC) Participants disliked the study\n\nA) Sleep is unnecessary for learning\nB) Memory tests are unreliable\nC) Participants disliked the study\nD) Option A is incorrect because the passage implies sleep is necessary for optimal learning, contradicting the claim that it is unnecessary",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Sleep is unnecessary for learning",
+      "B) Memory tests are unreliable",
+      "C) Participants disliked the study"
+    ],
+    "explanation": "Option D correctly summarizes the passage by directly reflecting the researchers' conclusion that adequate sleep enhances cognitive function and memory performance, as explicitly stated in the text regarding the eight-hour group. Option A is incorrect because the passage implies sleep is necessary for optimal learning, contradicting the claim that it is unnecessary. Option B is wrong since the text relies on the results of the memory tests to draw its conclusions, offering no evidence of unreliability. Option C is also invalid because the passage focuses solely on study results and findings, with no mention of participant feelings or preferences.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1294,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "In a restaurant kitchen, food safety is critical. Staff must wash hands regularly, keep raw and cooked foods separate, and maintain proper refrigeration temperatures. Cross-contamination is one of the leading causes of foodborne illness. Health inspectors check compliance during routine visits.\n\nAccording to the passage, what is one way to maintain food safety?\n\nA) Cooking all foods at the same temperature.\nC) Storing all foods at room temperature.\nD) Washing hands only at the end of each shift.\n\nA) Cooking all foods at the same temperature.\nB) A is wrong\u2014the passage never mentions cooking all foods at the same temperature\nC) Storing all foods at room temperature.\nD) Washing hands only at the end of each shift.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Cooking all foods at the same temperature.",
+      "C) Storing all foods at room temperature.",
+      "D) Washing hands only at the end of each shift."
+    ],
+    "explanation": "The question asks what the passage explicitly states as a food safety practice. The passage lists three: 'wash hands regularly,' 'keep raw and cooked foods separate,' and 'maintain proper refrigeration temperatures.' Option B directly quotes one of these. A is wrong\u2014the passage never mentions cooking all foods at the same temperature. C contradicts the passage, which says to maintain 'proper refrigeration temperatures,' not room temperature. D is wrong because the passage says to wash hands 'regularly,' not only at the end of a shift.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1295,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The article explains how composting works by breaking down organic waste with microorganisms. This process converts food scraps and yard waste into nutrient-rich soil. Homeowners can start composting with a small bin in their backyard. The resulting compost reduces the need for chemical fertilizers.\n\nWhat is the author's purpose?\n\nA) To persuade readers to ban all fertilizers.\nC) To argue that composting is too difficult for beginners.\nD) To entertain readers with a fictional story.\n\nA) To persuade readers to ban all fertilizers.\nB) The author aims to inform readers about how composting works by clearly describing the biological process of microorganisms breaking down waste.\nC) To argue that composting is too difficult for beginners.\nD) To entertain readers with a fictional story.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To persuade readers to ban all fertilizers.",
+      "C) To argue that composting is too difficult for beginners.",
+      "D) To entertain readers with a fictional story."
+    ],
+    "explanation": "The author aims to inform readers about how composting works by clearly describing the biological process of microorganisms breaking down waste. The passage objectively explains the conversion of scraps into soil and mentions practical steps like using a backyard bin without attempting to convince the audience of a specific political stance or difficulty level. Option A is incorrect because the text never suggests banning fertilizers, only that compost reduces the need for them. Option C is wrong since the author explicitly states homeowners can start easily with a small bin, contradicting the claim that it is too difficult. Option D fails because the text presents a factual, non-fiction explanation rather than a fictional story designed for entertainment.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1296,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Two studies examine exercise benefits. One finds that daily walking improves heart health. Another shows strength training increases muscle mass. Both suggest regular exercise is beneficial.\n\nQuestion: What can be inferred?\n\nB) Exercise is harmful\nC) Only walking is useful\nD) Strength training is unnecessary\n\nA) Together, these findings support the inference that various exercise forms yield positive health outcomes\nB) Exercise is harmful\nC) Only walking is useful\nD) Strength training is unnecessary",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Exercise is harmful",
+      "C) Only walking is useful",
+      "D) Strength training is unnecessary"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that daily walking improves heart health while strength training increases muscle mass, proving distinct activities offer separate advantages. Together, these findings support the inference that various exercise forms yield positive health outcomes.\n\nOption B is wrong as the text only mentions benefits like improved heart health and increased muscle mass, never suggesting any harm from exercise. Option C is incorrect because the passage also highlights strength training's value, contradicting the claim that only walking is useful. Finally, Option D is wrong since the study showing increased muscle mass directly contradicts the idea that strength training is unnecessary.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1297,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A report argues that telemedicine increases access to care. However, it also notes challenges like limited internet access. Overall, the report supports expanding telemedicine with improvements.\n\nQuestion: Which conclusion is best supported?\n\nA) Telemedicine should be eliminated\nC) Internet access is universal\nD) Healthcare access is perfect\n\nA) Telemedicine should be eliminated\nB) The report's call for expansion with improvements directly supports this balanced view\nC) Internet access is universal\nD) Healthcare access is perfect",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Telemedicine should be eliminated",
+      "C) Internet access is universal",
+      "D) Healthcare access is perfect"
+    ],
+    "explanation": "Option B is right because the passage explicitly states telemedicine increases access while noting challenges like limited internet, confirming it is useful yet flawed. The report's call for expansion with improvements directly supports this balanced view. Option A is wrong since eliminating the service ignores the reported benefits of increased access. Option C contradicts the text which specifically mentions limited internet access as a barrier. Option D is incorrect because the passage admits significant challenges, proving healthcare access is not perfect.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1298,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A biology class studies ecosystems. Students learn how organisms interact with each other and their environment. They examine food chains and energy flow. This helps them understand ecological balance.\n\nQuestion: What is the main idea?\n\nA) Biology is unrelated to ecosystems\nB) Food chains are unimportant\nD) Energy flow is unnecessary\n\nA) Biology is unrelated to ecosystems\nB) Food chains are unimportant\nC) The text explicitly states that students learn how organisms interact with each other and their environment, which directly supports this summary\nD) Energy flow is unnecessary",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Biology is unrelated to ecosystems",
+      "B) Food chains are unimportant",
+      "D) Energy flow is unnecessary"
+    ],
+    "explanation": "Option C accurately captures the passage's central theme by synthesizing the key points about organisms interacting with their environment and the study of ecosystems. The text explicitly states that students learn how organisms interact with each other and their environment, which directly supports this summary. While the passage mentions food chains and energy flow, these are presented as tools to understand the broader concept of ecological balance, making Option C the comprehensive main idea.\n\nOption A is incorrect because the passage begins by stating a biology class studies ecosystems, proving the subject is directly related. Option B is wrong since the text indicates students examine food chains to understand ecological balance, implying their importance. Similarly, Option D is false because energy flow is listed alongside food chains as a crucial component of the students' examination of the ecosystem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1299,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The urban hospital serves over 500 patients daily and has the latest MRI and CT scanners. Wait times average four hours. In contrast, the rural clinic sees about 40 patients per day but each visit lasts an average of 30 minutes with the same physician. Both facilities report high patient satisfaction scores.\"\n\nHow does the author organize the information in this passage?\n\nA) Cause and effect.\nB) Chronological order.\nC) Problem and solution.\n\nA) Cause and effect.\nB) Chronological order.\nC) Problem and solution.\nD) The passage organizes information through comparison by directly contrasting the urban hospital and rural clinic using specific data points like patient volume, equipment, wait times, and visit durations.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Cause and effect.",
+      "B) Chronological order.",
+      "C) Problem and solution."
+    ],
+    "explanation": "The passage organizes information through comparison by directly contrasting the urban hospital and rural clinic using specific data points like patient volume, equipment, wait times, and visit durations. The author uses transitional phrases such as \"In contrast\" to highlight differences between the two facilities while noting they share high satisfaction scores. This structure allows the reader to evaluate how distinct operational models function side-by-side rather than showing a sequence of events or solving a specific issue. Option A is incorrect because no causal links are established between variables. Option B fails as there is no timeline or sequence of events described. Option C is wrong since no problem is identified requiring a solution.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1300,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "During the Industrial Revolution, factories increased production efficiency. However, workers often faced poor conditions. This led to labor reforms over time.\n\nQuestion: What is a key detail?\n\nB) Factories decreased production\nC) Reforms happened immediately\nD) Workers had no issues\n\nA) Option B is wrong since the text says factories increased production, not decreased it\nB) Factories decreased production\nC) Reforms happened immediately\nD) Workers had no issues",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Factories decreased production",
+      "C) Reforms happened immediately",
+      "D) Workers had no issues"
+    ],
+    "explanation": "Option A is right because the passage explicitly states that workers often faced poor conditions, making it a direct key detail. Option B is wrong since the text says factories increased production, not decreased it. Option C is incorrect because the passage notes reforms happened over time, not immediately. Option D is wrong as the text clearly indicates workers did have issues, contradicting the claim they had none.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1301,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The passage describes a firefighter who remains calm during emergencies. Her steady voice reassures victims while she assesses the situation. She prioritizes the most urgent needs first, directing her team with clear commands. Her composure under pressure earns the respect of her entire department.\n\nWhat character trait does the passage emphasize?\n\nA) Impatience with slow responders.\nC) Reluctance to lead the team.\nD) Hesitation during critical moments.\n\nA) Impatience with slow responders.\nB) Her steady voice reassures victims while she assesses the situation, demonstrating control rather than the negative traits listed elsewhere\nC) Reluctance to lead the team.\nD) Hesitation during critical moments.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Impatience with slow responders.",
+      "C) Reluctance to lead the team.",
+      "D) Hesitation during critical moments."
+    ],
+    "explanation": "The passage explicitly states that the firefighter remains calm during emergencies and that her composure under pressure earns her department's respect, directly supporting option B. Her steady voice reassures victims while she assesses the situation, demonstrating control rather than the negative traits listed elsewhere. Option A is incorrect because the text never mentions impatience with slow responders. Option C is wrong since she actively directs her team with clear commands, showing she is willing to lead. Finally, option D is invalid because her steady voice and immediate assessment prove she does not hesitate during critical moments.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1302,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A chemistry text explains that matter exists in solid, liquid, and gas forms. Each state has different properties. Temperature changes can cause transitions between states.\n\nQuestion: What is the main idea?\n\nA) Matter cannot change\nB) Only solids exist\nC) Temperature is irrelevant\n\nA) Matter cannot change\nB) Only solids exist\nC) Temperature is irrelevant\nD) The passage explicitly states that \"Each state has different properties,\" which directly supports this summary",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Matter cannot change",
+      "B) Only solids exist",
+      "C) Temperature is irrelevant"
+    ],
+    "explanation": "Option D correctly identifies the main idea by synthesizing the text's core message that matter exists in three states, each possessing unique properties. The passage explicitly states that \"Each state has different properties,\" which directly supports this summary. Option A is incorrect because the text notes that \"Temperature changes can cause transitions,\" proving matter can change states. Option B is wrong as the text lists solid, liquid, and gas forms, contradicting the claim that only solids exist. Finally, Option C is false since the passage specifically attributes state transitions to temperature changes, making it a relevant factor.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1303,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Obesity rates among adults have risen from 15% in 1980 to 42% in 2020, according to CDC data. The rate among children has tripled during the same period. Charts tracking caloric intake show a parallel increase. Researchers link these trends to changes in food availability and portion sizes.\"\n\nWhy does the author include statistics and data in this passage?\n\nB) To entertain the reader with interesting numbers.\nC) To confuse readers with too much information.\nD) To argue that statistics are unreliable.\n\nA) The author includes specific statistics like the rise from 15% to 42% obesity rates to substantiate the claims about changing health trends with factual evidence.\nB) To entertain the reader with interesting numbers.\nC) To confuse readers with too much information.\nD) To argue that statistics are unreliable.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To entertain the reader with interesting numbers.",
+      "C) To confuse readers with too much information.",
+      "D) To argue that statistics are unreliable."
+    ],
+    "explanation": "The author includes specific statistics like the rise from 15% to 42% obesity rates to substantiate the claims about changing health trends with factual evidence. This approach strengthens the argument by providing concrete data points that validate the connection between food availability and rising obesity, making the passage more credible and persuasive. Option B is incorrect because the text uses serious health data to inform, not to entertain with trivial numbers. Option C is wrong since the statistics clearly support the main point rather than confusing the reader with unnecessary complexity. Option D is false because the passage relies on these figures to prove a point, demonstrating their reliability rather than arguing against them.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1304,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Two articles discuss climate change. One focuses on rising temperatures, while the other emphasizes sea level rise. Both highlight environmental impacts.\n\nQuestion: What is a shared idea?\n\nA) Climate change is harmless\nB) Only temperature matters\nD) Sea levels are decreasing\n\nA) Climate change is harmless\nB) Only temperature matters\nC) Option A is wrong since neither article suggests climate change is harmless; they describe serious consequences\nD) Sea levels are decreasing",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Climate change is harmless",
+      "B) Only temperature matters",
+      "D) Sea levels are decreasing"
+    ],
+    "explanation": "Option C is right because both articles explicitly highlight environmental impacts, proving that climate change has significant effects. Option A is wrong since neither article suggests climate change is harmless; they describe serious consequences. Option B is incorrect because the second article emphasizes sea level rise, showing temperature is not the only factor. Option D is wrong as the text states sea levels are rising, not decreasing, contradicting the claim.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1305,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Antibiotics are designed to kill or inhibit bacteria by targeting their cell walls or protein synthesis. Viruses, however, replicate inside host cells and lack the structures that antibiotics attack. When antibiotics are prescribed for viral infections like the common cold, they have no effect on the virus but do kill beneficial bacteria in the body. This misuse accelerates the development of antibiotic-resistant strains.\"\n\nWhat is the main idea?\n\nA) All infections should be treated with antibiotics.\nC) Viruses and bacteria are the same organism.\nD) Antibiotic resistance is not a real concern.\n\nA) All infections should be treated with antibiotics.\nB) The passage explains a chain of cause and effect: antibiotics target bacterial structures that viruses don't have, so prescribing them for viral infections is useless\u2014but worse, it kills beneficial bacteria and accelerates resistance.\nC) Viruses and bacteria are the same organism.\nD) Antibiotic resistance is not a real concern.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) All infections should be treated with antibiotics.",
+      "C) Viruses and bacteria are the same organism.",
+      "D) Antibiotic resistance is not a real concern."
+    ],
+    "explanation": "The passage explains a chain of cause and effect: antibiotics target bacterial structures that viruses don't have, so prescribing them for viral infections is useless\u2014but worse, it kills beneficial bacteria and accelerates resistance. The central message is that antibiotics must be used correctly (only for bacterial infections) to preserve their effectiveness. B captures this. A is the opposite of the passage's argument. C is false\u2014the passage distinguishes them as different. D directly contradicts the passage's warning about resistance.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1306,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A study finds that students who review notes regularly perform better. This suggests consistent study habits improve outcomes.\n\nQuestion: What can be concluded?\n\nB) Studying is unnecessary\nC) Tests are unfair\nD) Notes are useless\n\nA) Option B is wrong since the text implies studying is beneficial, not unnecessary\nB) Studying is unnecessary\nC) Tests are unfair\nD) Notes are useless",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Studying is unnecessary",
+      "C) Tests are unfair",
+      "D) Notes are useless"
+    ],
+    "explanation": "Option A is right because the passage directly links regular note review to better performance, supporting the conclusion that consistent habits improve outcomes. Option B is wrong since the text implies studying is beneficial, not unnecessary. Option C is incorrect as the study focuses on habits, not test fairness. Option D is wrong because the passage suggests notes aid performance, making them useful.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1307,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A hospital introduces a new electronic records system. Staff receive training to use it effectively. Over time, efficiency improves and errors decrease.\n\nQuestion: What is the main idea?\n\nA) Technology always fails\nC) Staff refuse training\nD) Errors increase over time\n\nA) Technology always fails\nB) The text states efficiency improves and errors decrease over time, directly supporting this cause-and-effect relationship\nC) Staff refuse training\nD) Errors increase over time",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Technology always fails",
+      "C) Staff refuse training",
+      "D) Errors increase over time"
+    ],
+    "explanation": "Option B correctly identifies that the passage explicitly links staff training to improved efficiency and reduced errors following the new system's introduction. The text states efficiency improves and errors decrease over time, directly supporting this cause-and-effect relationship. Option A is incorrect because the passage describes technology succeeding, not failing. Option C contradicts the text, which implies staff successfully received and utilized training rather than refusing it. Finally, Option D is false since the passage clearly states errors decrease, not increase, over the observed period.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1308,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Photosynthesis begins when chlorophyll in plant leaves absorbs sunlight. Next, the plant uses this energy to split water molecules into hydrogen and oxygen. The hydrogen combines with carbon dioxide to form glucose, which the plant uses for energy. Finally, oxygen is released as a byproduct into the atmosphere.\"\n\nWhat structure does the author use?\n\nA) Compare and contrast.\nB) Cause and effect.\nD) Problem and solution.\n\nA) Compare and contrast.\nB) Cause and effect.\nC) The passage employs a sequential structure by explicitly using time markers like \"Next\" and \"Finally\" to guide the reader through the distinct stages of photosynthesis.\nD) Problem and solution.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Compare and contrast.",
+      "B) Cause and effect.",
+      "D) Problem and solution."
+    ],
+    "explanation": "The passage employs a sequential structure by explicitly using time markers like \"Next\" and \"Finally\" to guide the reader through the distinct stages of photosynthesis. Option A is incorrect because the text does not compare two subjects or contrast opposing ideas. Option B fails as there is no clear cause-and-effect relationship presented beyond the inherent process steps of the plant. Option D is wrong because the passage does not identify a problem requiring a solution. Instead, it simply lists the chronological order of events from sunlight absorption to oxygen release.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1309,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Two passages discuss diet. One supports plant-based diets, while the other emphasizes balanced eating including meat.\n\nQuestion: What is the key difference?\n\nA) Both reject nutrition\nB) Both support only meat\nC) Both ignore health\n\nA) Both reject nutrition\nB) Both support only meat\nC) Both ignore health\nD) This distinction directly addresses the prompt's request for the key difference between the two texts",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Both reject nutrition",
+      "B) Both support only meat",
+      "C) Both ignore health"
+    ],
+    "explanation": "Option D correctly identifies that the passages differ fundamentally in their views on diet composition, with one favoring plants and the other including meat. This distinction directly addresses the prompt's request for the key difference between the two texts. Options A, B, and C are incorrect because neither passage rejects nutrition, supports only meat, or ignores health; they simply advocate for different dietary balances. Therefore, the only valid contrast lies in how each text defines the makeup of a healthy diet.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1310,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A science article explains gravity as a force that pulls objects toward each other. It affects everything from falling objects to planetary motion.\n\nQuestion: What detail is included?\n\nB) Gravity only affects humans\nC) Gravity is optional\nD) Gravity pushes objects away\n\nA) This confirms that planetary motion is a specific detail included in the text regarding gravity's influence\nB) Gravity only affects humans\nC) Gravity is optional\nD) Gravity pushes objects away",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Gravity only affects humans",
+      "C) Gravity is optional",
+      "D) Gravity pushes objects away"
+    ],
+    "explanation": "The passage explicitly states that gravity affects everything from falling objects to planetary motion, directly supporting option A. This confirms that planetary motion is a specific detail included in the text regarding gravity's influence. Option B is incorrect because the article mentions a broad range of objects, not just humans, making the claim too narrow. Option C is wrong since the text describes gravity as a force that pulls objects, implying it is a constant requirement for motion, not optional. Finally, option D contradicts the passage which clearly defines gravity as a pulling force rather than a pushing one.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1311,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The experiment was conducted over a 12-week period. Participants were divided into control and experimental groups. Data was collected using standardized instruments. Results were analyzed using statistical methods. No subjective interpretations were included in the findings.\"\n\nWhat is the author's style?\n\nA) Conversational and friendly.\nC) Emotional and passionate.\nD) Humorous and sarcastic.\n\nA) Conversational and friendly.\nB) standardized instruments\nC) Emotional and passionate.\nD) Humorous and sarcastic.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Conversational and friendly.",
+      "C) Emotional and passionate.",
+      "D) Humorous and sarcastic."
+    ],
+    "explanation": "The passage employs a formal style evident in its precise, objective language regarding the experiment's duration, group divisions, and data analysis methods. Terms like \"standardized instruments\" and \"statistical methods\" reflect a detached, academic tone devoid of personal flair or casual phrasing. This neutrality aligns with scientific reporting where clarity and accuracy are paramount over emotional expression or entertainment.\n\nOption A is incorrect because the text lacks conversational markers or friendly greetings, instead using rigid, technical vocabulary. Option C fails as there is no emotional language or persuasive rhetoric, only factual observations about data collection. Option D is wrong since the passage contains no jokes, sarcasm, or humorous elements, maintaining a strictly professional demeanor throughout.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1312,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A five-year study by the Environmental Health Department tracked air quality and hospital visits in two cities. City A, located near industrial plants, had particulate matter levels 40% above EPA standards. City B, a rural community 100 miles away, had air quality within safe limits. Hospital visits for respiratory conditions in City A were 3.2 times higher than in City B during the study period.\"\n\nWhat inference does the data support?\n\nA) Air pollution has no effect on respiratory health.\nB) City B has better hospitals than City A.\nD) Industrial plants should be shut down immediately.\n\nA) Air pollution has no effect on respiratory health.\nB) City B has better hospitals than City A.\nC) 2 times higher respiratory hospital visits compared to the clean-air City B\nD) Industrial plants should be shut down immediately.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Air pollution has no effect on respiratory health.",
+      "B) City B has better hospitals than City A.",
+      "D) Industrial plants should be shut down immediately."
+    ],
+    "explanation": "Option C is right because the passage directly links City A's 40% above-standard pollution to its 3.2 times higher respiratory hospital visits compared to the clean-air City B. This correlation supports the inference that pollution levels are associated with increased illness. Option A is wrong because the data explicitly shows a strong relationship between high pollution and more hospital visits, contradicting the claim of no effect. Option B is incorrect since the text only tracks air quality and hospital visit rates, offering no information about the quality or capacity of the hospitals themselves. Option D is wrong because the study shows an association, not definitive proof of causation, and the passage never mentions policy recommendations or immediate shutdowns.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1313,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"The assassination of Archduke Franz Ferdinand in 1914 is often cited as the spark that ignited World War I. However, historians point to deeper structural causes. A web of alliances meant that a conflict between two nations could quickly draw in many others. Militarism had led to massive arms buildups across Europe. Imperial competition for colonies created additional friction, and nationalism fueled aggressive foreign policies among the major powers.\"\n\nWhat is the main idea?\n\nA) World War I was caused solely by the assassination of Archduke Ferdinand.\nB) Alliances were the only factor in starting the war.\nC) Militarism had no role in European tensions before 1914.\n\nA) World War I was caused solely by the assassination of Archduke Ferdinand.\nB) Alliances were the only factor in starting the war.\nC) Militarism had no role in European tensions before 1914.\nD) The passage opens by acknowledging the assassination as the 'spark' but immediately pivots: 'historians point to deeper structural causes.' It then lists four\u2014alliances, militarism, imperialism, and nationalism\u2014each explained with supporting detail.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) World War I was caused solely by the assassination of Archduke Ferdinand.",
+      "B) Alliances were the only factor in starting the war.",
+      "C) Militarism had no role in European tensions before 1914."
+    ],
+    "explanation": "The passage opens by acknowledging the assassination as the 'spark' but immediately pivots: 'historians point to deeper structural causes.' It then lists four\u2014alliances, militarism, imperialism, and nationalism\u2014each explained with supporting detail. The main idea is that multiple long-term factors, not a single event, caused WWI. D captures this. A is what the passage explicitly challenges. B is wrong; alliances were one of four factors, not the only one. C contradicts the passage, which describes massive arms buildups as a contributing cause.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1314,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A study at State University divided 200 students into two groups. Group A drank 8 ounces of water before a 50-minute lecture, while Group B received no water. After the lecture, both groups took a comprehension quiz. Group A scored an average of 82%, compared to 74% for Group B. A second study at a different university produced nearly identical results.\"\n\nWhat conclusion is supported by both studies?\n\nB) Drinking water before a lecture improves comprehension quiz scores.\nA) Water has no effect on academic performance.\nC) Only college students benefit from hydration.\nD) Students should drink water during every class period.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Water has no effect on academic performance.",
+      "C) Only college students benefit from hydration.",
+      "D) Students should drink water during every class period."
+    ],
+    "explanation": "Option B is supported because the passage explicitly states that Group A, which drank water, scored higher (82%) than Group B (74%) on the comprehension quiz, indicating hydration likely improved focus. The mention of nearly identical results at a second university reinforces this conclusion across different settings. Option A is incorrect because the data shows a clear performance difference between the groups, contradicting the claim of no effect. Option C is wrong as the study involved college students but offers no evidence to suggest only they benefit, nor does it exclude other demographics. Option D is unsupported because the study tested water consumption only before the lecture, not during the class period, making the recommendation for continuous drinking an overgeneralization.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1315,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A passage explains how meteorologists monitor weather patterns using satellites, radar, and ground stations. They track temperature, humidity, and wind speed to predict conditions days in advance.\n\nWhat is the main idea?\n\nB) Weather cannot be predicted more than one hour ahead.\nC) Satellites are the only tool used in forecasting.\nD) Ground stations are no longer used in modern forecasting.\n\nA) The passage explicitly lists these diverse methods, supporting the claim that multiple tools are essential for prediction\nB) Weather cannot be predicted more than one hour ahead.\nC) Satellites are the only tool used in forecasting.\nD) Ground stations are no longer used in modern forecasting.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Weather cannot be predicted more than one hour ahead.",
+      "C) Satellites are the only tool used in forecasting.",
+      "D) Ground stations are no longer used in modern forecasting."
+    ],
+    "explanation": "Option A correctly identifies that meteorologists utilize satellites, radar, and ground stations alongside tracking data like temperature and humidity to forecast conditions days ahead. The passage explicitly lists these diverse methods, supporting the claim that multiple tools are essential for prediction. Option B is incorrect because the text states conditions are predicted days in advance, directly contradicting the idea that forecasting is limited to one hour. Option C is wrong as the passage mentions radar and ground stations alongside satellites, proving they are not the sole tools used. Finally, Option D is false since the text includes ground stations as a primary method for monitoring weather patterns.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

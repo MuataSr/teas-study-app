@@ -1,0 +1,230 @@
+[
+  {
+    "id": 319,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer text reads 'hloroplasts' — missing leading 'C', rendering the option text incorrect."]
+  },
+  {
+    "id": 321,
+    "verdict": "PASS"
+  },
+  {
+    "id": 323,
+    "verdict": "PASS"
+  },
+  {
+    "id": 325,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option C is incorrect since producers clearly contain the highest energy' — but Option C ('Producers (autotrophs)') IS the correct answer. Explanation also claims 'Option A is correct' when A is a distractor about the 10% rule. The explanation directly contradicts the answer key."]
+  },
+  {
+    "id": 327,
+    "verdict": "PASS"
+  },
+  {
+    "id": 328,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation says 'Option A describes the mechanism but not the process name' — but Option A is 'Nitrogen fixation,' which IS the process name (and the correct answer). The explanation misattributes what each option says."]
+  },
+  {
+    "id": 331,
+    "verdict": "PASS"
+  },
+  {
+    "id": 332,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option B lists the count of amino acids' but B is the correct answer 'mino acids' — it lists no count. Option D actually mentions the count of 20 amino acids. Explanation misattributes options.",
+      "Rule 8: Correct answer text reads 'mino acids' — missing leading 'a', making the option text incorrect."
+    ]
+  },
+  {
+    "id": 335,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer text reads 'ovalent bond' — missing leading 'C', rendering the option text incorrect."]
+  },
+  {
+    "id": 336,
+    "verdict": "PASS"
+  },
+  {
+    "id": 338,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer text reads 'ovalent bond' — missing leading 'C', rendering the option text incorrect."]
+  },
+  {
+    "id": 340,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation says 'Option D explains the scale's nature but fails to provide the number' — but Option D is simply '7', which IS the number. The explanation misdescribes the correct option and contradicts itself."]
+  },
+  {
+    "id": 341,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Option C 'Sulfuric acid (H2SO4)' is listed as a wrong answer, but H2SO4 is a well-known strong acid. The question has two valid correct answers, making the designation of C as incorrect a factual error."]
+  },
+  {
+    "id": 342,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation states 'Option B is actually the correct reasoning but is listed as a wrong answer here due to formatting' — but Option B is '10 times,' which is factually wrong (the answer is 100 times). The explanation endorses an incorrect answer as having correct reasoning."]
+  },
+  {
+    "id": 343,
+    "verdict": "PASS"
+  },
+  {
+    "id": 344,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer text reads 'ccept protons (H⁺ ions)' — missing leading 'A', rendering the option text incorrect."]
+  },
+  {
+    "id": 345,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer text reads 'ecreases' — missing leading 'D', rendering the option text incorrect."]
+  },
+  {
+    "id": 346,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation says 'Option C is wrong as it falsely claims none of the groups listed are the most reactive' — but Option C is 'Alkali metals (Li, Na, K) have one valence electron that they readily lose, making them the most reactive metals,' which is a true supporting statement, not a denial. The explanation fabricates content for Option C."]
+  },
+  {
+    "id": 347,
+    "verdict": "PASS"
+  },
+  {
+    "id": 348,
+    "verdict": "PASS"
+  },
+  {
+    "id": 351,
+    "verdict": "PASS"
+  },
+  {
+    "id": 353,
+    "verdict": "PASS"
+  },
+  {
+    "id": 355,
+    "verdict": "PASS"
+  },
+  {
+    "id": 356,
+    "verdict": "PASS"
+  },
+  {
+    "id": 358,
+    "verdict": "PASS"
+  },
+  {
+    "id": 359,
+    "verdict": "PASS"
+  },
+  {
+    "id": 363,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer text reads 'n inactive treatment given to the control group' — missing leading 'a' (should be 'An inactive…'), rendering the option text incorrect."]
+  },
+  {
+    "id": 364,
+    "verdict": "PASS"
+  },
+  {
+    "id": 366,
+    "verdict": "PASS"
+  },
+  {
+    "id": 369,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation says 'Wrong option A implies it merely depends on the independent variable' but Option A says 'It is the outcome that is measured…' — the 'depends' language is actually in Option B. The explanation swaps Option A and B descriptions."]
+  },
+  {
+    "id": 373,
+    "verdict": "PASS"
+  },
+  {
+    "id": 376,
+    "verdict": "PASS"
+  },
+  {
+    "id": 378,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A correctly identifies this third variable as the cause' but Option A is 'causation' — it does not identify any third variable. Explanation says 'Option B wrongly claims correlation equals causation' but Option B correctly explains the confounding variable (hot weather). The explanation completely misattributes what each option says.",
+      "Rule 8: Correct answer text reads 'oth are correlated with a third variable (hot weather)' — missing leading 'B', rendering the option text incorrect."
+    ]
+  },
+  {
+    "id": 379,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation states 'Option A correctly states this fundamental difference' but Option A says 'Causation means two variables are related; correlation means one directly causes the other' — the definitions are SWAPPED. The explanation endorses a wrong answer as correct.",
+      "Rule 8: Correct answer text reads 'orrelation means two variables are related…' — missing leading 'C', rendering the option text incorrect."
+    ]
+  },
+  {
+    "id": 380,
+    "verdict": "PASS"
+  },
+  {
+    "id": 381,
+    "verdict": "PASS"
+  },
+  {
+    "id": 382,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Correct answer text reads 'ccept the results and consider revising the hypothesis' — missing leading 'A', rendering the option text incorrect."]
+  },
+  {
+    "id": 383,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 3: Explanation says 'Option A is correct' but Option A is 'A guess about a consistent natural phenomenon' which describes a hypothesis, not a law. Explanation says 'Option C is incorrect' but Option C ('description of a consistent natural phenomenon') IS the correct answer. The explanation endorses the wrong option and rejects the correct one."]
+  },
+  {
+    "id": 940,
+    "verdict": "PASS"
+  },
+  {
+    "id": 941,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty is 'hard' but this is simple recall — knowing that gas exchange occurs in the alveoli is a basic anatomy fact requiring no multi-step reasoning or calculation."]
+  },
+  {
+    "id": 942,
+    "verdict": "PASS"
+  },
+  {
+    "id": 943,
+    "verdict": "PASS"
+  },
+  {
+    "id": 944,
+    "verdict": "PASS"
+  },
+  {
+    "id": 945,
+    "verdict": "PASS"
+  },
+  {
+    "id": 946,
+    "verdict": "PASS"
+  },
+  {
+    "id": 947,
+    "verdict": "PASS"
+  },
+  {
+    "id": 948,
+    "verdict": "PASS"
+  },
+  {
+    "id": 949,
+    "verdict": "PASS"
+  },
+  {
+    "id": 950,
+    "verdict": "PASS"
+  },
+  {
+    "id": 951,
+    "verdict": "PASS"
+  }
+]

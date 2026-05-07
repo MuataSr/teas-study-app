@@ -1,0 +1,250 @@
+{% extends "base.html" %}
+
+{% block title %}{{ subject_name }} — Question {{ current_q }}{% endblock %}
+
+{% block content %}
+
+<!-- Question Top Bar -->
+<div class="question-topbar">
+  <button class="question-back" onclick="history.back()">← Back</button>
+  <span class="question-subject-tag">{{ subject_name }}</span>
+  <span class="question-counter">{{ current_q }} / {{ total_q }}</span>
+</div>
+
+<!-- Question Body -->
+<div class="question-body">
+  <div class="question-number-label">Question {{ current_q }}</div>
+
+  <div class="question-text">
+    {{ question.question_text|safe }}
+  </div>
+
+  {% if feedback %}
+  {# ── FEEDBACK STATE (after submit) ── #}
+
+  <div class="choices feedback-locked">
+    {% set letters = ['A', 'B', 'C', 'D'] %}
+    {% set opts = question.options if question.options is defined else [] %}
+
+    {% for i in range(opts|length) %}
+    {% set is_selected = (opts[i] == selected) %}
+    {% set is_right = (opts[i] == correct_answer) %}
+
+    <label class="choice
+      {% if is_right %}correct
+      {% elif is_selected and not is_correct %}wrong
+      {% endif %}"
+      id="choice-{{ i }}">
+      <span class="choice-letter">{{ letters[i] }}</span>
+      <span class="choice-text">{{ opts[i]|safe }}</span>
+      {% if is_right %}
+      <span class="choice-badge badge-correct">✓</span>
+      {% elif is_selected and not is_correct %}
+      <span class="choice-badge badge-wrong">✗</span>
+      {% endif %}
+    </label>
+    {% endfor %}
+  </div>
+
+  <!-- Result banner -->
+  <div class="feedback-banner {% if is_correct %}feedback-correct{% else %}feedback-wrong{% endif %}">
+    {% if is_correct %}
+    <span class="feedback-icon">✓</span>
+    <span>Correct!</span>
+    {% else %}
+    <span class="feedback-icon">✗</span>
+    <span>Not quite — the answer is <strong>{{ correct_answer }}</strong></span>
+    {% endif %}
+  </div>
+
+  {% if feedback_mode == 'teach' or (feedback_mode == 'hint' and not is_correct) %}
+  {# ── FULL EXPLANATION (confidence 1, or confidence 2 + wrong) ── #}
+  <div class="feedback-explanation" id="explanation-box">
+    <div class="explanation-label">Explanation</div>
+    <div class="explanation-text">{{ explanation|safe }}</div>
+
+    {% if related_lesson %}
+    <div class="related-lesson">
+      <div class="related-lesson-label">Key Concept</div>
+      <div class="related-lesson-text">{{ related_lesson.get('key_concept', '')|safe }}</div>
+      {% if related_lesson.get('common_mistake') %}
+      <div class="common-mistake">
+        <span class="mistake-label">Watch out:</span>
+        {{ related_lesson.common_mistake|safe }}
+      </div>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+
+  {% elif feedback_mode == 'hint' and is_correct %}
+  {# ── HINT MODE (confidence 2 + correct): brief confirm, no lecture ── #}
+  <div class="feedback-brief">
+    <p>Nice work! That one clicked.</p>
+    {% if explanation %}
+    <button class="reveal-link" id="reveal-btn">Want to see why?</button>
+    <div class="feedback-explanation hidden" id="explanation-box">
+      <div class="explanation-label">Explanation</div>
+      <div class="explanation-text">{{ explanation|safe }}</div>
+    </div>
+    {% endif %}
+  </div>
+
+  {% else %}
+  {# ── QUIZ MODE (confidence 3): minimal feedback ── #}
+  {% if not is_correct and explanation %}
+  <div class="feedback-brief">
+    <p>Review the explanation if this was a close one:</p>
+    <button class="reveal-link" id="reveal-btn">Show explanation</button>
+    <div class="feedback-explanation hidden" id="explanation-box">
+      <div class="explanation-label">Explanation</div>
+      <div class="explanation-text">{{ explanation|safe }}</div>
+    </div>
+  </div>
+  {% endif %}
+  {% endif %}
+
+  <!-- Next button -->
+  <div class="submit-area" style="margin-top: 24px;">
+    {% if next_url %}
+    <a href="{{ next_url }}" class="submit-btn next-btn">Next Question →</a>
+    {% else %}
+    <a href="/results/{{ subject_slug }}/{{ quiz_id }}" class="submit-btn next-btn">See Results →</a>
+    {% endif %}
+  </div>
+
+  {% else %}
+  {# ── INPUT STATE (before submit) ── #}
+
+  <!-- Choices -->
+  <form method="POST" action="/quiz/{{ subject_slug }}/{{ quiz_id }}/{{ current_q - 1 }}/answer" id="quiz-form">
+    <div class="choices">
+      {% set letters = ['A', 'B', 'C', 'D'] %}
+      {% set opts = question.options if question.options is defined else [] %}
+
+      {% for i in range(opts|length) %}
+      <label class="choice" id="choice-{{ i }}">
+        <input type="radio" name="selected" value="{{ opts[i] }}" hidden>
+        <span class="choice-letter">{{ letters[i] }}</span>
+        <span class="choice-text">{{ opts[i]|safe }}</span>
+      </label>
+      {% endfor %}
+    </div>
+
+    <!-- Confidence Slider -->
+    <div class="confidence-section">
+      <div class="confidence-label">How confident are you?</div>
+      <div class="confidence-track">
+        <div class="confidence-track-fill" id="confidence-fill" data-active="0"></div>
+        <div class="confidence-node" data-value="1" id="conf-1">
+          <div class="confidence-dot"></div>
+          <span class="confidence-node-text">Not sure</span>
+        </div>
+        <div class="confidence-node" data-value="2" id="conf-2">
+          <div class="confidence-dot"></div>
+          <span class="confidence-node-text">Kinda sure</span>
+        </div>
+        <div class="confidence-node" data-value="3" id="conf-3">
+          <div class="confidence-dot"></div>
+          <span class="confidence-node-text">Got this</span>
+        </div>
+      </div>
+      <div class="confidence-hint" id="confidence-hint">Tap to set your confidence</div>
+    </div>
+
+    <div class="submit-area">
+      <button type="submit" class="submit-btn" id="submit-btn" disabled>Submit Answer</button>
+    </div>
+  </form>
+  {% endif %}
+
+</div>
+
+{% endblock %}
+
+{% block bottom_nav %}{% endblock %}
+
+{% block scripts %}
+<script>
+(function() {
+  {% if feedback %}
+  // ── Feedback state: wire reveal buttons ──
+  var revealBtn = document.getElementById("reveal-btn");
+  var explBox = document.getElementById("explanation-box");
+  if (revealBtn && explBox) {
+    revealBtn.addEventListener("click", function() {
+      explBox.classList.remove("hidden");
+      revealBtn.style.display = "none";
+    });
+  }
+  {% else %}
+  // ── Input state: wire choices + confidence + submit ──
+  var form = document.getElementById("quiz-form");
+  var submitBtn = document.getElementById("submit-btn");
+  var startTime = Date.now();
+  var submitted = false;
+  var confidenceValue = 0;
+
+  var hints = {
+    0: "Tap to set your confidence",
+    1: "We'll explain the concept after you answer",
+    2: "You'll get a hint if you need it",
+    3: "Quick quiz — straight to grading"
+  };
+
+  var confNodes = document.querySelectorAll(".confidence-node");
+  var confFill = document.getElementById("confidence-fill");
+  var confHint = document.getElementById("confidence-hint");
+
+  confNodes.forEach(function(node) {
+    node.addEventListener("click", function() {
+      if (submitted) return;
+      var val = parseInt(node.getAttribute("data-value"));
+      confidenceValue = val;
+
+      confNodes.forEach(function(n) { n.classList.remove("active"); });
+      node.classList.add("active");
+      confFill.setAttribute("data-active", val);
+      confHint.textContent = hints[val];
+      confHint.style.color = "var(--text-secondary)";
+
+      var selected = form.querySelector("input[name='selected']:checked");
+      if (selected) submitBtn.disabled = false;
+    });
+  });
+
+  var choices = document.querySelectorAll(".choice");
+  choices.forEach(function(c) {
+    c.addEventListener("click", function(e) {
+      if (submitted) return;
+      choices.forEach(function(x) { x.classList.remove("selected"); });
+      c.classList.add("selected");
+      c.querySelector("input").checked = true;
+      if (confidenceValue > 0) submitBtn.disabled = false;
+    });
+  });
+
+  form.addEventListener("submit", function(e) {
+    if (submitted) { e.preventDefault(); return; }
+    submitted = true;
+
+    var elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+    var input = document.createElement("input");
+    input.type = "hidden";
+    input.name = "time_elapsed";
+    input.value = elapsed;
+    form.appendChild(input);
+
+    var confInput = document.createElement("input");
+    confInput.type = "hidden";
+    confInput.name = "confidence";
+    confInput.value = confidenceValue;
+    form.appendChild(confInput);
+
+    submitBtn.textContent = "Submitting…";
+    submitBtn.disabled = true;
+  });
+  {% endif %}
+})();
+</script>
+{% endblock %}

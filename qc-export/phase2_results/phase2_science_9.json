@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1849,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1850,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1851,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Labeled 'hard' but is simple recall of the definition of an independent variable. Identifying the independent variable in a straightforward two-group experiment requires no multi-step reasoning or complex analysis."
+    ]
+  },
+  {
+    "id": 1852,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1853,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1854,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1855,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1856,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Labeled 'hard' but is simple recall/identification of the independent variable in a standard two-group experiment. No complex reasoning, calculation, or multi-step logic required."
+    ]
+  },
+  {
+    "id": 1857,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1858,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Labeled 'hard' but is straightforward identification of independent and dependent variables in a standard medication study. Single-step definitional recall."
+    ]
+  },
+  {
+    "id": 1859,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1860,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation mismatch: The explanation calls Normal Saline 'a neutral solution with a pH of approximately 5.5' — this is self-contradictory since pH 5.5 is acidic, not neutral.",
+      "Rule 8 — Factual error: D5W (Dextrose 5% in Water) typically has a pH of 4.0–5.0, making it more acidic than Normal Saline (pH 5.0–5.5). If the question asks which solution has a pH 'significantly less than 7.0,' D5W would be the stronger candidate. The correct answer should be D, not B."
+    ]
+  },
+  {
+    "id": 1861,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1862,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation mismatch: The explanation references wrong option letters throughout. It says 'Option A (0 to 6.9)' but Option A is actually 'pH range of 13 to 14.' It says 'Option B (7.0 to 14)' but Option B is 'pH range of 0 to 6.9.' The option mappings in the explanation do not match the actual answer choices in the question.",
+      "Rule 7 — Difficulty mismatch: Labeled 'hard' but is simple recall that pH below 7 is acidic. Single-step definitional knowledge with no multi-step reasoning or calculation required."
+    ]
+  },
+  {
+    "id": 1863,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 — Explanation mismatch: The explanation states 'as heart rate decreases from hour 0 to hour 12, systolic blood pressure also generally decreases' and then calls this an 'inverse relationship.' Two variables decreasing together is a direct/positive relationship, not an inverse one. The explanation contradicts itself.",
+      "Rule 8 — Factual error: The explanation incorrectly describes a direct relationship (both variables decreasing together) as 'inverse.' An inverse relationship means one variable increases while the other decreases. Additionally, the question references a data table that is not included in the question text."
+    ]
+  },
+  {
+    "id": 1864,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1865,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Labeled 'hard' but is simple recall of a basic fact about meiosis (produces 4 daughter cells with half the chromosome number). This is standard single-step factual recall taught in introductory biology."
+    ]
+  },
+  {
+    "id": 1866,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1867,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Labeled 'hard' but is simple recall that meiosis produces gametes (sperm and eggs). Single-step definitional knowledge with no complex reasoning required."
+    ]
+  }
+]

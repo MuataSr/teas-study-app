@@ -1,0 +1,752 @@
+[
+  {
+    "id": 319,
+    "subject": "science",
+    "topic": "Photosynthesis and cellular respiration",
+    "question_text": "Where does photosynthesis primarily occur in plant cells?\nA) The light reactions occur in thylakoid membranes; the Calvin cycle in the stroma\nB) hloroplasts\nC) Chloroplasts contain chlorophyll and are the site of photosynthesis\nD) Mitochondria",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Chloroplasts contain chlorophyll and are the site of photosynthesis",
+      "The light reactions occur in thylakoid membranes; the Calvin cycle in the stroma",
+      "Mitochondria"
+    ],
+    "explanation": "The question asks where photosynthesis primarily occurs in plant cells. The correct answer is Chloroplasts because these organelles house the chlorophyll needed to capture light energy. Wrong answers like \"Chloroplasts contain chlorophyll\" are redundant since the question seeks the location, not a description. The option about light reactions and Calvin cycles describes internal processes within chloroplasts, not the primary site itself. None of the above is incorrect because a valid location exists. Thus, Chloroplasts is the definitive answer for the site of photosynthesis.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 321,
+    "subject": "science",
+    "topic": "Photosynthesis and cellular respiration",
+    "question_text": "During which stage of cellular respiration is the most ATP produced?\nA) Total: ~38 ATP per glucose\nB) The ETC produces about 34 ATP\nC) Electron transport chain (oxidative phosphorylation)\nD) Glycolysis produces 2 ATP net, and the Krebs cycle produces 2 ATP",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The ETC produces about 34 ATP",
+      "Glycolysis produces 2 ATP net, and the Krebs cycle produces 2 ATP",
+      "Total: ~38 ATP per glucose"
+    ],
+    "explanation": "The electron transport chain generates the most ATP through oxidative phosphorylation, yielding roughly 34 molecules per glucose. Glycolysis only produces a net gain of 2 ATP, while the Krebs cycle contributes another 2 ATP. Together, these stages account for approximately 38 total ATP, but the ETC is the primary source of energy.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 323,
+    "subject": "science",
+    "topic": "Photosynthesis and cellular respiration",
+    "question_text": "Which process converts glucose to pyruvate?\nA) Glycolysis\nB) Glycolysis splits one glucose (6-carbon) into two pyruvate (3-carbon) molecules, yielding a net gain of 2 ATP and 2 NADH\nC) It occurs in the cytoplasm\nD) Citric Acid Cycle",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Glycolysis splits one glucose (6-carbon) into two pyruvate (3-carbon) molecules, yielding a net gain of 2 ATP and 2 NADH",
+      "It occurs in the cytoplasm",
+      "Citric Acid Cycle"
+    ],
+    "explanation": "Glycolysis is the specific metabolic pathway that breaks down one glucose molecule into two pyruvate molecules. This process occurs in the cytoplasm and yields a net gain of 2 ATP and 2 NADH. The other options describe the mechanism, location, and products of glycolysis rather than naming the process itself. Therefore, only Glycolysis correctly identifies the conversion process.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 325,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "Which trophic level contains the most energy?\nA) Energy decreases at each trophic level (~10% rule)\nB) Producers have the most energy because they capture it directly from the sun\nC) Producers (autotrophs)\nD) Primary Consumers",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Energy decreases at each trophic level (~10% rule)",
+      "Producers have the most energy because they capture it directly from the sun",
+      "Primary Consumers"
+    ],
+    "explanation": "In this science question about trophic levels, producers (autotrophs) hold the most energy because they capture sunlight directly. Energy decreases at each subsequent level following the 10% rule, so consumers always have less. Option A is correct as it identifies the base of the food chain. Option B is wrong because it describes the energy loss pattern rather than stating which level has the most. Option C is incorrect since producers clearly contain the highest energy. Option D is invalid because the other options address the question accurately.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 327,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "Which type of relationship benefits one organism and harms the other?\nA) In parasitism, the parasite benefits at the expense of the host\nB) Mutualism benefits both\nC) Parasitism\nD) Commensalism benefits one and doesn't affect the other",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "In parasitism, the parasite benefits at the expense of the host",
+      "Commensalism benefits one and doesn't affect the other",
+      "Mutualism benefits both"
+    ],
+    "explanation": "The question asks for the relationship where one organism benefits while the other is harmed. This definition matches parasitism, where the parasite gains resources at the host's expense. In contrast, commensalism benefits one party without affecting the other, and mutualism provides advantages to both organisms involved. Therefore, only parasitism fits the criteria of harming one participant while helping the other.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 328,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "The process by which nitrogen is converted from atmospheric N\u2082 to a usable form is called:\nA) Nitrogen fixation\nB) This is done by bacteria in soil or root nodules\nC) Nitrification\nD) Nitrogen-fixing bacteria convert atmospheric N\u2082 into ammonia (NH\u2083), which plants can use",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Nitrogen-fixing bacteria convert atmospheric N\u2082 into ammonia (NH\u2083), which plants can use",
+      "This is done by bacteria in soil or root nodules",
+      "Nitrification"
+    ],
+    "explanation": "The process converting atmospheric N\u2082 to usable nitrogen is nitrogen fixation. Nitrogen-fixing bacteria in soil or root nodules perform this by turning N\u2082 into ammonia (NH\u2083) for plants. Option A describes the mechanism but not the process name. Option B explains location and agents, not the definition. Option C is incorrect as the process exists. Thus, only the term nitrogen fixation accurately names the conversion process.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 331,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "Which macromolecule serves as the primary energy storage molecule in animals?\nA) Lipids (fats)\nB) Lipids store more energy per gram (9 kcal/g) than carbohydrates or proteins (4 kcal/g)\nC) In animals, fats are the primary long-term energy storage\nD) Carbohydrates",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Lipids store more energy per gram (9 kcal/g) than carbohydrates or proteins (4 kcal/g)",
+      "In animals, fats are the primary long-term energy storage",
+      "Carbohydrates"
+    ],
+    "explanation": "The correct answer is Lipids because they function as the primary long-term energy storage in animals, storing roughly 9 kcal per gram compared to 4 kcal for carbohydrates and proteins. This high density allows fats to provide substantial energy reserves essential for survival during periods of fasting or high demand. The other options are incorrect because Lipids store more energy per gram (9 kcal/g) than carbohydrates or proteins (4 kcal/g), In animals, fats are the primary long-term energy storage, and None of the above is false since Lipids is the valid choice.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 332,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "Proteins are made up of monomers called:\nA) Nucleotides\nB) mino acids\nC) The sequence determines the protein's shape and function\nD) There are 20 amino acids that combine in various sequences to form proteins",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "There are 20 amino acids that combine in various sequences to form proteins",
+      "The sequence determines the protein's shape and function",
+      "Nucleotides"
+    ],
+    "explanation": "The correct answer is amino acids because proteins are polymers constructed from these specific monomers. The other options describe properties rather than the building blocks themselves. Option B lists the count of amino acids, Option C explains protein function, and Option D is incorrect. This question tests knowledge of protein structure fundamentals.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 335,
+    "subject": "science",
+    "topic": "Chemical bonds",
+    "question_text": "Which type of bond involves the sharing of electrons between atoms?\nA) In covalent bonds, atoms share electrons to achieve stable electron configurations\nB) ovalent bond\nC) Ionic bonds involve electron transfer, not sharing\nD) Ionic bond",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "In covalent bonds, atoms share electrons to achieve stable electron configurations",
+      "Ionic bonds involve electron transfer, not sharing",
+      "Ionic bond"
+    ],
+    "explanation": "The question asks which bond involves electron sharing. A covalent bond is the correct choice because it is defined by the sharing of electron pairs between atoms to achieve stability. Ionic bonds are incorrect as they involve electron transfer rather than sharing. The \"None of the above\" option is wrong since a valid answer exists. This specific science concept distinguishes bond types clearly.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 336,
+    "subject": "science",
+    "topic": "Chemical bonds",
+    "question_text": "What happens when sodium (Na) and chlorine (Cl) form a bond?\nA) This is an ionic bond\nB) Sodium transfers an electron to chlorine, forming Na\u207a and Cl\u207b\nC) Na (1 valence electron) loses an electron to become Na\u207a, and Cl (7 valence electrons) gains it to become Cl\u207b\nD) Chlorine transfers an electron to sodium",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "This is an ionic bond",
+      "Na (1 valence electron) loses an electron to become Na\u207a, and Cl (7 valence electrons) gains it to become Cl\u207b",
+      "Chlorine transfers an electron to sodium"
+    ],
+    "explanation": "When sodium and chlorine bond, sodium transfers an electron to chlorine, creating Na\u207a and Cl\u207b ions. This specific mechanism defines the ionic bond where Na loses one valence electron while Cl gains it to complete its shell. The other options are incorrect because they merely describe the bond type or valence counts without stating the actual electron transfer event that forms the ions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 338,
+    "subject": "science",
+    "topic": "Chemical bonds",
+    "question_text": "Which type of bond is the strongest?\nA) Covalent bonds (sharing electrons) are the strongest chemical bonds\nB) Hydrogen bonds are the weakest\nC) ovalent bond\nD) Ionic bonds are strong but weaker than covalent",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Covalent bonds (sharing electrons) are the strongest chemical bonds",
+      "Ionic bonds are strong but weaker than covalent",
+      "Hydrogen bonds are the weakest"
+    ],
+    "explanation": "The covalent bond is the strongest because it involves the direct sharing of electron pairs between atoms, creating a very stable connection. While ionic bonds are strong due to electrostatic attraction, they are generally weaker than the shared electron link in covalent bonds. Hydrogen bonds are significantly weaker intermolecular forces compared to the intramolecular strength of covalent bonds. Therefore, the covalent bond represents the highest level of chemical stability among the options provided.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 340,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "What is the pH of a neutral solution?\nA) A pH of 7 is neutral\nB) Below 7 is acidic (high H\u207a concentration), above 7 is basic (low H\u207a concentration)\nC) The pH scale is logarithmic\nD) 7",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A pH of 7 is neutral",
+      "Below 7 is acidic (high H\u207a concentration), above 7 is basic (low H\u207a concentration)",
+      "The pH scale is logarithmic"
+    ],
+    "explanation": "The pH of a neutral solution is exactly 7 because this value represents the point where hydrogen ion concentration equals hydroxide ion concentration. Option A is incorrect as it merely restates the definition rather than answering the specific value asked. Options B and C describe acidic and basic ranges, which are not neutral, while Option D explains the scale's nature but fails to provide the number. Therefore, 7 is the only correct numerical answer for neutrality.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 341,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "Which of the following is a strong acid?\nA) Weak acids (like acetic acid/vinegar) only partially dissociate\nB) HCl is a strong acid that completely dissociates in water\nC) Sulfuric acid (H2SO4)\nD) Hydrochloric acid (HCl)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "HCl is a strong acid that completely dissociates in water",
+      "Weak acids (like acetic acid/vinegar) only partially dissociate",
+      "Sulfuric acid (H2SO4)"
+    ],
+    "explanation": "Hydrochloric acid (HCl) is the correct choice because it is a well-known strong acid that fully dissociates into ions in aqueous solution. This distinguishes it from weak acids like acetic acid found in vinegar, which only partially break apart in water. The other options are incorrect because they either misidentify the acid's strength or deny the existence of strong acids entirely. Therefore, HCl stands out as the definitive strong acid among the listed choices.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 342,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "A solution with a pH of 3 is how many times more acidic than a solution with a pH of 5?\nA) The pH scale is logarithmic: each unit change represents a 10-fold change in H\u207a concentration\nB) 10 times\nC) A difference of 2 = 10\u00b2 = 100 times\nD) 100 times",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The pH scale is logarithmic: each unit change represents a 10-fold change in H\u207a concentration",
+      "A difference of 2 = 10\u00b2 = 100 times",
+      "10 times"
+    ],
+    "explanation": "The pH scale is logarithmic, meaning each whole number change represents a tenfold difference in hydrogen ion concentration. Since the difference between pH 3 and pH 5 is two units, the acidity increases by a factor of 10 squared, which equals 100 times. Option A incorrectly states the rule without calculating the specific factor for this problem. Option B is actually the correct reasoning but is listed as a wrong answer here due to formatting. Option C is false because the calculation clearly shows a 100-fold increase.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 343,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "Which pH range is optimal for most human enzymes?\nA) Most human enzymes function optimally near neutral pH (around 7.4)\nB) Pepsin in the stomach is an exception, working best at pH 2\nC) pH 7.0 \u2013 7.8\nD) pH 2.0 \u2013 3.0",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Most human enzymes function optimally near neutral pH (around 7.4)",
+      "Pepsin in the stomach is an exception, working best at pH 2",
+      "pH 2.0 \u2013 3.0"
+    ],
+    "explanation": "Most human enzymes work best at a neutral pH of 7.4, fitting the range of 7.0 to 7.8. While pepsin in the stomach is an exception functioning at pH 2, general enzymes require this specific neutral environment. The option stating none of the above is incorrect because the pH 7.0 to 7.8 range accurately describes optimal conditions. Therefore, the correct answer is the pH range of 7.0 to 7.8.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 344,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "Bases are substances that:\nA) Bases also increase OH\u207b concentration in aqueous solutions\nB) According to the Br\u00f8nsted-Lowry definition, bases accept protons\nC) ccept protons (H\u207a ions)\nD) Donate protons (H\u207a ions)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "According to the Br\u00f8nsted-Lowry definition, bases accept protons",
+      "Bases also increase OH\u207b concentration in aqueous solutions",
+      "Donate protons (H\u207a ions)"
+    ],
+    "explanation": "Bases accept protons (H\u207a ions) per the Br\u00f8nsted-Lowry definition, making this the primary characteristic. While bases often increase OH\u207b concentration in water, this is a secondary effect of proton acceptance, not the definition itself. The other options incorrectly cite the definition as a fact or claim no answer exists, both contradicting established chemical principles.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 345,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "As you move from left to right across a period on the periodic table, atomic radius generally:\nA) Increasing nuclear charge pulls electrons closer to the nucleus, decreasing atomic radius across a period\nB) ecreases\nC) It increases down a group\nD) Increases",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Increasing nuclear charge pulls electrons closer to the nucleus, decreasing atomic radius across a period",
+      "It increases down a group",
+      "Increases"
+    ],
+    "explanation": "As you move left to right across a period, atomic radius decreases because increasing nuclear charge pulls electrons closer. Option A (Increasing) is wrong since protons add attraction, shrinking the cloud. Option B (It increases down a group) describes vertical movement, not horizontal periods. Option C (None) is incorrect because the trend is well-established. This explains why size shrinks across a row despite added shells.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 346,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "Which group on the periodic table contains the most reactive metals?\nA) Group 1 (alkali metals)\nB) Reactivity increases down the group\nC) Alkali metals (Li, Na, K) have one valence electron that they readily lose, making them the most reactive metals\nD) Group 17 (halogens)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Alkali metals (Li, Na, K) have one valence electron that they readily lose, making them the most reactive metals",
+      "Reactivity increases down the group",
+      "Group 17 (halogens)"
+    ],
+    "explanation": "The question asks which periodic table group holds the most reactive metals, and Group 1, the alkali metals, is the right choice because they possess a single valence electron they eagerly lose. Option A correctly identifies these elements like lithium and sodium as having that one loose electron driving their high reactivity. Option B is incorrect because while reactivity does increase down the group, it describes a trend rather than naming the specific group. Option C is wrong as it falsely claims none of the groups listed are the most reactive, ignoring the clear chemical evidence for Group 1.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 347,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "Electronegativity generally increases:\nA) From right to left across a period\nB) Electronegativity increases with nuclear charge and decreases with atomic size\nC) From left to right across a period and decreases down a group\nD) Fluorine is the most electronegative element",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Fluorine is the most electronegative element",
+      "Electronegativity increases with nuclear charge and decreases with atomic size",
+      "From right to left across a period"
+    ],
+    "explanation": "Electronegativity generally increases from left to right across a period and decreases down a group because atomic radius shrinks while nuclear pull strengthens. Fluorine is indeed the most electronegative element, but this statement does not describe the general trend. The claim about nuclear charge and atomic size is partially true yet lacks the specific directional context of periods and groups. Therefore, the first option correctly defines the periodic trend for electronegativity.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 348,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "Elements in the same column of the periodic table have similar properties because they:\nA) Valence electrons determine chemical behavior\nB) Have the same number of valence electrons\nC) Elements in the same group share the same valence electron configuration\nD) Have the same number of protons",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Valence electrons determine chemical behavior",
+      "Elements in the same group share the same valence electron configuration",
+      "Have the same number of protons"
+    ],
+    "explanation": "Elements in the same column share similar properties because they possess the same number of valence electrons, which governs their chemical reactivity. The option stating valence electrons determine behavior is true but vague, lacking the specific structural reason for column similarities. Choices claiming shared valence electron configurations or none of the above are incorrect because the fundamental cause is the identical count of outer electrons, not just the configuration itself.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 351,
+    "subject": "science",
+    "topic": "States of matter and phase changes",
+    "question_text": "What happens to the temperature of water during boiling?\nA) This is called the latent heat of vaporization\nB) It increases steadily\nC) During a phase change, added energy breaks intermolecular bonds rather than increasing temperature\nD) It remains constant until all water has vaporized",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "During a phase change, added energy breaks intermolecular bonds rather than increasing temperature",
+      "This is called the latent heat of vaporization",
+      "It increases steadily"
+    ],
+    "explanation": "The temperature of water remains constant during boiling because added energy breaks intermolecular bonds instead of raising temperature. This process is known as the latent heat of vaporization, where heat converts liquid to gas without changing thermal state. Wrong options claiming temperature rises or none of the above contradict this fundamental phase change principle.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 353,
+    "subject": "science",
+    "topic": "States of matter and phase changes",
+    "question_text": "Sublimation is the process where a substance changes directly from:\nA) Liquid to gas\nB) Sublimation skips the liquid phase (e.g., dry ice/CO\u2082)\nC) Solid to gas\nD) Deposition is the reverse \u2014 gas to solid",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Sublimation skips the liquid phase (e.g., dry ice/CO\u2082)",
+      "Deposition is the reverse \u2014 gas to solid",
+      "Liquid to gas"
+    ],
+    "explanation": "Sublimation is the direct phase change from solid to gas, skipping the liquid state entirely. Dry ice (CO\u2082) is a common example where solid turns directly into vapor without melting. Deposition is the reverse process, changing gas directly to solid, which is not sublimation. Since the question asks for the starting and ending phases of sublimation, the correct choice is solid to gas.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 355,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "How many milliliters are in 1 liter?\nA) So 1 L = 1000 mL\nB) Other common conversions: 1 m = 100 cm = 1000 mm\nC) 1,000 mL\nD) The metric prefix 'milli-' means \\(\\frac{1}{1000}\\)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The metric prefix 'milli-' means \\(\\frac{1}{1000}\\)",
+      "So 1 L = 1000 mL",
+      "Other common conversions: 1 m = 100 cm = 1000 mm"
+    ],
+    "explanation": "The question asks for the volume of 1 liter in milliliters. The correct answer is 1,000 mL because the prefix 'milli-' denotes one-thousandth, meaning 1,000 milliliters equal 1 liter. The wrong answer regarding 'milli-' is actually the reasoning for the correct value, not a separate conversion error. The option about meters and centimeters discusses length, not volume, making it irrelevant to this specific question about liters.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 356,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "Which metric prefix means 'one millionth'?\nA) Nano (n)\nB) Micro (\u03bc) = 10\u207b\u2076\nC) Micro (\u03bc)\nD) Other prefixes: milli (10\u207b\u00b3), centi (10\u207b\u00b2), kilo (10\u00b3), mega (10\u2076)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Micro (\u03bc) = 10\u207b\u2076",
+      "Other prefixes: milli (10\u207b\u00b3), centi (10\u207b\u00b2), kilo (10\u00b3), mega (10\u2076)",
+      "Nano (n)"
+    ],
+    "explanation": "The metric prefix 'micro' (\u03bc) represents one millionth, or 10\u207b\u2076, making it the correct choice for this question. While 'milli' equals one thousandth (10\u207b\u00b3) and 'centi' equals one hundredth (10\u207b\u00b2), neither matches the required value. Conversely, 'kilo' denotes one thousand (10\u00b3) and 'mega' signifies one million (10\u2076), which are whole numbers rather than fractions. Therefore, only 'micro' accurately describes the fraction one millionth among the listed options.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 358,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "What is the base unit of mass in the metric system?\nA) The gram is commonly used in chemistry and medicine but is a derived unit\nB) Kilogram\nC) The gram is the base SI unit for mass\nD) The gram is the SI unit for small masses",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The gram is the SI unit for small masses",
+      "The gram is commonly used in chemistry and medicine but is a derived unit",
+      "The gram is the base SI unit for mass"
+    ],
+    "explanation": "The kilogram is the base unit of mass in the metric system and the International System of Units (SI). While the gram is frequently used in chemistry and medicine, it is a derived unit, not a base unit. The option stating the kilogram is the SI base unit is factually accurate. None of the above is incorrect because the kilogram is indeed the correct answer. The confusion often arises from the gram's common usage, but the kilogram remains the fundamental standard for mass measurement globally.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 359,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "A patient's temperature is 38.5\u00b0C. What is this in Fahrenheit?\nA) 101.3\u00b0F\nB) 100.5\u00b0F\nC) \u00b0F = (\u00b0C \u00d7 \\(\\frac{9}{5}\\)) + 32 = (38.5 \u00d7 1.8) + 32 = 69.3 + 32 = 101.3\u00b0F\nD) Normal body temperature is 37\u00b0C (98.6\u00b0F)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\u00b0F = (\u00b0C \u00d7 \\(\\frac{9}{5}\\)) + 32 = (38.5 \u00d7 1.8) + 32 = 69.3 + 32 = 101.3\u00b0F",
+      "Normal body temperature is 37\u00b0C (98.6\u00b0F)",
+      "100.5\u00b0F"
+    ],
+    "explanation": "The question asks to convert 38.5\u00b0C to Fahrenheit using the formula F = (C \u00d7 \\(\\frac{9}{5}\\)) + 32. Multiplying 38.5 by 1.8 gives 69.3, and adding 32 results in exactly 101.3\u00b0F, which matches the correct option. The first wrong answer actually shows the correct calculation steps but presents them as a distractor rather than the final value. The second wrong answer states normal body temperature is 37\u00b0C (98.6\u00b0F), which is a true fact but irrelevant to converting the specific patient's 38.5\u00b0C reading. The final wrong option claims none of the above, which is false since the calculated value is listed. Therefore, only the option stating 101.3\u00b0F correctly answers the conversion request.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 363,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "What is a placebo?\nA) An active treatment given to the experimental group\nB) They help determine if results are due to the treatment itself or the participant's expectations\nC) n inactive treatment given to the control group\nD) Placebos look like the real treatment but have no active effect",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Placebos look like the real treatment but have no active effect",
+      "They help determine if results are due to the treatment itself or the participant's expectations",
+      "An active treatment given to the experimental group"
+    ],
+    "explanation": "A placebo is defined as an inactive substance or treatment administered to the control group in clinical trials to ensure valid results. While some options suggest placebos mimic real treatments or help determine participant expectations, these describe their function rather than their fundamental definition as inactive agents. The core concept remains that they lack therapeutic effect, distinguishing them from active interventions used to test efficacy.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 364,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "Which type of study observes subjects over a long period of time?\nA) Longitudinal study\nB) Cross-sectional study\nC) Longitudinal studies track the same subjects over extended periods\nD) Cross-sectional studies observe subjects at a single point in time",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Longitudinal studies track the same subjects over extended periods",
+      "Cross-sectional studies observe subjects at a single point in time",
+      "Cross-sectional study"
+    ],
+    "explanation": "The question asks which study observes subjects over a long period. A longitudinal study fits this because it tracks the same subjects over extended periods. In contrast, a cross-sectional study observes subjects at a single point in time, not over a long duration. Therefore, the option stating none of the above is incorrect since a valid type exists. The correct answer is the longitudinal study.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 366,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "In an experiment testing whether caffeine affects heart rate, the independent variable is:\nA) The dependent variable (heart rate) is what is measured\nB) The independent variable is the factor the experimenter deliberately changes\nC) The amount of caffeine given\nD) The amount of heart rate change",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The independent variable is the factor the experimenter deliberately changes",
+      "The dependent variable (heart rate) is what is measured",
+      "The amount of heart rate change"
+    ],
+    "explanation": "The correct answer is the amount of caffeine given because it is the factor the experimenter deliberately changes to test its effect. The independent variable is defined as the input the researcher controls, which matches the caffeine dosage in this experiment. Wrong answer A incorrectly describes the definition of an independent variable rather than identifying the specific variable. Wrong answer B confuses the dependent variable, which is the heart rate measured as the outcome. Wrong answer C is invalid because a clear independent variable exists in the study design.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 369,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "The dependent variable is the factor that is:\nA) It is the outcome that is measured to see the effect of the experimental...\nB) The dependent variable 'depends' on the independent variable\nC) Measured or observed in the experiment\nD) Manipulated or changed in the experiment",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The dependent variable 'depends' on the independent variable",
+      "It is the outcome that is measured to see the effect of the experimental treatment",
+      "Manipulated or changed in the experiment"
+    ],
+    "explanation": "The correct answer states the dependent variable is measured or observed, as it represents the outcome tracked to see the effect of the treatment. Wrong option A implies it merely 'depends' on the independent variable, which describes the relationship rather than the action of measurement. Wrong option B correctly identifies it as the outcome measured but is redundant with the core definition of being observed. Wrong option D is invalid since the first option accurately defines the variable. This question tests understanding of experimental variables in science.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 373,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "If a data set has a mean of 50 and a median of 50, the distribution is likely:\nA) Skewed (non-normal)\nB) When mean and median are equal, the data is typically symmetrically distributed\nC) A skewed distribution would cause mean and median to differ\nD) Symmetrical (normal)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "When mean and median are equal, the data is typically symmetrically distributed",
+      "A skewed distribution would cause mean and median to differ",
+      "Skewed (non-normal)"
+    ],
+    "explanation": "When the mean and median are equal, the data is typically symmetrically distributed. A skewed distribution would cause these measures to differ significantly. Therefore, the distribution is likely symmetrical or normal. Options suggesting skewness or \"none of the above\" are incorrect because they contradict the fundamental relationship between equal means and medians in symmetric data sets.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 376,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "The range of a data set is:\nA) It measures the spread of data but is sensitive to outliers\nB) The difference between the highest and lowest values\nC) The sum of the highest and lowest values\nD) Range = maximum value \u2212 minimum value",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Range = maximum value \u2212 minimum value",
+      "It measures the spread of data but is sensitive to outliers",
+      "The sum of the highest and lowest values"
+    ],
+    "explanation": "The range is defined as the difference between the highest and lowest values in a data set, which directly matches the correct answer. This calculation quantifies the total spread of the data, making it a fundamental measure of variability. The other options are incorrect because they either describe the same concept redundantly or fail to provide a specific definition. None of the above is wrong because a valid definition exists within the choices.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 378,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A study finds that ice cream sales and drowning rates increase together. The most accurate conclusion is:\nA) causation\nB) Hot weather increases both ice cream sales and swimming, leading to more drowning\nC) This is a classic example of correlation vs\nD) oth are correlated with a third variable (hot weather)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "This is a classic example of correlation vs",
+      "causation",
+      "Hot weather increases both ice cream sales and swimming, leading to more drowning"
+    ],
+    "explanation": "The study shows ice cream sales and drowning rise together, but this is correlation, not causation. The real driver is hot weather, which increases both activities. Option A correctly identifies this third variable as the cause. Option B wrongly claims correlation equals causation. Option C incorrectly states hot weather directly causes drowning.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 379,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "Which statement best describes the difference between correlation and causation?\nA) Causation means two variables are related; correlation means one directly causes the other\nB) Correlation does not imply causation\nC) Two variables can be related without one causing the other (confounding variables may be involved)\nD) orrelation means two variables are related; causation means one directly causes the other",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Correlation does not imply causation",
+      "Two variables can be related without one causing the other (confounding variables may be involved)",
+      "Causation means two variables are related; correlation means one directly causes the other"
+    ],
+    "explanation": "The question asks to distinguish correlation from causation. Correlation simply indicates that two variables are related or move together, whereas causation means one variable directly causes the other. Option A correctly states this fundamental difference. Option B is wrong because it repeats the concept without defining causation. Option C is incorrect as it describes correlation without mentioning direct causation. Option D is invalid since A provides the accurate definition.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 380,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A hypothesis that has been extensively tested and supported by evidence becomes a:\nA) Scientific law\nB) Scientific theory\nC) It is NOT a guess or hypothesis\nD) A scientific theory is a well-substantiated explanation supported by extensive evidence (e.g., theory of evolution)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A scientific theory is a well-substantiated explanation supported by extensive evidence (e.g., theory of evolution)",
+      "It is NOT a guess or hypothesis",
+      "Scientific law"
+    ],
+    "explanation": "A hypothesis that has been extensively tested and supported by evidence becomes a scientific theory. A scientific theory is a well-substantiated explanation supported by extensive evidence, such as the theory of evolution. It is NOT a guess or hypothesis, nor is it \"None of the above.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 381,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "Which of the following is the strongest conclusion from a single experiment?\nA) The data supports the hypothesis, but further testing is needed\nB) Strong conclusions require replication, peer review, and consistent results across multiple studies\nC) The data disproves the hypothesis, so no further testing is needed\nD) No single experiment definitively proves anything",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "No single experiment definitively proves anything",
+      "Strong conclusions require replication, peer review, and consistent results across multiple studies",
+      "The data disproves the hypothesis, so no further testing is needed"
+    ],
+    "explanation": "The data supports the hypothesis, but further testing is needed. A single experiment cannot definitively prove a conclusion; it only provides initial evidence. Strong conclusions require replication and consistent results across multiple studies. No single experiment definitively proves anything, as one study may have errors. Strong conclusions require replication, peer review, and consistent results. None of the above is incorrect because the first option is valid.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 382,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "An experiment yields results opposite to the hypothesis. The researcher should:\nA) ccept the results and consider revising the hypothesis\nB) Science progresses by testing and potentially falsifying hypotheses\nC) Unexpected results are valuable data that may lead to new understanding\nD) Reject the results and ignore the data",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Science progresses by testing and potentially falsifying hypotheses",
+      "Unexpected results are valuable data that may lead to new understanding",
+      "Reject the results and ignore the data"
+    ],
+    "explanation": "The researcher must accept the results and consider revising the hypothesis because unexpected data often reveals flaws in initial assumptions. While science progresses by testing and potentially falsifying hypotheses, this option describes the general process rather than the specific immediate action required. Similarly, unexpected results are valuable data, yet simply acknowledging their value does not mandate the necessary step of hypothesis revision. Therefore, the other choices fail to address the direct need to adjust the experimental framework based on contradictory evidence.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 383,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "Which statement describes a scientific law?\nA) A guess about a consistent natural phenomenon (e.g., gravity might not pull objects down)\nB) Laws don't explain mechanisms \u2014 theories do\nC) description of a consistent natural phenomenon (e.g., gravity always pulls objects down)\nD) Laws describe WHAT happens (observable patterns), while theories explain WHY it happens",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Laws describe WHAT happens (observable patterns), while theories explain WHY it happens",
+      "Laws don't explain mechanisms \u2014 theories do",
+      "A guess about a consistent natural phenomenon (e.g., gravity might not pull objects down)"
+    ],
+    "explanation": "A scientific law describes a consistent natural phenomenon, such as gravity always pulling objects down. Option A is correct because it accurately defines this observable pattern without explaining the underlying cause. Option B is wrong because it confuses laws with theories, which explain why phenomena occur. Option C is incorrect as it falsely claims laws explain mechanisms, which is the role of theories. Finally, Option D is invalid since Option A provides the right definition.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 940,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse is auscultating a patient's heart. Which valve is located between the left atrium and left ventricle?\nA) Tricuspid valve\nB) Mitral valve\nC) Pulmonary valve\nD) Aortic valve",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Tricuspid valve",
+      "C) Pulmonary valve",
+      "D) Aortic valve"
+    ],
+    "explanation": "The question asks which valve sits between the left atrium and left ventricle. Option B, the Mitral valve, is correct because it is the specific valve connecting these two chambers. Option A, the Tricuspid valve, is incorrect as it connects the right atrium and right ventricle. Option C, the Pulmonary valve, is wrong because it lies between the right ventricle and pulmonary artery. Option D, the Aortic valve, is incorrect since it connects the left ventricle to the aorta.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 941,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse teaching a COPD patient explains where oxygen diffuses into the blood. This occurs primarily in the:\nA) Bronchi\nB) Alveoli\nC) Trachea\nD) Larynx",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Bronchi",
+      "C) Trachea",
+      "D) Larynx"
+    ],
+    "explanation": "Oxygen diffuses into the blood primarily in the alveoli, which are tiny air sacs where gas exchange occurs. The bronchi, trachea, and larynx are larger airways that conduct air but do not allow diffusion. Therefore, option B is correct because it is the only site listed with thin walls for oxygen transfer. Options A, C, and D are incorrect as they function solely to move air without facilitating gas exchange.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 942,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse caring for a patient with a fracture explains where blood cells are made in adults. Hematopoiesis occurs in the:\nA) Medullary cavity\nB) Articular cartilage\nC) Periosteum\nD) Red bone marrow",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Medullary cavity",
+      "B) Articular cartilage",
+      "C) Periosteum"
+    ],
+    "explanation": "Hematopoiesis in adults occurs in red bone marrow, which is the primary site for blood cell production. The medullary cavity contains yellow marrow for fat storage, articular cartilage covers joint surfaces, and the periosteum is a connective tissue membrane. Therefore, option D is correct while A, B, and C are incorrect because they do not perform hematopoiesis.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 943,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse is teaching about nutrient absorption in the small intestine. Which structures greatly increase surface area?\nA) Taeniae coli\nB) Rugae\nC) Peyer's patches\nD) Villi and microvilli",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Taeniae coli",
+      "B) Rugae",
+      "C) Peyer's patches"
+    ],
+    "explanation": "The structures that greatly increase surface area for nutrient absorption are the villi and microvilli, making option D correct. Options A, B, and C are incorrect because taeniae coli are muscular bands in the large intestine, rugae are folds in the stomach, and Peyer's patches are immune tissue in the small intestine that do not primarily function to increase surface area for absorption.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 944,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse assessing a deep burn notes involvement below the dermis. The deepest related layer is the:\nA) Hypodermis (subcutaneous)\nB) Dermis\nC) Stratum corneum\nD) Epidermis",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Dermis",
+      "C) Stratum corneum",
+      "D) Epidermis"
+    ],
+    "explanation": "The deepest layer below the dermis is the hypodermis, also called subcutaneous tissue, which matches option A. The dermis (B) and epidermis (C) are above the dermis, while the stratum corneum is the outermost epidermal layer. Option D is incorrect because the epidermis sits directly on the dermis, not below it. Thus, only the hypodermis fits the description of being the deepest related layer.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 945,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse monitoring a dialysis patient reviews filtration. Blood filtration in the nephron occurs at the:\nA) Glomerulus\nB) Collecting duct\nC) Distal convoluted tubule\nD) Loop of Henle",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Collecting duct",
+      "C) Distal convoluted tubule",
+      "D) Loop of Henle"
+    ],
+    "explanation": "The question asks where blood filtration begins in the nephron. Option A, the Glomerulus, is correct because it is the specific capillary network where blood pressure forces fluid and solutes out of the blood into the Bowman's capsule. Options B, C, and D are incorrect because the Collecting duct, Distal convoluted tubule, and Loop of Henle are all involved in reabsorbing water and salts or secreting substances after the initial filtration has already occurred at the Glomerulus.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 946,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse explaining stroke tells a family which neuron part carries impulses away from the cell body.\nA) Dendrite\nB) Axon\nC) Synapse\nD) Myelin sheath",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Dendrite",
+      "C) Synapse",
+      "D) Myelin sheath"
+    ],
+    "explanation": "The question asks which neuron part carries impulses away from the cell body. The axon is the correct answer because it is the long fiber responsible for transmitting electrical signals away from the soma to other neurons. In contrast, the dendrite receives signals rather than sending them away, making option A incorrect. The synapse is the gap between neurons where transmission occurs, not a part of a single neuron, so C is wrong. Finally, the myelin sheath insulates the axon to speed up transmission but does not carry the impulse itself, ruling out D.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 947,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse performing CPR knows the heart is located in which body cavity?\nA) Abdominal cavity\nB) Thoracic cavity\nC) Pelvic cavity\nD) Cranial cavity",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Abdominal cavity",
+      "C) Pelvic cavity",
+      "D) Cranial cavity"
+    ],
+    "explanation": "The heart resides in the thoracic cavity, which protects vital organs like the lungs and heart within the chest. Option A is incorrect because the abdominal cavity contains digestive organs such as the stomach and intestines, not the heart. Option C is wrong as the pelvic cavity holds reproductive organs and the bladder, far below the heart's position. Option D is inaccurate since the cranial cavity houses the brain inside the skull, separate from the thoracic region.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 948,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse teaching diabetes explains which endocrine gland produces insulin and glucagon.\nA) Adrenal cortex\nB) Pancreas\nC) Anterior pituitary\nD) Thyroid",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Adrenal cortex",
+      "C) Anterior pituitary",
+      "D) Thyroid"
+    ],
+    "explanation": "The pancreas is the specific endocrine gland responsible for secreting both insulin and glucagon to regulate blood glucose levels. Option B correctly identifies this organ, whereas the adrenal cortex primarily produces cortisol and aldosterone. The anterior pituitary releases growth hormone and thyroid-stimulating hormone, not insulin. Finally, the thyroid gland secretes thyroxine and calcitonin, which control metabolism and calcium, respectively. Thus, only the pancreas fits the description of producing both key diabetes-related hormones.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 949,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse assessing tetany recalls calcium's role in skeletal muscle contraction. Calcium:\nA) Binds directly to myosin\nB) Exposes binding sites on actin by binding troponin\nC) Breaks down ATP\nD) Produces acetylcholine",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Binds directly to myosin",
+      "C) Breaks down ATP",
+      "D) Produces acetylcholine"
+    ],
+    "explanation": "In this science question about calcium's role in muscle contraction, option B is correct because calcium binds to troponin, which moves tropomyosin to expose actin's binding sites. Option A is wrong since calcium does not bind directly to myosin. Option C is incorrect because calcium does not break down ATP; that is myosin's function. Option D is false because calcium does not produce acetylcholine. This mechanism allows skeletal muscle contraction to occur.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 950,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse administering a vaccine explains which immune cells produce antibodies.\nA) T cytotoxic cells\nB) Macrophages\nC) Natural killer cells\nD) Plasma cells (differentiated B cells)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) T cytotoxic cells",
+      "B) Macrophages",
+      "C) Natural killer cells"
+    ],
+    "explanation": "The question asks which cells produce antibodies during vaccination. Option D is correct because plasma cells are differentiated B cells specifically responsible for secreting antibodies to neutralize pathogens. Options A, B, and C are incorrect; T cytotoxic cells kill infected cells, macrophages engulf debris, and natural killer cells target tumors, but none generate antibodies. Thus, only plasma cells fulfill the function described in the scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 951,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse preparing for emergency transfusion recalls the universal plasma donor blood type.\nA) Type AB\nB) Type O negative\nC) Type A\nD) Type B",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Type O negative",
+      "C) Type A",
+      "D) Type B"
+    ],
+    "explanation": "The universal plasma donor is Type AB because AB plasma lacks anti-A and anti-B antibodies, making it safe for all recipients. Option B is wrong as Type O negative is the universal red cell donor, not plasma. Option C and D are incorrect because Type A and B plasmas contain antibodies that would react with incompatible blood types. This distinction ensures safe transfusion practices during emergencies.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

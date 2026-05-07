@@ -1,0 +1,80 @@
+[
+  {"id": 1466, "verdict": "PASS"},
+  {"id": 1467, "verdict": "PASS"},
+  {"id": 1468, "verdict": "PASS"},
+  {"id": 1469, "verdict": "PASS"},
+  {"id": 1470, "verdict": "PASS"},
+  {"id": 1471, "verdict": "PASS"},
+  {"id": 1472, "verdict": "PASS"},
+  {"id": 1473, "verdict": "PASS"},
+  {"id": 1474, "verdict": "PASS"},
+  {"id": 1475, "verdict": "PASS"},
+  {"id": 1476, "verdict": "PASS"},
+  {"id": 1477, "verdict": "PASS"},
+  {"id": 1478, "verdict": "PASS"},
+  {"id": 1479, "verdict": "PASS"},
+  {"id": 1480, "verdict": "PASS"},
+  {"id": 1481, "verdict": "PASS"},
+  {"id": 1482, "verdict": "PASS"},
+  {"id": 1483, "verdict": "PASS"},
+  {"id": 1484, "verdict": "PASS"},
+  {"id": 1485, "verdict": "PASS"},
+  {"id": 1486, "verdict": "PASS"},
+  {"id": 1487, "verdict": "PASS"},
+  {"id": 1488, "verdict": "PASS"},
+  {"id": 1489, "verdict": "PASS"},
+  {"id": 1490, "verdict": "PASS"},
+  {"id": 1491, "verdict": "PASS"},
+  {"id": 1492, "verdict": "PASS"},
+  {
+    "id": 1493,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty mismatch - marked 'hard' but the answer is directly stated in the passage ('calmly,' 'remain composed'). Identifying the teacher's demeanor requires simple recall, not complex reasoning."]
+  },
+  {"id": 1494, "verdict": "PASS"},
+  {"id": 1495, "verdict": "PASS"},
+  {
+    "id": 1496,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty mismatch - marked 'hard' but the passage explicitly states 'organs would be deprived of oxygen and nutrients, leading to organ failure,' which is the exact correct answer. This is simple recall, not complex reasoning."]
+  },
+  {"id": 1497, "verdict": "PASS"},
+  {"id": 1498, "verdict": "PASS"},
+  {"id": 1499, "verdict": "PASS"},
+  {
+    "id": 1500,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty mismatch - marked 'hard' but the passage uses explicit sequential transition words ('first,' 'next,' 'after,' 'finally') making the sequential organization immediately obvious. This is single-step pattern recognition."]
+  },
+  {"id": 1501, "verdict": "PASS"},
+  {"id": 1502, "verdict": "PASS"},
+  {
+    "id": 1503,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty mismatch - marked 'hard' but the passage uses obvious technical vocabulary ('regression models,' 'self-reported surveys') and explicitly states findings were presented 'without editorial commentary,' making the formal objective style unmistakable."]
+  },
+  {"id": 1504, "verdict": "PASS"},
+  {
+    "id": 1505,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty mismatch - marked 'hard' but the passage directly lists the tasks social workers perform (connecting families with housing, advocating for children in court, coordinating with healthcare providers). The correct answer is simple detail identification from a directly stated list."]
+  },
+  {"id": 1506, "verdict": "PASS"},
+  {"id": 1507, "verdict": "PASS"},
+  {"id": 1508, "verdict": "PASS"},
+  {"id": 1509, "verdict": "PASS"},
+  {
+    "id": 1510,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty mismatch - marked 'hard' but the passage presents data in a purely factual, emotion-free manner with no persuasive language, making the formal objective tone obvious from a single reading."]
+  },
+  {"id": 1511, "verdict": "PASS"},
+  {
+    "id": 1512,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Difficulty mismatch - marked 'hard' but the passage ends with an explicit call to action ('Making these changes today can add years to your life'), making the persuasive purpose immediately clear. This is single-step identification."]
+  },
+  {"id": 1513, "verdict": "PASS"},
+  {"id": 1514, "verdict": "PASS"},
+  {"id": 1515, "verdict": "PASS"}
+]

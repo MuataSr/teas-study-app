@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1973,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage for a direct quotation.\n\nA. The nurse said, \"The patient's vital signs are stable.\"\nB. The nurse said \"The patient's vital signs are stable.\"\nC. \"The patient's vital signs are stable\" the nurse said.\nD. The nurse, said, \"The patient's vital signs are stable.\"",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "When introducing a direct quotation with a dialogue tag (like \"said\"), a comma should separate the tag from the quotation. Option A correctly places a comma after \"said\" and before the opening quotation mark. Option B omits the necessary comma. Option C needs a comma after the closing quotation mark before the dialogue tag (and could use a comma before the closing quote). Option D incorrectly places commas around the verb \"said.\"",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1974,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Choose the best revision of this passive sentence in active voice.\n\nOriginal: The medication was prescribed by the physician after the diagnosis was confirmed.\n\nA. The physician prescribed the medication after confirming the diagnosis.\nB. The medication was prescribed after the diagnosis confirmed.\nC. The physician prescribed by the medication after the diagnosis was confirmed.\nD. Prescribing the medication was done by the physician.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "To convert to active voice, identify the doer of each action and make them the subject. The physician prescribed (not was prescribed by), and the physician confirmed (not was confirmed). Option A correctly makes the physician the active subject of both actions, using the more concise \"after confirming\" instead of the wordy passive clause. Option B keeps the first clause passive. Option C inverts the logical relationship. Option D remains passive.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1975,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct word.\n\nThe patient's condition continued to ____ over the next several hours.\n\nA. deteriorate\nB. deteriate\nC. deteriate\nD. detereorate",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Deteriorate\" means to become progressively worse. It is commonly misspelled. Option A provides the correct spelling: d-e-t-e-r-i-o-r-a-t-e. Options B, C, and D all contain common spelling errors including missing the second 'r,' transposing letters, or adding extra vowels. Remembering the root helps: it comes from Latin \"deterior\" (worse) plus \"-ate\" suffix.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1976,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Select the sentence that correctly places the modifier.\n\nA. The patient who was wearing a blue gown was examined by the doctor.\nB. The patient was examined by the doctor who was wearing a blue gown.\nC. Wearing a blue gown, the doctor examined the patient.\nD. The patient examined the doctor wearing a blue gown.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Modifiers should be placed as close as possible to what they modify. The intended meaning is that the patient is wearing the blue gown. Option A correctly places the relative clause \"who was wearing a blue gown\" immediately after \"patient,\" clearly modifying the patient. Option B places the clause after \"doctor,\" ambiguously suggesting the doctor wore the gown. Option C suggests the doctor was wearing the gown due to the introductory modifier placement. Option D nonsensically has the patient examining the doctor.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1977,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Identify the sentence fragment.\n\nA. After the surgery was completed.\nB. The surgery was completed successfully.\nC. The patient recovered quickly after the surgery.\nD. Although the surgery was complex, it was completed successfully.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "A sentence fragment is a group of words that looks like a sentence but lacks an independent clause \u2014 it cannot stand alone as a complete thought. Option A is a dependent clause (starts with the subordinating conjunction \"After\") with no independent clause, making it a fragment. Option B is a complete sentence (one independent clause). Option C is a complete sentence with a dependent clause. Option D is a complete sentence with a dependent clause followed by an independent clause.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1978,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Choose the sentence that would logically follow this topic sentence:\n\"Photosynthesis is the process by which plants convert sunlight into chemical energy.\"\n\nA. Animals also need energy to survive.\nB. During this process, chlorophyll in the plant's leaves absorbs sunlight and combines it with water and carbon dioxide to produce glucose and oxygen.\nC. Photosynthesis was discovered in the 18th century.\nD. There are many types of plants in the world.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A supporting sentence should directly elaborate on the topic sentence by providing more specific information about the stated topic. The topic sentence introduces photosynthesis as a process of converting sunlight to chemical energy. Option B directly elaborates by explaining how the process works (chlorophyll, water, carbon dioxide \u2192 glucose and oxygen). Option A shifts to a different topic (animals). Option C provides historical information that doesn't directly explain the process. Option D is too general and unrelated to the process.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1979,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Choose the best transition for this sentence:\n\nThe first study found no significant results; ____, the second study with a larger sample size confirmed the hypothesis.\n\nA. however\nB. therefore\nC. similarly\nD. for example",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence contrasts two different outcomes from two studies \u2014 the first found no results while the second confirmed the hypothesis. This contrast relationship is best signaled by \"however.\" Option A correctly uses \"however\" to show the unexpected difference between the two studies' findings. \"Therefore\" (B) shows cause and effect, which doesn't fit. \"Similarly\" (C) would show comparison, but the results are different, not similar. \"For example\" (D) introduces an illustration, not a contrast.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1980,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence demonstrates correct subject-verb agreement with a collective noun?\n\nA. The flock of birds are migrating south for the winter.\nB. The flock of birds is migrating south for the winter.\nC. The data has been collected and analyzed.\nD. The number of students have increased this year.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "In American English, collective nouns (flock, team, group) typically take singular verbs when the group acts as a unit. \"Flock\" is the subject and takes the singular verb \"is.\" Option B is correct. Option A uses the plural verb \"are.\" For option C, \"data\" is technically plural (plural of datum) and should take \"have,\" though \"has\" is increasingly accepted. For option D, \"the number of\" is treated as singular, so it should be \"has increased,\" not \"have increased.\"",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1981,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the sentence with correct pronoun usage.\n\nA. One should always try to do their best.\nB. One should always try to do one's best.\nC. One should always try to do his or her best.\nD. You should always try to do one's best.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "When the indefinite pronoun \"one\" is used as a subject, the corresponding pronoun should also be \"one\" or \"one's\" for consistency. Option B correctly maintains consistency by using \"one's\" to refer back to \"one.\" Option A uses \"their\" which doesn't match the formal \"one\" construction (though common in informal speech). Option C uses \"his or her\" which is grammatically correct but changes the formal tone established by \"one.\" Option D shifts to \"you\" mid-sentence, creating inconsistency.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1982,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with the correct verb tense.\n\nA. By this time next year, she will have graduated from nursing school.\nB. By this time next year, she will graduate from nursing school.\nC. By this time next year, she will be graduating from nursing school.\nD. By this time next year, she graduates from nursing school.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The phrase \"by this time next year\" indicates an action that will be completed before a specific future time, requiring the future perfect tense (will have + past participle). Option A correctly uses \"will have graduated.\" Option B uses simple future, which doesn't convey completion before the deadline. Option C uses future progressive, which emphasizes the ongoing nature rather than completion. Option D uses simple present, which is incorrect for a future time reference.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1983,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Which sentence correctly uses commas with a series?\n\nA. The lab requires beakers test tubes, and petri dishes.\nB. The lab requires beakers, test tubes and, petri dishes.\nC. The lab requires beakers, test tubes, and petri dishes.\nD. The lab requires beakers, test tubes and petri dishes.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "In a series of three or more items, standard American English usage places a comma before the conjunction (known as the Oxford or serial comma). Option C correctly includes the serial comma before \"and petri dishes.\" Option A omits the comma between the first two items. Option B incorrectly places the comma after \"and\" instead of before it. Option D omits the Oxford comma, which can create ambiguity in some sentences.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1984,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Choose the best version for clarity and directness.\n\nA. The vaccine was developed by researchers at the university and was approved by the FDA.\nB. Researchers at the university developed the vaccine, and the FDA approved it.\nC. The vaccine development was done by researchers and the approval was done by the FDA.\nD. Development and approval of the vaccine were done by researchers and the FDA.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Active voice is generally preferred for clarity, directness, and conciseness. Option B converts both clauses to active voice, making \"researchers\" and \"the FDA\" the subjects performing clear actions. Option A uses passive voice twice, making the sentence longer and less direct. Option C and D are even more wordy and indirect, using \"was done by\" and \"were done by\" constructions that add unnecessary words. Active voice tells the reader directly who did what.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1985,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct word for each blank.\n\nThe patient's symptoms ____ to the physician that a more ____ examination was needed.\n\nA. alluded / thorough\nB. eluded / thorough\nC. alluded / through\nD. eluded / through",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Elude\" means to escape or evade understanding \u2014 the symptoms escaped easy identification. \"Allude\" means to make an indirect reference, which doesn't fit this context. \"Thorough\" means complete and detailed, fitting the need for a careful examination. \"Through\" is a preposition meaning from one side to another. Option B correctly uses \"eluded\" (symptoms escaped easy interpretation) and \"thorough\" (detailed examination).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1986,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Select the sentence most appropriate for formal writing.\n\nA. The study's findings basically show that people need to sleep more.\nB. The study's findings indicate that individuals require adequate sleep.\nC. The study basically found that people gotta get more sleep.\nD. The findings of the study kind of show that people need more sleep.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Formal writing avoids vague qualifiers (\"basically,\" \"kind of\"), colloquial language (\"gotta\"), and imprecise vocabulary (\"people need to sleep more\"). Option B uses precise, professional language: \"indicate\" instead of \"show,\" \"individuals\" instead of \"people,\" and \"require adequate sleep\" instead of \"need to sleep more.\" Options A, C, and D all contain informal elements unsuitable for academic or professional writing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1987,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Which sentence demonstrates correct parallel structure?\n\nA. To succeed in nursing school requires dedication, studying hard, and you must manage your time well.\nB. To succeed in nursing school requires dedication, diligent study, and effective time management.\nC. To succeed in nursing school requires that you are dedicated, study hard, and manage time.\nD. To succeed in nursing school requires dedication, studying hard, and to manage your time well.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Parallel structure in a list requires all items to share the same grammatical form. Option B correctly uses three noun phrases: \"dedication\" (noun), \"diligent study\" (adjective + noun), and \"effective time management\" (adjective + noun phrase). Option A mixes a noun with a gerund phrase and a full clause. Option C mixes three different verb forms within a \"that\" clause structure. Option D mixes a noun, a gerund phrase, and an infinitive phrase.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1988,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Choose the sentence with correct apostrophe usage.\n\nA. The company's profits increased over it's first year.\nB. The company's profits increased over its first year.\nC. The companies profits increased over its first year.\nD. The company's profits increased over its' first year.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Company's\" uses an apostrophe correctly to show singular possession (the profits of the company). \"Its\" without an apostrophe is the possessive pronoun meaning \"belonging to it.\" \"It's\" with an apostrophe is a contraction of \"it is.\" Option B correctly uses both forms. Option A incorrectly uses \"it's\" (contraction) where the possessive pronoun \"its\" is needed. Option C omits the possessive apostrophe on \"companies.\" Option D incorrectly adds an apostrophe to \"its'\" which is never correct.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1989,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Which sentence correctly uses a colon?\n\nA. Please bring the following items: a pen, notebook, and calculator.\nB. Please bring: a pen, notebook, and calculator.\nC. The items you need are: a pen, notebook, and calculator.\nD. Please bring a pen, notebook, and calculator: to class tomorrow.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A colon should follow an independent clause (a complete thought) to introduce a list, explanation, or quotation. Option A correctly places the colon after the complete independent clause \"Please bring the following items.\" The clause before the colon can stand alone as a complete sentence. Option B places the colon after \"bring\" which is not a complete clause. Option C places the colon after the verb \"are\" which is also not a complete clause. Option D places the colon after the list, which is incorrect.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1990,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the sentence with correct subject-verb agreement.\n\nA. The list of ingredients are on the counter.\nB. The list of ingredients is on the counter.\nC. The list of ingredients have been on the counter.\nD. The list of ingredients were on the counter.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The subject of the sentence is \"list,\" which is singular. The prepositional phrase \"of ingredients\" does not change the subject. Option B correctly uses the singular verb \"is\" to agree with the singular subject \"list.\" Options A, C, and D incorrectly use plural verbs (\"are,\" \"have,\" \"were\") that disagree with the singular subject.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1991,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the sentence with the correct pronoun.\n\nA. The award was given to John and she.\nB. The award was given to John and her.\nC. The award was given to she and John.\nD. The award was given to her and John.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "After a preposition like \"to,\" pronouns must be in the objective case. \"Her\" is the objective form of \"she.\" Both options B and D use \"her\" correctly, but B follows the conventional courtesy of placing the other person's name before your own pronoun (\"John and her\" rather than \"her and John\"). Option A incorrectly uses the subject pronoun \"she\" after a preposition. Option C also uses the subject pronoun and reverses the conventional order.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1992,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with the correct verb tense.\n\nA. She writes a letter to her grandmother every Sunday.\nB. She write a letter to her grandmother every Sunday.\nC. She written a letter to her grandmother every Sunday.\nD. She writing a letter to her grandmother every Sunday.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The simple present tense is used for habitual or regular actions, indicated by time expressions like \"every Sunday.\" For a third-person singular subject (\"She\"), the verb takes an \"-s\" or \"-es\" ending. Option A correctly uses \"writes\" with the -s ending for the third-person singular subject. Option B uses the base form without the required -s. Option C uses the past participle \"written.\" Option D uses the present participle \"writing\" without a helping verb.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1993,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage.\n\nA. I need to buy apples bananas and oranges.\nB. I need to buy apples, bananas, and oranges.\nC. I need to buy apples, bananas and oranges.\nD. I need to buy, apples, bananas, and oranges.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Standard American English uses the Oxford comma (serial comma) before the conjunction in a list of three or more items. Option B correctly places commas between all items in the list, including before \"and.\" Option A has no commas at all. Option C omits the Oxford comma, which can create ambiguity. Option D incorrectly places a comma after \"buy\" before the first item.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1994,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Identify the sentence written in active voice.\n\nA. The test was administered by the instructor.\nB. The instructor administered the test.\nC. The test has been administered.\nD. The results were reviewed by the committee.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Active voice means the subject performs the action. Option B has the subject \"instructor\" performing the action \"administered\" on the object \"test.\" Options A and D are passive because the subjects (\"test,\" \"results\") receive the action. Option C is also passive with no identified actor.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1995,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct word.\n\nThe teacher asked the students to ____ their attention to the front of the room.\n\nA. pay\nB. paid\nC. pade\nD. paied",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The phrase \"pay attention\" is a standard English expression. In this sentence, we need the base form of the verb after \"to\" (infinitive form). Option A correctly uses \"pay\" as the base form. Option B uses the past tense \"paid,\" which is incorrect after \"to.\" Options C and D are misspellings of the past tense.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1996,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Choose the sentence without a misplaced modifier.\n\nA. The dog chased the ball across the yard with the spotted tail.\nB. The dog with the spotted tail chased the ball across the yard.\nC. With the spotted tail, the ball was chased by the dog across the yard.\nD. Chasing the ball, the spotted tail wagged across the yard.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A modifier should be placed next to the word it describes. \"With the spotted tail\" describes the dog, so it should be next to \"dog.\" Option B correctly places the modifying phrase immediately after \"dog.\" Option A ambiguously places the modifier after \"yard,\" making it seem like the yard has a spotted tail. Option C suggests the ball has a spotted tail. Option D suggests the tail was doing the chasing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1997,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Choose the sentence with correct parallel structure.\n\nA. She enjoys cooking, reading, and to swim.\nB. She enjoys cooking, reading, and swimming.\nC. She enjoys to cook, reading, and swimming.\nD. She enjoys cook, reading, and swim.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Items in a series must be in the same grammatical form. Option B correctly uses three gerunds (-ing forms): \"cooking, reading, and swimming.\" Option A mixes gerunds with an infinitive (\"to swim\"). Option C mixes an infinitive with gerunds. Option D uses a mix of base forms and gerunds.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1998,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Choose the clearest revision of this sentence:\n\"The reason why she was late was because of the fact that there was traffic.\"\n\nA. She was late because there was traffic.\nB. The reason for her lateness was due to traffic.\nC. Due to traffic being the reason, she was late.\nD. Her lateness was caused by the reason of traffic.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Concise writing eliminates redundancy and wordiness. The original sentence uses multiple redundant phrases: \"reason why,\" \"was because of the fact that,\" and \"there was.\" Option A reduces all of this to a simple, clear cause-and-effect statement using \"because.\" Option B is wordy with \"reason for her lateness was due to.\" Option C is awkwardly constructed. Option D uses nonsensical phrasing (\"reason of traffic\"). The simplest version is the clearest.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1999,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Read the sentence and determine the meaning of \"profound.\"\n\nThe scientist's discovery had a profound impact on the field of medicine.\n\nA. Superficial or minor\nB. Very great or significant\nC. Temporary\nD. Confusing",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Context clues in the sentence suggest a major, lasting effect on the entire field of medicine. \"Profound\" means very great, significant, or far-reaching. Option B correctly identifies this meaning. Option A (superficial) is the opposite of profound. Option C (temporary) contradicts the magnitude implied by impacting an entire field. Option D (confusing) is unrelated to the meaning of profound.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2000,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Select the best topic sentence for a paragraph about the importance of hand hygiene in healthcare.\n\nA. Hand washing is something everyone should do.\nB. Proper hand hygiene is the single most effective measure for preventing healthcare-associated infections.\nC. Many hospitals have sinks in patient rooms.\nD. Doctors and nurses wash their hands frequently.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A strong topic sentence states the main idea clearly and specifically. Option B is strong because it makes a specific, arguable claim (\"single most effective measure\") and sets up supporting details about infection prevention. Option A is too vague and general. Option C is a factual detail that would support a topic sentence rather than serve as one. Option D is a statement of fact that doesn't convey the importance or significance of the practice.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2001,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which evidence best supports the claim that reading improves cognitive function?\n\nA. Reading is a popular hobby.\nB. A 2013 study published in Neurology found that adults who engaged in mentally stimulating activities like reading showed a 32% slower rate of cognitive decline.\nC. Many schools require students to read books.\nD. Libraries have many books available.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Strong evidence is specific, from a credible source, and directly addresses the claim. Option B provides a specific statistic (32% slower decline), names a credible source (Neurology journal, 2013), and directly connects reading to cognitive function. Option A is a general statement about popularity. Option C is about school requirements, not cognitive benefits. Option D is about library resources, not cognitive effects.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2002,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Choose the sentence that would best conclude this paragraph:\n\"Vaccination is one of the most effective public health interventions in history. Smallpox was eradicated through global vaccination efforts, and polio cases have been reduced by over 99% since 1988.\"\n\nA. However, some people do not like needles.\nB. These successes demonstrate that widespread immunization programs can eliminate devastating diseases and protect global populations.\nC. Vaccines contain various ingredients.\nD. The first vaccine was developed in 1796.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A concluding sentence should summarize the paragraph's main idea and provide closure. The paragraph presents evidence of vaccination success (smallpox eradication, polio reduction). Option B effectively synthesizes these examples into a broader conclusion about the power of immunization programs. Option A introduces a new, unrelated point. Option C introduces new information about ingredients. Option D provides historical trivia that doesn't conclude the paragraph.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2003,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the sentence with correct pronoun usage.\n\nA. Me and my brother went to the store.\nB. My brother and me went to the store.\nC. My brother and I went to the store.\nD. I and my brother went to the store.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Compound subjects require subject pronouns. \"I\" is the subject pronoun; \"me\" is the object pronoun. When \"my brother and I\" form a compound subject, both should be in the subjective case. Option C correctly uses \"My brother and I\" as the compound subject. Options A and B incorrectly use the object pronoun \"me\" in subject position. Option D is technically grammatical but breaks the convention of placing the other person first.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 2004,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Select the sentence with the correct verb tense.\n\nA. The scientist writes her paper before the conference began.\nB. The scientist had written her paper before the conference began.\nC. The scientist has written her paper before the conference began.\nD. The scientist wrote her paper before the conference had began.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "When describing two actions that both occurred in the past, the past perfect tense (had + past participle) is used for the earlier action, and the simple past for the later one. Writing the paper happened before the conference began, so it needs the past perfect \"had written.\" Option B correctly uses this sequence. Option A uses present tense for a past event. Option C uses present perfect which doesn't establish the before/after relationship. Option D incorrectly uses \"had began\" instead of \"began\" for the simple past.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2005,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Choose the sentence written in active voice.\n\nA. The novel was written by the author over a period of ten years.\nB. The author wrote the novel over a period of ten years.\nC. The novel has been written by the author.\nD. It was decided that the novel would be published.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Active voice has the subject performing the action. Option B has \"author\" (subject) performing \"wrote\" (action) on \"novel\" (object). Options A and C are passive \u2014 the novel receives the action. Option D is also passive with no clear actor performing the action.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 2006,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct word.\n\nThe doctor wanted to ____ the patient's progress before making a recommendation.\n\nA. asses\nB. assess\nC. access\nD. asess",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Assess\" means to evaluate or estimate the nature, ability, or quality of something. \"Access\" means the right or opportunity to use or look at something. Option B correctly uses \"assess\" (to evaluate progress). Option A is a common misspelling. Option C uses \"access\" which means to gain entry, not to evaluate. Option D is another common misspelling. Remember: double 's' in assess because you evaluate multiple aspects.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2007,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Select the sentence with correct modifier placement.\n\nA. She almost drove the car for six hours.\nB. She drove almost the car for six hours.\nC. She drove the car for almost six hours.\nD. Almost she drove the car for six hours.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "The placement of \"almost\" changes the meaning. The intended meaning is that the driving time was close to (but not quite) six hours. Option C correctly places \"almost\" before \"six hours,\" modifying the duration. Option A means she nearly drove the car (but didn't actually drive it). Option B is grammatically awkward and unclear. Option D incorrectly places \"almost\" at the beginning, suggesting she almost existed.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 2008,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Identify the type of sentence:\n\"Although the researcher was cautious, the experiment yielded groundbreaking results that changed the field forever.\"\n\nA. Simple\nB. Compound\nC. Complex\nD. Compound-complex",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "This sentence has one independent clause (\"the experiment yielded groundbreaking results that changed the field forever\") and one dependent clause (\"Although the researcher was cautious\"). The independent clause contains a relative clause (\"that changed the field forever\"), but relative clauses are dependent clauses embedded within independent clauses \u2014 they don't make the sentence compound-complex on their own. One independent clause + one dependent clause = complex sentence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2009,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Select the sentence most appropriate for an academic essay.\n\nA. The thing about climate change is that it's really bad.\nB. Climate change poses significant threats to global ecosystems and human societies.\nC. Climate change is pretty much the worst thing ever.\nD. I think that climate change might be kind of a problem.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Academic writing requires precise, formal language without vague qualifiers, colloquialisms, or informal intensifiers. Option B uses specific, professional vocabulary (\"poses significant threats,\" \"global ecosystems,\" \"human societies\"). Option A uses vague language (\"the thing about\"). Option C uses informal exaggeration (\"pretty much the worst thing ever\"). Option D uses hedging language (\"I think,\" \"might be,\" \"kind of\") that weakens the academic tone.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2010,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Which sentence has correct parallel structure?\n\nA. The job requires excellent communication, the ability to solve problems, and teamwork skills.\nB. The job requires excellent communication, problem-solving ability, and teamwork skills.\nC. The job requires excellent communication, problem-solving, and working well with teams.\nD. The job requires to communicate well, solving problems, and teamwork.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Parallel structure requires items in a list to share the same grammatical form. Option B uses three parallel noun phrases: \"excellent communication\" (adjective + noun), \"problem-solving ability\" (compound adjective + noun), and \"teamwork skills\" (compound noun + noun). Option A mixes a noun phrase with a clause (\"the ability to solve problems\"). Option C mixes a noun with a gerund phrase. Option D mixes an infinitive, a gerund, and a noun.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2011,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Choose the sentence with correct apostrophe usage.\n\nA. The children's toys were scattered across the floor.\nB. The childrens' toys were scattered across the floor.\nC. The childrens toys were scattered across the floor.\nD. The child's toys were scattered across the floor.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "For irregular plural nouns that don't end in \"s\" (like \"children\"), the possessive is formed by adding an apostrophe + s (children's). Option A correctly uses \"children's\" for plural possession. Option B incorrectly adds the apostrophe after the s, which is only for regular plurals ending in s. Option C has no apostrophe at all. Option D uses the singular \"child's\" which changes the meaning from multiple children to one child.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 2012,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Choose the sentence that uses a semicolon correctly.\n\nA. I love coffee; but I also enjoy tea.\nB. I love coffee; I also enjoy tea.\nC. I love coffee; however I also enjoy tea.\nD. ; I love coffee and tea.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A semicolon can join two closely related independent clauses without a coordinating conjunction. Option B correctly joins two complete independent clauses with a semicolon. Option A incorrectly uses a semicolon before \"but\" \u2014 when using a coordinating conjunction, a comma should be used instead. Option C is missing a comma after the conjunctive adverb \"however.\" Option D starts with a semicolon which is grammatically incorrect.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 2013,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Choose the best transition word.\n\nThe recipe calls for two cups of flour; ____, you can substitute oat flour for a gluten-free option.\n\nA. however\nB. therefore\nC. similarly\nD. instead",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence introduces an alternative to the original ingredient, showing a contrast or substitution. \"However\" signals a contrast or alternative suggestion. Option A correctly uses \"however\" to introduce the substitution option. \"Therefore\" (B) shows cause and effect. \"Similarly\" (C) shows comparison, but substituting a different ingredient is not a similarity. \"Instead\" (D) could work but \"however\" better captures the \"you can also\" tone of offering an alternative.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 2014,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Identify the simple sentence.\n\nA. After the movie ended, we went out for dinner.\nB. We went out for dinner.\nC. We went out for dinner, and then we saw a play.\nD. We, who were very hungry, went out for dinner.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A simple sentence has one independent clause with no dependent clauses. Option B contains a single independent clause: subject \"we\" and verb \"went.\" Option A has a dependent clause (\"After the movie ended\"). Option C has two independent clauses joined by \"and.\" Option D has a relative clause (\"who were very hungry\").",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 2015,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "In which sentence does \"light\" function as an adjective?\n\nA. She turned on the light.\nB. The light from the window was bright.\nC. She wore a light jacket because the weather was warm.\nD. Light the candles on the table.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "An adjective modifies a noun or pronoun. In option C, \"light\" modifies the noun \"jacket\" by describing its weight (not heavy). Option A uses \"light\" as a noun (object of \"turned on\"). Option B uses \"light\" as a noun (subject of the sentence). Option D uses \"light\" as a verb (imperative command).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 2016,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Read the sentence and determine the meaning of \"reluctant.\"\n\nThe student was reluctant to present in front of the class, but eventually agreed.\n\nA. Eager and excited\nB. Unwilling or hesitant\nC. Confident and prepared\nD. Angry and frustrated",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The context clue \"but eventually agreed\" suggests the student initially did not want to present. \"Reluctant\" means unwilling or hesitant to do something. Option B correctly identifies this meaning. Option A (eager) is the opposite. Option C (confident) contradicts the hesitation implied. Option D (angry) is not supported by the context \u2014 the student's reluctance was about willingness, not anger.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2017,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Choose the best revision of this wordy sentence:\n\"At this point in time, it is important to note that the patient is experiencing symptoms that are of a severe nature.\"\n\nA. Currently, the patient is experiencing severe symptoms.\nB. The patient has severe symptoms now.\nC. It should be noted that the patient has symptoms that are severe.\nD. At this point, the severe symptoms are being experienced by the patient.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Concise writing eliminates unnecessary words and phrases. The original has multiple wordy constructions: \"at this point in time\" (one word: \"currently\"), \"it is important to note that\" (unnecessary filler), and \"symptoms that are of a severe nature\" (\"severe symptoms\"). Option A reduces 23 words to 6 while preserving all meaning. Option B is also concise but uses \"now\" which is less formal than \"currently.\" Option C retains wordy filler. Option D is passive and wordy.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2018,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which evidence best supports the claim that sleep deprivation affects academic performance?\n\nA. Many students stay up late studying.\nB. A longitudinal study published in Sleep journal tracking 1,200 college students over four semesters found that those averaging fewer than six hours of sleep had GPAs 0.4 points lower than those sleeping eight or more hours.\nC. Sleep is important for health.\nD. Some professors have noticed tired students in class.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The strongest evidence is specific, quantified, from a credible source, and directly links the variables in the claim. Option B provides all of these: specific data (0.4 GPA difference), a credible source (Sleep journal), study details (1,200 students, four semesters), and directly connects sleep duration to academic performance (GPA). Options A, C, and D are vague, anecdotal, or too general to serve as strong evidence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 2069,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "A nurse is writing a patient note and must correctly use the plural possessive form to refer to medications belonging to multiple patients. Which option is correct?\n\nA) The patients' medications were reviewed.\nB) The patient's medications were reviewed.\nC) The patients medication's were reviewed.\nD) The patients's medications were reviewed.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The diagnosis's were reviewed.",
+      "The diagnoses' were reviewed.",
+      "The diagnosis were reviewed."
+    ],
+    "explanation": "To correctly identify the plural form of \"diagnosis\" in a patient note, you must use **diagnoses**. This is an irregular noun that forms its plural by changing the suffix from \"-is\" to \"-es,\" rather than simply adding an \"s\" or using an apostrophe. It is crucial to remember that an apostrophe (') is used for possession (e.g., \"the doctor's note\") or contractions (e.g., \"it's\"), never for forming standard plural nouns. Therefore, the phrase \"The diagnoses were reviewed\" is the only grammatically correct option. In clinical documentation, precision with terminology ensures clear communication among the healthcare team, preventing potential errors where a patient with multiple conditions might be misunderstood if the pluralization is incorrect.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 2070,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "The patient's condition continued to (affect/effect) her ability to perform daily activities, and the medication had a positive (affect/effect) on her recovery.\n\nA. affect / effect\nB. effect / affect\nC. affect / affect\nD. effect / effect",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Affect\" is a verb meaning to influence or produce a change in something \u2014 the condition *influenced* her ability, so \"affect\" is correct. \"Effect\" is a noun meaning a result or outcome \u2014 the medication had a positive *result*, so \"effect\" is correct. Remember: Affect = Action (verb), Effect = End result (noun). This is one of the most commonly confused word pairs on the TEAS exam.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

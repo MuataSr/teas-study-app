@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1849,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "A nurse is designing an experiment to test the effectiveness of a new herbal supplement on reducing anxiety in patients. In this study, which group would serve as the control group?\nA) The group receiving a placebo that looks and tastes like the supplement but contains no active ingredients.\nB) The group receiving the actual herbal supplement.\nC) The group receiving no treatment at all.\nD) The group of healthy volunteers with no anxiety.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The group receiving the actual herbal supplement.",
+      "The group receiving no treatment at all.",
+      "The group of healthy volunteers with no anxiety."
+    ],
+    "explanation": "The control group in this experiment must receive a placebo to ensure that any observed effects are due to the active ingredient in the supplement rather than the patient's expectation or the act of receiving treatment. Providing the actual supplement to a group would make them the experimental group, not the control, and offering no treatment fails to account for the placebo effect, which is a critical confounding variable in medical studies.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1850,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "A nurse is reviewing a patient's lab results and notes a significant increase in red blood cell production. Which of the following conditions is most likely responsible for stimulating this response?\nA) Excessive intake of iron supplements\nB) Acute inflammation of the bone marrow\nC) hronic hypoxia due to high altitude living\nD) Deficiency in vitamin B12",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Excessive intake of iron supplements",
+      "Acute inflammation of the bone marrow",
+      "Deficiency in vitamin B12"
+    ],
+    "explanation": "Chronic hypoxia triggers the kidneys to release erythropoietin, a hormone that stimulates the bone marrow to produce more red blood cells to improve oxygen delivery. While iron deficiency can limit RBC production, vitamin B12 deficiency causes megaloblastic anemia (low RBCs), and acute inflammation typically inhibits erythropoiesis rather than stimulating it.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1851,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "A nurse is designing a study to test the effectiveness of a new medication on pain relief in patients with acute back pain. The nurse plans to give the new medication to one group of patients and a placebo to another group. In this experimental design, what is the independent variable?\nA) The time it takes for the pain to subside\nB) The type of treatment administered (new medication vs. placebo)\nC) The age of the patients in the study\nD) The level of pain reported by the patients",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The level of pain reported by the patients",
+      "The age of the patients in the study",
+      "The time it takes for the pain to subside"
+    ],
+    "explanation": "The independent variable is the factor that the researcher manipulates or changes to observe its effect; in this case, it is the type of treatment given to the patients. The dependent variable would be the outcome being measured, such as the level of pain, while the age of the patients is a potential confounding variable, not the one being tested.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1852,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse is caring for a patient with a history of sickle cell anemia. Which of the following cellular structures is primarily responsible for the abnormal shape of red blood cells in this condition?\nA) Nucleus\nB) Hemoglobin\nC) Mitochondria\nD) Cell membrane",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Cell membrane",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "explanation": "Sickle cell anemia is a genetic disorder caused by a specific mutation in the gene encoding hemoglobin, the protein within red blood cells that carries oxygen. This mutation causes hemoglobin to polymerize under low oxygen conditions, distorting the red blood cell shape into a sickle form. While the cell membrane maintains cell integrity, the underlying cause of the shape change is the defective hemoglobin.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1853,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "A nursing student is designing an experiment to determine the effect of different water temperatures on the time it takes for a specific antibiotic to dissolve completely in water. In this experiment, which factor is the independent variable?\nA) The temperature of the water\nB) The type of antibiotic used\nC) The volume of water used\nD) The time it takes for the antibiotic to dissolve",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The time it takes for the antibiotic to dissolve",
+      "The type of antibiotic used",
+      "The volume of water used"
+    ],
+    "explanation": "The independent variable is the factor that the researcher intentionally changes to observe its effect; in this case, that is the water temperature. The time taken for dissolution is the dependent variable because it is the outcome being measured, while the type of antibiotic and volume of water are controlled variables that must remain constant.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1854,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse is reviewing a patient's lab results and sees an elevated count of neutrophils. Which of the following best explains the primary function of these cells in the context of the immune system?\nA) To produce antibodies to target specific viruses.\nB) To fight bacterial and fungal infections\nC) To remove dead cells and debris from damaged tissues.\nD) To produce hormones that regulate blood sugar levels.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "To produce antibodies to target specific viruses.",
+      "To remove dead cells and debris from damaged tissues.",
+      "To produce hormones that regulate blood sugar levels."
+    ],
+    "explanation": "Neutrophils are the first responders of the innate immune system and are primarily responsible for phagocytosing and destroying bacteria and fungi. They do not produce antibodies (a function of B cells), do not remove dead cells as their main role (that is macrophages), and do not regulate blood sugar (a function of insulin/glucagon).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1855,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "A nurse is designing an experiment to test the effectiveness of a new herbal supplement on reducing stress levels in patients. In this study, the independent variable is best described as:\nA) The administration of the herbal supplement\nB) The time of day the patients take the supplement\nC) The level of stress reported by the patients after one week\nD) The age of the patients participating in the study",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The level of stress reported by the patients after one week",
+      "The age of the patients participating in the study",
+      "The time of day the patients take the supplement"
+    ],
+    "explanation": "The independent variable is the factor that the researcher manipulates to observe its effect, which in this case is the herbal supplement itself. The stress level is the dependent variable because it is the outcome being measured, while age and time of day are controlled variables that should remain constant to ensure a fair test.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1856,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse researcher is designing a study to determine if a new antihistamine reduces the duration of allergic rhinitis symptoms compared to a standard saline spray. Which of the following is the independent variable in this experiment?\nA) The number of participants in the study\nB) The age of the participants with allergic rhinitis\nC) The duration of symptom relief measured in hours\nD) The type of medication administered (new antihistamine vs. saline spray)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The duration of symptom relief measured in hours",
+      "The number of participants in the study",
+      "The age of the participants with allergic rhinitis"
+    ],
+    "explanation": "The independent variable is the factor that the researcher manipulates or changes to observe its effect; in this case, the choice of medication. The dependent variable is the outcome being measured (symptom duration), while participant characteristics like age or study size are control factors or sample attributes, not the experimental variable being tested.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1857,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A nurse observes that patients who sleep at least 8 hours per night consistently report fewer headaches than those who sleep less than 6 hours. Based on this observation, what is the most accurate con\nA) Sleeping 8 hours causes headaches to disappear in every single patient.\nB) Patients who sleep 7 hours are more likely to have headaches than those who sleep 8 hours.\nC) Increasing the amount of sleep will definitely cure all headaches in all patients.\nD) There is a correlation between the amount of sleep a patient gets and the frequency of their headaches.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Increasing the amount of sleep will definitely cure all headaches in all patients.",
+      "Sleeping 8 hours causes headaches to disappear in every single patient.",
+      "Patients who sleep 7 hours are more likely to have headaches than those who sleep 8 hours."
+    ],
+    "explanation": "The correct answer identifies a correlation, which means two variables (sleep duration and headache frequency) change together without proving one causes the other. The other options incorrectly assume causation or make absolute claims about specific outcomes that cannot be determined from the observed pattern alone.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1858,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse researcher is designing a study to evaluate the effectiveness of a new medication on blood pressure. She plans to measure blood pressure in 50 patients who take the new medication and in 50 pa\nA) The independent variable is the nurse administering the medication, and the dependent variable is the patient's reaction.\nB) The independent variable is the blood pressure reading, and the dependent variable is the type of medication administered.\nC) The independent variable is the type of medication (new medication vs. placebo), and the dependent variable is the measured blood pressure.\nD) The independent variable is the age of the patients, and the dependent variable is the duration of treatment.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The independent variable is the blood pressure reading, and the dependent variable is the type of medication administered.",
+      "The independent variable is the age of the patients, and the dependent variable is the duration of treatment.",
+      "The independent variable is the nurse administering the medication, and the dependent variable is the patient's reaction."
+    ],
+    "explanation": "In experimental design, the independent variable is the factor that the researcher manipulates (the type of medication), while the dependent variable is the outcome that is measured (blood pressure). The other options incorrectly swap these roles or introduce irrelevant variables not central to the study's hypothesis.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1859,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A nurse observes that every time the room temperature is lowered, the patients in the geriatric unit report feeling more comfortable. Based on this single observation, what is the most appropriate conclusion?\nA) Lowering the room temperature causes patients to feel more comfortable.\nB) Patient comfort is caused by a third factor, such as increased bed linens.\nC) correlation exists between lower room temperatures and patient comfort in this unit.\nD) The room temperature has no effect on patient comfort.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Lowering the room temperature causes patients to feel more comfortable.",
+      "The room temperature has no effect on patient comfort.",
+      "Patient comfort is caused by a third factor, such as increased bed linens."
+    ],
+    "explanation": "The scenario describes two events occurring together (lowering temperature and increased comfort) without proving that one directly causes the other. Therefore, the only valid conclusion is that a correlation exists, not a causal relationship. Asserting causation would be a common error known as assuming correlation implies causation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1860,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse is administering intravenous fluids to a patient. Which of the following solutions would the nurse expect to see a pH value significantly less than 7.0, indicating it is acidic?\nA) Lactated Ringer's Solution\nB) 0.9% Sodium Chloride (Normal Saline)\nC) 0.45% Sodium Chloride (Half-Saline)\nD) Dextrose 5% in Water (D5W)",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "0.45% Sodium Chloride (Half-Saline)",
+      "Dextrose 5% in Water (D5W)",
+      "Lactated Ringer's Solution"
+    ],
+    "explanation": "Normal saline (0.9% NaCl) is a neutral solution with a pH of approximately 5.5, which is slightly acidic compared to physiological blood pH, whereas the other listed solutions are neutral or slightly alkaline. Lactated Ringer's contains lactate, which the body metabolizes into bicarbonate, making it slightly alkaline, while D5W and half-saline are generally considered neutral in clinical practice relative to strong acids.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1861,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "A nurse is reviewing the vital signs of a client with heart failure who has been on a new diuretic medication. The data table below shows the client's weight (in kg) and urine output (in mL) over a 24-hour period. Which trend in the data best indicates that the medication is effectively reducing fluid overload?\n| Time | Weight (kg) | Urine Output (mL) |\n|---|---|---|\n| 08:00 | 78.5 | 450 |\n| 12:00 | 76.2 | 520 |\n| 16:00 | 74.8 | 610 |\n| 20:00 | 72.1 | 850 |\n| 24:00 | 70.5 | 920 |\nA) A decrease in urine output while the weight remains constant\nB) A stable weight with fluctuating but low urine output\nC) consistent decrease in weight accompanied by an increasing urine output\nD) An increase in weight despite a steady increase in urine output",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A stable weight with fluctuating but low urine output",
+      "An increase in weight despite a steady increase in urine output",
+      "A decrease in urine output while the weight remains constant"
+    ],
+    "explanation": "The correct answer identifies the expected physiological response to a diuretic: fluid loss leading to reduced body weight and increased urine volume. The other options describe scenarios where the medication is ineffective (stable weight, increasing weight) or contradictory (decreasing urine output while weight stays the same), which would not indicate successful treatment of fluid overload.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1862,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse is preparing an intravenous solution and needs to ensure the pH of the fluid is appropriate for the patient's blood. Which of the following pH ranges is considered acidic?\nA) A pH range of 13 to 14\nB) pH range of 0 to 6.9\nC) A pH range of 7.0 to 7.4\nD) A pH range of 7.0 to 14",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A pH range of 7.0 to 14",
+      "A pH range of 13 to 14",
+      "A pH range of 7.0 to 7.4"
+    ],
+    "explanation": "The pH scale measures acidity and alkalinity, where values below 7 are acidic. Option A (0 to 6.9) correctly identifies this acidic range. Option B (7.0 to 14) is incorrect because it includes neutral and basic values. Option C (13 to 14) is wrong as it represents highly basic solutions. Option D (7.0 to 7.4) is incorrect since it describes the slightly basic range typical of blood.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1863,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "A nurse is reviewing the vital signs data for a patient on a telemetry unit. The table below shows the heart rate (HR) and systolic blood pressure (SBP) recorded over a 24-hour period. Which trend is\nA) Heart rate increases as systolic blood pressure increases throughout the entire 24-hour period.\nB) There is no correlation between heart rate and blood pressure changes observed in this data set.\nC) Systolic blood pressure remains constant while heart rate fluctuates significantly.\nD) Heart rate and systolic blood pressure are inversely related during the first half of the shift.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Heart rate increases as systolic blood pressure increases throughout the entire 24-hour period.",
+      "Systolic blood pressure remains constant while heart rate fluctuates significantly.",
+      "There is no correlation between heart rate and blood pressure changes observed in this data set."
+    ],
+    "explanation": "The correct answer identifies that as heart rate decreases from hour 0 to hour 12, systolic blood pressure also generally decreases, illustrating an inverse relationship in that specific timeframe. The other options are incorrect because the data does not show a consistent increase for both variables, the blood pressure is not constant, and a clear relationship (inverse trend) is visible in the first half of the data.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1864,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A client presents with a severe headache, confusion, and stiff neck after a fall. What is the most likely physiological concern regarding the central nervous system that requires immediate assessment?\nA) Impairment of the peripheral nervous system leading to sensory loss in the extremities\nB) Potential for increased intracranial pressure due to head trauma\nC) Damage to the somatic nervous system resulting in paralysis\nD) Disruption of the autonomic nervous system causing hypotension",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Disruption of the autonomic nervous system causing hypotension",
+      "Damage to the somatic nervous system resulting in paralysis",
+      "Impairment of the peripheral nervous system leading to sensory loss in the extremities"
+    ],
+    "explanation": "The symptoms of headache, confusion, and stiff neck are classic signs of a head injury that may lead to increased intracranial pressure. This is a critical CNS issue requiring immediate intervention, whereas the other options describe peripheral or autonomic issues not typically indicated by this specific symptom cluster.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1865,
+    "subject": "science",
+    "topic": "Cell division",
+    "question_text": "A nurse is studying the cell cycle and needs to distinguish between two types of cell division. Which statement accurately describes the primary difference between mitosis and meiosis?\nA) None of the above\nB) Mitosis produces gametes for sexual reproduction, while meiosis produces somatic cells for growth and repair.\nC) Mitosis results in two daughter cells, each with half the number of chromosomes as the parent cell.\nD) Meiosis results in four daughter cells, each with half the number of chromosomes as the parent cell.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Mitosis results in two daughter cells, each with half the number of chromosomes as the parent cell.",
+      "Both mitosis and meiosis result in two daughter cells with the same number of chromosomes as the parent cell.",
+      "Mitosis produces gametes for sexual reproduction, while meiosis produces somatic cells for growth and repair."
+    ],
+    "explanation": "Meiosis is a specialized form of cell division that reduces the chromosome number by half to create gametes (sperm and eggs), resulting in four unique daughter cells. In contrast, mitosis produces two genetically identical daughter cells with the full complement of chromosomes, which is essential for growth and tissue repair.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1866,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse is assessing a client who has been diagnosed with deep vein thrombosis (DVT). Which of the following findings is the nurse expected to assess for in the affected limb?\nA) Coolness and pallor of the extremity\nB) Pitting edema only in the feet\nC) Symmetrical skin discoloration across both legs\nD) Unilateral leg swelling and warmth",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Symmetrical skin discoloration across both legs",
+      "Pitting edema only in the feet",
+      "Coolness and pallor of the extremity"
+    ],
+    "explanation": "DVT typically presents with unilateral symptoms such as swelling, warmth, and pain in the affected limb due to a blood clot blocking venous return. The other options describe conditions like systemic edema, localized foot edema, or arterial insufficiency, which are not characteristic signs of a DVT.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1867,
+    "subject": "science",
+    "topic": "Cell division",
+    "question_text": "A nurse is reviewing a client's history who has a family history of breast cancer. The nurse explains that a specific type of cell division is responsible for creating the reproductive cells (sperm and eggs) that may carry genetic mutations passed down through generations. What is the name of this type of cell division?\nA) Meiosis\nB) Binary fission\nC) Cytokinesis\nD) Mitosis",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Mitosis",
+      "Binary fission",
+      "Cytokinesis"
+    ],
+    "explanation": "Meiosis is the specific process that reduces the chromosome number by half to produce gametes (sperm and eggs), making it the mechanism for inheriting genetic traits across generations. Mitosis produces identical body cells, binary fission occurs in prokaryotes, and cytokinesis is the physical splitting of the cell rather than the division of genetic material itself.",
+    "difficulty": "hard",
+    "status": "active"
+  }
+]

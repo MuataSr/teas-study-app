@@ -1,0 +1,275 @@
+[
+  {
+    "batch_file": "batch_math_1.json",
+    "subject": "math",
+    "batch_num": 1,
+    "count": 50,
+    "output_file": "phase2_math_1.json"
+  },
+  {
+    "batch_file": "batch_math_2.json",
+    "subject": "math",
+    "batch_num": 2,
+    "count": 50,
+    "output_file": "phase2_math_2.json"
+  },
+  {
+    "batch_file": "batch_math_3.json",
+    "subject": "math",
+    "batch_num": 3,
+    "count": 50,
+    "output_file": "phase2_math_3.json"
+  },
+  {
+    "batch_file": "batch_math_4.json",
+    "subject": "math",
+    "batch_num": 4,
+    "count": 50,
+    "output_file": "phase2_math_4.json"
+  },
+  {
+    "batch_file": "batch_math_5.json",
+    "subject": "math",
+    "batch_num": 5,
+    "count": 50,
+    "output_file": "phase2_math_5.json"
+  },
+  {
+    "batch_file": "batch_math_6.json",
+    "subject": "math",
+    "batch_num": 6,
+    "count": 50,
+    "output_file": "phase2_math_6.json"
+  },
+  {
+    "batch_file": "batch_math_7.json",
+    "subject": "math",
+    "batch_num": 7,
+    "count": 50,
+    "output_file": "phase2_math_7.json"
+  },
+  {
+    "batch_file": "batch_math_8.json",
+    "subject": "math",
+    "batch_num": 8,
+    "count": 50,
+    "output_file": "phase2_math_8.json"
+  },
+  {
+    "batch_file": "batch_math_9.json",
+    "subject": "math",
+    "batch_num": 9,
+    "count": 50,
+    "output_file": "phase2_math_9.json"
+  },
+  {
+    "batch_file": "batch_math_10.json",
+    "subject": "math",
+    "batch_num": 10,
+    "count": 48,
+    "output_file": "phase2_math_10.json"
+  },
+  {
+    "batch_file": "batch_science_1.json",
+    "subject": "science",
+    "batch_num": 1,
+    "count": 50,
+    "output_file": "phase2_science_1.json"
+  },
+  {
+    "batch_file": "batch_science_2.json",
+    "subject": "science",
+    "batch_num": 2,
+    "count": 50,
+    "output_file": "phase2_science_2.json"
+  },
+  {
+    "batch_file": "batch_science_3.json",
+    "subject": "science",
+    "batch_num": 3,
+    "count": 50,
+    "output_file": "phase2_science_3.json"
+  },
+  {
+    "batch_file": "batch_science_4.json",
+    "subject": "science",
+    "batch_num": 4,
+    "count": 50,
+    "output_file": "phase2_science_4.json"
+  },
+  {
+    "batch_file": "batch_science_5.json",
+    "subject": "science",
+    "batch_num": 5,
+    "count": 50,
+    "output_file": "phase2_science_5.json"
+  },
+  {
+    "batch_file": "batch_science_6.json",
+    "subject": "science",
+    "batch_num": 6,
+    "count": 50,
+    "output_file": "phase2_science_6.json"
+  },
+  {
+    "batch_file": "batch_science_7.json",
+    "subject": "science",
+    "batch_num": 7,
+    "count": 50,
+    "output_file": "phase2_science_7.json"
+  },
+  {
+    "batch_file": "batch_science_8.json",
+    "subject": "science",
+    "batch_num": 8,
+    "count": 50,
+    "output_file": "phase2_science_8.json"
+  },
+  {
+    "batch_file": "batch_science_9.json",
+    "subject": "science",
+    "batch_num": 9,
+    "count": 19,
+    "output_file": "phase2_science_9.json"
+  },
+  {
+    "batch_file": "batch_reading_1.json",
+    "subject": "reading",
+    "batch_num": 1,
+    "count": 50,
+    "output_file": "phase2_reading_1.json"
+  },
+  {
+    "batch_file": "batch_reading_2.json",
+    "subject": "reading",
+    "batch_num": 2,
+    "count": 50,
+    "output_file": "phase2_reading_2.json"
+  },
+  {
+    "batch_file": "batch_reading_3.json",
+    "subject": "reading",
+    "batch_num": 3,
+    "count": 50,
+    "output_file": "phase2_reading_3.json"
+  },
+  {
+    "batch_file": "batch_reading_4.json",
+    "subject": "reading",
+    "batch_num": 4,
+    "count": 50,
+    "output_file": "phase2_reading_4.json"
+  },
+  {
+    "batch_file": "batch_reading_5.json",
+    "subject": "reading",
+    "batch_num": 5,
+    "count": 50,
+    "output_file": "phase2_reading_5.json"
+  },
+  {
+    "batch_file": "batch_reading_6.json",
+    "subject": "reading",
+    "batch_num": 6,
+    "count": 50,
+    "output_file": "phase2_reading_6.json"
+  },
+  {
+    "batch_file": "batch_reading_7.json",
+    "subject": "reading",
+    "batch_num": 7,
+    "count": 50,
+    "output_file": "phase2_reading_7.json"
+  },
+  {
+    "batch_file": "batch_reading_8.json",
+    "subject": "reading",
+    "batch_num": 8,
+    "count": 50,
+    "output_file": "phase2_reading_8.json"
+  },
+  {
+    "batch_file": "batch_reading_9.json",
+    "subject": "reading",
+    "batch_num": 9,
+    "count": 50,
+    "output_file": "phase2_reading_9.json"
+  },
+  {
+    "batch_file": "batch_reading_10.json",
+    "subject": "reading",
+    "batch_num": 10,
+    "count": 49,
+    "output_file": "phase2_reading_10.json"
+  },
+  {
+    "batch_file": "batch_english_1.json",
+    "subject": "english",
+    "batch_num": 1,
+    "count": 50,
+    "output_file": "phase2_english_1.json"
+  },
+  {
+    "batch_file": "batch_english_2.json",
+    "subject": "english",
+    "batch_num": 2,
+    "count": 50,
+    "output_file": "phase2_english_2.json"
+  },
+  {
+    "batch_file": "batch_english_3.json",
+    "subject": "english",
+    "batch_num": 3,
+    "count": 50,
+    "output_file": "phase2_english_3.json"
+  },
+  {
+    "batch_file": "batch_english_4.json",
+    "subject": "english",
+    "batch_num": 4,
+    "count": 50,
+    "output_file": "phase2_english_4.json"
+  },
+  {
+    "batch_file": "batch_english_5.json",
+    "subject": "english",
+    "batch_num": 5,
+    "count": 50,
+    "output_file": "phase2_english_5.json"
+  },
+  {
+    "batch_file": "batch_english_6.json",
+    "subject": "english",
+    "batch_num": 6,
+    "count": 50,
+    "output_file": "phase2_english_6.json"
+  },
+  {
+    "batch_file": "batch_english_7.json",
+    "subject": "english",
+    "batch_num": 7,
+    "count": 50,
+    "output_file": "phase2_english_7.json"
+  },
+  {
+    "batch_file": "batch_english_8.json",
+    "subject": "english",
+    "batch_num": 8,
+    "count": 50,
+    "output_file": "phase2_english_8.json"
+  },
+  {
+    "batch_file": "batch_english_9.json",
+    "subject": "english",
+    "batch_num": 9,
+    "count": 50,
+    "output_file": "phase2_english_9.json"
+  },
+  {
+    "batch_file": "batch_english_10.json",
+    "subject": "english",
+    "batch_num": 10,
+    "count": 48,
+    "output_file": "phase2_english_10.json"
+  }
+]

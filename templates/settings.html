@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+
+{% block title %}Settings{% endblock %}
+
+{% block content %}
+
+<div class="settings-page">
+
+  <!-- Quiz Defaults -->
+  <div class="settings-section">
+    <div class="settings-section-title">Quiz Defaults</div>
+
+    <div class="settings-row">
+      <span class="settings-label">Questions per quiz</span>
+    </div>
+    <form method="GET" action="/quiz/mixed" style="margin-top: 8px;">
+      <div class="pill-group">
+        <button type="submit" name="count" value="5" class="pill {% if settings.question_count == 5 %}active{% endif %}">5</button>
+        <button type="submit" name="count" value="10" class="pill {% if settings.question_count == 10 %}active{% endif %}">10</button>
+        <button type="submit" name="count" value="15" class="pill {% if settings.question_count == 15 %}active{% endif %}">15</button>
+        <button type="submit" name="count" value="20" class="pill {% if settings.question_count == 20 %}active{% endif %}">20</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Appearance -->
+  <div class="settings-section">
+    <div class="settings-section-title">Appearance</div>
+
+    <div class="settings-row">
+      <span class="settings-label">Dark mode</span>
+      <label class="toggle">
+        <input type="checkbox" id="dark-toggle" {% if settings.dark_mode %}checked{% endif %}>
+        <div class="toggle-track"></div>
+        <div class="toggle-thumb"></div>
+      </label>
+    </div>
+  </div>
+
+  <!-- About -->
+  <div class="settings-section">
+    <div class="settings-section-title">About</div>
+    <div class="settings-row">
+      <span class="settings-label">Version</span>
+      <span class="settings-value">{{ version }}</span>
+    </div>
+    <div class="settings-row">
+      <span class="settings-label">Questions</span>
+      <span class="settings-value">2,003</span>
+    </div>
+    <div class="settings-row">
+      <span class="settings-label">Subjects</span>
+      <span class="settings-value">Math · Science · Reading · English</span>
+    </div>
+  </div>
+
+  <!-- Resources -->
+  <div class="settings-section">
+    <div class="settings-section-title">Study Resources</div>
+    <div class="settings-row">
+      <a href="/resources" style="font-size:15px; color: var(--accent);">Curated free TEAS resources →</a>
+    </div>
+  </div>
+
+  <!-- Danger Zone -->
+  <div class="settings-section" style="border-bottom: none;">
+    <div class="settings-section-title">Danger Zone</div>
+    <form method="POST" action="/settings/reset" onsubmit="return confirm('This will erase all your progress. Are you sure?')">
+      <button type="submit" class="btn-danger">Reset All Progress</button>
+    </form>
+  </div>
+
+  <div class="version-info">Mu2 Solutions — Built for students, by students.</div>
+
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function() {
+  var toggle = document.getElementById("dark-toggle");
+  var root = document.documentElement;
+
+  // Restore saved preference
+  var saved = localStorage.getItem("teas-dark");
+  if (saved === "true") {
+    root.classList.add("dark");
+    toggle.checked = true;
+  }
+
+  toggle.addEventListener("change", function() {
+    if (toggle.checked) {
+      root.classList.add("dark");
+      localStorage.setItem("teas-dark", "true");
+    } else {
+      root.classList.remove("dark");
+      localStorage.setItem("teas-dark", "false");
+    }
+  });
+})();
+</script>
+{% endblock %}

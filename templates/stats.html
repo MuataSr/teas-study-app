@@ -1,0 +1,119 @@
+{% extends "base.html" %}
+
+{% block title %}Progress{% endblock %}
+
+{% block content %}
+
+<div class="stats-page">
+
+  <!-- Readiness Ring -->
+  <div style="text-align: center; padding-bottom: 28px; border-bottom: 1px solid var(--border);">
+    <div class="readiness-ring">
+      <svg viewBox="0 0 100 100">
+        <circle class="progress-ring-bg" cx="50" cy="50" r="42"/>
+        <circle class="progress-ring-circle" cx="50" cy="50" r="42"
+          stroke-dasharray="{{ 2 * 3.14159 * 42 }}"
+          stroke-dashoffset="{{ 2 * 3.14159 * 42 * (1 - overall_readiness / 100) }}"/>
+      </svg>
+      <span class="readiness-pct">{{ overall_readiness }}%</span>
+    </div>
+    <div class="section-title" style="margin-bottom: 4px;">Overall Readiness</div>
+    <div class="text-muted" style="font-size: 13px;">Keep going — every question counts.</div>
+  </div>
+
+  <!-- Subject Indicators -->
+  <div style="padding: 24px 0; border-bottom: 1px solid var(--border);">
+    <div class="subject-indicators">
+      {% for subj in subjects %}
+      <div class="subject-indicator">
+        <span class="subject-dot dot-{{ subj.slug }}"></span>
+        <span class="subject-indicator-name">{{ subj.name }}</span>
+        <span class="subject-indicator-pct">{{ subj.readiness_pct }}%</span>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Streak -->
+  {% if current_streak > 0 %}
+  <div class="streak" style="border-bottom: 1px solid var(--border);">
+    <div class="streak-row">
+      <svg class="streak-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.9 0 1.5-.7 1.5-1.5 0-.4-.1-.7-.4-1-.3-.3-.4-.6-.4-1 0-.8.7-1.5 1.5-1.5H16c3.3 0 6-2.7 6-6 0-5.2-4.5-9-10-9z"/>
+        <circle cx="7.5" cy="11" r="1.5"/>
+        <circle cx="10.5" cy="7" r="1.5"/>
+        <circle cx="16.5" cy="11" r="1.5"/>
+        <circle cx="13.5" cy="7" r="1.5"/>
+      </svg>
+      <span class="streak-number">{{ current_streak }}</span>
+    </div>
+    <div class="streak-label">Day Streak</div>
+    <div class="streak-sub">Come back tomorrow to keep it going</div>
+  </div>
+  {% endif %}
+
+  <!-- Subject Breakdown -->
+  <div style="padding-top: 28px;">
+    <h2 class="section-title">By Subject</h2>
+
+    {% for subj in subjects %}
+    <div class="subject-breakdown">
+      <div class="subject-breakdown-header">
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span class="subject-dot dot-{{ subj.slug }}"></span>
+          <span class="subject-breakdown-name">{{ subj.name }}</span>
+        </div>
+        <span class="subject-breakdown-pct" style="color: var(--dot-{{ subj.slug }});">{{ subj.readiness_pct }}%</span>
+      </div>
+      <div class="subject-breakdown-track">
+        <div class="subject-breakdown-fill {{ subj.slug }}" style="width: {{ subj.readiness_pct }}%"></div>
+      </div>
+      <div class="subject-breakdown-sub">{{ subj.strong_topics }} of {{ subj.total_topics }} topics strong</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Weekly Activity -->
+  {% if weekly_activity %}
+  <div style="padding-top: 28px; border-top: 1px solid var(--border);">
+    <h2 class="section-title">This Week</h2>
+    <div class="weekly-chart">
+      {% for day in weekly_activity %}
+      <div class="weekly-bar-col">
+        {% if day.count > 0 %}
+        <span class="weekly-bar-count">{{ day.count }}</span>
+        {% endif %}
+        <div class="weekly-bar" style="height: {{ (day.count / (weekly_activity | map(attribute='count') | max | default(1)) * 80) if day.count > 0 else 2 }}px;"></div>
+        <span class="weekly-bar-label">{{ day.day[-2:] }}</span>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Recent Quizzes -->
+  {% if recent_quizzes %}
+  <div style="padding-top: 28px; border-top: 1px solid var(--border);">
+    <h2 class="section-title">Recent Quizzes</h2>
+    <ul class="score-list">
+      {% for q in recent_quizzes %}
+      <li class="score-item">
+        <div class="score-item-left">
+          <div>
+            <div class="score-item-name">{{ q.subject_name }}</div>
+            <div class="score-item-date">{{ q.date }}</div>
+          </div>
+        </div>
+        <div>
+          <div class="score-item-pct" style="color: {% if q.score >= 80 %}var(--correct){% elif q.score >= 60 %}var(--warning){% else %}var(--wrong){% endif %};">{{ q.score }}%</div>
+          <div class="score-item-questions">{{ q.total_questions }} questions</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+</div>
+
+{% endblock %}

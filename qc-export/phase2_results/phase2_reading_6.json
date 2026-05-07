@@ -1,0 +1,84 @@
+[
+  {"id": 1366, "verdict": "PASS"},
+  {"id": 1367, "verdict": "PASS"},
+  {"id": 1368, "verdict": "PASS"},
+  {"id": 1369, "verdict": "PASS"},
+  {"id": 1370, "verdict": "PASS"},
+  {"id": 1371, "verdict": "PASS"},
+  {"id": 1372, "verdict": "PASS"},
+  {"id": 1373, "verdict": "PASS"},
+  {"id": 1374, "verdict": "PASS"},
+  {"id": 1375, "verdict": "PASS"},
+  {"id": 1376, "verdict": "PASS"},
+  {"id": 1377, "verdict": "PASS"},
+  {"id": 1378, "verdict": "PASS"},
+  {"id": 1379, "verdict": "PASS"},
+  {"id": 1380, "verdict": "PASS"},
+  {"id": 1381, "verdict": "PASS"},
+  {"id": 1382, "verdict": "PASS"},
+  {"id": 1383, "verdict": "PASS"},
+  {"id": 1384, "verdict": "PASS"},
+  {"id": 1385, "verdict": "PASS"},
+  {"id": 1386, "verdict": "PASS"},
+  {"id": 1387, "verdict": "PASS"},
+  {
+    "id": 1388,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but is a single-step direct passage lookup. The passage explicitly states barons were 'unhappy with his heavy taxation and arbitrary rule,' requiring no complex reasoning."]
+  },
+  {"id": 1389, "verdict": "PASS"},
+  {
+    "id": 1390,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but the passage gives a clear sequential chain (evaporates → rises → cools → clouds → precipitation). Finding what happens immediately after evaporation is single-step recall."]
+  },
+  {"id": 1391, "verdict": "PASS"},
+  {
+    "id": 1392,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but the passage directly states metamorphic rocks form from 'extreme heat and pressure deep underground.' Answering requires only finding that one sentence."]
+  },
+  {"id": 1393, "verdict": "PASS"},
+  {"id": 1394, "verdict": "PASS"},
+  {"id": 1395, "verdict": "PASS"},
+  {"id": 1396, "verdict": "PASS"},
+  {
+    "id": 1397,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but the passage explicitly states exercise improves mental health 'by releasing endorphins, which are natural mood lifters.' Selecting the matching option is single-step."]
+  },
+  {"id": 1398, "verdict": "PASS"},
+  {
+    "id": 1399,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but the passage explicitly states osmosis moves water toward high solute concentration and requires no energy. The correct answer merely restates these two directly stated facts."]
+  },
+  {"id": 1400, "verdict": "PASS"},
+  {
+    "id": 1401,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but identifying the author's purpose (to inform about handoff risks and solutions) from a straightforward factual passage is a single-step comprehension task."]
+  },
+  {"id": 1402, "verdict": "PASS"},
+  {"id": 1403, "verdict": "PASS"},
+  {
+    "id": 1404,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but the context clues are extremely clear (refusing medication, arguing with staff, insisting he knows better). Vocabulary-in-context with such obvious clues is moderate at most."]
+  },
+  {"id": 1405, "verdict": "PASS"},
+  {"id": 1406, "verdict": "PASS"},
+  {"id": 1407, "verdict": "PASS"},
+  {"id": 1408, "verdict": "PASS"},
+  {"id": 1409, "verdict": "PASS"},
+  {"id": 1410, "verdict": "PASS"},
+  {"id": 1411, "verdict": "PASS"},
+  {"id": 1412, "verdict": "PASS"},
+  {"id": 1413, "verdict": "PASS"},
+  {
+    "id": 1414,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: marked 'hard' but the tone is explicitly signaled by words like 'fraught with challenges,' 'increased frustration,' and 'cumbersome interface.' Tone identification here is straightforward, not complex."]
+  },
+  {"id": 1415, "verdict": "PASS"}
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 101,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "John used exactly 15 cans to paint 18 chairs. How many chairs can he paint with 25 cans?\nA) 30\nB) 300\nC) 35\nD) 20",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "20",
+      "35",
+      "300"
+    ],
+    "explanation": "To solve this problem, we must set up a proportion based on the ratio of cans to chairs. We know that 15 cans are required to paint 18 chairs. If John uses 25 cans, we need to find the corresponding number of chairs. The correct equation is 15 cans / 18 chairs = 25 cans / X chairs. To solve for X, we can cross-multiply: 15 * X = 18 * 25. This simplifies to 15X = 450. Dividing both sides by 15 gives X = 30. Therefore, he can paint 30 chairs. Common wrong answers like 20 or 35 often result from misinterpreting the relationship between the variables or performing incorrect arithmetic. For instance, multiplying 18 by 3 (the factor increase in cans from 15 to 45) would yield 54, but since we are increasing from 15 to 25, the factor is different. Another potential error is calculating 18 * 25 = 450 and then mistakenly dividing by 1.5 instead of 15, leading to incorrect results. The key is to maintain the proportional relationship accurately.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 102,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "To bake 6 cakes, you need 15 eggs. Using the same recipe, how many eggs do you need to bake 4 cakes?\nA) 8\nB) 12\nC) 10\nD) 6",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "8",
+      "12",
+      "6"
+    ],
+    "explanation": "To determine the number of eggs needed for 4 cakes, we must first calculate the recipe's ratio. Dividing the total eggs by total cakes (15 eggs \u00f7 6 cakes) reveals that 2.5 eggs are required for every single cake. This unit rate is essential for proportional reasoning. Next, multiply this rate by the desired number of cakes: 2.5 eggs/cake \u00d7 4 cakes = 10 eggs. Common wrong answers like '8' or '12' fail because they do not use the precise 2.5 unit rate, often relying on incorrect integer assumptions or failing to scale the recipe linearly. The correct answer is 10 eggs, as it accurately applies the derived ratio to the new quantity.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 105,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Samer has 35 red glass balls in a bag and 25 green glass balls.  What is the ratio of the red glass balls to the green o\nA) \\(\\frac{5}{7}\\)\nB) \\(\\frac{35}{25}\\)\nC) \\(\\frac{7}{5}\\)\nD) \\(\\frac{7}{5}\\)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "\\(\\frac{35}{25}\\)",
+      "\\(\\frac{7}{5}\\)",
+      "\\(\\frac{5}{7}\\)"
+    ],
+    "explanation": "The ratio of red to green balls is found by dividing the count of red balls (35) by the count of green balls (25), resulting in \\(\\frac{35}{25}\\). Simplifying this fraction by dividing both numbers by their greatest common divisor, 5, yields \\(\\frac{7}{5}\\). Option A is wrong because it lists 0, which implies no red balls exist, contradicting the text stating there are 35. Option B is incorrect as 1 represents an equal number of each color, whereas 35 is not equal to 25. Option C is invalid since the problem provides specific quantities for both colors, making the calculation straightforward.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 106,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Samer has 35 red glass balls in a bag and 25 green glass balls. What is the ratio of the green balls to all glass balls\nA) \\(\\frac{5}{12}\\)\nB) \\(\\frac{2}{5}\\)\nC) \\(\\frac{5}{3}\\)\nD) \\(\\frac{5}{7}\\)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\(\\frac{5}{7}\\)",
+      "\\(\\frac{2}{5}\\)",
+      "\\(\\frac{5}{3}\\)"
+    ],
+    "explanation": "To find the ratio of green balls to all balls, first calculate the total count by adding the 35 red and 25 green balls, resulting in 60 total balls. The ratio of green balls (25) to the total (60) simplifies by dividing both numbers by their greatest common divisor, 5, which yields the fraction \\(\\frac{5}{12}\\). Option A is incorrect because it lists 3, a number unrelated to the calculated ratio. Option B is wrong as 1 does not represent the proportional relationship between 25 and 60. Option C fails because 7 is not the simplified fraction derived from the given quantities.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 107,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Eric has 12 cups of lemonade that tastes exactly the same as Brody\u2019s (3 cups of water for 2 cups of lemon juice). He nee\nA) 42\nB) Eric's lemonade will not taste the same anymore, because he did not add the water and lemon in the same proportions\nC) 18\nD) 30",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "18",
+      "30",
+      "42"
+    ],
+    "explanation": "A common mistake is answering \"Since \\(\\frac{4}{3}\\) = 1.33 and \\(\\frac{3}{2}\\) = 1.5, the ratios are very close, so the lemonade will taste the same\". The correct answer is \"Eric's lemonade will not taste the same anymore, because he did not add the water and lemon in the same proportions\" (Models and Applications).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 108,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Jim correctly solved 88% of 50 test items. How many items did he have correct?\nA) 49 items\nB) 44 items\nC) 45 items\nD) 22 items",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "45 items",
+      "22 items",
+      "49 items"
+    ],
+    "explanation": "To find the number of correct items, multiply the total count of 50 by the percentage 0.88, which equals 44. Option A is incorrect because it suggests a value slightly higher than the calculated result. Option C is wrong as it represents only 22% of the total rather than the given 88%. Option D is incorrect because it implies every item was correct, ignoring the 12% error rate stated in the problem.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 109,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Brad earned \\$400 during the summer and saved \\$240 from his earnings. What percent of his earnings did he spend?\nA) 41%\nB) 45%\nC) 40%\nD) 20%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "41%",
+      "20%",
+      "45%"
+    ],
+    "explanation": "To find the percentage spent, subtract the saved amount of \\$240 from the total earnings of \\$400, resulting in \\$160 spent. Dividing \\$160 by \\$400 and multiplying by 100 yields exactly 40%. Option A (41%) is incorrect because it overestimates the spending by one percent. Option B (20%) is wrong as it represents only the saved portion relative to the total, not the spent amount. Option C (45%) is inaccurate because it exceeds the actual calculated spending percentage significantly.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 110,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "The taffy sale brought in a total of \\$750, but 78% of this was used for expenses. How much money was used for expenses?\nA) Each plant grew the same, 3 inches\nB) (\\$\\frac{78}{750}\\$)=(x/100)\n\\$10.4\nC) \\$585\nD) 70*.14=9.8\n9.8",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "(\\(\\frac{78}{750}\\))=(x/100)\n\\$10.4",
+      "70*.14=9.8\n9.8",
+      "Each plant grew the same, 3 inches"
+    ],
+    "explanation": "To find the expense amount, multiply the total sales of \\$750 by the percentage spent, 78%, which equals \\$585. The option \\$585 correctly applies this multiplication. The choice (\\$\\frac{78}{750}\\$)=(x/100) incorrectly sets up a proportion where the percentage is divided by the total rather than multiplied to find the portion. Options \\$10.4, 70*.14=9.8, 9.8, Each plant grew the same, and 3 inches are irrelevant distractors that do not address the math problem regarding the taffy sale expenses. These wrong answers involve unrelated calculations or topics like plant growth, failing to solve for the requested dollar amount.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 111,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Barbara received a gift of money on her birthday. She spent 80% of the money on a watch. The watch cost her \\$20. How muc\nA) 401\nB) 200\nC) 405\nD) \\$400",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "401",
+      "200",
+      "405"
+    ],
+    "explanation": "To find the original amount, recognize that spending 80% left 20% of the total money unspent. Since the watch cost \\$20, this represents the remaining 20%, meaning the full amount is \\$20 divided by 0.20, which equals \\$400. Option A (\\$400) is the only value that satisfies this calculation. Option B (\\$401) is incorrect because it implies the remainder was slightly more than 20% of a \\$400 total. Option C (\\$200) is wrong as it suggests the watch cost only 10% of the gift, contradicting the 80% spent figure. Option D (\\$405) is inaccurate because dividing \\$20 by 0.20 does not yield \\$405, failing the mathematical proof required.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 112,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Fifteen percent of what number is 240?\nA) 800\nB) 1600\nC) 1605\nD) 1601",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "1601",
+      "800",
+      "1605"
+    ],
+    "explanation": "To solve this problem, set up the equation where 15% of an unknown number equals 240. This means multiplying the number by 0.15 results in 240, so dividing 240 by 0.15 yields 1600. Option A is incorrect because 1601 multiplied by 0.15 does not equal 240. Option B is wrong as 800 times 0.15 equals 120, which is far too low. Option D fails because 1605 times 0.15 results in 240.75, not the required 240. Only 1600 satisfies the condition that fifteen percent of it is exactly 240.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 113,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "What percent of 40 is 28?\nA) 70%\nB) 35 and 25\nC) You need more data, for instance the width\nD) 40*.28=11.20\n11.2",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "40*.28=11.20\n11.2",
+      "You need more data, for instance the width",
+      "35 and 25"
+    ],
+    "explanation": "The correct option, 70%, is right because you divide the part (28) by the whole (40) to get 0.7, then multiply by 100. The other choices fail this logic. The first option incorrectly multiplies 40 by 0.28 instead of dividing, yielding 11.20 which is mathematically invalid for this query. The second choice simply lists the result of that wrong multiplication without addressing the percent calculation. The third option introduces irrelevant data like width and 25, which are not needed to solve this straightforward percentage problem.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 114,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "Seventy is 14% of what number?\nA) (\\(\\frac{240}{400}\\))=(x/100)\n60%\nB) 500\nC) 70*.14=9.8\n9.8\nD) b), because it has 5 apple, not 3",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "70*.14=9.8\n9.8",
+      "b), because it has 5 apple, not 3",
+      "(\\(\\frac{240}{400}\\))=(x/100)\n60%"
+    ],
+    "explanation": "To find the unknown number, set up the equation where 14% of x equals 70, meaning 0.14x = 70. Dividing 70 by 0.14 yields exactly 500, confirming the value. The option calculating 70 times 0.14 incorrectly multiplies instead of dividing to find the whole. The confusing percentage ratio involving apples and \\(\\frac{240}{400}\\) is irrelevant to this direct percentage problem. Finally, 60% is a completely different value that does not satisfy the condition where it represents 70 out of the total.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 115,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "What percent of 125 is 25?\nA) 20%\nB) 21%\nC) 25%\nD) 10%",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "21%",
+      "10%",
+      "25%"
+    ],
+    "explanation": "To find the percentage, divide 25 by 125 to get 0.2, then multiply by 100 to obtain 20%. This calculation directly yields option A as the only accurate result. Option B suggests 21%, which is an overestimation resulting from a calculation error. Option C implies 10%, which is half the correct value and fails to reflect the actual ratio. Option D states 25%, incorrectly assuming the parts are equal when they are not. Therefore, only the first choice accurately represents the mathematical relationship between the two numbers.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 116,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Write the \u201cSwitch-Around Rule\u201d in your own words, and give examples to show if it\u2019s always, sometimes, or rarely true.\nA) The switch-around rule is always true because you can flip the numbers for any operation, like subtraction, and the answer stays the same.\nB) The switch-around rule is sometimes true, but mostly false because flipping the numbers changes the order of operations.\nC) The switch-around rule only works for subtraction and division, while addition and multiplication are not commutative.\nD) The switch-around rule is not always true, it applies only for addition and multiplication. For example: 7+3=10 and 3+7=10, but 7-3=4 and 3-7=-4, it's not the same",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The switch-around rule is always true because you can flip the numbers for any operation, like subtraction, and the answer stays the same.",
+      "The switch-around rule only works for subtraction and division, while addition and multiplication are not commutative.",
+      "The switch-around rule is sometimes true, but mostly false because flipping the numbers changes the order of operations."
+    ],
+    "explanation": "A common mistake is answering \"The switch-around rule says 2-1=1 and 1-2=1\". The correct answer is \"The switch-around rule is not always true, it applies only for addition and multiplication. For example: 7+3=10 and 3+7=10, but 7-3=4 and 3-7=-4, it's not the same\" (Functions and Function Notation).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 117,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Find the missing number: 23=2+5+__+4+6\nA) 23=7+__+10\nB) 3 is\nC) 11 is\nD) 7 is",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "7 is",
+      "3 is",
+      "11 is"
+    ],
+    "explanation": "The equation requires finding a value that, when added to 7, 10, and 4, equals 23. Since 7 plus 10 plus 4 equals 21, the missing number must be 2 to reach the total of 23. The provided solution path simplifies the equation to 23 minus 17, which directly yields 6, making 6 the only mathematically valid choice. The option stating 7 is incorrect because adding 7 to the known numbers results in 28, exceeding the target sum. Similarly, choosing 3 is wrong as it creates a total of 25, and selecting 11 leads to a sum of 32, both violating the equation's requirement. Therefore, only the option identifying 6 satisfies the condition that the sum of all components equals 23.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 118,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "True or false? 2\u00f73=3\u00f72\nA) False. Commutative and associative properties are not true for division\nB) True, because of the switch-around rule\nC) 5+6*10=11*10=110\nD) x=11",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "True, because of the switch-around rule",
+      "5+6*10=11*10=110",
+      "x=11"
+    ],
+    "explanation": "The statement is false because division is not commutative; changing the order of numbers changes the result. Dividing 2 by 3 yields approximately 0.67, while dividing 3 by 2 equals 1.5, proving the values are not equal. The provided wrong answer claiming the statement is true relies on a completely unrelated math problem involving addition and multiplication, which does not apply here. This specific error demonstrates a fundamental misunderstanding of how division operates compared to addition or multiplication.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 119,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Sarah shares \\$15.40 among some of her friends. She gives the same amount to each person. (a) How many people might there\nA) You can share \\$15.40 among 2, 4, and 7 people:\nB) You can share \\$15.40 among 2, 5, and 7 people (\\$7.70, \\$3.08, \\$2.20 each)\nC) You can share \\$15.40 among 2, 3, and 4 people (\\$7.70, \\$5.133..., \\$3.85 each)\nD) You can share \\$15.40 among 3, 5, and 6 people (\\$5.133..., \\$3.08, \\$2.566... each)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "You can share \\$15.40 among 3, 5, and 6 people (\\$5.133..., \\$3.08, \\$2.566... each)",
+      "You can share \\$15.40 among 2, 3, and 4 people (\\$7.70, \\$5.133..., \\$3.85 each)",
+      "You can share \\$15.40 among 2, 5, and 7 people (\\$7.70, \\$3.08, \\$2.20 each)"
+    ],
+    "explanation": "A common mistake is answering \"3*5= 15, so 3 friends can share the money but I don't know what to do with the 40 cents, because there's no way to share evenly 40 cents with 3 people. Since 3 times 5 is the same as 5 times 3, 15.4 shared by 3 has to be the same as 15.4 shared by 5, then we can also share the 15.4 dollars with 5 people, but we ignore the 40 cents.\". The correct answer is \"You can share \\$15.40 among 2, 4, and 7 people:\n\\$15.4\u00f72= \\$7.70\n\\$15.4\u00f74= \\$3.85\n\\$15.4\u00f77= \\$2.20\nThis way, everyone gets the same amount. You can give more answers if you divide 15.40 by more numbers\" (Functions and Function Notation).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 120,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "x+1-3+1-1+2-1=6 in the context of putting blocks in and out of a bag\nA) 12\nB) 8\nC) x=7\nD) 14",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "8",
+      "14",
+      "12"
+    ],
+    "explanation": "To solve the equation x+1-3+1-1+2-1=6, you must simplify the constants on the left side by adding and subtracting them sequentially, which results in a net change of -1. Subtracting this total from the variable x leaves x+5=6, requiring you to subtract 5 from both sides to isolate x and find the value of 7. Option A is incorrect because it fails to properly combine the constant terms before solving for the variable. Option B is wrong as it ignores the negative contributions of the constants, leading to an inflated result. Option C is also incorrect because it misinterprets the order of operations or the specific values involved in the bag problem context.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 121,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Simplify: 3(6x-4)+2(3x-3)\nA) 24x-18\nB) 23\nC) 19\nD) 9",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "19",
+      "9",
+      "23"
+    ],
+    "explanation": "To simplify the expression, distribute the 3 into the first parentheses to get 18x minus 12, then distribute the 2 into the second parentheses to get 6x minus 6. Combining the like terms 18x and 6x results in 24x, while adding the constants -12 and -6 yields -18, confirming the final result is 24x-18. Option A is incorrect because it fails to distribute the coefficients properly, resulting in an invalid sum. Option B is wrong as it incorrectly adds the x terms without distributing the multipliers first. Option C is also incorrect because it miscalculates the constant terms entirely.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 122,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "The temperature on a chosen date last year was 5 and the temperature on the corresponding day this year is -3. Write an\nA) T2-T1=-3-5=-8\nB) 18x-12+6x-6=24x+18\nC) T2-T1=-3-5=8\nThe temperature increased 8 degrees.\nD) 5+6*10=11*10=110",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "T2-T1=-3-5=8\nThe temperature increased 8 degrees.",
+      "18x-12+6x-6=24x+18",
+      "5+6*10=11*10=110"
+    ],
+    "explanation": "The correct option calculates the difference between this year's temperature and last year's, resulting in -8, which signifies an 8-degree drop. Subtracting 5 from -3 yields -8, mathematically confirming a decrease rather than an increase. The second choice incorrectly states the temperature increased by 8 degrees, ignoring the negative sign that indicates a drop. The third option presents a completely unrelated algebraic equation with no connection to the temperature data provided in the question. The fourth answer also fails as it uses an irrelevant multiplication problem that does not address the temperature change calculation at all.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 123,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "-8-3=x\nA) x=-11\nB) -5\nC) -12\nD) 0",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "-12",
+      "-5",
+      "0"
+    ],
+    "explanation": "To solve the equation -8 minus 3 equals x, you must perform the subtraction directly. Since both numbers are negative or you are subtracting a positive from a negative, the result moves further left on the number line, yielding -11. This confirms the solution is accurate because -8 and 3 are on the same side of zero relative to the operation.\n\nThe option -12 is incorrect because it assumes you are adding the absolute values together instead of subtracting. The choice 11 is wrong because it ignores the negative sign entirely, treating the operation as purely positive. Finally, 0 is incorrect as it implies the two terms cancel each other out, which only happens if the signs were identical and magnitudes equal, not in this case.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 124,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Solve for n: 13n+196=391\nA) x=11\nB) 15\nC) T2-T1=-3-5=8\nThe temperature increased 8 degrees.\nD) 13n+196=391\n13n=196-391\n13n=-195\nn=-15",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "13n+196=391\n13n=196-391\n13n=-195\nn=-15",
+      "T2-T1=-3-5=8\nThe temperature increased 8 degrees.",
+      "x=11"
+    ],
+    "explanation": "To solve for n, subtract 196 from both sides of the equation to get 13n equals 195, then divide by 13 to find n equals 15. Option A is wrong because it restates the original equation without solving it. Option B incorrectly subtracts 391 from 196 instead of 196 from 391, leading to a negative result. Option C stops at the correct intermediate step of 13n equals 195 but fails to divide by 13 to isolate n. Option D calculates a temperature difference unrelated to the algebraic problem, and Option E selects a value that does not satisfy the original equation when substituted back.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 125,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Solve for n: 5n+12=3n+24\nA) 7\nB) 3\nC) 11\nD) n=6",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "7",
+      "3",
+      "11"
+    ],
+    "explanation": "To solve the equation, subtract 3n from both sides to get 2n + 12 = 24, then subtract 12 from both sides to find 2n = 12. Dividing by 2 confirms n equals 6. Option A is wrong because it adds 12 instead of subtracting variables. Option B fails to isolate the variable correctly by missing the subtraction step. Option D results from adding 12 to 24 without dividing by the coefficient of n.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 126,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Solve for n: 16n-215=265\nA) 2n*3\n6\nB) 16n-215-265=0\n16n=265-215=50\nn=\\(\\frac{50}{16}\\)\nn=3.125\nC) n=30\nD) 5(3)-\\(\\frac{24}{3}\\)+10=15-\\(\\frac{24}{3}\\)+10=-\\(\\frac{9}{3}\\)+10=-3+10=7",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "16n-215-265=0\n16n=265-215=50\nn=\\(\\frac{50}{16}\\)\nn=3.125",
+      "2n*3\n6",
+      "5(3)-\\(\\frac{24}{3}\\)+10=15-\\(\\frac{24}{3}\\)+10=-\\(\\frac{9}{3}\\)+10=-3+10=7"
+    ],
+    "explanation": "To solve the equation, add 215 to both sides to isolate the term with n, resulting in 16n equals 480, which then divides to n equals 30. Option A incorrectly sets the equation to zero by subtracting 265 instead of adding 215. Option B makes a calculation error by subtracting 215 from 265 to get 50 rather than adding 215 to 265. Option C divides 50 by 16 without first isolating n correctly, leading to an incorrect fraction. Option D and E present completely unrelated algebraic expressions that do not follow the steps needed to solve the given linear equation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 127,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Solve for n: 19n+67-11n-48=131\nA) n=14\nB) 7\nC) 19\nD) 15",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "15",
+      "7",
+      "19"
+    ],
+    "explanation": "To solve the equation, first combine like terms by adding 19n and -11n to get 8n, then subtract 48 from 67 to result in 19. This simplifies the equation to 8n + 19 = 131. Next, subtract 19 from both sides to isolate the term with n, yielding 8n = 112. Finally, divide 112 by 8 to find that n equals 14. Option A is incorrect because it fails to properly combine the variables or constants. Option B is wrong as it likely results from an arithmetic error during the subtraction or division steps. Option C is also incorrect because it does not satisfy the original equation when substituted back in.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 128,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Solve: 5+6*10=\nA) 65\nB) 130\nC) 70\nD) 66",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "66",
+      "130",
+      "70"
+    ],
+    "explanation": "To solve this equation, you must apply the order of operations, which requires multiplying before adding. Therefore, 6 times 10 equals 60, and adding 5 to that result gives 65. Option A (66) is incorrect because it adds 5 and 6 first, ignoring the multiplication priority. Option B (130) is wrong as it multiplies 5 by 6 and then by 10, failing to follow the correct sequence. Option C (70) is incorrect because it adds 5 and 6 to get 11, then multiplies by 10, which violates the standard mathematical rules.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 129,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Solve: 17-3*5=\nA) 17-3*5=14*5=70\nB) T2-T1=-3-5=8\nThe temperature increased 8 degrees.\nC) 13n+196=391\n13n=196-391\n13n=-195\nn=-15\nD) 2",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "17-3*5=14*5=70",
+      "13n+196=391\n13n=196-391\n13n=-195\nn=-15",
+      "T2-T1=-3-5=8\nThe temperature increased 8 degrees."
+    ],
+    "explanation": "The correct option is 2 because it applies the order of operations correctly by multiplying 3 and 5 first to get 15, then subtracting that result from 17 to equal 2. The first wrong answer incorrectly performs subtraction before multiplication, violating the standard rule that multiplication takes precedence. The second option presents an unrelated linear equation with a variable n that does not match the given arithmetic problem. The third choice calculates a temperature difference of 8 degrees, which is irrelevant to the math expression provided. Finally, the last option describes a temperature change scenario that has no connection to the numerical values in the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 130,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Evaluate the following expression for y = 3: 5y-24\u00f7y+10\nA) 17\nB) 18x-12+6x-6=24x+18\nC) 5(3)-\\(\\frac{24}{3}\\)+10=15-\\(\\frac{24}{3}\\)+10=-\\(\\frac{9}{3}\\)+10=-3+10=7\nD) True, because of the switch-around rule",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "5(3)-\\(\\frac{24}{3}\\)+10=15-\\(\\frac{24}{3}\\)+10=-\\(\\frac{9}{3}\\)+10=-3+10=7",
+      "18x-12+6x-6=24x+18",
+      "True, because of the switch-around rule"
+    ],
+    "explanation": "To solve the expression 5y-24\u00f7y+10 for y=3, you must strictly follow the order of operations, performing division before addition or subtraction. Substituting 3 for y gives 5(3)-24\u00f73+10, which simplifies to 15-8+10. Calculating left to right yields 7, then adding 10 results in 17. Option A incorrectly calculates the division as -\\(\\frac{9}{3}\\), leading to a final sum of 7 instead of 17. Option B substitutes variables incorrectly and produces an unrelated expression involving 24x. Option C claims the statement is true without performing the necessary arithmetic steps to verify the result. Option D references a nonexistent switch-around rule that does not apply to this mathematical evaluation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 131,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "Read the following phrase: \"three more than twice n\" Write an expression to represent the phrase Evaluate the expression\nA) 5+6*10=11*10=110\nB) 2n*3\n6\nC) T2-T1=-3-5=8\nThe temperature increased 8 degrees.\nD) 2n+3",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "2n*3\n6",
+      "T2-T1=-3-5=8\nThe temperature increased 8 degrees.",
+      "5+6*10=11*10=110"
+    ],
+    "explanation": "The phrase \"three more than twice n\" translates directly to 2n+3 because \"twice n\" means 2n and \"three more than\" indicates addition. The other options fail to match the linguistic structure of the prompt. Option 2n*3 incorrectly uses multiplication instead of addition, misinterpreting \"more than.\" The remaining choices like T2-T1=-3-5=8 or 5+6*10=110 introduce unrelated variables and numbers that do not exist in the original phrase, making them irrelevant to the algebraic translation requested.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 178,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "Sue weighs 1 kg less than Chris. Chris weighs y kg. What can you write for Sue's weight?\nA) y+1\nB) y-1\nC) 1-y\nD) y-1",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "y+1",
+      "1-y",
+      "y/1-1"
+    ],
+    "explanation": "The correct option is y-1 because the problem states Sue weighs 1 kg less than Chris, whose weight is represented by the variable y. Subtracting 1 from y accurately reflects this relationship in an algebraic expression. The other choices are incorrect because they are specific numbers rather than algebraic expressions involving the variable y. Option 2 implies a fixed weight regardless of Chris's actual mass, which contradicts the problem's condition. Similarly, options 6 and 14 are arbitrary constants that do not account for the unknown value of y or the subtraction of 1 kg.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 179,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "h+m+n=h+p+n always, sometimes, or never true?\nA) Sometimes true\nB) Never true\nC) Sometimes false\nD) Always true",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Always true",
+      "Never true",
+      "Sometimes false"
+    ],
+    "explanation": "The equation holds true only when the values of h and p are identical, making \"sometimes true\" the accurate choice. If h equals p, the terms cancel out perfectly, leaving m equal to n on both sides. However, if h differs from p, the equality breaks regardless of m or n, proving the statement is not universally valid. Options claiming it is always true ignore cases where h and p vary, while \"never true\" fails because valid scenarios exist. The \"false\" option is incorrect since the statement describes a conditional truth rather than a falsehood.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 180,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "Ricardo has 8 pet mice. He keeps them in two cages that are connected so that the mice can go back and forth between the\nA) 1\nB) 2\nC) b=g is true when there are 4 mice in each box, so b = g is true for number 4\nD) 3",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation": "Option b is correct because the problem states there are 8 mice split equally between two cages, meaning 4 mice per cage. Since the variable g represents the number of mice in one cage, g equals 4, making the equation b = g valid when b also equals 4. Option a is incorrect because it suggests a different distribution that does not satisfy the equal split condition required by the scenario. Option c fails because placing 5 mice in one cage leaves only 3 for the other, breaking the equality between b and g. Option d is wrong as 2 mice per cage would only total 4 mice, contradicting the given total of 8. Finally, option e is invalid since 9 mice exceeds the total number of mice Ricardo possesses.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 181,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "Are these number sentences true or false? a = a c = r\nA) c = r is always true because the variable c must equal the variable r\nB) c = r is true because the letters are both lowercase\nC) c = r is always false because the variable c cannot equal the variable r\nD) c=r could be true or false, depending on the values of these variables",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "c = r is always true because the variable c must equal the variable r",
+      "c = r is always false because the variable c cannot equal the variable r",
+      "c = r is true because the letters are both lowercase"
+    ],
+    "explanation": "A common mistake is answering \"The first sentence is true, the variable a has to be the same in the same problem. The second one must be false, because when a letter represents a number, usually each letter represents a different number, not the same ones.\". The correct answer is \"c=r could be true or false, depending on the values of these variables\" (Linear Equations in One Variable).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 182,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "Will different solutions be obtained from the following equations? 7w+22=109 and 7n+22=109\nA) No, because the variable names must change in each equation for the solutions...\nB) Yes, because w and n represent different numerical values\nC) Of course, the solution is the same\nD) Yes, because 7w and 7n are fundamentally different algebraic terms",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Yes, because w and n represent different numerical values.",
+      "No, because the variable names must change in each equation for the solutions to be identical.",
+      "Yes, because 7w and 7n are fundamentally different algebraic terms."
+    ],
+    "explanation": "The equations 7w+22=109 and 7n+22=109 are identical in structure, differing only in the variable name. Solving either equation requires subtracting 22 from 109 to get 87, then dividing by 7, yielding a unique value of approximately 12.43. Since the mathematical operations and constants are identical, the resulting numerical solution must be the same regardless of whether the variable is labeled w or n. Option 0 is incorrect because the solutions are mathematically equivalent. Option 1 is wrong as it falsely suggests the solutions differ due to different letter labels. Option 1 cannot be determined is invalid because the algebraic process guarantees a specific result. Therefore, the solutions are identical.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 184,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "What can you say about r if r=s+t and r+s+t=30\nA) 16\nB) 20\nC) 30\nD) r=15",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "16",
+      "30",
+      "20"
+    ],
+    "explanation": "To find the value of r, substitute the equation r = s + t into the second equation, resulting in (s + t) + s + t = 30. This simplifies to 2s + 2t = 30, which means 2(s + t) = 30. Since r equals s + t, dividing 30 by 2 directly gives r = 15. Option A (16) is incorrect because it does not satisfy the relationship where the sum of r, s, and t is exactly 30. Option B (30) is wrong as it implies s and t are zero, which contradicts the first equation unless r is also zero. Option C (20) fails because if r were 20, then s + t would be 20, making the total sum 40, not 30.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 185,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "Can you tell which is larger, 2n or n+2? Please explain your answer\nA) never true\nB) 2n, because it is a multiplication\nC) an't tell, because for some n, 2n may equal or be less than n+2\nD) B-T=1",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "2n, because it is a multiplication",
+      "B-T=1",
+      "never true"
+    ],
+    "explanation": "The correct choice states we cannot determine the relationship because the result depends on the specific value of n. For instance, if n is 1, then 2n equals 2 while n+2 also equals 3, making n+2 larger. Conversely, if n is 5, 2n becomes 10 which exceeds n+2 at 7. Since multiplication does not always yield a larger result than addition for every positive integer, no single expression is universally greater. Option A claiming 2n is always larger ignores cases where n is less than 2. Option B incorrectly assumes multiplication always wins and falsely cites a formula B-T=1 which is irrelevant to comparing algebraic expressions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 186,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "What can you say about c if c+d=10 and c is less than d?\nA) can be equal to any number between 0 and 4, depending on the value of d\nB) 2\nC) 5\nD) 9",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "5",
+      "2",
+      "9"
+    ],
+    "explanation": "The correct option states that c can be any number between 0 and 4 because the sum of c and d is 10 while c is strictly less than d. If c were 5 or greater, d would have to be less than or equal to 5, violating the condition that c is less than d. Conversely, if c is 4, d equals 6, satisfying both the sum and inequality. The value 5 is incorrect because it forces d to be 5, making them equal rather than c less than d. The value 2 is wrong because it allows d to be 8, which is valid, but the option implies a fixed value rather than a range. The value 9 is impossible since d would need to be 1, making c greater than d. Therefore, c must fall strictly below 5 to maintain the required relationship.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 187,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "The perimeter of a triangle is 44 cm. One side of the triangle equals 14 cm, the second side is 2x cm long and the third\nA) Equation: 44=14+2x+x, 44=14+3x, 30=3x, x=10\nB) 5\nC) 11\nD) 15",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "11",
+      "5",
+      "15"
+    ],
+    "explanation": "A common mistake is answering \"44-14=30, \\(\\frac{30}{3}\\)=10, x=5 [the learners did not write any equation, but they used the \"backward operations'' to calculate the missing value]\". The correct answer is \"Equation: 44=14+2x+x, 44=14+3x, 30=3x, x=10\" (Linear Equations in One Variable).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 189,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "x+4=2\nA) -3\nB) x=-2\nC) 0\nD) -4",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "-3",
+      "-4",
+      "0"
+    ],
+    "explanation": "To solve the equation x plus 4 equals 2, you must isolate the variable by subtracting 4 from both sides, resulting in x equals negative 2. This makes option A the only valid choice because it correctly reflects the mathematical operation required to balance the equation. Option B is incorrect because adding 2 to the left side does not maintain equality. Option C is wrong as it implies x is positive, which contradicts the subtraction needed to reach 2. Finally, option D fails because zero does not satisfy the original equation when substituted back in.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 190,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Mary's basic wage is \\$20 per week. She is also paid another \\$2 for each hour of over-time she works. If H stands for the\nA) W=20+2H\nB) 21\nC) 25\nD) 10",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "21",
+      "10",
+      "25"
+    ],
+    "explanation": "The equation W=20+2H correctly models Mary's total weekly pay by adding her fixed \\$20 wage to the variable \\$2 earned for every hour H of overtime. This algebraic form directly reflects the problem's statement that her earnings depend on both a base amount and a rate multiplied by hours worked. The other options fail because they ignore the variable relationship entirely; 21, 10, and 25 represent specific dollar amounts that do not account for the unknown number of overtime hours H, making them impossible general solutions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 191,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "There were three kinds of candy bars being sold at the concession stand during the Friday dance. There were 22 more Snic\nA) 117\nB) 58\nC) K+(K+32)+(K+22)=306\nD) 121",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "117",
+      "58",
+      "121"
+    ],
+    "explanation": "A common mistake is answering \"I'll use K for the Kit Kat bars, S for Snickers and P for Peanut Butter Cups.\nK=S+22\nP=K+32\nP+k+S=306\nIf I divide 306 by 3, I get 102, there would be 102 bars of each if all were equal. Since there are more Kit Kats, I'll guess K=80.\nP=80+32=112\n80=S+22\n80=58+22, S=58\nP=112, K=80 and S=58\nChecking: 112+80+58=250\nThen, there are more Kit Kats...  My initial guess is wrong...\". The correct answer is \"K+(K+32)+(K+22)=306\nK=84\nS=106\nP=116\" (Linear Equations in One Variable).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 192,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve: \\((x+3)^2\\)&lt;=6x+18\nA) -3&lt;=x&lt;=3\nB) 23\nC) \\((x+3)^2\\)+6(x+3)=0\nD) 3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "\\((x+3)^2\\)+6(x+3)=0",
+      "3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x",
+      "23"
+    ],
+    "explanation": "The inequality \\((x+3)^2\\) <= 6x+18 simplifies by expanding the left side to \\(x^2\\) + 6x + 9, then subtracting 6x and 18 from both sides to get \\(x^2\\) - 9 <= 0. Factoring yields (x-3)(x+3) <= 0, which holds true only when x is between -3 and 3, inclusive. Option A incorrectly adds terms instead of expanding or subtracting, while Option B performs unrelated algebraic manipulations that do not solve the inequality. Option C presents a random number that fails to represent the solution set, and Option D is a nonsensical equation irrelevant to the problem. Therefore, the range -3 <= x <= 3 is the only mathematically valid solution derived from proper algebraic steps.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 193,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Two students have the same amount of candies. Briana has one box, two tubes, and 7 loose candies. Susan has one box, one\nA) Tube:13 candies\nB) 16\nC) 18\nD) 15",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "15",
+      "16",
+      "18"
+    ],
+    "explanation": "A common mistake is answering \"Box=B\nTube=T\nBriana: 1B+2T+7\nSusan: 1B+1T+20\nB+2T+B+T=20+7\n2B+3T=27\nI need more information to solve the problem, or I have to guess the amount of candies in the box...\". The correct answer is \"Tube:13 candies\nThe box could contain any amount of candies\" (Linear Equations in One Variable).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 194,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "The first row of a concert hall has 10 seats. Each row thereafter has 2 more seats than the row in the front of it. Let\nA) 6\nB) 14\nC) 18\nD) S=10+2(R-1)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "18",
+      "6",
+      "14"
+    ],
+    "explanation": "A common mistake is answering \"You could do guess and check. For example if the last row has 50 seats, you do 50-8=42 and you would have to figure out what times 2 equals 42. That would be 21. It's easy, so you don't need an equation for finding the number of seats.\". The correct answer is \"S=10+2(R-1)\" (Linear Equations in One Variable).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 195,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "3 + 4 = 7       \u2191 The arrow above points to a symbol. What does the symbol mean?\nA) It shows that the left side is the cause and the right side is the effect of the calculation.\nB) The equal sign means the numbers on both sides are identical in value, not just related.\nC) The symbol is the equal sign and it means that the statement on the left side is equivalent to the statement on the right side\nD) The symbol indicates that the operation must be performed immediately to get a new number.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The equal sign means the numbers on both sides are identical in value, not just related.",
+      "The symbol indicates that the operation must be performed immediately to get a new number.",
+      "It shows that the left side is the cause and the right side is the effect of the calculation."
+    ],
+    "explanation": "The arrow points to the equals sign, which indicates that the mathematical expression on the left is equivalent to the result on the right. This symbol signifies that the sum of three and four yields the same value as seven, establishing a valid equation. Option A is incorrect because the symbol is not the number zero. Option B is wrong since the presence of the equals sign and the true statement 3 + 4 = 7 allows us to determine the meaning clearly. Option C is also incorrect as the symbol has a specific, standard definition in mathematics.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 196,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Is the number that goes in the [_] the same number in the following two equations? 2*[_]+15=31 2*[_]+15-9=31-9\nA) The number that goes in the squares is the same for both equations and it equals 8\nB) 13\nC) 9\nD) 4",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "9",
+      "4",
+      "13"
+    ],
+    "explanation": "Solving the first equation by subtracting 15 from both sides yields 2 times the unknown equals 16, which divides to 8. Substituting 8 into the second equation confirms the result remains 8 because subtracting 9 from both sides of the original equation maintains equality. Option A is incorrect because 9 multiplied by 2 plus 15 equals 33, not 31. Option B fails as 4 times 2 plus 15 results in 23, failing to satisfy the first equation. Option D is wrong because 13 times 2 plus 15 equals 41, which does not equal 31.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 197,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "For the following expressions, answer: What do the equal signs tell us? Which is more, one third or four twelfths? \\(\\frac{1}{3}\\) =\nA) The equal signs indicate that the numerators must match, so one third and four twelfths are not equivalent because 1 does not equal 4.\nB) The equal signs show that the fractions represent the same amount of a whole, yet one third is more than four twelfths since one third has a larger numerator.\nC) The equal signs tell us that both expressions at each side are equivalent to each other. One third is equal to four twelfths.\nD) The equal signs tell us that both expressions are the same in value, but one third is actually smaller than four twelfths because the denominators are different.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The equal signs tell us that both expressions are the same in value, but one third is actually smaller than four twelfths because the denominators are different.",
+      "The equal signs indicate that the numerators must match, so one third and four twelfths are not equivalent because 1 does not equal 4.",
+      "The equal signs show that the fractions represent the same amount of a whole, yet one third is more than four twelfths since one third has a larger numerator."
+    ],
+    "explanation": "A common mistake is answering \"The equal signs tell us ... that you just do the answer.\nIs one third more than four twelfths? .... no ...\". The correct answer is \"The equal signs tell us that both expressions at each side are equivalent to each other. One third is equal to four twelfths.\" (Quadratic Equations).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 198,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Students were shown the following equation on a balance: 5n+3n+11=5n+11+39 and asked if they noticed any equal terms on\nA) Always true\nB) Never true\nC) False\nD) \"yes, it's true for the original equation\"",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Always true",
+      "Never true",
+      "False"
+    ],
+    "explanation": "The equation states 5n+3n+11 equals 5n+11+39. Combining like terms on the left yields 8n+11, while the right side simplifies to 5n+11+39 or 5n+48. Since 8n+11 is not equivalent to 5n+48 for all values of n, the statement is false. The option claiming it is always true ignores that n must be a specific value to balance the sides. The choice suggesting it is never true is incorrect because the equation holds true only when n equals 7, making it conditionally true rather than universally false. Finally, the answer stating it is false correctly identifies that the terms do not balance for every possible value of n, as the coefficients of n differ on both sides.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 199,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve for n, check your answer 7-1/2n=18\nA) 9\nB) n=-22\nC) 23\nD) 19",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "19",
+      "9",
+      "23"
+    ],
+    "explanation": "To solve for n, distribute the negative one-half across the term, resulting in 7 plus 11 equals 18, which confirms the answer of negative 22 is correct. Substituting negative 22 into the equation yields 7 plus 11, totaling 18 as required by the problem statement. Option A is incorrect because substituting 19 yields 7 minus 9.5, which equals negative 2.5, not 18. Option B fails because 9 results in 7 minus 4.5, or 2.5, which does not equal 18. Option C is wrong since 23 produces 7 minus 11.5, resulting in negative 4.5 instead of the target value of 18.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 200,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "Solve for t: t-24=23t Check your answer\nA) 3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x\nB) t=-\\(\\frac{12}{11}\\)\nC) t-24=23t\n-24=24t\n-1=t\nt=-1\nCheck:\n-1-24=23*-1\n-23=23*-1\nOK\nD) x=0\n50+60=110",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "t-24=23t\n-24=24t\n-1=t\nt=-1\nCheck:\n-1-24=23*-1\n-23=23*-1\nOK",
+      "3(6x-4)+2(3x-3)=18x-12+6x-6=18x-18+6x",
+      "x=0\n50+60=110"
+    ],
+    "explanation": "The correct option, t=-\\(\\frac{12}{11}\\), is verified by substituting it back into the equation t-24=23t, which yields -25 \\(\\frac{1}{11}\\) on both sides, confirming the solution. The choice t-24=23t is incorrect because it merely restates the original problem without solving for the variable. The option -24=24t fails because it incorrectly isolates the variable and ignores the term 23t on the right side of the equation. Furthermore, -1=t is wrong as substituting -1 results in -23 on the left and -23 on the right, which implies the equation is already solved rather than finding a new value. Finally, t=-1 appears to be a distractor based on a completely unrelated math problem involving 6x and 50+60, making it irrelevant to the current equation.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

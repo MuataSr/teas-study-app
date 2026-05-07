@@ -1,0 +1,752 @@
+[
+  {
+    "id": 952,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse counseling on fertility explains which hormone surge triggers ovulation.\nA) LH\nB) Estrogen\nC) Progesterone\nD) FSH",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Estrogen",
+      "C) Progesterone",
+      "D) FSH"
+    ],
+    "explanation": "The nurse explains that the Luteinizing Hormone (LH) surge is the specific trigger for ovulation. While Estrogen and Progesterone regulate the menstrual cycle, they do not directly cause the egg release. FSH initiates follicle growth but lacks the immediate surge effect needed for ovulation. Therefore, option A is the only hormone that fits this physiological event.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 953,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse interpreting an ECG recalls the SA node is located in the:\nA) Interventricular septum\nB) AV junction\nC) Left atrium\nD) Right atrium near superior vena cava",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Interventricular septum",
+      "B) AV junction",
+      "C) Left atrium"
+    ],
+    "explanation": "The SA node sits in the right atrium near the superior vena cava, initiating heartbeats. Option A is wrong because the septum separates ventricles, not the atria. Option B is incorrect as the AV junction connects atria to ventricles. Option C fails since the left atrium receives oxygenated blood, not the node's location. This anatomy ensures proper electrical impulse origin for cardiac rhythm.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 954,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse assisting ventilation explains the effect of diaphragm contraction.\nA) Increases thoracic volume\nB) Decreases thoracic volume\nC) Closes glottis\nD) Raises ribs inward",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Decreases thoracic volume",
+      "C) Closes glottis",
+      "D) Raises ribs inward"
+    ],
+    "explanation": "When the diaphragm contracts, it flattens and moves downward, expanding the thoracic cavity's volume to draw air in. Option A correctly states this increase, whereas B falsely claims a decrease that would expel air. Options C and D are incorrect because the glottis opens for inhalation, and ribs move upward, not inward. This mechanism is fundamental to normal breathing physiology.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 955,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse teaching after cholecystectomy explains the function of bile.\nA) Digest proteins\nB) Neutralize pepsin\nC) Absorb carbohydrates\nD) Emulsify fats",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Digest proteins",
+      "B) Neutralize pepsin",
+      "C) Absorb carbohydrates"
+    ],
+    "explanation": "Bile emulsifies fats into smaller droplets to aid digestion, making option D correct. It does not digest proteins, neutralize pepsin, or absorb carbohydrates, so A, B, and C are wrong. This function is essential after cholecystectomy to process dietary lipids effectively.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 956,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse caring for a vascular wound identifies which tissue lines blood vessels.\nA) Simple squamous epithelium (endothelium)\nB) Stratified squamous\nC) Transitional epithelium\nD) Pseudostratified columnar",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Stratified squamous",
+      "C) Transitional epithelium",
+      "D) Pseudostratified columnar"
+    ],
+    "explanation": "The nurse identifies simple squamous epithelium, known as endothelium, as the tissue lining blood vessels. This single layer of flat cells facilitates efficient diffusion of gases and nutrients within the vascular system. Option B is incorrect because stratified squamous epithelium protects surfaces like the skin, not internal vessels. Option C is wrong as transitional epithelium lines the urinary tract, while option D describes airway linings. Thus, only option A matches the specific histological structure of blood vessel walls.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 957,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse monitoring shock notes sympathetic stimulation. What is the expected effect on pupils?\nA) Constriction (miosis)\nB) Dilation (mydriasis)\nC) No change\nD) Unequal size",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Constriction (miosis)",
+      "C) No change",
+      "D) Unequal size"
+    ],
+    "explanation": "In shock, sympathetic stimulation causes pupils to dilate via mydriasis as the body prepares for stress. Option A is wrong because constriction occurs with parasympathetic activity, not shock. Option C is incorrect since pupils do change size during sympathetic response. Option D is false because unequal size suggests pathology, not uniform sympathetic drive. Thus, B is the only accurate prediction for pupil behavior in this scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 958,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse assessing thyroid function explains negative feedback. Which is correct?\nA) High T3/T4 inhibits TRH and TSH\nB) Low T3/T4 stimulates insulin\nC) High cortisol stimulates CRH\nD) Low calcium stimulates calcitonin",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Low T3/T4 stimulates insulin",
+      "C) High cortisol stimulates CRH",
+      "D) Low calcium stimulates calcitonin"
+    ],
+    "explanation": "In the context of thyroid function and negative feedback, option A is correct because elevated levels of T3 and T4 directly inhibit the release of TRH from the hypothalamus and TSH from the pituitary gland. This mechanism ensures homeostasis by preventing overproduction of thyroid hormones when levels are already high. Option B is incorrect as low thyroid hormones do not primarily stimulate insulin, which is unrelated to this specific feedback loop. Option C is wrong because high cortisol suppresses CRH rather than stimulating it, contradicting the negative feedback principle. Option D is inaccurate since low calcium levels trigger parathyroid hormone, not calcitonin, which responds to high calcium.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 959,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse educating post-mastectomy identifies lymph nodes at highest risk for arm lymphedema.\nA) Inguinal nodes\nB) Axillary nodes\nC) Cervical nodes\nD) Mesenteric nodes",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Inguinal nodes",
+      "C) Cervical nodes",
+      "D) Mesenteric nodes"
+    ],
+    "explanation": "The axillary nodes drain the upper limb, making them the primary risk for arm lymphedema after mastectomy. Inguinal nodes drain the lower body, cervical nodes handle the neck, and mesenteric nodes serve the intestines. Therefore, only the axillary location directly impacts arm swelling.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 960,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse caring for SIADH anticipates ADH will cause urine that is:\nA) Increased volume and decreased osmolarity\nB) Decreased volume and increased osmolarity\nC) Increased volume and osmolarity\nD) No effect",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Increased volume and decreased osmolarity",
+      "C) Increased volume and osmolarity",
+      "D) No effect"
+    ],
+    "explanation": "In SIADH, excess ADH causes the kidneys to reabsorb more water, leading to decreased urine volume and increased osmolarity. Option B correctly identifies this physiological outcome. Option A is wrong because it suggests increased volume and decreased osmolarity, which contradicts water retention. Option C is incorrect as it claims increased volume without specifying osmolarity changes. Option D is false since ADH definitely affects urine production.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 961,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse with a patient with hypoalbuminemia and edema understands decreased plasma oncotic pressure causes:\nA) Fluid moves into capillaries\nB) Fluid moves out of capillaries into interstitium\nC) Increased lymphatic return\nD) Vasoconstriction",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Fluid moves into capillaries",
+      "C) Increased lymphatic return",
+      "D) Vasoconstriction"
+    ],
+    "explanation": "Decreased plasma oncotic pressure prevents fluid from staying within capillaries, causing it to shift into the interstitial space. This matches option B, as low protein levels reduce the pull needed to keep fluid inside vessels. Option A is incorrect because fluid does not move into capillaries under these conditions. Options C and D are wrong because lymphatic return and vasoconstriction are not the direct results of reduced oncotic pressure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 962,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse teaching osteoporosis explains parathyroid hormone effect on bone.\nA) Stimulates osteoblasts to build bone\nB) Stimulates osteoclasts to release calcium\nC) Inhibits calcium absorption\nD) Decreases vitamin D activation",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Stimulates osteoblasts to build bone",
+      "C) Inhibits calcium absorption",
+      "D) Decreases vitamin D activation"
+    ],
+    "explanation": "The question asks about parathyroid hormone effects on bone during osteoporosis teaching. Option B is right because PTH specifically stimulates osteoclasts to release stored calcium into the blood. Option A is wrong since PTH does not build bone; that is the osteoblast function. Option C is incorrect because PTH actually increases, not inhibits, calcium absorption in the gut. Option D is false as PTH promotes vitamin D activation to aid calcium uptake.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 963,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse giving an oral medication explains first-pass metabolism occurs primarily in the:\nA) Lungs\nB) Liver via hepatic portal vein\nC) Kidneys\nD) Spleen",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Lungs",
+      "C) Kidneys",
+      "D) Spleen"
+    ],
+    "explanation": "The nurse explains that first-pass metabolism happens mainly in the liver via the hepatic portal vein, making option B correct. This is because drugs taken orally travel directly to the liver before entering systemic circulation, where enzymes break them down. Options A, C, and D are incorrect because the lungs, kidneys, and spleen do not handle this initial drug processing step for oral medications.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 964,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse in prenatal clinic states which hormone maintains the corpus luteum in early pregnancy.\nA) Estrogen\nB) Progesterone\nC) Human chorionic gonadotropin (hCG)\nD) Prolactin",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Estrogen",
+      "B) Progesterone",
+      "D) Prolactin"
+    ],
+    "explanation": "The hormone maintaining the corpus luteum in early pregnancy is Human chorionic gonadotropin (hCG), making option C correct. hCG signals the corpus luteum to continue producing progesterone until the placenta takes over. Estrogen (A) and Progesterone (B) are produced by the corpus luteum but do not sustain it. Prolactin (D) prepares breasts for lactation and is unrelated to corpus luteum maintenance.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 965,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse explaining infection uses cell theory. All cells come from:\nA) Spontaneous generation\nB) Pre-existing cells\nC) Nonliving matter\nD) Viral assembly",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Spontaneous generation",
+      "C) Nonliving matter",
+      "D) Viral assembly"
+    ],
+    "explanation": "Cell theory states all cells arise from pre-existing cells, making option B the only scientifically accurate choice for this question. Option A is incorrect because spontaneous generation was disproven long ago and contradicts modern biological principles. Option C is wrong as nonliving matter cannot spontaneously form complex living cells without prior cellular existence. Option D is invalid because viral assembly describes replication mechanisms, not the origin of cellular life itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 966,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse teaching about antibiotics notes bacteria lack which structure present in human cells?\nA) Ribosomes\nB) Cell membrane\nC) Membrane-bound nucleus\nD) DNA",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Ribosomes",
+      "B) Cell membrane",
+      "D) DNA"
+    ],
+    "explanation": "Human cells possess a membrane-bound nucleus, whereas bacteria are prokaryotes lacking this specific structure. Ribosomes, cell membranes, and DNA are fundamental components found in both human and bacterial cells. Therefore, options A, B, and D are incorrect because they represent shared cellular machinery rather than a distinguishing feature. Only option C accurately identifies the nucleus as the structure absent in bacteria but present in humans.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 967,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse in oncology explains the purpose of mitosis in somatic cells.\nA) Reduce chromosome number\nB) Produce gametes\nC) Growth and tissue repair\nD) Increase genetic diversity",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Reduce chromosome number",
+      "B) Produce gametes",
+      "D) Increase genetic diversity"
+    ],
+    "explanation": "Mitosis in somatic cells drives growth and tissue repair by duplicating chromosomes without reducing their count. Option A is wrong because mitosis maintains, not reduces, chromosome numbers. Option B is incorrect since gamete production requires meiosis, not mitosis. Option D fails because mitosis creates identical cells, preserving rather than increasing genetic diversity.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 968,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse providing genetics counseling states the DNA base pairing rule.\nA) A with T and C with G\nB) A with C and T with G\nC) A with U and C with G\nD) A with G and C with T",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) A with C and T with G",
+      "C) A with U and C with G",
+      "D) A with G and C with T"
+    ],
+    "explanation": "The DNA base pairing rule states Adenine pairs with Thymine and Cytosine with Guanine. Option A correctly identifies this standard pairing. Option B is wrong because Adenine does not pair with Cytosine. Option C is incorrect as Uracil replaces Thymine only in RNA, not DNA. Option D is false since Adenine never pairs with Guanine in the double helix structure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 969,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse teaching nutrition identifies the primary energy source for the brain.\nA) Proteins\nB) Lipids\nC) Carbohydrates (glucose)\nD) Nucleic acids",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Proteins",
+      "B) Lipids",
+      "D) Nucleic acids"
+    ],
+    "explanation": "The brain relies primarily on glucose, a carbohydrate, for immediate energy, making option C the only valid choice. While proteins and lipids can be used in starvation, they are not the main fuel source, so options A and B are incorrect. Nucleic acids store genetic information rather than providing metabolic energy, which eliminates option D. This biological fact confirms that carbohydrates are the essential primary energy source for neural function.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 970,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse teaching about plants states photosynthesis produces:\nA) Carbon dioxide and water\nB) ATP only\nC) Lactic acid\nD) Oxygen and glucose",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Carbon dioxide and water",
+      "B) ATP only",
+      "C) Lactic acid"
+    ],
+    "explanation": "The question asks what photosynthesis produces. Option D is correct because photosynthesis converts light energy into chemical energy stored in glucose while releasing oxygen as a byproduct. Option A is wrong because carbon dioxide and water are the reactants consumed, not the products. Option B is incorrect since ATP is an energy carrier used in cellular respiration, not the primary output of photosynthesis. Option C is false because lactic acid results from anaerobic fermentation in muscles, not plant photosynthesis.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 971,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse explaining a Punnett square states a dominant allele is expressed when:\nA) Only homozygous\nB) Heterozygous or homozygous\nC) Never in carriers\nD) Only with two recessive",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Only homozygous",
+      "C) Never in carriers",
+      "D) Only with two recessive"
+    ],
+    "explanation": "A dominant allele is expressed in both homozygous and heterozygous genotypes, making option B correct. Option A is wrong because dominance appears even with one copy, not just two. Option C is incorrect since carriers (heterozygotes) do express the dominant trait. Option D is false because two recessive alleles hide the dominant one. This aligns with standard Mendelian genetics principles.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 972,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse in public health gives an example of a vector-borne disease in ecology.\nA) Lyme disease via ticks\nB) Tuberculosis via air\nC) Cholera via water\nD) Influenza via droplets",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Tuberculosis via air",
+      "C) Cholera via water",
+      "D) Influenza via droplets"
+    ],
+    "explanation": "The question asks for a vector-borne disease example. Option A is correct because Lyme disease is transmitted by ticks, which are biological vectors. Option B is wrong as Tuberculosis spreads through airborne droplets, not vectors. Option C is incorrect since Cholera transmits via contaminated water, lacking a vector. Option D is false because Influenza spreads through respiratory droplets, not vectors. This aligns with ecological disease transmission principles.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 973,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse explaining mitochondrial disease states ATP is produced mainly at the:\nA) Nucleus\nB) Mitochondrial inner membrane\nC) Ribosome\nD) Lysosome",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Nucleus",
+      "C) Ribosome",
+      "D) Lysosome"
+    ],
+    "explanation": "The nurse explains that ATP is primarily generated at the mitochondrial inner membrane, making option B correct. This is because the electron transport chain and ATP synthase, which drive oxidative phosphorylation, are located specifically there. Option A is wrong since the nucleus stores DNA, not energy. Option C is incorrect because ribosomes synthesize proteins, not ATP. Option D is false as lysosomes break down waste materials. Thus, only the inner membrane fits the biological process of ATP production.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 974,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse in a fertility clinic explains meiosis reduces chromosome number from:\nA) Haploid to diploid\nB) Diploid to haploid\nC) Diploid to diploid\nD) Tetraploid to diploid",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Haploid to diploid",
+      "C) Diploid to diploid",
+      "D) Tetraploid to diploid"
+    ],
+    "explanation": "Meiosis reduces chromosome number from diploid to haploid, making option B correct. Option A is wrong because meiosis never increases chromosome count. Option C is incorrect as mitosis maintains diploid numbers, not meiosis. Option D is false since tetraploid cells are rare and do not define standard meiotic reduction.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 975,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse discussing chemotherapy targets notes which enzyme unwinds DNA during replication?\nA) Helicase\nB) DNA polymerase\nC) Ligase\nD) Primase",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) DNA polymerase",
+      "C) Ligase",
+      "D) Primase"
+    ],
+    "explanation": "Helicase is the enzyme responsible for unwinding the DNA double helix during replication, making option A the correct choice. DNA polymerase synthesizes new DNA strands rather than unwinding them, so option B is incorrect. Ligase joins DNA fragments together, and Primase creates RNA primers, meaning options C and D do not perform the unwinding function described.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 976,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse teaching wound healing explains the function of collagen, a protein.\nA) Energy storage\nB) Carry oxygen\nC) Catalyze reactions\nD) Structural support",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Energy storage",
+      "B) Carry oxygen",
+      "C) Catalyze reactions"
+    ],
+    "explanation": "Collagen provides essential structural support for tissues, making option D the right choice in this wound healing question. Options A, B, and C are incorrect because collagen does not store energy, carry oxygen, or catalyze reactions like enzymes do. This distinction highlights collagen's unique role in maintaining tissue integrity during the healing process.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 977,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse teaching a heart-healthy diet explains phospholipids function to:\nA) Store genetic information\nB) Catalyze DNA replication\nC) Provide immediate energy\nD) Form bilayer barrier",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Store genetic information",
+      "B) Catalyze DNA replication",
+      "C) Provide immediate energy"
+    ],
+    "explanation": "Phospholipids form the bilayer barrier in cell membranes, separating the inside from the outside environment. Option A is wrong because DNA stores genetic information, not phospholipids. Option B is incorrect since enzymes catalyze DNA replication, not lipids. Option C fails because carbohydrates provide immediate energy, unlike structural phospholipids. Thus, only D accurately describes their primary function in creating cellular boundaries.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 978,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse caring for lactic acidosis recalls the anaerobic product of glycolysis.\nA) Acetyl-CoA\nB) Lactic acid\nC) Citric acid\nD) Pyruvic acid only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Acetyl-CoA",
+      "C) Citric acid",
+      "D) Pyruvic acid only"
+    ],
+    "explanation": "The question asks for the anaerobic product of glycolysis in lactic acidosis. Option B, Lactic acid, is correct because glycolysis converts glucose to pyruvate, which then becomes lactic acid without oxygen. Option A, Acetyl-CoA, is wrong as it forms in aerobic conditions. Option C, Citric acid, is incorrect since it belongs to the Krebs cycle. Option D, Pyruvic acid only, is wrong because pyruvate converts to lactate anaerobically here.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 979,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse counseling about cystic fibrosis (autosomal recessive) tells two carrier parents their child's risk is:\nA) 0 percent\nB) 25 percent\nC) 50 percent\nD) 100 percent",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 0 percent",
+      "C) 50 percent",
+      "D) 100 percent"
+    ],
+    "explanation": "This question asks the risk for a child of two carrier parents with an autosomal recessive condition. The correct answer is B because each parent contributes a recessive allele with a 50% chance, resulting in a 25% probability the child inherits two recessive alleles. Option A is wrong as carriers can pass the gene, C is incorrect since only half the offspring would be carriers, and D is false because the child needs two recessive alleles, not one.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 980,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse in community health explains bioaccumulation as:\nA) Species diversity increase\nB) Toxins increasing up food chain\nC) Population growth\nD) Oxygen production",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Species diversity increase",
+      "C) Population growth",
+      "D) Oxygen production"
+    ],
+    "explanation": "Bioaccumulation refers to toxins increasing up the food chain, making option B the right choice because it accurately describes how pollutants concentrate in organisms at higher trophic levels. Option A is wrong since species diversity does not increase through toxin accumulation; rather, it often decreases. Option C is incorrect because population growth is not a direct result of bioaccumulation, which typically harms populations. Option D is false as oxygen production is unrelated to the buildup of toxins in biological systems.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 981,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse explaining IV fluids defines osmosis as:\nA) Movement of solutes across membrane\nB) Movement of water across semipermeable membrane\nC) Active transport of ions\nD) Diffusion of proteins",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Movement of solutes across membrane",
+      "C) Active transport of ions",
+      "D) Diffusion of proteins"
+    ],
+    "explanation": "Osmosis is specifically the movement of water molecules across a semipermeable membrane from an area of lower solute concentration to higher solute concentration. Option B correctly identifies this water movement, whereas Option A is wrong because osmosis involves water, not solutes. Option C is incorrect since osmosis is a passive process, not active transport of ions. Option D is also wrong because it describes protein diffusion, which is distinct from water movement. Therefore, only B accurately defines osmosis in the context of IV fluids.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 982,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse in oncology explains p53's role in the cell cycle.\nA) Tumor suppressor that arrests cycle for DNA repair\nB) Synthesizes ATP\nC) Initiates meiosis\nD) Promotes uncontrolled division",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Synthesizes ATP",
+      "C) Initiates meiosis",
+      "D) Promotes uncontrolled division"
+    ],
+    "explanation": "The p53 protein acts as a tumor suppressor by halting the cell cycle to allow time for DNA repair before replication proceeds. Option A correctly identifies this protective arrest mechanism essential for preventing mutations. Option B is wrong because p53 does not synthesize ATP, which is the function of mitochondria. Option C is incorrect since p53 regulates somatic cell division, not the initiation of meiosis. Option D is false because p53 inhibits, rather than promotes, uncontrolled cell division.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 983,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse explains why rifampin selectively kills bacteria.\nA) Targets bacterial RNA polymerase\nB) Targets human ribosomes\nC) Disrupts human nucleus\nD) Blocks eukaryotic mitochondria only",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Targets human ribosomes",
+      "C) Disrupts human nucleus",
+      "D) Blocks eukaryotic mitochondria only"
+    ],
+    "explanation": "Rifampin works by inhibiting bacterial RNA polymerase, an enzyme essential for transcribing DNA into RNA in prokaryotes. This selective action spares human cells because our RNA polymerase differs structurally and functionally from the bacterial version. Option B is incorrect since rifampin does not target human ribosomes, which are involved in protein synthesis rather than transcription. Option C is wrong because the drug does not disrupt the human nucleus, and Option D is false as it does not specifically block eukaryotic mitochondria. The mechanism ensures therapeutic efficacy against bacteria without harming human host tissues.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 984,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse explaining sickle cell disease describes the mutation type.\nA) Point mutation substituting one base\nB) Frameshift insertion of many bases\nC) Trisomy\nD) Chromosomal deletion",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Frameshift insertion of many bases",
+      "C) Trisomy",
+      "D) Chromosomal deletion"
+    ],
+    "explanation": "The question asks about the mutation type in sickle cell disease. The correct answer is A because sickle cell results from a single base substitution in the hemoglobin gene, specifically changing glutamic acid to valine. This point mutation alters one amino acid without shifting the reading frame or deleting large segments. Option B is wrong as frameshifts involve inserting or deleting bases that shift the entire sequence, which does not occur here. Option C is incorrect because trisomy refers to having an extra chromosome, not a gene mutation. Option D is wrong since chromosomal deletions remove large sections of DNA, unlike the single base change in sickle cell.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 985,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse managing hypothermia understands temperature effect on enzymes.\nA) Increases activity indefinitely\nB) No effect\nC) Denatures immediately\nD) Decreases kinetic energy and slows reaction",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Increases activity indefinitely",
+      "B) No effect",
+      "C) Denatures immediately"
+    ],
+    "explanation": "Hypothermia lowers body temperature, which decreases the kinetic energy of molecules and slows enzymatic reactions. Option D correctly identifies this drop in energy and reaction rate. Option A is wrong because cold does not increase activity indefinitely. Option B is incorrect since temperature always affects enzyme function. Option C is false because denaturation typically occurs at high heat, not low temperatures.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 986,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse in ICU compares gas exchange. Which statement about photosynthesis vs cellular respiration is correct?\nA) Both consume O2 produce CO2\nB) Photosynthesis consumes CO2 produces O2, respiration opposite\nC) Both produce O2\nD) Both consume glucose",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Both consume O2 produce CO2",
+      "C) Both produce O2",
+      "D) Both consume glucose"
+    ],
+    "explanation": "The question asks to compare photosynthesis and cellular respiration. Option B is correct because photosynthesis uses carbon dioxide and releases oxygen, while respiration does the reverse. Option A is wrong as it claims both use oxygen, which is false for photosynthesis. Option C is incorrect because only photosynthesis produces oxygen. Option D is wrong since respiration consumes glucose, not both processes. This distinction highlights their opposite roles in energy exchange.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 987,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse reviewing a pedigree for an X-linked recessive disorder expects:\nA) Affected fathers pass to sons\nB) Equal sexes, never skips generations\nC) Only females affected\nD) More males affected, carrier mothers transmit",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Affected fathers pass to sons",
+      "B) Equal sexes, never skips generations",
+      "C) Only females affected"
+    ],
+    "explanation": "The pedigree for an X-linked recessive disorder shows more males affected because carrier mothers transmit the gene to sons. Option D correctly identifies this pattern where carrier mothers transmit the trait. Option A is wrong because affected fathers pass the gene to daughters, not sons. Option B is incorrect since equal sexes do not occur and the trait often skips generations. Option C is false because only females being affected contradicts the male predominance in X-linked recessive conditions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 988,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse in disaster response gives an example of primary succession.\nA) Forest regrowth after fire\nB) Lichen colonizing bare rock after lava flow\nC) Weeds in abandoned farm\nD) Algae bloom in lake",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Forest regrowth after fire",
+      "C) Weeds in abandoned farm",
+      "D) Algae bloom in lake"
+    ],
+    "explanation": "Option B describes primary succession where life starts on bare rock after lava flow, fitting the nurse's example. Option A shows secondary succession on soil left after fire, while C and D involve existing ecosystems like farms or lakes. Only B matches the definition of colonizing previously lifeless rock surfaces.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 989,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse preparing TPN recalls the monomer of nucleic acids.\nA) Amino acid\nB) Nucleotide\nC) Monosaccharide\nD) Fatty acid",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Amino acid",
+      "C) Monosaccharide",
+      "D) Fatty acid"
+    ],
+    "explanation": "The question asks for the monomer of nucleic acids, and the correct answer is B) Nucleotide because nucleotides are the building blocks that link together to form DNA and RNA. Option A) Amino acid is incorrect as these are monomers for proteins, not nucleic acids. Option C) Monosaccharide is wrong since these form carbohydrates like starch and glycogen. Option D) Fatty acid is incorrect because these are components of lipids, not the monomers of nucleic acids.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 990,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse handling IV potassium knows Group 1 alkali metals are:\nA) Highly unreactive gases\nB) Highly reactive metals losing 1 electron\nC) Nonmetals gaining electrons\nD) Inert",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Highly unreactive gases",
+      "C) Nonmetals gaining electrons",
+      "D) Inert"
+    ],
+    "explanation": "Group 1 alkali metals are highly reactive because they readily lose one valence electron to form positive ions, unlike unreactive gases or inert substances. Option A is incorrect as these are solids, not gases, and C is wrong because they lose rather than gain electrons. Option D fails since they are chemically active, not inert. This distinguishes them from other groups in the periodic table.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 991,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse preparing normal saline notes NaCl bond type.\nA) Ionic\nB) Covalent nonpolar\nC) Metallic\nD) Hydrogen",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Covalent nonpolar",
+      "C) Metallic",
+      "D) Hydrogen"
+    ],
+    "explanation": "Normal saline contains sodium chloride (NaCl), which forms an ionic bond because electrons are transferred from sodium to chlorine, creating charged ions. Option A is correct as it identifies this ionic nature. Option B is wrong because covalent nonpolar bonds involve shared electrons without charge separation, unlike NaCl. Option C is incorrect since metallic bonds occur in pure metals, not salt compounds. Option D fails because hydrogen bonds are weak attractions between molecules, not the primary bond holding NaCl together.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 992,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse checking an oxygen tank understands gases are compressible because:\nA) Fixed shape\nB) High density\nC) Definite volume\nD) Particles far apart and compressible",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Fixed shape",
+      "B) High density",
+      "C) Definite volume"
+    ],
+    "explanation": "The nurse understands gases are compressible because their particles are far apart, allowing volume reduction. Option D correctly states particles are far apart and compressible, matching gas properties. Option A is wrong because gases lack a fixed shape, unlike solids. Option B is incorrect as gases have low density, not high. Option C fails since gases have no definite volume, expanding to fill containers.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 993,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse checking gastric pH expects normal stomach pH to be:\nA) 1.5 to 3.5\nB) 6.5 to 7.5\nC) 7.35 to 7.45\nD) 8 to 9",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 6.5 to 7.5",
+      "C) 7.35 to 7.45",
+      "D) 8 to 9"
+    ],
+    "explanation": "The normal gastric pH ranges from 1.5 to 3.5, making option A correct because the stomach secretes strong hydrochloric acid for digestion. Option B is incorrect as 6.5 to 7.5 represents a near-neutral pH typical of the small intestine, not the acidic stomach environment. Option C is wrong since 7.35 to 7.45 describes the precise pH of human arterial blood, which is distinct from gastric fluid. Option D is inaccurate because an 8 to 9 pH indicates a basic solution, whereas the stomach is highly acidic to activate enzymes and kill pathogens.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 994,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse mixing D5W identifies solute and solvent correctly.\nA) Dextrose is solvent water is solute\nB) Dextrose is solute water is solvent\nC) Both solutes\nD) Both solvents",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Dextrose is solvent water is solute",
+      "C) Both solutes",
+      "D) Both solvents"
+    ],
+    "explanation": "In the D5W solution, dextrose acts as the solute while water serves as the solvent, making option B the only accurate choice. Option A is incorrect because it reverses these roles, claiming dextrose is the solvent and water is the solute, which contradicts chemical definitions. Options C and D are wrong because a solution cannot consist of two solutes or two solvents; it requires one of each to form a mixture. Therefore, B correctly identifies the components of the nurse's D5W solution.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 995,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse giving an antacid describes HCl + NaHCO3 as what reaction type?\nA) Neutralization acid-base\nB) Combustion\nC) Synthesis\nD) Single replacement",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Combustion",
+      "C) Synthesis",
+      "D) Single replacement"
+    ],
+    "explanation": "The reaction between HCl and NaHCO3 is a classic acid-base neutralization where the acid donates a proton to the base, forming salt and water. Option A correctly identifies this process as neutralization, whereas B is wrong because combustion requires oxygen and produces fire. Option C is incorrect since synthesis combines elements into one compound without an acid-base component, and D fails because single replacement involves an element displacing another in a compound. This specific science question tests the ability to distinguish reaction types based on reactants and products.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 996,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse calculating medication moles recalls Avogadro's number is:\nA) 6.02 x \\(10^23\\) particles per mole\nB) 3.14\nC) 1.0 x \\(10^6\\)\nD) 22.4",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 3.14",
+      "C) 1.0 x \\(10^6\\)",
+      "D) 22.4"
+    ],
+    "explanation": "The correct answer is A because Avogadro's number defines the count of particles in one mole, which is approximately 6.02 x \\(10^23\\). Option B is wrong as 3.14 represents Pi, a geometric constant unrelated to chemistry. Option C is incorrect since 1.0 x \\(10^6\\) is a generic large number without specific scientific significance here. Option D is false because 22.4 refers to the volume of one mole of gas at STP, not the particle count. This question tests knowledge of fundamental chemical constants used in mole calculations.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 997,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse converting a pediatric dose knows 1 kilogram equals:\nA) 10 g\nB) 100 g\nC) 1000 g\nD) 0.001 g",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 10 g",
+      "B) 100 g",
+      "D) 0.001 g"
+    ],
+    "explanation": "The question asks for the gram equivalent of one kilogram. Option C is correct because the metric system defines 1 kilogram as exactly 1000 grams. Options A and B are incorrect as they represent far smaller masses, while Option D is wrong because it confuses the decimal placement, suggesting a kilogram is much lighter than a gram.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 998,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse reviewing magnesium knows atomic radius down a group:\nA) Decreases\nB) Increases\nC) Stays same\nD) Becomes zero",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Decreases",
+      "C) Stays same",
+      "D) Becomes zero"
+    ],
+    "explanation": "In the context of atomic structure, moving down a group like magnesium increases the number of electron shells, causing the atomic radius to increase. Option A is incorrect because the radius does not shrink downward, while C and D are false as the size changes and never reaches zero. This trend is a fundamental principle of periodic table organization where added layers expand the atom's volume.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 999,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse administering oxygen therapy recalls O2 bond type.\nA) Ionic\nB) Double covalent nonpolar\nC) Metallic\nD) Hydrogen",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Ionic",
+      "C) Metallic",
+      "D) Hydrogen"
+    ],
+    "explanation": "Oxygen forms a double covalent bond where two atoms share electrons equally, making it nonpolar. Option A is wrong because ionic bonds involve electron transfer between metals and nonmetals, not sharing. Option C is incorrect since metallic bonds occur in pure metals with a sea of delocalized electrons. Option D fails because hydrogen bonds are weak attractions between molecules, not the primary bond within an oxygen molecule.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1000,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse using dry ice for cryotherapy observes sublimation, which is:\nA) Solid to liquid\nB) Gas to solid\nC) Liquid to gas\nD) Solid to gas",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Solid to liquid",
+      "B) Gas to solid",
+      "C) Liquid to gas"
+    ],
+    "explanation": "Sublimation is the direct phase change from solid to gas, making option D the only correct choice for dry ice behavior. Options A, B, and C are incorrect because they describe melting, deposition, and evaporation respectively, none of which apply to dry ice sublimating in air. This specific process bypasses the liquid phase entirely, which is why dry ice never forms water puddles during standard cryotherapy use.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1001,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse interpreting an ABG sees pH 7.30. This indicates:\nA) Alkalosis\nB) Strong base\nC) Neutral\nD) Acidosis",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Alkalosis",
+      "B) Strong base",
+      "C) Neutral"
+    ],
+    "explanation": "The ABG pH of 7.30 indicates acidosis because normal blood pH ranges from 7.35 to 7.45, and any value below 7.35 signifies an acidic state. Option A is incorrect since alkalosis requires a pH above 7.45, while B and C are wrong as they describe base strength rather than the specific pH imbalance shown. Thus, D is the only accurate interpretation of the nurse's finding.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

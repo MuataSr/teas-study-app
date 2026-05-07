@@ -1,0 +1,141 @@
+{% extends "base.html" %}
+
+{% block title %}TEAS Study{% endblock %}
+
+{% block content %}
+
+<!-- Greeting -->
+<div class="greeting">
+  <h1>{{ greeting }}{% if display_name %}, {{ display_name }}{% endif %}</h1>
+  {% if exam_days is not none %}
+    <p class="greeting-sub">{% if exam_days == 0 %}Exam day is today — you got this!{% elif exam_days == 1 %}Exam tomorrow — finish strong!{% else %}{{ exam_days }} days until your exam{% endif %}</p>
+  {% elif is_anonymous %}
+  <p class="greeting-sub">Ready to practice? <a href="/signup" style="color:var(--primary);font-weight:600">Create an account</a> to save your progress.</p>
+  {% elif not is_anonymous and not exam_days %}
+  <p class="greeting-sub">Ready to practice? <a href="/onboarding" style="color:var(--primary);font-weight:600">Set your exam date</a> to get a countdown.</p>
+  {% else %}
+  <p class="greeting-sub">Ready to practice?</p>
+  {% endif %}
+</div>
+
+<!-- Stats Row -->
+<div class="stats">
+  <div class="stat">
+    <div class="stat-number">{{ overall_pct }}%</div>
+    <div class="stat-label">Readiness</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number" id="answered-count">0</div>
+    <div class="stat-label">Answered</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number" id="streak-count">0</div>
+    <div class="stat-label">Streak</div>
+  </div>
+</div>
+
+<!-- Quickfire Card -->
+<a href="/quickfire" class="quickfire-card">
+  <div class="quickfire-card-left">
+    <span class="quickfire-card-icon">⚡</span>
+    <div>
+      <div class="quickfire-card-title">Quickfire Mode</div>
+      <div class="quickfire-card-desc">60s speed round — how high can you score?</div>
+    </div>
+  </div>
+  {% if quickfire_scores %}
+  <div class="quickfire-card-badge">🏆 {{ quickfire_scores.values()|max }}</div>
+  {% else %}
+  <div class="quickfire-card-arrow">→</div>
+  {% endif %}
+</a>
+
+<!-- Subjects -->
+<div class="subjects">
+  <h2 class="section-title">Subjects</h2>
+
+  {% for subj in subjects %}
+  <a href="/quiz/{{ subj.slug }}" class="subject-row">
+    <div class="subject-header">
+      <div class="subject-name-row">
+        <span class="subject-dot dot-{{ subj.slug }}"></span>
+        <span class="subject-name">{{ subj.subject_name }}</span>
+      </div>
+      <div class="subject-meta">
+        <span class="subject-count">{{ subj.readiness_pct }}%</span>
+        {% if subj.weak_count and subj.weak_count > 0 %}
+        <span class="review-tag">{{ subj.weak_count }} to review</span>
+        {% endif %}
+      </div>
+    </div>
+    <div class="progress-track">
+      <div class="progress-fill {{ subj.slug }}" style="width: {{ subj.readiness_pct }}%"></div>
+    </div>
+  </a>
+  {% endfor %}
+
+  <!-- Mixed Review -->
+  <a href="/quiz/mixed" class="subject-row">
+    <div class="subject-header">
+      <div class="subject-name-row">
+        <span class="subject-dot" style="background: var(--text-tertiary)"></span>
+        <span class="subject-name">Mixed Review</span>
+      </div>
+      <div class="subject-meta">
+        <span class="subject-count">All subjects</span>
+      </div>
+    </div>
+    <div class="progress-track">
+      <div class="progress-fill" style="width: {{ overall_pct }}%; background: var(--text-tertiary)"></div>
+    </div>
+  </a>
+</div>
+
+<!-- Recommendations -->
+{% if recommendations %}
+<div class="review">
+  <h2 class="section-title">Focus Areas</h2>
+  {% for rec in recommendations %}
+  <div class="review-item">
+    <div>
+      <div class="review-topic">{{ rec.topic }}</div>
+      <div class="review-detail">{{ rec.subject }}</div>
+    </div>
+    <span class="review-tag" style="color: {% if rec.level == 'Strong' %}var(--correct){% elif rec.level == 'Fair' %}var(--warning){% else %}var(--wrong){% endif %}; border-color: currentColor;">{{ rec.level }}</span>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- Recent Sessions -->
+{% if recent_sessions %}
+<div class="review" style="padding-bottom: 20px;">
+  <h2 class="section-title">Recent</h2>
+  {% for s in recent_sessions %}
+  <div class="review-item">
+    <div>
+      <div class="review-topic">{{ s.topic|title }}</div>
+      <div class="review-detail">{{ s.subject }} &middot; {{ s.date }}</div>
+    </div>
+        <span class="review-tag" style="color: {% if s.status == 'Strong' %}var(--correct){% elif s.status == 'Fair' %}var(--warning){% else %}var(--wrong){% endif %}; border-color: currentColor;">{{ s.score }}%</span>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Fetch answered count and streak from DB via lightweight endpoint
+  fetch("/api/stats")
+    .then(r => r.json())
+    .then(d => {
+      if (d.answered != null) document.getElementById("answered-count").textContent = d.answered;
+      if (d.streak != null) document.getElementById("streak-count").textContent = d.streak;
+    })
+    .catch(() => {});
+});
+</script>
+{% endblock %}

@@ -1,0 +1,1301 @@
+[
+  {
+    "id": 87,
+    "category": "bare_letter",
+    "subject": "math",
+    "question": "Which of the following drinks, C or D, will have a stronger apple taste? a) Drink C: 3 cups apple, 5 cups water b) Drink",
+    "answer": "b)",
+    "wrong_answers": [
+      "a), because 3/5>5/7",
+      "a), because 3 cups apple is more than 5 cups water",
+      "b), because 5/7<3/5",
+      "a), because 3+5=8 and 3+5=8 so they are equal"
+    ]
+  },
+  {
+    "id": 107,
+    "category": "other",
+    "subject": "math",
+    "question": "Eric has 12 cups of lemonade that tastes exactly the same as Brody\u2019s (3 cups of water for 2 cups of lemon juice). He nee",
+    "answer": "Eric's lemonade will not taste the same anymore, because he did not add the water and lemon in the same proportions",
+    "wrong_answers": [
+      "18",
+      "30",
+      "42"
+    ]
+  },
+  {
+    "id": 116,
+    "category": "essay_all_long",
+    "subject": "math",
+    "question": "Write the \u201cSwitch-Around Rule\u201d in your own words, and give examples to show if it\u2019s always, sometimes, or rarely true.",
+    "answer": "The switch-around rule is not always true, it applies only for addition and multiplication. For example: 7+3=10 and 3+7=10, but 7-3=4 and 3-7=-4, it's not the same",
+    "wrong_answers": [
+      "The switch-around rule is always true because you can flip the numbers for any operation, like subtraction, and the answer stays the same.",
+      "The switch-around rule only works for subtraction and division, while addition and multiplication are not commutative.",
+      "The switch-around rule is sometimes true, but mostly false because flipping the numbers changes the order of operations."
+    ]
+  },
+  {
+    "id": 119,
+    "category": "other",
+    "subject": "math",
+    "question": "Sarah shares $15.40 among some of her friends. She gives the same amount to each person. (a) How many people might there",
+    "answer": "You can share $15.40 among 2, 4, and 7 people:",
+    "wrong_answers": [
+      "You can share $15.40 among 3, 5, and 6 people ($5.133..., $3.08, $2.566... each)",
+      "You can share $15.40 among 2, 3, and 4 people ($7.70, $5.133..., $3.85 each)",
+      "You can share $15.40 among 2, 5, and 7 people ($7.70, $3.08, $2.20 each)"
+    ]
+  },
+  {
+    "id": 182,
+    "category": "short_correct_long_wrongs",
+    "subject": "math",
+    "question": "Will different solutions be obtained from the following equations? 7w+22=109 and 7n+22=109",
+    "answer": "Of course, the solution is the same",
+    "wrong_answers": [
+      "Yes, because w and n represent different numerical values.",
+      "No, because the variable names must change in each equation for the solutions to be identical.",
+      "Yes, because 7w and 7n are fundamentally different algebraic terms."
+    ]
+  },
+  {
+    "id": 195,
+    "category": "essay_all_long",
+    "subject": "math",
+    "question": "3 + 4 = 7       \u2191 The arrow above points to a symbol. What does the symbol mean?",
+    "answer": "The symbol is the equal sign and it means that the statement on the left side is equivalent to the statement on the right side",
+    "wrong_answers": [
+      "The equal sign means the numbers on both sides are identical in value, not just related.",
+      "The symbol indicates that the operation must be performed immediately to get a new number.",
+      "It shows that the left side is the cause and the right side is the effect of the calculation."
+    ]
+  },
+  {
+    "id": 196,
+    "category": "other",
+    "subject": "math",
+    "question": "Is the number that goes in the [_] the same number in the following two equations? 2*[_]+15=31 2*[_]+15-9=31-9",
+    "answer": "The number that goes in the squares is the same for both equations and it equals 8",
+    "wrong_answers": [
+      "9",
+      "4",
+      "13"
+    ]
+  },
+  {
+    "id": 197,
+    "category": "essay_all_long",
+    "subject": "math",
+    "question": "For the following expressions, answer: What do the equal signs tell us? Which is more, one third or four twelfths? 1/3 =",
+    "answer": "The equal signs tell us that both expressions at each side are equivalent to each other. One third is equal to four twelfths.",
+    "wrong_answers": [
+      "The equal signs tell us that both expressions are the same in value, but one third is actually smaller than four twelfths because the denominators are different.",
+      "The equal signs indicate that the numerators must match, so one third and four twelfths are not equivalent because 1 does not equal 4.",
+      "The equal signs show that the fractions represent the same amount of a whole, yet one third is more than four twelfths since one third has a larger numerator."
+    ]
+  },
+  {
+    "id": 214,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "Which of the following structures is located in the axial skeleton?",
+    "answer": "The sternum",
+    "wrong_answers": [
+      "The axial skeleton forms the central axis of the body and includes the skull, vertebral column, and rib cage (including the sternum)",
+      "The scapula (shoulder blade) and femur (thigh bone) are part of the appendicular skeleton",
+      "The patella (kneecap) is also appendicular"
+    ]
+  },
+  {
+    "id": 215,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "A researcher observes a tissue sample under a microscope and notes that it is avascular, contains tightly packed cells, and is found lining the digestive tract. Which tissue type is this?",
+    "answer": "Epithelial tissue",
+    "wrong_answers": [
+      "Epithelial tissue is characterized by tightly packed cells, lack of blood vessels (avascular), and functions as a lining or covering (such as the digestive tract lining)",
+      "Connective tissue varies in vascularization (though much of it is highly vascular), muscle tissue is specialized for contraction, and nervous tissue is for electrochemical signaling",
+      "Muscle tissue is highly vascularized and specialized for contraction, not for lining the digestive tract"
+    ]
+  },
+  {
+    "id": 216,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "During a reflex arc, in what correct order do the signals travel?",
+    "answer": "Receptor \u2192 Afferent neuron \u2192 Interneuron \u2192 Efferent neuron \u2192 Effector",
+    "wrong_answers": [
+      "A sensory receptor detects a stimulus and sends the signal via an afferent (sensory) neuron to the CNS",
+      "An interneuron in the spinal cord processes the information and synapses with an efferent (motor) neuron, which carries the signal to an effector (like a muscle) to generate a response",
+      "Note that this is the sequence for a polysynaptic reflex arc; simple monosynaptic reflexes (like the knee-jerk reflex) bypass the interneuron entirely"
+    ]
+  },
+  {
+    "id": 217,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "Which of the following correctly describes the mechanism of action of antidiuretic hormone (ADH)?",
+    "answer": "It increases water reabsorption in the collecting duct of the nephron.",
+    "wrong_answers": [
+      "ADH is released by the posterior pituitary in response to high blood osmolarity",
+      "It makes the collecting ducts more permeable to water, allowing water to be reabsorbed back into the blood, thus concentrating the urine and decreasing blood osmolarity",
+      "ADH is released by the anterior pituitary in response to low blood osmolarity, which decreases water reabsorption in the collecting ducts and leads to dilute urine."
+    ]
+  },
+  {
+    "id": 219,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "As air is inhaled into the lungs, which of the following physiological events occurs?",
+    "answer": "The diaphragm contracts and flattens, decreasing intrapulmonary pressure.",
+    "wrong_answers": [
+      "Inhalation is an active process driven by the contraction of the diaphragm",
+      "This increases the volume of the thoracic cavity, which, according to Boyle's Law, decreases the pressure inside the lungs relative to atmospheric pressure, causing air to rush in",
+      "The diaphragm relaxes and moves upward, increasing intrapulmonary pressure and forcing air out of the lungs"
+    ]
+  },
+  {
+    "id": 223,
+    "category": "other",
+    "subject": "science",
+    "question": "Which of the following correctly lists the structures a sperm cell passes through from production to ejaculation?",
+    "answer": "Seminiferous tubules \u2192 Epididymis \u2192 Vas deferens \u2192 Urethra",
+    "wrong_answers": [
+      "Sperm are produced in the seminiferous tubules, mature and are stored in the epididymis, travel through the vas deferens during ejaculation, mix with seminal fluids, and exit the body via the urethra",
+      "Sperm travel from the seminiferous tubules to the urethra directly, skipping the epididymis and vas deferens",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 224,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "Which of the following is a primary difference between prokaryotic and eukaryotic cells?",
+    "answer": "Eukaryotic cells contain membrane-bound organelles, while prokaryotic cells do not.",
+    "wrong_answers": [
+      "The defining feature of eukaryotic cells (plants, animals, fungi) is the presence of a nucleus and other membrane-bound organelles (mitochondria, ER, Golgi)",
+      "Prokaryotes (bacteria, archaea) lack these enclosed compartments, though they do have ribosomes and DNA",
+      "Prokaryotic cells contain membrane-bound organelles like mitochondria, while eukaryotic cells do not"
+    ]
+  },
+  {
+    "id": 225,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "Which organelle is primarily responsible for modifying, sorting, and packaging proteins for transport within or outside the cell?",
+    "answer": "Golgi apparatus",
+    "wrong_answers": [
+      "The Golgi apparatus receives vesicles from the endoplasmic reticulum, processes the proteins, adds molecular tags, and repackages them into new vesicles for secretion or delivery to other parts of the cell",
+      "Lysosomes digest, ribosomes synthesize, and mitochondria produce ATP",
+      "The nucleus is primarily responsible for modifying, sorting, and packaging proteins for transport within or outside the cell"
+    ]
+  },
+  {
+    "id": 230,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "In a specific food chain, grasshoppers eat grass, frogs eat grasshoppers, and snakes eat frogs. If a disease wipes out the frog population, what is the most likely short-term effect on the grass?",
+    "answer": "The grass will decrease because the grasshopper population will increase.",
+    "wrong_answers": [
+      "Without their predator (frogs), the grasshopper population will likely surge",
+      "An increased grasshopper population will consume more grass, leading to a short-term decrease in grass biomass",
+      "The grass will increase because the grasshopper population will decrease due to lack of predators"
+    ]
+  },
+  {
+    "id": 232,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "As you move down Group 17 (the halogens) on the periodic table, what happens to the reactivity of the elements?",
+    "answer": "Reactivity decreases.",
+    "wrong_answers": [
+      "As you move down a group, atomic radius increases",
+      "The valence electrons get farther from the nucleus and are shielded by more inner electron shells",
+      "This makes it harder for larger halogens (like iodine) to attract and gain an electron compared to smaller halogens (like fluorine), decreasing reactivity"
+    ]
+  },
+  {
+    "id": 233,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "What type of bond is formed when two atoms share a pair of electrons unequally, resulting in a partial positive and partial negative charge?",
+    "answer": "Polar covalent bond",
+    "wrong_answers": [
+      "In a polar covalent bond, atoms have differing electronegativities",
+      "The more electronegative atom pulls the shared electrons closer, creating a dipole (partial charges)",
+      "Nonpolar covalent bonds share equally, and ionic bonds involve complete transfer, not sharing"
+    ]
+  },
+  {
+    "id": 235,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "In a balanced chemical equation, what does the law of conservation of mass dictate?",
+    "answer": "The number of atoms of each element must be the same on both sides of the equation.",
+    "wrong_answers": [
+      "Matter cannot be created or destroyed in a chemical reaction",
+      "Therefore, the total mass of the reactants must exactly equal the total mass of the products, which is achieved by ensuring equal atom counts on both sides via coefficients",
+      "The number of molecules of each element must be the same on both sides of the equation, regardless of mass"
+    ]
+  },
+  {
+    "id": 236,
+    "category": "other",
+    "subject": "science",
+    "question": "A solution has a pH of 4. What is its hydrogen ion [H+] concentration?",
+    "answer": "$1 \\times 10^{-4}$ M",
+    "wrong_answers": [
+      "pH is defined as the negative base-10 logarithm of the hydrogen ion concentration: $pH = -\\log[H+]$",
+      "Therefore, $4 = -\\log[H+]$, which means $[H+] = 10^{-4}$ molar",
+      "$1 \times 10^{4}$ M"
+    ]
+  },
+  {
+    "id": 237,
+    "category": "other",
+    "subject": "science",
+    "question": "If you have 50 grams of salt dissolved in 1 liter of water, what is the percentage concentration of this solution?",
+    "answer": "5%",
+    "wrong_answers": [
+      "Percentage concentration (mass/volume) is calculated as (mass of solute / volume of solution) x 100",
+      "(50 g / 1000 mL) x 100 = 5%",
+      "50%"
+    ]
+  },
+  {
+    "id": 238,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "A scientist wants to test whether a new fertilizer increases tomato plant yield compared to standard fertilizer. She plants 50 tomato plants with the new fertilizer and 50 with standard fertilizer, ke",
+    "answer": "Tomato plant yield",
+    "wrong_answers": [
+      "The dependent variable is what is being measured or observed",
+      "In this experiment, the scientist is measuring the yield to see if it changes in response to the fertilizer type",
+      "The fertilizer type is the independent variable"
+    ]
+  },
+  {
+    "id": 240,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A study finds that individuals who drink more coffee tend to have lower rates of depression. The headline reads: \"Drinking Coffee Cures Depression.\" Why is this conclusion scientifically flawed?",
+    "answer": "It assumes correlation implies causation without accounting for confounding variables.",
+    "wrong_answers": [
+      "The study only shows an association (correlation)",
+      "There may be confounding variables\u2014perhaps people who can afford more coffee have better healthcare, or a specific chemical in coffee is unrelated to depression but correlated with another factor",
+      "A clinical trial is needed to prove causation"
+    ]
+  },
+  {
+    "id": 243,
+    "category": "other",
+    "subject": "science",
+    "question": "An experiment tests the effect of temperature on the rate of enzyme activity. The temperature is increased by 10\u00b0C increments. Which of the following must be kept constant?",
+    "answer": "The concentration of the enzyme and substrate.",
+    "wrong_answers": [
+      "To ensure that only temperature is affecting the rate of reaction, all other variables must be controlled (kept constant)",
+      "If the enzyme concentration changed along with the temperature, the researcher would not know which variable caused the change in reaction rate",
+      "The pH level of the solution"
+    ]
+  },
+  {
+    "id": 244,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "Which of the following muscle types is striated, multinucleated, and under voluntary control?",
+    "answer": "Skeletal muscle",
+    "wrong_answers": [
+      "Skeletal muscle is attached to bones, appears striated (striped) under a microscope due to the organized arrangement of contractile proteins, contains multiple nuclei per cell, and is consciously controlled",
+      "Cardiac muscle is also striated but is uninucleated (typically), branched, and involuntary",
+      "Smooth muscle is non-striated, spindle-shaped, and involuntary"
+    ]
+  },
+  {
+    "id": 245,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "Which organelle is known as the \"powerhouse of the cell\" and is the primary site of ATP production through aerobic cellular respiration?",
+    "answer": "Mitochondria",
+    "wrong_answers": [
+      "Mitochondria are double-membraned organelles that convert glucose and oxygen into ATP (adenosine triphosphate) through the processes of the Krebs cycle and electron transport chain",
+      "While the Golgi apparatus packages proteins, the endoplasmic reticulum synthesizes them, and ribosomes translate mRNA, only mitochondria perform aerobic cellular respiration to generate the cell's main energy currency",
+      "Chloroplasts are known as the 'powerhouse of the cell' and are the primary site of ATP production through aerobic cellular respiration"
+    ]
+  },
+  {
+    "id": 247,
+    "category": "other",
+    "subject": "science",
+    "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+    "answer": "Left ventricle",
+    "wrong_answers": [
+      "The left ventricle has the thickest walls and pumps oxygenated blood through the aorta to systemic circulation",
+      "The right ventricle pumps oxygenated blood to the body",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 248,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "What is the correct pathway of blood flow through the heart?",
+    "answer": "Right atrium \u2192 right ventricle \u2192 lungs \u2192 left atrium \u2192 left ventricle \u2192 body",
+    "wrong_answers": [
+      "Deoxygenated blood enters the right atrium via the vena cava, flows to the right ventricle, goes to the lungs for gas exchange, returns to the left atrium, then left ventricle pumps it to the body",
+      "Left atrium \u2192 left ventricle \u2192 lungs \u2192 right atrium \u2192 right ventricle \u2192 body",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 254,
+    "category": "other",
+    "subject": "science",
+    "question": "Which component of blood is responsible for clotting?",
+    "answer": "Platelets",
+    "wrong_answers": [
+      "Platelets (thrombocytes) are cell fragments essential for blood clot formation at injury sites",
+      "Red blood cells",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 256,
+    "category": "other",
+    "subject": "science",
+    "question": "What is the function of the myelin sheath?",
+    "answer": "It insulates axons and speeds up nerve impulse transmission",
+    "wrong_answers": [
+      "The myelin sheath is a fatty layer around axons that allows saltatory conduction, dramatically increasing signal speed",
+      "It protects axons from physical damage",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 258,
+    "category": "other",
+    "subject": "science",
+    "question": "Neurotransmitters are released from the:",
+    "answer": "Presynaptic terminal",
+    "wrong_answers": [
+      "Neurotransmitters are stored in vesicles in the presynaptic terminal and released into the synaptic cleft when an action potential arrives",
+      "Postsynaptic terminal",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 261,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "The blood-brain barrier is formed primarily by:",
+    "answer": "Tight junctions between endothelial cells of brain capillaries",
+    "wrong_answers": [
+      "The BBB is formed by endothelial cells with tight junctions that restrict passage of substances from the bloodstream into brain tissue",
+      "Gap junctions between endothelial cells",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 262,
+    "category": "other",
+    "subject": "science",
+    "question": "Which cranial nerve controls the muscles of facial expression?",
+    "answer": "Facial nerve (CN VII)",
+    "wrong_answers": [
+      "The facial nerve (cranial nerve VII) is a motor nerve that innervates the muscles of facial expression",
+      "Trigeminal nerve (CN V)",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 263,
+    "category": "other",
+    "subject": "science",
+    "question": "Which gland is known as the 'master gland' of the endocrine system?",
+    "answer": "Pituitary gland",
+    "wrong_answers": [
+      "The pituitary gland secretes hormones that regulate other endocrine glands, including TSH, ACTH, and FSH",
+      "Thyroid gland",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 270,
+    "category": "other",
+    "subject": "science",
+    "question": "Oxytocin is produced by which structure?",
+    "answer": "Hypothalamus (stored and released by posterior pituitary)",
+    "wrong_answers": [
+      "Oxytocin is synthesized in the hypothalamus but stored in and released from the posterior pituitary gland",
+      "It stimulates uterine contractions and milk ejection",
+      "Hypophysis"
+    ]
+  },
+  {
+    "id": 271,
+    "category": "other",
+    "subject": "science",
+    "question": "Which type of muscle tissue is found in the walls of hollow organs like the stomach?",
+    "answer": "Smooth muscle",
+    "wrong_answers": [
+      "Smooth muscle is involuntary, non-striated muscle found in the walls of hollow organs, blood vessels, and the digestive tract",
+      "Cardiac muscle",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 272,
+    "category": "other",
+    "subject": "science",
+    "question": "What is the functional unit of a muscle fiber?",
+    "answer": "Sarcomere",
+    "wrong_answers": [
+      "The sarcomere is the repeating contractile unit between Z-lines in a myofibril, composed of actin (thin) and myosin (thick) filaments",
+      "Myofibril",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 277,
+    "category": "other",
+    "subject": "science",
+    "question": "The origin of a muscle is attached to:",
+    "answer": "The immovable (or less movable) bone",
+    "wrong_answers": [
+      "The origin is the tendon attachment on the more stable bone; the insertion attaches to the bone that moves during contraction",
+      "The movable bone",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 281,
+    "category": "other",
+    "subject": "science",
+    "question": "Which process occurs primarily in the glomerulus?",
+    "answer": "Filtration",
+    "wrong_answers": [
+      "Blood pressure forces water and small solutes through the glomerular capillary walls into Bowman's capsule \u2014 this is filtration",
+      "Reabsorption",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 283,
+    "category": "other",
+    "subject": "science",
+    "question": "Normal urine is primarily composed of:",
+    "answer": "Water, urea, and salts",
+    "wrong_answers": [
+      "Urine is about 95% water, with urea (waste product of protein metabolism), salts, creatinine, and uric acid making up the remainder",
+      "Proteins, glucose, and amino acids",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 285,
+    "category": "other",
+    "subject": "science",
+    "question": "A person with type AB blood has which antibodies?",
+    "answer": "Neither anti-A nor anti-B antibodies",
+    "wrong_answers": [
+      "Type AB individuals are 'universal recipients' \u2014 they have both A and B antigens on their RBCs but neither antibody in their plasma",
+      "Anti-A and anti-B antibodies",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 286,
+    "category": "other",
+    "subject": "science",
+    "question": "Which blood type is the 'universal donor'?",
+    "answer": "Type O negative",
+    "wrong_answers": [
+      "Type O negative RBCs have neither A nor B antigens and no Rh factor, so they won't trigger immune reactions in any recipient",
+      "Type AB positive",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 287,
+    "category": "other",
+    "subject": "science",
+    "question": "The Rh factor refers to the presence or absence of which antigen?",
+    "answer": "RhD antigen",
+    "wrong_answers": [
+      "The Rh (Rhesus) factor, specifically RhD, determines whether blood is Rh-positive (has the antigen) or Rh-negative (lacks it)",
+      "RhC antigen",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 291,
+    "category": "other",
+    "subject": "science",
+    "question": "Which type of tissue lines body surfaces and cavities?",
+    "answer": "Epithelial tissue",
+    "wrong_answers": [
+      "Epithelial tissue forms protective coverings and linings of body surfaces, organs, and cavities",
+      "It can be simple (one layer) or stratified (multiple layers)",
+      "Connective tissue"
+    ]
+  },
+  {
+    "id": 293,
+    "category": "other",
+    "subject": "science",
+    "question": "Which tissue type is characterized by voluntary control and striations?",
+    "answer": "Skeletal muscle",
+    "wrong_answers": [
+      "Skeletal muscle is striated (has alternating bands) and voluntary (consciously controlled)",
+      "Cardiac is also striated but involuntary",
+      "Cardiac muscle"
+    ]
+  },
+  {
+    "id": 294,
+    "category": "other",
+    "subject": "science",
+    "question": "Which type of epithelium is best suited for diffusion and filtration?",
+    "answer": "Simple squamous epithelium",
+    "wrong_answers": [
+      "Simple squamous epithelium is a single flat cell layer that allows rapid diffusion \u2014 found in alveoli of lungs and glomerular capillaries",
+      "Simple cuboidal epithelium",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 296,
+    "category": "other",
+    "subject": "science",
+    "question": "Which tissue type has the greatest capacity for regeneration?",
+    "answer": "Epithelial tissue",
+    "wrong_answers": [
+      "Epithelial tissue regenerates rapidly due to stem cells near the basement membrane",
+      "Cardiac muscle and nervous tissue have very limited regenerative capacity",
+      "Nervous tissue"
+    ]
+  },
+  {
+    "id": 300,
+    "category": "other",
+    "subject": "science",
+    "question": "The inflammatory response is triggered by which chemical?",
+    "answer": "Histamine",
+    "wrong_answers": [
+      "Mast cells release histamine, which causes vasodilation and increased capillary permeability, leading to redness, heat, swelling, and pain",
+      "Prostaglandins",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 304,
+    "category": "other",
+    "subject": "science",
+    "question": "Which organelle is the 'powerhouse of the cell'?",
+    "answer": "Mitochondria",
+    "wrong_answers": [
+      "Mitochondria produce ATP through aerobic cellular respiration",
+      "They have their own DNA and are thought to have originated from endosymbiotic bacteria",
+      "Lysosomes"
+    ]
+  },
+  {
+    "id": 305,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "What is the primary difference between prokaryotic and eukaryotic cells?",
+    "answer": "Eukaryotic cells have a membrane-bound nucleus; prokaryotic cells do not",
+    "wrong_answers": [
+      "Eukaryotes (animals, plants, fungi) have a true nucleus and membrane-bound organelles",
+      "Prokaryotes (bacteria, archaea) lack these",
+      "Eukaryotic cells have membrane-bound organelles; prokaryotic cells do not"
+    ]
+  },
+  {
+    "id": 309,
+    "category": "other",
+    "subject": "science",
+    "question": "Which phase of the cell cycle involves DNA replication?",
+    "answer": "S phase (Synthesis)",
+    "wrong_answers": [
+      "During the S phase of interphase, each chromosome is replicated to form two sister chromatids held together at the centromere",
+      "G1 phase",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 313,
+    "category": "other",
+    "subject": "science",
+    "question": "The two strands of DNA are held together by:",
+    "answer": "Hydrogen bonds between complementary nitrogenous bases",
+    "wrong_answers": [
+      "Adenine pairs with thymine (2 H-bonds) and guanine pairs with cytosine (3 H-bonds)",
+      "The sugar-phosphate backbone is held by covalent bonds",
+      "Covalent bonds between sugar and phosphate groups"
+    ]
+  },
+  {
+    "id": 316,
+    "category": "other",
+    "subject": "science",
+    "question": "DNA replication is called 'semi-conservative' because:",
+    "answer": "Each new DNA molecule contains one original strand and one new strand",
+    "wrong_answers": [
+      "Proven by the Meselson-Stahl experiment, each daughter DNA molecule retains one parent strand and gets one newly synthesized strand",
+      "Both strands are completely new",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 328,
+    "category": "other",
+    "subject": "science",
+    "question": "The process by which nitrogen is converted from atmospheric N\u2082 to a usable form is called:",
+    "answer": "Nitrogen fixation",
+    "wrong_answers": [
+      "Nitrogen-fixing bacteria convert atmospheric N\u2082 into ammonia (NH\u2083), which plants can use",
+      "This is done by bacteria in soil or root nodules",
+      "Nitrification"
+    ]
+  },
+  {
+    "id": 330,
+    "category": "other",
+    "subject": "science",
+    "question": "What does a food web represent?",
+    "answer": "Interconnected food chains showing multiple feeding relationships in an ecosystem",
+    "wrong_answers": [
+      "A food web shows the complex network of feeding relationships among organisms in an ecosystem, unlike a linear food chain",
+      "A single linear food chain",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 331,
+    "category": "other",
+    "subject": "science",
+    "question": "Which macromolecule serves as the primary energy storage molecule in animals?",
+    "answer": "Lipids (fats)",
+    "wrong_answers": [
+      "Lipids store more energy per gram (9 kcal/g) than carbohydrates or proteins (4 kcal/g)",
+      "In animals, fats are the primary long-term energy storage",
+      "Carbohydrates"
+    ]
+  },
+  {
+    "id": 336,
+    "category": "other",
+    "subject": "science",
+    "question": "What happens when sodium (Na) and chlorine (Cl) form a bond?",
+    "answer": "Sodium transfers an electron to chlorine, forming Na\u207a and Cl\u207b",
+    "wrong_answers": [
+      "This is an ionic bond",
+      "Na (1 valence electron) loses an electron to become Na\u207a, and Cl (7 valence electrons) gains it to become Cl\u207b",
+      "Chlorine transfers an electron to sodium"
+    ]
+  },
+  {
+    "id": 337,
+    "category": "other",
+    "subject": "science",
+    "question": "Water molecules are held together by which type of bond?",
+    "answer": "Hydrogen bonds",
+    "wrong_answers": [
+      "The partially positive hydrogen of one water molecule is attracted to the partially negative oxygen of another, forming hydrogen bonds",
+      "Covalent bonds",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 339,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A polar covalent bond occurs when:",
+    "answer": "Electrons are shared unequally between atoms with different electronegativities",
+    "wrong_answers": [
+      "In polar bonds (like H\u2082O), the more electronegative atom attracts electrons more strongly, creating partial charges (\u03b4+ and \u03b4\u2212)",
+      "Electrons are shared equally between atoms",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 340,
+    "category": "other",
+    "subject": "science",
+    "question": "What is the pH of a neutral solution?",
+    "answer": "7",
+    "wrong_answers": [
+      "A pH of 7 is neutral",
+      "Below 7 is acidic (high H\u207a concentration), above 7 is basic (low H\u207a concentration)",
+      "The pH scale is logarithmic"
+    ]
+  },
+  {
+    "id": 342,
+    "category": "other",
+    "subject": "science",
+    "question": "A solution with a pH of 3 is how many times more acidic than a solution with a pH of 5?",
+    "answer": "100 times",
+    "wrong_answers": [
+      "The pH scale is logarithmic: each unit change represents a 10-fold change in H\u207a concentration",
+      "A difference of 2 = 10\u00b2 = 100 times",
+      "10 times"
+    ]
+  },
+  {
+    "id": 346,
+    "category": "other",
+    "subject": "science",
+    "question": "Which group on the periodic table contains the most reactive metals?",
+    "answer": "Group 1 (alkali metals)",
+    "wrong_answers": [
+      "Alkali metals (Li, Na, K) have one valence electron that they readily lose, making them the most reactive metals",
+      "Reactivity increases down the group",
+      "Group 17 (halogens)"
+    ]
+  },
+  {
+    "id": 349,
+    "category": "other",
+    "subject": "science",
+    "question": "Noble gases are largely unreactive because:",
+    "answer": "They have a full outer electron shell",
+    "wrong_answers": [
+      "Noble gases (Group 18) have a stable octet configuration, so they rarely form compounds under normal conditions",
+      "They have an incomplete outer electron shell",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 351,
+    "category": "other",
+    "subject": "science",
+    "question": "What happens to the temperature of water during boiling?",
+    "answer": "It remains constant until all water has vaporized",
+    "wrong_answers": [
+      "During a phase change, added energy breaks intermolecular bonds rather than increasing temperature",
+      "This is called the latent heat of vaporization",
+      "It increases steadily"
+    ]
+  },
+  {
+    "id": 361,
+    "category": "other",
+    "subject": "science",
+    "question": "A double-blind study means:",
+    "answer": "Neither the participants nor the researchers know who receives the treatment",
+    "wrong_answers": [
+      "Double-blind design eliminates both participant and researcher bias, ensuring that expectations don't influence the results",
+      "Single-blind study",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 362,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "Why is sample size important in an experiment?",
+    "answer": "Larger samples reduce the impact of random variation and increase reliability",
+    "wrong_answers": [
+      "A larger sample size decreases the margin of error and increases statistical power, making results more representative of the population",
+      "Smaller samples reduce the impact of random variation and increase reliability",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 365,
+    "category": "other",
+    "subject": "science",
+    "question": "Random assignment in an experiment is used to:",
+    "answer": "Minimize confounding variables between groups",
+    "wrong_answers": [
+      "Random assignment ensures each participant has an equal chance of being in any group, distributing potential confounding variables evenly",
+      "Maximize confounding variables between groups",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 369,
+    "category": "short_correct_long_wrongs",
+    "subject": "science",
+    "question": "The dependent variable is the factor that is:",
+    "answer": "Measured or observed in the experiment",
+    "wrong_answers": [
+      "The dependent variable 'depends' on the independent variable",
+      "It is the outcome that is measured to see the effect of the experimental treatment",
+      "Manipulated or changed in the experiment"
+    ]
+  },
+  {
+    "id": 370,
+    "category": "other",
+    "subject": "science",
+    "question": "A controlled variable (constant) in an experiment is one that:",
+    "answer": "Is kept the same for all groups to ensure a fair test",
+    "wrong_answers": [
+      "Controlled variables are held constant so that any observed changes can be attributed to the independent variable alone",
+      "Is changed for all groups to ensure a fair test",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 374,
+    "category": "other",
+    "subject": "science",
+    "question": "What does a p-value less than 0.05 indicate?",
+    "answer": "The results are statistically significant",
+    "wrong_answers": [
+      "A p-value < 0.05 means there is less than a 5% probability that the observed results occurred by chance alone, indicating statistical significance",
+      "The results are not statistically significant",
+      "Both A and C"
+    ]
+  },
+  {
+    "id": 380,
+    "category": "other",
+    "subject": "science",
+    "question": "A hypothesis that has been extensively tested and supported by evidence becomes a:",
+    "answer": "Scientific theory",
+    "wrong_answers": [
+      "A scientific theory is a well-substantiated explanation supported by extensive evidence (e.g., theory of evolution)",
+      "It is NOT a guess or hypothesis",
+      "Scientific law"
+    ]
+  },
+  {
+    "id": 381,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "Which of the following is the strongest conclusion from a single experiment?",
+    "answer": "The data supports the hypothesis, but further testing is needed",
+    "wrong_answers": [
+      "No single experiment definitively proves anything",
+      "Strong conclusions require replication, peer review, and consistent results across multiple studies",
+      "The data disproves the hypothesis, so no further testing is needed"
+    ]
+  },
+  {
+    "id": 1656,
+    "category": "other",
+    "subject": "science",
+    "question": "An intravenous nurse is preparing to administer a medication that requires precise temperature control. She needs to understand how the atomic radius of elements changes as she moves from the top of G",
+    "answer": "The atomic radius increases as you move down the group.",
+    "wrong_answers": [
+      "The atomic radius decreases as you move down the group due to increased nuclear attraction.",
+      "The atomic radius remains constant regardless of the position in the group.",
+      "The atomic radius decreases as you move down the group because electron shielding is negligible."
+    ]
+  },
+  {
+    "id": 1659,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is preparing intravenous fluids for a patient with severe dehydration. To ensure the fluid remains liquid at room temperature and does not evaporate rapidly, which state of matter properties m",
+    "answer": "The molecules in the liquid state have enough energy to flow but remain close together, preventing rapid evaporation.",
+    "wrong_answers": [
+      "In the gas state, molecules are far apart and move freely, causing the fluid to evaporate quickly.",
+      "In the solid state, molecules are fixed in place and cannot flow, which would prevent the fluid from being administered.",
+      "In the plasma state, molecules are ionized and highly energetic, making the fluid unsafe for intravenous administration."
+    ]
+  },
+  {
+    "id": 1667,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is studying the metabolic pathways of a patient with diabetes who is experiencing hypoglycemia. Which statement best describes the relationship between the immediate energy needs of the cells ",
+    "answer": "Glycolysis is the initial pathway that breaks down glucose to produce ATP without requiring oxygen.",
+    "wrong_answers": [
+      "The Calvin cycle converts glucose into pyruvate to generate ATP in the absence of light.",
+      "Photosynthesis occurs in the cytoplasm to break down glucose molecules for immediate energy.",
+      "The light reactions of photosynthesis directly convert stored glucose in the bloodstream into usable cellular energy."
+    ]
+  },
+  {
+    "id": 1668,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is preparing to administer a vaccine to a client. Which of the following best describes the primary function of the vaccine in relation to the client's immune system?",
+    "answer": "It stimulates the adaptive immune system to produce specific antibodies against a pathogen.",
+    "wrong_answers": [
+      "It provides immediate, lifelong immunity through the innate immune system.",
+      "It directly kills the pathogen present in the client's body.",
+      "It replaces the body's natural production of all immune cells permanently."
+    ]
+  },
+  {
+    "id": 1669,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is explaining the difference between natural and artificial active immunity to a patient who received a flu shot yesterday. Which statement by the nurse is most accurate regarding the patient'",
+    "answer": "The patient currently possesses artificial active immunity because their immune system is actively producing antibodies in response to the vaccine.",
+    "wrong_answers": [
+      "The patient has natural active immunity because the infection occurred spontaneously without medical intervention.",
+      "The patient has natural passive immunity because they were born with antibodies that protected them from the flu.",
+      "The patient has artificial passive immunity because antibodies were directly injected into their bloodstream to provide immediate protection."
+    ]
+  },
+  {
+    "id": 1675,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is observing a pond ecosystem where frogs are the primary predators of mosquitoes, and mosquitoes feed on bacteria and algae. If a disease causes the mosquito population to decrease significan",
+    "answer": "The frog population will likely increase due to reduced predation pressure from mosquitoes.",
+    "wrong_answers": [
+      "The frog population will decrease because there are fewer insects to eat.",
+      "The frog population will remain unchanged regardless of the mosquito decline.",
+      "The frog population will increase because they will switch to eating more algae."
+    ]
+  },
+  {
+    "id": 1676,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nursing student is designing an experiment to test the effect of a new antihistamine on the duration of symptoms for hay fever. In her study, one group of patients receives the new antihistamine, wh",
+    "answer": "To serve as a control group to eliminate the placebo effect and isolate the true impact of the medication.",
+    "wrong_answers": [
+      "To ensure that all participants receive an active drug to prevent withdrawal symptoms.",
+      "To act as the independent variable to measure the changes in symptom duration.",
+      "To increase the sample size so that the results are statistically significant."
+    ]
+  },
+  {
+    "id": 1680,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A researcher observes that patients who take a specific supplement also have lower blood pressure. However, the study did not randomly assign patients to take the supplement; they self-selected into t",
+    "answer": "There is a correlation between taking the supplement and lower blood pressure, but no conclusion about causation can be made.",
+    "wrong_answers": [
+      "The supplement definitely causes lower blood pressure in all patients.",
+      "Taking the supplement increases the risk of high blood pressure.",
+      "The study proves that the supplement is the best treatment for hypertension."
+    ]
+  },
+  {
+    "id": 1681,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse observes that patients who receive high-dose aspirin therapy consistently report fewer headaches within the first week of treatment. Based on this observation alone, what is the most appropria",
+    "answer": "There is a correlation between high-dose aspirin therapy and a reduction in headache frequency.",
+    "wrong_answers": [
+      "High-dose aspirin therapy causes headaches to stop immediately.",
+      "Aspirin is the only effective treatment for headaches in this patient population.",
+      "The headache medication caused the patients to take aspirin."
+    ]
+  },
+  {
+    "id": 1683,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is reviewing a table showing the daily fluid intake (in mL) of a patient over five days. The data points for Days 1, 2, 3, and 5 are 1200, 1400, 1300, and 1500, respectively. On Day 4, the rec",
+    "answer": "The fluid intake has remained relatively consistent, fluctuating between 1200 and 1500 mL.",
+    "wrong_answers": [
+      "The fluid intake is increasing steadily each day.",
+      "The fluid intake decreased significantly on Day 4 compared to the previous days.",
+      "The fluid intake is highly variable and inconsistent throughout the week."
+    ]
+  },
+  {
+    "id": 1692,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is reviewing the concept of natural selection with a student. Which statement best describes how this process leads to adaptation in a population over time?",
+    "answer": "Individuals with traits better suited to their environment are more likely to survive and reproduce, passing those advantageous traits to their offspring.",
+    "wrong_answers": [
+      "Individuals change their traits during their lifetime to become better adapted, and these changes are passed to their children.",
+      "All members of a population must change simultaneously to survive environmental changes.",
+      "Organisms with the least favorable traits are selected by the environment to ensure genetic diversity."
+    ]
+  },
+  {
+    "id": 1693,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is explaining the process of photosynthesis to a student. Which statement by the student demonstrates a correct understanding of how plants produce glucose?",
+    "answer": "Plants convert carbon dioxide and water into glucose using energy from sunlight.",
+    "wrong_answers": [
+      "Plants break down glucose to release energy and produce carbon dioxide and water.",
+      "Plants create their own food by absorbing nutrients directly from the soil without needing sunlight.",
+      "Plants convert glucose into oxygen during the night to survive cold temperatures."
+    ]
+  },
+  {
+    "id": 1696,
+    "category": "other",
+    "subject": "science",
+    "question": "A nurse researcher is designing an experiment to test whether a new medication reduces pain levels in patients with arthritis. She assigns half of the patients to receive the new medication and the ot",
+    "answer": "To serve as a control group for comparison",
+    "wrong_answers": [
+      "To provide the actual treatment to patients who cannot afford the new medication.",
+      "To ensure that all participants are equally likely to experience side effects.",
+      "To increase the total number of participants in the study to improve statistical power."
+    ]
+  },
+  {
+    "id": 1701,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is caring for a client who has just received a dose of a calcium channel blocker to treat hypertension. Which of the following physiological effects is the primary mechanism of action of this ",
+    "answer": "It inhibits calcium influx into vascular smooth muscle cells, leading to vasodilation.",
+    "wrong_answers": [
+      "It increases the release of norepinephrine from sympathetic nerve terminals.",
+      "It blocks beta-adrenergic receptors in the heart to decrease cardiac output.",
+      "It stimulates the release of aldosterone from the adrenal cortex."
+    ]
+  },
+  {
+    "id": 1785,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is preparing to administer a measles vaccine to a child. Which of the following best describes the primary purpose of this vaccine in relation to the child's immune system?",
+    "answer": "To stimulate the adaptive immune system to produce specific antibodies against the measles virus.",
+    "wrong_answers": [
+      "To immediately activate the innate immune system to destroy the virus upon exposure.",
+      "To provide long-term immunity by creating memory cells specific to the measles virus.",
+      "To replace the body's natural production of antibodies in the absence of any infection."
+    ]
+  },
+  {
+    "id": 1788,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is explaining the difference between natural active immunity and vaccine-induced immunity to a patient who received the flu shot last month. Which statement by the nurse is most accurate?",
+    "answer": "The vaccine introduced antigens to stimulate the body to produce specific antibodies and memory cells without causing the full-blown disease.",
+    "wrong_answers": [
+      "Natural active immunity occurs when the body produces antibodies after recovering from an infection.",
+      "Passive immunity involves the administration of pre-made antibodies to provide immediate, short-term protection.",
+      "Vaccines work by directly injecting pre-formed antibodies into the bloodstream to fight current infections."
+    ]
+  },
+  {
+    "id": 1803,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is studying a local wetland ecosystem where algae grow rapidly in the shallow water due to nutrient runoff from nearby farms. Which of the following describes the most likely immediate ecologi",
+    "answer": "Rapid decomposition of the algae depletes dissolved oxygen, threatening aquatic life.",
+    "wrong_answers": [
+      "The algae will absorb excess carbon dioxide, causing the pH of the water to drop significantly.",
+      "The increased plant matter will filter pollutants, leading to a permanent improvement in water clarity.",
+      "The algae will compete with native plants for sunlight, causing the entire ecosystem to become barren."
+    ]
+  },
+  {
+    "id": 1806,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "In a marine ecosystem, a shark eats a seal, and the seal eats a fish. If the shark dies, what happens to the seal population in the short term?",
+    "answer": "The seal population may increase due to reduced predation pressure.",
+    "wrong_answers": [
+      "The seal population will decrease because sharks are necessary for their survival.",
+      "The seal population will remain unchanged regardless of the shark's death.",
+      "The seal population will immediately go extinct due to starvation."
+    ]
+  },
+  {
+    "id": 1809,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is reviewing the differences between the cells that make up bacteria and the cells that make up human tissue. Which of the following is a definitive structural difference between these two typ",
+    "answer": "Human cells contain a nucleus and membrane-bound organelles, while bacterial cells do not.",
+    "wrong_answers": [
+      "Human cells lack a cell wall, whereas bacterial cells have a rigid cell wall.",
+      "Bacterial cells contain mitochondria to produce energy, while human cells lack them.",
+      "Both cell types have a cell membrane, but only bacterial cells have a nucleus."
+    ]
+  },
+  {
+    "id": 1812,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse observes a sample of bacteria under a microscope and notes that the organism lacks a defined nucleus and contains a cell wall made of peptidoglycan. Which statement best describes this cell ty",
+    "answer": "The bacterial cell is a prokaryote, while the human muscle cell is a eukaryote.",
+    "wrong_answers": [
+      "The bacterial cell is larger than the human muscle cell because it is a single-celled organism.",
+      "Both the bacterial cell and the human muscle cell are eukaryotes because they both have a cell membrane.",
+      "The human muscle cell is a prokaryote because it is specialized for movement, whereas bacteria are not."
+    ]
+  },
+  {
+    "id": 1819,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse observes that patients who take their medication at 8:00 AM consistently have lower blood pressure readings than those who take it at 2:00 PM. Based on this observation alone, which conclusion",
+    "answer": "There is a correlation between the time of medication administration and blood pressure levels, but causation cannot be determined without further evidence.",
+    "wrong_answers": [
+      "Taking the medication at 8:00 AM causes the lower blood pressure because it works faster.",
+      "The 2:00 PM time of administration directly causes higher blood pressure in all patients.",
+      "The study proves that changing the time of administration will always improve blood pressure control."
+    ]
+  },
+  {
+    "id": 1822,
+    "category": "other",
+    "subject": "science",
+    "question": "A nurse observes that patients who take the medication X daily tend to report fewer headaches than those who do not take the medication. Based on this observation alone, what is the most accurate conc",
+    "answer": "There is a correlation between taking medication X and reporting fewer headaches.",
+    "wrong_answers": [
+      "Medication X causes headaches to stop.",
+      "Patients who take medication X will never have headaches again.",
+      "The dosage of medication X determines the severity of headaches."
+    ]
+  },
+  {
+    "id": 1825,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is reviewing a table of daily fluid intake and output for a patient with kidney failure. On Day 3, the table shows an intake of 800 mL and an output of 600 mL. On Day 4, the intake is 900 mL a",
+    "answer": "The patient is experiencing a consistent positive fluid balance (net fluid retention) each day.",
+    "wrong_answers": [
+      "The patient's fluid balance is neutral because the difference between intake and output is similar each day.",
+      "The patient is losing more fluid than they are taking in, which could lead to dehydration.",
+      "The fluid balance is fluctuating wildly, indicating an unstable condition that requires immediate hospitalization.",
+      "The intake exceeds the output by a large margin, suggesting the kidneys are functioning normally."
+    ]
+  },
+  {
+    "id": 1828,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse reviews a growth chart for a 12-month-old infant and notices that the child's weight has increased by 20% over the past six months compared to their birth weight. Which of the following statem",
+    "answer": "This represents a positive growth trend consistent with normal development for an infant of this age.",
+    "wrong_answers": [
+      "The rapid increase indicates a potential fluid overload or pathological condition requiring immediate intervention.",
+      "The data suggests the infant is failing to thrive because the weight gain is slower than the recommended 10% per month.",
+      "This trend is abnormal and may result from an overfeeding schedule that needs to be corrected.",
+      "The chart indicates a plateau in growth, suggesting the infant's nutritional needs are no longer being met."
+    ]
+  },
+  {
+    "id": 1830,
+    "category": "other",
+    "subject": "science",
+    "question": "A nurse is preparing an IV infusion for a patient who has been exposed to extreme cold. Which state of matter does the IV fluid exhibit if it begins to freeze inside the tubing, and what is the primar",
+    "answer": "Solid; the temperature of the liquid dropped below its freezing point, causing the molecules to slow down and lock into a fixed structure.",
+    "wrong_answers": [
+      "Liquid; the fluid is simply under pressure from the pump.",
+      "Gas; the cold temperature caused the molecules to escape into the air.",
+      "Plasma; the extreme cold ionized the water molecules."
+    ]
+  },
+  {
+    "id": 1833,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is reviewing the cardiac cycle of a healthy adult. Which statement best describes the function of the semilunar valves located at the exit of the ventricles?",
+    "answer": "They open during ventricular systole to allow blood to flow into the pulmonary artery and aorta, and close during diastole to prevent backflow.",
+    "wrong_answers": [
+      "They open during ventricular diastole to allow blood to flow from the atria into the ventricles.",
+      "They remain closed throughout the entire cardiac cycle to maintain pressure within the atria.",
+      "They open to allow blood to flow from the ventricles back into the atria during systole."
+    ]
+  },
+  {
+    "id": 1836,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is caring for a client with diabetes mellitus who is experiencing frequent urination and excessive thirst. The client's blood glucose levels are consistently high, indicating that the pancreas",
+    "answer": "Insulin; it facilitates the uptake of glucose by cells and promotes its storage as glycogen",
+    "wrong_answers": [
+      "Glucagon; it stimulates the breakdown of glycogen to release glucose into the bloodstream",
+      "Adrenaline; it increases heart rate and blood pressure during stress responses",
+      "Thyroxine; it regulates the body's metabolic rate and growth"
+    ]
+  },
+  {
+    "id": 1840,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is teaching a patient about how skeletal muscles move bones at joints. Which description best explains the mechanism of skeletal muscle contraction?",
+    "answer": "Myosin heads bind to actin filaments and pull them inward, shortening the muscle fiber.",
+    "wrong_answers": [
+      "Actin filaments slide past myosin filaments while the sarcomere length increases.",
+      "The Z-discs move apart as the I-bands remain the same length.",
+      "Actin and myosin filaments slide past each other, causing the H-zone to become narrower."
+    ]
+  },
+  {
+    "id": 1842,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "During muscle contraction, which of the following events occurs at the molecular level within the sarcomere?",
+    "answer": "Myosin heads pull actin filaments toward the center of the sarcomere",
+    "wrong_answers": [
+      "Actin filaments slide toward the Z-line while myosin filaments slide toward the M-line",
+      "The length of the myosin filaments increases to generate force",
+      "Actin and myosin filaments slide past each other, decreasing the distance between Z-lines"
+    ]
+  },
+  {
+    "id": 1849,
+    "category": "other",
+    "subject": "science",
+    "question": "A nurse is designing an experiment to test the effectiveness of a new herbal supplement on reducing anxiety in patients. In this study, which group would serve as the control group?",
+    "answer": "The group receiving a placebo that looks and tastes like the supplement but contains no active ingredients.",
+    "wrong_answers": [
+      "The group receiving the actual herbal supplement.",
+      "The group receiving no treatment at all.",
+      "The group of healthy volunteers with no anxiety."
+    ]
+  },
+  {
+    "id": 1857,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse observes that patients who sleep at least 8 hours per night consistently report fewer headaches than those who sleep less than 6 hours. Based on this observation, what is the most accurate con",
+    "answer": "There is a correlation between the amount of sleep a patient gets and the frequency of their headaches.",
+    "wrong_answers": [
+      "Increasing the amount of sleep will definitely cure all headaches in all patients.",
+      "Sleeping 8 hours causes headaches to disappear in every single patient.",
+      "Patients who sleep 7 hours are more likely to have headaches than those who sleep 8 hours."
+    ]
+  },
+  {
+    "id": 1858,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse researcher is designing a study to evaluate the effectiveness of a new medication on blood pressure. She plans to measure blood pressure in 50 patients who take the new medication and in 50 pa",
+    "answer": "The independent variable is the type of medication (new medication vs. placebo), and the dependent variable is the measured blood pressure.",
+    "wrong_answers": [
+      "The independent variable is the blood pressure reading, and the dependent variable is the type of medication administered.",
+      "The independent variable is the age of the patients, and the dependent variable is the duration of treatment.",
+      "The independent variable is the nurse administering the medication, and the dependent variable is the patient's reaction."
+    ]
+  },
+  {
+    "id": 1863,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is reviewing the vital signs data for a patient on a telemetry unit. The table below shows the heart rate (HR) and systolic blood pressure (SBP) recorded over a 24-hour period. Which trend is ",
+    "answer": "Heart rate and systolic blood pressure are inversely related during the first half of the shift.",
+    "wrong_answers": [
+      "Heart rate increases as systolic blood pressure increases throughout the entire 24-hour period.",
+      "Systolic blood pressure remains constant while heart rate fluctuates significantly.",
+      "There is no correlation between heart rate and blood pressure changes observed in this data set."
+    ]
+  },
+  {
+    "id": 1864,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A client presents with a severe headache, confusion, and stiff neck after a fall. What is the most likely physiological concern regarding the central nervous system that requires immediate assessment?",
+    "answer": "Potential for increased intracranial pressure due to head trauma",
+    "wrong_answers": [
+      "Disruption of the autonomic nervous system causing hypotension",
+      "Damage to the somatic nervous system resulting in paralysis",
+      "Impairment of the peripheral nervous system leading to sensory loss in the extremities"
+    ]
+  },
+  {
+    "id": 1865,
+    "category": "essay_all_long",
+    "subject": "science",
+    "question": "A nurse is studying the cell cycle and needs to distinguish between two types of cell division. Which statement accurately describes the primary difference between mitosis and meiosis?",
+    "answer": "Meiosis results in four daughter cells, each with half the number of chromosomes as the parent cell.",
+    "wrong_answers": [
+      "Mitosis results in two daughter cells, each with half the number of chromosomes as the parent cell.",
+      "Both mitosis and meiosis result in two daughter cells with the same number of chromosomes as the parent cell.",
+      "Mitosis produces gametes for sexual reproduction, while meiosis produces somatic cells for growth and repair."
+    ]
+  }
+]

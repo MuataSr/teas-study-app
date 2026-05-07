@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1002,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse preparing an IV solution reads 1 M NaCl. This means:\nA) 1 gram per liter\nB) 1 mole per liter\nC) 1 milliequivalent per liter\nD) 1 percent",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 1 gram per liter",
+      "C) 1 milliequivalent per liter",
+      "D) 1 percent"
+    ],
+    "explanation": "The question asks what 1 M NaCl signifies. Option B is correct because M stands for molarity, defined as one mole of solute per liter of solution. Option A is wrong since grams measure mass, not the mole count required for molarity. Option C is incorrect because milliequivalents relate to charge, not the specific volume-based mole definition. Option D is false as percent concentration describes weight or volume ratios, not molar amounts.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1003,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse cleaning a wound with hydrogen peroxide sees bubbling. This decomposition produces:\nA) Synthesis\nB) Decomposition\nC) Single replacement\nD) Neutralization",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Synthesis",
+      "C) Single replacement",
+      "D) Neutralization"
+    ],
+    "explanation": "The bubbling indicates hydrogen peroxide breaking into water and oxygen, which is decomposition. Option A synthesis is wrong because it builds larger molecules, not smaller ones. Option C single replacement is incorrect as it involves an element swapping in a compound. Option D neutralization is false since it requires an acid reacting with a base. Thus, only decomposition fits this breakdown process.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1004,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse teaching cellular respiration writes the balanced equation for glucose combustion.\nA) C6H12O6 + O2 -&gt; CO2 + H2O\nB) C6H12O6 -&gt; 6 C + 6 H2O\nC) C6H12O6 + 3 O2 -&gt; 6 CO2 + 3 H2O\nD) C6H12O6 + 6 O2 -&gt; 6 CO2 + 6 H2O",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) C6H12O6 + O2 -&gt; CO2 + H2O",
+      "B) C6H12O6 -&gt; 6 C + 6 H2O",
+      "C) C6H12O6 + 3 O2 -&gt; 6 CO2 + 3 H2O"
+    ],
+    "explanation": "Option D is right because it correctly balances the cellular respiration equation with six oxygen molecules producing six carbon dioxide and six water molecules. Option A fails as it lacks the necessary coefficients to balance atoms, while B incorrectly shows glucose decomposing into pure carbon instead of reacting with oxygen. Option C is wrong because three oxygen molecules cannot yield six carbon dioxide molecules, violating the law of conservation of mass.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1005,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse documenting intake converts 250 mL to liters.\nA) 0.025 L\nB) 0.25 L\nC) 2.5 L\nD) 25 L",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 0.025 L",
+      "C) 2.5 L",
+      "D) 25 L"
+    ],
+    "explanation": "To convert milliliters to liters, divide by 1,000. Therefore, 250 mL equals 0.25 L, making option B correct. Option A is wrong because it divides by 10,000 instead of 1,000. Option C is incorrect as it multiplies by 10 rather than dividing. Option D is false because it multiplies by 100. This simple math ensures accurate nursing documentation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1006,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse hanging IV fluids knows 0.9% saline is:\nA) Hypotonic\nB) Colloid\nC) Hypertonic\nD) Isotonic",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Hypotonic",
+      "B) Colloid",
+      "C) Hypertonic"
+    ],
+    "explanation": "0.9% saline is classified as isotonic because its solute concentration matches that of human cells, preventing water from shifting in or out. Option A is wrong since hypotonic solutions have lower concentrations that cause cells to swell. Option B is incorrect because saline is a crystalloid, not a colloid like albumin. Option C is false as hypertonic solutions contain higher solute levels that draw water out of cells.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1007,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse explaining fluoride varnish notes fluorine forms strong bonds due to:\nA) High electronegativity and gains electron easily\nB) Low electronegativity\nC) Large atomic radius\nD) Metallic character",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Low electronegativity",
+      "C) Large atomic radius",
+      "D) Metallic character"
+    ],
+    "explanation": "Fluorine's high electronegativity allows it to gain electrons easily, forming strong bonds. Option A correctly identifies this property. Options B, C, and D are incorrect because fluorine has low atomic radius, high electronegativity, and non-metallic character.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1008,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse selecting surgical instruments notes metallic bonds allow conductivity because:\nA) Electrons are fixed\nB) Delocalized electrons move freely\nC) Ions are locked\nD) Covalent sharing only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Electrons are fixed",
+      "C) Ions are locked",
+      "D) Covalent sharing only"
+    ],
+    "explanation": "Metallic bonds feature delocalized electrons that move freely, enabling conductivity. Option A is wrong because fixed electrons cannot carry charge. Option C fails since locked ions do not explain electrical flow. Option D is incorrect because covalent sharing restricts electron mobility. This aligns with the science of metallic bonding.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1009,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse administering bicarbonate for acidosis relies on which blood buffer system?\nA) Phosphate only\nB) Hydrochloric acid-chloride\nC) Ammonia-ammonium\nD) Carbonic acid-bicarbonate",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Phosphate only",
+      "B) Hydrochloric acid-chloride",
+      "C) Ammonia-ammonium"
+    ],
+    "explanation": "The bicarbonate buffer system relies on the carbonic acid-bicarbonate equilibrium to regulate blood pH during acidosis, making option D the correct choice. Options A, B, and C are incorrect because phosphate buffers primarily function in urine, hydrochloric acid-chloride is not a physiological buffer pair, and ammonia-ammonium buffers are specific to the kidneys rather than systemic blood regulation. This system directly involves the bicarbonate administered by the nurse to neutralize excess acid in the bloodstream.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1010,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse notices saline IV bags lower freezing point. This is due to:\nA) Increases vapor pressure\nB) Colligative property of solute particles\nC) Chemical reaction\nD) Increases density only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Increases vapor pressure",
+      "C) Chemical reaction",
+      "D) Increases density only"
+    ],
+    "explanation": "The observed lowering of the freezing point is a classic colligative property caused by the presence of solute particles in the saline solution. Option B correctly identifies this mechanism, as colligative properties depend solely on the number of dissolved particles rather than their chemical identity. Option A is incorrect because while solutes do increase vapor pressure, that specific change does not explain the freezing point depression observed. Option C is wrong since dissolving salt is a physical process, not a chemical reaction that alters the solvent's fundamental properties. Option D fails because although density changes, it is not the primary reason for the shift in the freezing point threshold.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1011,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse calculating TPN needs grams of glucose in 500 mL of D10W.\nA) 50 g\nB) 10 g\nC) 5 g\nD) 500 g",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 10 g",
+      "C) 5 g",
+      "D) 500 g"
+    ],
+    "explanation": "The question asks for grams of glucose in 500 mL of D10W. D10W means 10% dextrose, so 10 grams per 100 mL. In 500 mL, that is 50 grams total. Option A matches this calculation. Option B is wrong because it assumes only 2% concentration. Option C is incorrect as it divides by 100 instead of multiplying. Option D is far too high, implying 100% dextrose.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1012,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse warming an IV solution knows temperature increase affects reaction rate by:\nA) Decreases rate\nB) Increases rate by raising kinetic energy\nC) No effect\nD) Stops reaction",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Decreases rate",
+      "C) No effect",
+      "D) Stops reaction"
+    ],
+    "explanation": "Increasing temperature raises the kinetic energy of molecules, causing them to collide more frequently and energetically, which speeds up chemical reactions. Option B correctly identifies this mechanism by stating it increases the rate through raised kinetic energy. Conversely, Option A is false because higher temperatures never decrease reaction rates in this context. Options C and D are also incorrect since temperature changes definitely affect reaction speed and do not stop the reaction entirely. This principle is fundamental to understanding how IV solutions behave under warming conditions.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1013,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse preparing a 1:10 bleach solution for disinfection mixes:\nA) Undiluted\nB) 1 part bleach + 10 parts water\nC) 10 parts bleach + 1 part water\nD) 1 part bleach + 9 parts water",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Undiluted",
+      "B) 1 part bleach + 10 parts water",
+      "C) 10 parts bleach + 1 part water"
+    ],
+    "explanation": "The question asks for the correct mixture for a 1:10 bleach solution. Option D is right because a 1:10 ratio means 1 part bleach mixed with 9 parts water to equal 10 total parts. Option A is wrong as undiluted bleach is unsafe. Option B is incorrect because it creates a 1:11 ratio, not 1:10. Option C is false since it reverses the ratio entirely, resulting in a highly concentrated and dangerous mixture.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1014,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse converts a dopamine drip 5 mcg/kg/min for a 70 kg patient to mg/hr.\nA) 21 mg/hr\nB) 2.1 mg/hr\nC) 0.21 mg/hr\nD) 210 mg/hr",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 2.1 mg/hr",
+      "C) 0.21 mg/hr",
+      "D) 210 mg/hr"
+    ],
+    "explanation": "To solve this, multiply the patient's weight (70 kg) by the dose (5 mcg/kg/min) to get 350 mcg/min. Convert minutes to hours by multiplying by 60, yielding 21,000 mcg/hr. Finally, change micrograms to milligrams by dividing by 1,000, which equals 21 mg/hr. Option A is correct because it matches this calculation. Options B, C, and D are wrong as they result from incorrect unit conversions or arithmetic errors.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1015,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse beginning research identifies the first step of the scientific method.\nA) Analyze data\nB) Form hypothesis\nC) Make observation and ask question\nD) Draw conclusion",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Analyze data",
+      "B) Form hypothesis",
+      "D) Draw conclusion"
+    ],
+    "explanation": "The scientific method starts with observation and questioning before any analysis or hypothesis. Option C correctly identifies this initial step, whereas A, B, and D occur later in the process. Analyzing data requires prior observations, forming a hypothesis needs a question, and drawing conclusions comes after testing. Thus, C is the only valid first step among the choices provided.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1016,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse studying hand hygiene effectiveness changes the sanitizer type. This is the:\nA) Infection rate\nB) Patient outcome\nC) Nurse age\nD) Type of hand sanitizer used",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Infection rate",
+      "B) Patient outcome",
+      "C) Nurse age"
+    ],
+    "explanation": "The scenario describes a nurse altering the sanitizer type to study hand hygiene effectiveness, making the independent variable the specific type of hand sanitizer used. Option D correctly identifies this variable, whereas A, B, and C refer to unrelated factors like infection rates, patient outcomes, or nurse age that were not changed in the study. Since the nurse only modified the sanitizer, the other options do not represent the variable being tested in this specific experiment.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1017,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse studying wound healing keeps initial wound size similar across patients. This is a:\nA) Wound size at start\nB) Dressing type\nC) Healing time\nD) Patient diet variation",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Dressing type",
+      "C) Healing time",
+      "D) Patient diet variation"
+    ],
+    "explanation": "The question asks what the nurse kept similar regarding wound healing. Option A is correct because the nurse specifically studied the initial wound size, which is the only variable mentioned as being kept constant. Options B, C, and D are incorrect because the passage does not state that dressing types, healing times, or patient diets were controlled or similar across the patients. The nurse focused solely on the starting wound dimensions to ensure consistency in the study.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1018,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse reviews a vital signs table: 98.6 F at 0800, 101.2 F at 1200, 99.1 F at 1600, 100.0 F at 2000. Highest temperature is:\nA) 98.6 F at 0800\nB) 101.2 F at 1200\nC) 99.1 F at 1600\nD) 100.0 F at 2000",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 98.6 F at 0800",
+      "C) 99.1 F at 1600",
+      "D) 100.0 F at 2000"
+    ],
+    "explanation": "The question asks for the highest temperature from the nurse's vital signs table. Option B states 101.2 F at 1200, which is the peak value recorded. Options A, C, and D list 98.6 F, 99.1 F, and 100.0 F respectively, all of which are lower than 101.2 F. Therefore, B is the only correct choice as it represents the maximum temperature observed in the data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1019,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse interprets a glucose trend graph showing peak after eating. Peak typically occurs:\nA) 1 hour after meal\nB) Before breakfast\nC) Midnight\nD) During sleep",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Before breakfast",
+      "C) Midnight",
+      "D) During sleep"
+    ],
+    "explanation": "The glucose peak occurs about one hour after eating because insulin response drives blood sugar up post-prandially. Option B is wrong as fasting levels happen before breakfast, while C and D are incorrect since midnight and sleep represent low metabolic states without food intake. This interpretation aligns with standard physiological patterns where digestion triggers the observed glucose spike.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1020,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse testing music for pain writes a proper hypothesis.\nA) Music reduces pain\nB) If patients listen to music then pain scores decrease\nC) Pain is bad\nD) Music is nice",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Music reduces pain",
+      "C) Pain is bad",
+      "D) Music is nice"
+    ],
+    "explanation": "Option B is the right choice because it follows the standard \"If...then...\" format required for a scientific hypothesis, directly linking the intervention (listening to music) to the expected outcome (decreased pain scores). Option A is incorrect as it states a conclusion rather than a testable prediction, while Option C and D are merely subjective opinions about pain and music without proposing a causal relationship. This specific structure allows nurses to properly test the hypothesis through data collection.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1021,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse concludes a study supports the hypothesis when:\nA) Results match hypothesis consistently\nB) One outlier occurs\nC) Data is ignored\nD) Hypothesis changes after",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) One outlier occurs",
+      "C) Data is ignored",
+      "D) Hypothesis changes after"
+    ],
+    "explanation": "A nurse concludes a study supports the hypothesis when results match the hypothesis consistently. Option A is right because scientific validity requires repeated alignment between data and the initial prediction. Option B is wrong since a single outlier does not confirm a trend. Option C is incorrect because ignoring data violates research integrity. Option D fails because changing the hypothesis after seeing results introduces bias.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1022,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse designs an experiment. The purpose of a control group is to:\nA) Increase variables\nB) Provide baseline for comparison\nC) Guarantee results\nD) Eliminate hypothesis",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Increase variables",
+      "C) Guarantee results",
+      "D) Eliminate hypothesis"
+    ],
+    "explanation": "The control group provides a baseline for comparison to isolate the effect of the independent variable. Option A is wrong because controls reduce, not increase, variables. Option C is incorrect as no group guarantees results. Option D fails because controls do not eliminate the hypothesis. This design ensures valid scientific conclusions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1023,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse studies caffeine and blood pressure. The dependent variable is:\nA) Amount of caffeine given\nB) Blood pressure measurement\nC) Time of day\nD) Coffee brand",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Amount of caffeine given",
+      "C) Time of day",
+      "D) Coffee brand"
+    ],
+    "explanation": "In this study on caffeine and blood pressure, the dependent variable is what gets measured, which is option B, the blood pressure reading. The independent variables are the factors the nurse controls, like option A, the caffeine amount, or option D, the coffee brand. Options C and D are irrelevant distractors because time of day and brand do not define the outcome being tested. Therefore, only blood pressure fits the definition of a dependent variable in this experiment.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1024,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse reads a bar graph of infection rates per 1000 patient days: ICU 8, Med-Surg 3, ER 5. Highest rate is:\nA) ICU\nB) ER\nC) Med-Surg\nD) Equal",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) ER",
+      "C) Med-Surg",
+      "D) Equal"
+    ],
+    "explanation": "The graph shows infection rates per 1000 patient days, with the ICU at 8, ER at 5, and Med-Surg at 3. Option A is correct because 8 is the highest numerical value among the three units listed. Option B is wrong since the ER rate of 5 is lower than the ICU's 8. Option C is incorrect as Med-Surg has the lowest rate of 3. Option D is false because the values are clearly unequal, making the ICU the definitive highest rate.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1025,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse tracks wound size on a line graph. Slope is steepest days 0-3 then flattens. This means:\nA) Healing fastest early\nB) No healing\nC) Healing fastest late\nD) Wound worsening",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) No healing",
+      "C) Healing fastest late",
+      "D) Wound worsening"
+    ],
+    "explanation": "The steepest slope on days 0-3 indicates the greatest rate of change, meaning the wound size decreased most rapidly during this early period. Therefore, option A is correct because the graph shows the fastest healing occurred first. Option B is wrong as a flattening line later still implies some change, not zero healing. Option C is incorrect because the late slope is less steep, showing slower healing than the early days. Option D is false since the wound size is decreasing, not increasing, throughout the timeline.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1026,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse testing vitamin C for colds states the null hypothesis.\nA) Vitamin C reduces colds\nB) Vitamin C has no effect on cold incidence\nC) Vitamin C causes colds\nD) Everyone gets colds",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Vitamin C reduces colds",
+      "C) Vitamin C causes colds",
+      "D) Everyone gets colds"
+    ],
+    "explanation": "The null hypothesis states that there is no significant effect, making B the right choice because it claims Vitamin C has no effect on cold incidence. Options A and C are incorrect as they suggest a reduction or causation, which contradicts the null hypothesis definition. Option D is wrong because it makes a universal claim unrelated to the specific impact of Vitamin C being tested. This question tests understanding of statistical hypotheses in nursing research.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1027,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse appraises a study. Larger sample size improves:\nA) Generalizability and reduces random error\nB) Bias\nC) Cost only\nD) Hypothesis truth",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Bias",
+      "C) Cost only",
+      "D) Hypothesis truth"
+    ],
+    "explanation": "Larger samples increase generalizability by better representing the population and reduce random error through statistical stability. Option B is wrong because sample size does not inherently fix bias, which stems from study design flaws. Option C is incorrect as cost rises with larger samples rather than improving. Option D fails because a larger sample does not make a hypothesis true, only more likely.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1028,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse reads about a double-blind drug trial. The purpose is to:\nA) Ensure only researcher knows\nB) Prevent bias from participants and researchers\nC) Increase cost\nD) Eliminate control",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Ensure only researcher knows",
+      "C) Increase cost",
+      "D) Eliminate control"
+    ],
+    "explanation": "The double-blind design prevents bias by ensuring neither participants nor researchers know who receives the treatment, addressing the trial's core purpose. Option A is incorrect because a single-blind study only hides information from participants, while C and D are irrelevant as the method does not inherently increase costs or eliminate the control group. This specific setup minimizes subjective influence on results, which is the primary goal of such trials.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1029,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse calculates fluid balance: intake 1500 mL, output 1200 mL. Net balance is:\nA) +300 mL\nB) -300 mL\nC) 0 mL\nD) +2700 mL",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) -300 mL",
+      "C) 0 mL",
+      "D) +2700 mL"
+    ],
+    "explanation": "Fluid balance is calculated by subtracting total output from total intake. Since intake is 1500 mL and output is 1200 mL, the net balance equals +300 mL, making option A correct. Option B is wrong because it reverses the subtraction order. Option C is incorrect as it assumes equal intake and output. Option D is wrong because it adds the two values instead of finding the difference.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1030,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse sees a study correlating ice cream sales with drowning. Proper conclusion:\nA) Ice cream causes drowning\nB) Correlation does not prove causation\nC) Drowning causes ice cream sales\nD) Data invalid",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Ice cream causes drowning",
+      "C) Drowning causes ice cream sales",
+      "D) Data invalid"
+    ],
+    "explanation": "The study links ice cream sales and drowning, but option B correctly states that correlation does not prove causation. Both rise in summer heat, showing a shared factor rather than one causing the other. Option A wrongly claims ice cream causes drowning, while C incorrectly suggests drowning causes ice cream sales. Option D falsely invalidates the data despite its logical consistency.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1031,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse lists the scientific method in order.\nA) Hypothesis, observation, experiment, conclusion, analysis\nB) Observation, hypothesis, experiment, analysis, conclusion\nC) Conclusion, experiment, hypothesis, observation\nD) Analysis, conclusion, hypothesis",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Hypothesis, observation, experiment, conclusion, analysis",
+      "C) Conclusion, experiment, hypothesis, observation",
+      "D) Analysis, conclusion, hypothesis"
+    ],
+    "explanation": "The scientific method begins with observation to gather data before forming a hypothesis, making option B the only correct sequence. Options A, C, and D are incorrect because they place hypothesis, conclusion, or analysis before the initial observation required to start the process. This order ensures logical progression from data collection to final conclusion.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1032,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse reviews ethics for a placebo-controlled trial. Placebo is acceptable when:\nA) Always\nB) When no effective treatment exists and informed consent given\nC) Never in nursing\nD) When patient requests active drug",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Always",
+      "C) Never in nursing",
+      "D) When patient requests active drug"
+    ],
+    "explanation": "Option B is right because ethics guidelines state placebos are acceptable only when no effective treatment exists and informed consent is obtained. Option A is wrong since placebos are never always acceptable if a proven cure exists. Option C is incorrect because nursing does allow placebo use under strict ethical conditions. Option D fails because a patient requesting an active drug does not justify using a placebo instead.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1033,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse interprets a drug efficacy graph where error bars for drug and placebo overlap. This suggests:\nA) Significant difference\nB) No statistically significant difference likely\nC) Drug definitely works\nD) Sample too large",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Significant difference",
+      "C) Drug definitely works",
+      "D) Sample too large"
+    ],
+    "explanation": "When error bars for a drug and placebo overlap on an efficacy graph, it indicates no statistically significant difference likely exists between them. This rules out option A suggesting a significant difference, C claiming the drug definitely works, and D stating the sample is too large. Overlapping bars mean the observed effect could be due to chance rather than the drug's true efficacy. Therefore, B is the only conclusion supported by standard statistical interpretation of such data.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1034,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse critiques a sleep study. An uncontrolled caffeine intake affecting alertness is a:\nA) Hours of sleep (independent)\nB) Caffeine intake not controlled affecting alertness\nC) Alertness score (dependent)\nD) Consent form",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Hours of sleep (independent)",
+      "C) Alertness score (dependent)",
+      "D) Consent form"
+    ],
+    "explanation": "The question asks to identify the variable description for uncontrolled caffeine affecting alertness. Option B correctly matches this scenario by stating caffeine intake is not controlled and it affects alertness. Option A is wrong because hours of sleep are independent, not the specific caffeine variable. Option C is incorrect as alertness is the dependent outcome, not the input variable. Option D is irrelevant since a consent form does not relate to caffeine intake or alertness levels in this study.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1035,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse sees a study result p-value 0.07 with alpha 0.05. Correct interpretation:\nA) Reject null, significant\nB) Fail to reject null, not significant\nC) Prove hypothesis true\nD) Error in calculation",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Reject null, significant",
+      "C) Prove hypothesis true",
+      "D) Error in calculation"
+    ],
+    "explanation": "In this science question regarding p-values and alpha, option B is correct because a p-value of 0.07 exceeds the alpha threshold of 0.05, meaning we fail to reject the null hypothesis and the result is not statistically significant. Option A is wrong since rejecting the null requires a p-value lower than alpha, which 0.07 is not. Option C is incorrect because statistics can never prove a hypothesis true, only support or refute it based on probability. Option D is false as the calculation itself is valid; the issue is the comparison of values, not an arithmetic error.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1036,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse reviews a scatter plot of BMI vs blood pressure with r=0.65 upward trend. This indicates:\nA) Strong negative correlation\nB) Moderate positive correlation\nC) No correlation\nD) Causation proven",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Strong negative correlation",
+      "C) No correlation",
+      "D) Causation proven"
+    ],
+    "explanation": "The scatter plot shows an upward trend with r=0.65, indicating a moderate positive correlation between BMI and blood pressure. Option A is wrong because the upward trend contradicts a negative correlation. Option C is incorrect since r=0.65 clearly shows a relationship, not no correlation. Option D is false because correlation does not prove causation. Thus, B is the only accurate choice reflecting the data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1037,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse notes a study assigned patients by room number, not randomization. Main flaw:\nA) Increases internal validity\nB) Increases selection bias risk\nC) Guarantees blinding\nD) Improves ethics",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Increases internal validity",
+      "C) Guarantees blinding",
+      "D) Improves ethics"
+    ],
+    "explanation": "The study's assignment by room number instead of randomization increases selection bias risk because researchers might unconsciously influence patient grouping. Option A is wrong as this method decreases internal validity, not increases it. Option C is incorrect because non-random assignment does not guarantee blinding. Option D is false since this approach does not improve ethics.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1038,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse's intervention shows no effect. Best practice is to:\nA) Hide results\nB) Report negative findings to inform practice\nC) Claim success anyway\nD) Change data",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Hide results",
+      "C) Claim success anyway",
+      "D) Change data"
+    ],
+    "explanation": "Option B is right because reporting negative findings informs practice, whereas A is wrong as hiding results prevents learning. C fails since claiming success ignores reality, and D is incorrect because changing data is unethical. This approach ensures transparency in nursing interventions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1039,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse is warned against extrapolating a drug dose-response to 10 times the tested dose because:\nA) Linear relationships always hold\nB) Data outside range may behave differently\nC) Extrapolation increases accuracy\nD) Required by FDA",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Linear relationships always hold",
+      "C) Extrapolation increases accuracy",
+      "D) Required by FDA"
+    ],
+    "explanation": "The nurse cannot extrapolate because data outside the tested range may behave differently, making option B correct. Options A, C, and D are wrong since linear relationships do not always hold, extrapolation reduces rather than increases accuracy, and the FDA does not require this practice. This warning prevents assuming trends that might not exist beyond the observed data limits.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1040,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse is caring for a patient with a fever. Which homeostatic mechanism helps lower body temperature through vasodilation and sweating?\nA) Positive feedback loop\nB) Negative feedback loop\nC) Feedforward control\nD) Neural reflex arc",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Positive feedback loop",
+      "C) Feedforward control",
+      "D) Neural reflex arc"
+    ],
+    "explanation": "The question asks about the mechanism lowering fever via vasodilation and sweating. Option B, the negative feedback loop, is correct because it detects a deviation from the set point and triggers responses to restore homeostasis, like cooling the body. Option A, positive feedback, amplifies changes rather than correcting them, so it cannot lower a fever. Option C, feedforward control, anticipates changes before they occur, which does not fit this reactive cooling process. Option D, a neural reflex arc, is a specific pathway, not the overarching regulatory system managing the temperature deviation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1041,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "During urinary catheterization, a nurse must remember the bladder is located in which body cavity?\nA) Pelvic cavity\nB) Cranial cavity\nC) Abdominal cavity\nD) Thoracic cavity",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Cranial cavity",
+      "C) Abdominal cavity",
+      "D) Thoracic cavity"
+    ],
+    "explanation": "The bladder resides in the pelvic cavity, making option A correct. Options B, C, and D are incorrect because the cranial, abdominal, and thoracic cavities house the brain, digestive organs, and lungs respectively. While the abdominal cavity is nearby, the pelvic cavity specifically contains the urinary bladder and reproductive organs. This anatomical distinction is vital for accurate catheterization procedures.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1042,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "Which tissue type forms the outer layer of skin and provides a barrier against pathogens, relevant to wound prevention protocols?\nA) Connective tissue\nB) Epithelial tissue\nC) Nervous tissue\nD) Muscle tissue",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Connective tissue",
+      "C) Nervous tissue",
+      "D) Muscle tissue"
+    ],
+    "explanation": "The outer skin layer is formed by epithelial tissue, which creates a protective barrier against pathogens. Connective tissue supports structures but does not form the surface. Nervous tissue transmits signals, while muscle tissue enables movement. Only epithelial tissue fits the barrier function described in the question.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1043,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "In an emergency transfusion when blood type is unknown, why is O-negative blood preferred?\nA) It contains all Rh factors for compatibility\nB) It lacks A, B, and Rh antigens, reducing reaction risk\nC) It has the highest hemoglobin concentration\nD) It clots faster than other types",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It contains all Rh factors for compatibility",
+      "C) It has the highest hemoglobin concentration",
+      "D) It clots faster than other types"
+    ],
+    "explanation": "O-negative blood is preferred because it lacks A, B, and Rh antigens, minimizing the risk of an immune reaction in an unknown recipient. Option A is incorrect as it falsely claims the presence of all Rh factors, while C and D are wrong because hemoglobin concentration and clotting speed do not determine transfusion safety. The absence of these specific antigens ensures compatibility regardless of the patient's blood type.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1044,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "When auscultating a heart murmur, a nurse understands that abnormal sounds often result from malfunction of which cardiac structures?\nA) Heart valves\nB) Coronary arteries\nC) Myocardial cells\nD) Pericardial sac",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Coronary arteries",
+      "C) Myocardial cells",
+      "D) Pericardial sac"
+    ],
+    "explanation": "A heart murmur arises when blood flow is disrupted, typically due to faulty heart valves that fail to open or close properly. Valves like the mitral or aortic are the primary structures responsible for directing blood, so their malfunction creates the audible turbulence heard during auscultation. In contrast, coronary arteries supply oxygen to the heart muscle itself and do not directly cause flow turbulence. Myocardial cells generate the heart's pumping force but do not create the specific sounds associated with valve issues. Finally, the pericardial sac protects the heart externally and is unrelated to internal blood flow abnormalities.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1045,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A patient experiencing acute pain shows increased heart rate and dilated pupils. Which division of the nervous system mediates this response?\nA) Sympathetic nervous system\nB) Parasympathetic nervous system\nC) Somatic nervous system\nD) Enteric nervous system",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Parasympathetic nervous system",
+      "C) Somatic nervous system",
+      "D) Enteric nervous system"
+    ],
+    "explanation": "The sympathetic nervous system mediates the fight-or-flight response, causing increased heart rate and dilated pupils during acute pain. Option B is wrong because the parasympathetic system slows these functions for rest. Option C is incorrect as the somatic system controls voluntary muscles, not autonomic responses. Option D is wrong since the enteric system manages digestion. Thus, only the sympathetic division fits the described physiological changes.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1046,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse educates a diabetic patient that insulin primarily facilitates cellular uptake of which substance?\nA) Amino acids\nB) Electrolytes\nC) Fatty acids\nD) Glucose",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Amino acids",
+      "B) Electrolytes",
+      "C) Fatty acids"
+    ],
+    "explanation": "Insulin primarily regulates glucose uptake into cells, making option D the correct choice for this question. Options A, B, and C are incorrect because insulin does not directly facilitate the cellular absorption of amino acids, electrolytes, or fatty acids in the same manner. This distinction is critical for understanding diabetic management and the specific role of insulin in metabolism. Therefore, only glucose fits the physiological function described in the nurse's education.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1047,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "When assisting a post-surgical patient with ambulation, a nurse recognizes that voluntary movement depends primarily on which muscle type?\nA) Cardiac muscle\nB) Smooth muscle\nC) Skeletal muscle\nD) Visceral muscle",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Cardiac muscle",
+      "B) Smooth muscle",
+      "D) Visceral muscle"
+    ],
+    "explanation": "Voluntary movement during ambulation relies on skeletal muscle, which is under conscious control and attached to bones. Cardiac muscle pumps blood automatically in the heart, while smooth muscle regulates involuntary processes like digestion. Visceral muscle is not a standard anatomical term for movement types. Thus, option C is correct because it directly enables the voluntary actions required for walking, unlike the other involuntary muscle types listed.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1048,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse positions a COPD patient in high-Fowler's position to improve oxygenation. This intervention primarily enhances which respiratory process?\nA) Alveolar gas exchange efficiency\nB) Bronchial mucus clearance\nC) Diaphragmatic nerve conduction\nD) Pulmonary artery pressure",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Bronchial mucus clearance",
+      "C) Diaphragmatic nerve conduction",
+      "D) Pulmonary artery pressure"
+    ],
+    "explanation": "The high-Fowler's position optimizes alveolar gas exchange efficiency by maximizing lung expansion and reducing diaphragmatic pressure, which directly improves oxygenation in COPD patients. Option B is incorrect because gravity alone does not significantly clear bronchial mucus compared to active coughing techniques. Option C is wrong as nerve conduction remains unaffected by body posture changes. Option D is inaccurate since pulmonary artery pressure is not the primary process enhanced by this positioning intervention.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1049,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "After cholecystectomy, a nurse monitors a patient for fat malabsorption. Which substance, normally stored in the gallbladder, is essential for fat emulsification?\nA) Bile\nB) Gastrin\nC) Pepsin\nD) Insulin",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Gastrin",
+      "C) Pepsin",
+      "D) Insulin"
+    ],
+    "explanation": "Bile is the substance stored in the gallbladder that emulsifies fats, making it essential after cholecystectomy monitoring. Gastrin regulates stomach acid, pepsin digests proteins, and insulin manages blood sugar, none of which emulsify fats. Therefore, option A is correct because bile physically breaks down fat droplets for absorption. Options B, C, and D are incorrect as they perform unrelated digestive or metabolic functions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1050,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse administers a loop diuretic. This medication primarily acts on which part of the nephron to increase sodium and water excretion?\nA) Glomerulus\nB) Proximal convoluted tubule\nC) Collecting duct\nD) Loop of Henle",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Glomerulus",
+      "B) Proximal convoluted tubule",
+      "C) Collecting duct"
+    ],
+    "explanation": "The loop diuretic targets the Loop of Henle to block sodium reabsorption, directly increasing excretion. Option A is wrong because the glomerulus filters blood rather than reabsorbing sodium. Option B is incorrect as the proximal tubule reabsorbs most sodium before loop diuretics act. Option C is wrong since the collecting duct is regulated by hormones like aldosterone. Thus, D is the only site where loop diuretics primarily function to enhance sodium and water loss.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1051,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "When implementing contact precautions for a post-operative patient, a nurse understands that the skin's role as a physical barrier is part of which immunity type?\nA) Adaptive immunity\nB) Cell-mediated immunity\nC) Humoral immunity\nD) Innate immunity",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Adaptive immunity",
+      "B) Cell-mediated immunity",
+      "C) Humoral immunity"
+    ],
+    "explanation": "The skin acts as a non-specific physical barrier against pathogens, which defines innate immunity rather than the specific responses found in adaptive, cell-mediated, or humoral immunity. Innate immunity includes general defenses like skin and mucous membranes that do not require prior exposure to a specific antigen. Adaptive immunity involves lymphocytes and memory cells, while cell-mediated and humoral immunity are specialized subsets of that adaptive system. Therefore, the skin's barrier function belongs to innate immunity.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

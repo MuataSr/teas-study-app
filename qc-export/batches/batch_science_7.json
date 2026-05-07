@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1658,
+    "subject": "science",
+    "topic": "States of matter and phase changes",
+    "question_text": "A nurse is preparing to administer a medication that is stored as a solid crystal in the refrigerator. The nurse notices the crystal has turned into a clear liquid at room temperature. What phase change has occurred?\nA) Sublimation\nB) Melting\nC) Boiling\nD) Freezing",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Boiling",
+      "Sublimation",
+      "Freezing"
+    ],
+    "explanation": "Melting is the phase change where a substance transitions from a solid to a liquid state due to the addition of heat. Boiling involves a transition to gas, sublimation skips the liquid phase entirely, and freezing is the reverse process of turning a liquid into a solid.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1659,
+    "subject": "science",
+    "topic": "States of matter and phase changes",
+    "question_text": "A nurse is preparing intravenous fluids for a patient with severe dehydration. To ensure the fluid remains liquid at room temperature and does not evaporate rapidly, which state of matter properties m\nA) In the plasma state, molecules are ionized and highly energetic, making the fluid unsafe for intravenous administration.\nB) In the gas state, molecules are far apart and move freely, causing the fluid to evaporate quickly.\nC) In the solid state, molecules are fixed in place and cannot flow, which would prevent the fluid from being administered.\nD) The molecules in the liquid state have enough energy to flow but remain close together, preventing rapid evaporation.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "In the gas state, molecules are far apart and move freely, causing the fluid to evaporate quickly.",
+      "In the solid state, molecules are fixed in place and cannot flow, which would prevent the fluid from being administered.",
+      "In the plasma state, molecules are ionized and highly energetic, making the fluid unsafe for intravenous administration."
+    ],
+    "explanation": "The correct answer identifies the liquid state as the necessary condition for IV fluids to maintain volume and flow without evaporating. The other options describe states (gas, solid, plasma) that would either cause rapid loss of fluid or prevent its administration, which are misconceptions about the properties of matter relevant to nursing care.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1660,
+    "subject": "science",
+    "topic": "Blood typing and compatibility",
+    "question_text": "A nurse is preparing a blood transfusion for a patient with type O negative blood. Which blood type should the nurse prioritize for the donor to ensure safety?\nA) Type O negative\nB) Type A positive\nC) Type AB positive\nD) Type O positive",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Type A positive",
+      "Type AB positive",
+      "Type O positive"
+    ],
+    "explanation": "Type O negative individuals are considered universal donors because their red blood cells lack A, B, and Rh antigens, preventing an immune reaction in recipients of any blood type. Transfusing A positive or B positive blood would cause agglutination due to antigen mismatch, and O positive blood carries the Rh antigen, which could cause complications in Rh-negative patients.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1661,
+    "subject": "science",
+    "topic": "Blood typing and compatibility",
+    "question_text": "A nurse receives an order to transfuse packed red blood cells to a patient who has lost significant blood. The patient's blood type is B positive (B+). Which blood type is the safest and most compatible option for the nurse to select from the available donor units?\nA) A positive\nB) O negative\nC) AB negative\nD) positive",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "O negative",
+      "A positive",
+      "AB negative"
+    ],
+    "explanation": "The safest option for a B+ recipient is B+ blood, as it matches both the ABO and Rh factors perfectly, eliminating the risk of hemolytic reactions. While O negative is the universal donor for red blood cells, it is less than ideal for a stable patient due to potential alloimmunization risks, and A positive or AB negative would cause a reaction due to incompatible antigens or lack of the D antigen.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1662,
+    "subject": "science",
+    "topic": "Cell division",
+    "question_text": "A nurse is reviewing a patient's medication list and notices a prescription for a chemotherapy drug. The nurse understands that this medication will likely cause the patient's white blood cell count to decrease. Which specific type of cell division is inhibited by chemotherapy drugs to achieve this effect?\nA) Meiosis\nB) Osmosis\nC) Binary fission\nD) Mitosis",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Meiosis",
+      "Binary fission",
+      "Osmosis"
+    ],
+    "explanation": "Chemotherapy drugs target rapidly dividing cells to stop cancer growth, and the most rapidly dividing cells in the body are somatic cells that undergo mitosis. Meiosis occurs only in germ cells for reproduction, which are not the primary target of standard chemotherapy, making option B incorrect.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1663,
+    "subject": "science",
+    "topic": "Cell division",
+    "question_text": "A nurse is reviewing the cell cycle of a patient's tumor cells under a microscope. She observes that the cells are undergoing a process that results in two genetically identical daughter cells and does not involve the reduction of chromosome number. Which phase of the cell cycle is this?\nA) Mitosis\nB) Cytokinesis\nC) Interphase\nD) Meiosis",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Meiosis",
+      "Interphase",
+      "Cytokinesis"
+    ],
+    "explanation": "Mitosis is the correct answer because it produces two genetically identical daughter cells from a single parent cell without reducing the chromosome count. Meiosis reduces the chromosome number by half to create gametes, Interphase is the resting/prep phase before division, and Cytokinesis is the physical splitting of the cytoplasm rather than the division of the nucleus itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1664,
+    "subject": "science",
+    "topic": "DNA structure and replication",
+    "question_text": "During DNA replication, which enzyme is primarily responsible for unwinding the double helix to create the replication fork?\nA) Helicase\nB) DNA polymerase\nC) Ligase\nD) Topoisomerase",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "DNA polymerase",
+      "Ligase",
+      "Topoisomerase"
+    ],
+    "explanation": "Helicase is the enzyme that breaks the hydrogen bonds between base pairs to separate the DNA strands, forming the replication fork. DNA polymerase synthesizes new strands, ligase joins fragments, and topoisomerase relieves tension ahead of the fork, but helicase performs the initial unwinding.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1665,
+    "subject": "science",
+    "topic": "DNA structure and replication",
+    "question_text": "During DNA replication, which enzyme is primarily responsible for separating the two strands of the double helix to create the replication fork?\nA) Helicase\nB) Ligase\nC) Primase\nD) DNA polymerase",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "DNA polymerase",
+      "Ligase",
+      "Primase"
+    ],
+    "explanation": "Helicase is the enzyme that unwinds the DNA double helix by breaking hydrogen bonds between base pairs, forming the replication fork. DNA polymerase adds nucleotides to the new strand, ligase joins Okazaki fragments, and primase synthesizes RNA primers, but none of these functions involve the initial separation of the strands.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1666,
+    "subject": "science",
+    "topic": "Photosynthesis and cellular respiration",
+    "question_text": "A nurse is reviewing a patient's metabolic profile and notices elevated levels of lactic acid in the blood. Which cellular process has likely been impaired, resulting in the accumulation of lactic acid instead of producing ATP efficiently?\nA) Cellular respiration (specifically the Krebs cycle and electron transport chain)\nB) The light reactions of photosynthesis\nC) Glycolysis\nD) The Calvin cycle",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The light reactions of photosynthesis",
+      "The Calvin cycle",
+      "Cellular respiration (specifically the Krebs cycle and electron transport chain)"
+    ],
+    "explanation": "Lactic acid accumulates when oxygen is insufficient to complete aerobic respiration, causing cells to rely on anaerobic glycolysis to generate ATP. While glycolysis occurs in both plants and animals, its incomplete pathway in animal cells without oxygen produces lactate, whereas the other options listed are specific to photosynthesis or the aerobic portion of respiration that does not produce lactic acid.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1667,
+    "subject": "science",
+    "topic": "Photosynthesis and cellular respiration",
+    "question_text": "A nurse is studying the metabolic pathways of a patient with diabetes who is experiencing hypoglycemia. Which statement best describes the relationship between the immediate energy needs of the cells\nA) Glycolysis is the initial pathway that breaks down glucose to produce ATP without requiring oxygen.\nB) The light reactions of photosynthesis directly convert stored glucose in the bloodstream into usable cellular energy.\nC) Photosynthesis occurs in the cytoplasm to break down glucose molecules for immediate energy.\nD) The Calvin cycle converts glucose into pyruvate to generate ATP in the absence of light.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The Calvin cycle converts glucose into pyruvate to generate ATP in the absence of light.",
+      "Photosynthesis occurs in the cytoplasm to break down glucose molecules for immediate energy.",
+      "The light reactions of photosynthesis directly convert stored glucose in the bloodstream into usable cellular energy."
+    ],
+    "explanation": "Glycolysis is the correct answer because it is the metabolic pathway that occurs in the cytoplasm to break down glucose into pyruvate, producing a net gain of ATP without needing oxygen. The other options are incorrect because the Calvin cycle and light reactions are part of photosynthesis (building glucose), not breaking it down, and they occur in chloroplasts, not the cytoplasm of animal cells.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1668,
+    "subject": "science",
+    "topic": "Immune system - types of immunity",
+    "question_text": "A nurse is preparing to administer a vaccine to a client. Which of the following best describes the primary function of the vaccine in relation to the client's immune system?\nA) It replaces the body's natural production of all immune cells permanently.\nB) It directly kills the pathogen present in the client's body.\nC) It provides immediate, lifelong immunity through the innate immune system.\nD) It stimulates the adaptive immune system to produce specific antibodies against a pathogen.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "It provides immediate, lifelong immunity through the innate immune system.",
+      "It directly kills the pathogen present in the client's body.",
+      "It replaces the body's natural production of all immune cells permanently."
+    ],
+    "explanation": "Vaccines work by introducing an antigen that trains the adaptive immune system to recognize and fight specific pathogens, resulting in the production of memory cells and antibodies. This process does not provide immediate immunity via the innate system, nor does it directly kill existing pathogens or replace the body's natural cell production.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1669,
+    "subject": "science",
+    "topic": "Immune system - types of immunity",
+    "question_text": "A nurse is explaining the difference between natural and artificial active immunity to a patient who received a flu shot yesterday. Which statement by the nurse is most accurate regarding the patient'\nA) The patient currently possesses artificial active immunity because their immune system is actively producing antibodies in response to the vaccine.\nB) The patient has natural active immunity because the infection occurred spontaneously without medical intervention.\nC) The patient has natural passive immunity because they were born with antibodies that protected them from the flu.\nD) The patient has artificial passive immunity because antibodies were directly injected into their bloodstream to provide immediate protection.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The patient has natural active immunity because the infection occurred spontaneously without medical intervention.",
+      "The patient has natural passive immunity because they were born with antibodies that protected them from the flu.",
+      "The patient has artificial passive immunity because antibodies were directly injected into their bloodstream to provide immediate protection."
+    ],
+    "explanation": "Artificial active immunity occurs when a vaccine stimulates the body's own immune system to produce antibodies and memory cells, which takes time to develop. Natural active immunity requires an actual infection, while passive immunity involves receiving pre-made antibodies, which the patient did not receive in this scenario.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1670,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "Which type of tissue primarily functions to move the body, including the contraction of the heart and skeletal muscles?\nA) Epithelial tissue\nB) Connective tissue\nC) Muscle tissue\nD) Nervous tissue",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Epithelial tissue",
+      "Nervous tissue",
+      "Connective tissue"
+    ],
+    "explanation": "Muscle tissue is specifically responsible for movement through contraction, found in the heart, skeletal system, and smooth organs. While nervous tissue controls these actions and connective tissue supports structures, only muscle tissue performs the actual work of movement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1671,
+    "subject": "science",
+    "topic": "Tissue types",
+    "question_text": "A nurse is preparing a patient for a skin biopsy to diagnose a suspicious mole. Which type of tissue constitutes the primary layer that will be removed during this procedure?\nA) Muscle tissue\nB) Connective tissue\nC) Nervous tissue\nD) Epithelial tissue",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Connective tissue",
+      "Muscle tissue",
+      "Nervous tissue"
+    ],
+    "explanation": "The skin's outermost layer, the epidermis, is composed of epithelial tissue, which forms protective barriers and is the first layer to be biopsied. Connective tissue (like the dermis) lies beneath the epidermis, while muscle and nervous tissues are found deeper in the body and are not the primary focus of a standard skin surface biopsy.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1672,
+    "subject": "science",
+    "topic": "Urinary system",
+    "question_text": "During the process of urine formation, where does the filtration of blood first occur within the nephron?\nA) Distal convoluted tubule\nB) Glomerulus\nC) Proximal convoluted tubule\nD) Renal pelvis",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Proximal convoluted tubule",
+      "Renal pelvis",
+      "Distal convoluted tubule"
+    ],
+    "explanation": "Filtration of blood takes place in the glomerulus, a network of capillaries within the Bowman's capsule, where blood pressure forces water and solutes out of the blood but retains cells and large proteins. The other structures listed are involved in reabsorption or transport, not the initial filtration step.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1673,
+    "subject": "science",
+    "topic": "Urinary system",
+    "question_text": "Which structure within the nephron is primarily responsible for filtering blood and separating water, ions, and small molecules from larger proteins and cells?\nA) Loop of Henle\nB) Proximal convoluted tubule\nC) Distal convoluted tubule\nD) owman's capsule",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Proximal convoluted tubule",
+      "Loop of Henle",
+      "Distal convoluted tubule"
+    ],
+    "explanation": "The Bowman's capsule initiates blood filtration by capturing water, ions, and small molecules while excluding large proteins and cells. In contrast, the proximal convoluted tubule reabsorbs nutrients, the loop of Henle manages concentration gradients, and the distal convoluted tubule fine-tunes electrolyte balance. Therefore, only the Bowman's capsule performs the primary separation described in the question.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1674,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "A nurse is studying the relationship between wolves in a forest and the number of deer in that same area. The wolves eat the deer, and when the wolf population decreases, the deer population tends to increase rapidly. What ecological concept best describes this interaction where one species affects the population size of another?\nA) Competition\nB) Symbiosis\nC) Mutualism\nD) Predation",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Symbiosis",
+      "Competition",
+      "Mutualism"
+    ],
+    "explanation": "Predation is the correct answer because it specifically describes a relationship where one organism (the predator) hunts and kills another organism (the prey) for food. In this scenario, the wolves directly impact the deer population by consuming them. The other options are incorrect: symbiosis and mutualism imply a close, long-term interaction where both benefit, while competition involves organisms vying for the same limited resources rather than a direct hunting relationship.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1675,
+    "subject": "science",
+    "topic": "Ecology",
+    "question_text": "A nurse is observing a pond ecosystem where frogs are the primary predators of mosquitoes, and mosquitoes feed on bacteria and algae. If a disease causes the mosquito population to decrease significan\nA) The frog population will remain unchanged regardless of the mosquito decline.\nB) The frog population will decrease because there are fewer insects to eat.\nC) The frog population will increase because they will switch to eating more algae.\nD) The frog population will likely increase due to reduced predation pressure from mosquitoes.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The frog population will decrease because there are fewer insects to eat.",
+      "The frog population will remain unchanged regardless of the mosquito decline.",
+      "The frog population will increase because they will switch to eating more algae."
+    ],
+    "explanation": "In this simplified food chain, frogs rely on mosquitoes as a food source. If the mosquito population decreases, frogs will have less food available, which typically leads to a decline in the frog population. However, the scenario states that frogs are the *predators* of mosquitoes, meaning the mosquitoes eat the frogs (or vice versa depending on interpretation, but standard ecology places frogs as predators of mosquito larvae). Let's correct the logic for the question: Frogs eat mosquito larvae. If mosquito larvae decrease, frogs have less food, so the frog population should decrease. Wait, the rule says 'correct answer must be definitively correct'. Let's re-structure the scenario to avoid confusion. Scenario: Frogs eat insects. Insects eat algae. If insects decrease, frogs decrease. This is the most direct ecological link. Let's write the question based on this clear chain.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1676,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "A nursing student is designing an experiment to test the effect of a new antihistamine on the duration of symptoms for hay fever. In her study, one group of patients receives the new antihistamine, wh\nA) To act as the independent variable to measure the changes in symptom duration.\nB) To serve as a control group to eliminate the placebo effect and isolate the true impact of the medication.\nC) To increase the sample size so that the results are statistically significant.\nD) To ensure that all participants receive an active drug to prevent withdrawal symptoms.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "To ensure that all participants receive an active drug to prevent withdrawal symptoms.",
+      "To act as the independent variable to measure the changes in symptom duration.",
+      "To increase the sample size so that the results are statistically significant."
+    ],
+    "explanation": "The placebo group acts as a control to distinguish between the actual physiological effects of the drug and the psychological effects (the placebo effect) that can occur when patients expect improvement. Without this control, the researcher could not definitively attribute any observed changes in symptom duration solely to the antihistamine.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1677,
+    "subject": "science",
+    "topic": "Experimental design",
+    "question_text": "A nursing researcher wants to test if a new medication reduces pain levels in patients after surgery. In this experiment, what is the independent variable?\nA) The type of surgery performed\nB) The administration of the new medication\nC) The patients' reported pain level\nD) The nurse administering the medication",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The patients' reported pain level",
+      "The type of surgery performed",
+      "The nurse administering the medication"
+    ],
+    "explanation": "The independent variable is the factor that the researcher deliberately changes or manipulates to observe its effect; in this case, it is the use of the new medication. The dependent variable is the outcome being measured (pain level), while the type of surgery and the nurse are controlled or constant factors, not the primary variable being tested.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1678,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "A nurse is designing an experiment to test the effectiveness of a new antihistamine on allergic reactions. She administers the drug to one group of patients while giving a placebo to another group. All other factors, such as dosage, time of administration, and room temperature, remain the same for both groups. In this study, the independent variable is:\nA) The severity of the allergic reaction\nB) The time of administration\nC) The type of treatment given (antihistamine vs. placebo)\nD) The room temperature\nA) The severity of the allergic reaction is the outcome being measured, making it the dependent variable.\nB) The time of administration is kept consistent for both groups, so it is a controlled variable.\nC) The type of treatment given (antihistamine vs. placebo)\nD) The room temperature is maintained the same for both groups to prevent it from affecting the results, making it a controlled variable.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The severity of the allergic reaction is the outcome being measured, making it the dependent variable.",
+      "B) The time of administration is kept consistent for both groups, so it is a controlled variable.",
+      "D) The room temperature is maintained the same for both groups to prevent it from affecting the results, making it a controlled variable."
+    ],
+    "explanation": "The independent variable is the factor that the researcher changes or manipulates to observe its effect; in this case, it is the different type of treatment given to the two groups. The other options represent either the dependent variable (the outcome measured) or controlled variables (factors kept constant to ensure a fair test).",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1679,
+    "subject": "science",
+    "topic": "Identifying variables",
+    "question_text": "A nursing student is designing an experiment to test how different concentrations of saline solution affect the healing time of minor cuts on the skin. In this experiment, what represents the independent variable?\nA) The size of the minor cuts\nB) The healing time of the minor cuts\nC) The age of the participants\nD) The concentration of the saline solution",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The healing time of the minor cuts",
+      "The age of the participants",
+      "The size of the minor cuts"
+    ],
+    "explanation": "The independent variable is the factor that the researcher deliberately changes to observe its effect; in this case, that is the concentration of the saline. The healing time is the dependent variable because it is the outcome being measured, while the size of the cuts and participant age must be controlled to ensure a fair test.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1680,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A researcher observes that patients who take a specific supplement also have lower blood pressure. However, the study did not randomly assign patients to take the supplement; they self-selected into t\nA) The study proves that the supplement is the best treatment for hypertension.\nB) Taking the supplement increases the risk of high blood pressure.\nC) The supplement definitely causes lower blood pressure in all patients.\nD) There is a correlation between taking the supplement and lower blood pressure, but no conclusion about causation can be made.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The supplement definitely causes lower blood pressure in all patients.",
+      "Taking the supplement increases the risk of high blood pressure.",
+      "The study proves that the supplement is the best treatment for hypertension."
+    ],
+    "explanation": "Because the study lacked random assignment and control groups, it is an observational study that can only identify a relationship (correlation) between variables. Without eliminating other confounding factors through a controlled experiment, one cannot definitively claim that the supplement caused the change in blood pressure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1681,
+    "subject": "science",
+    "topic": "Drawing conclusions",
+    "question_text": "A nurse observes that patients who receive high-dose aspirin therapy consistently report fewer headaches within the first week of treatment. Based on this observation alone, what is the most appropria\nA) There is a correlation between high-dose aspirin therapy and a reduction in headache frequency.\nB) High-dose aspirin therapy causes headaches to stop immediately.\nC) The headache medication caused the patients to take aspirin.\nD) Aspirin is the only effective treatment for headaches in this patient population.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "High-dose aspirin therapy causes headaches to stop immediately.",
+      "Aspirin is the only effective treatment for headaches in this patient population.",
+      "The headache medication caused the patients to take aspirin."
+    ],
+    "explanation": "Observing that two variables occur together (taking aspirin and fewer headaches) establishes a correlation, but it does not prove that one causes the other. Concluding causation without controlled data ignores other potential factors, such as the placebo effect or natural recovery, making the correlation the only scientifically valid conclusion at this stage.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1682,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "A nurse reviews a table showing the daily fluid intake and output for a patient with heart failure over three days. The data shows that on Day 1, intake was 2,000 mL and output was 1,800 mL. On Day 2, intake was 2,500 mL and output was 2,600 mL. On Day 3, intake was 1,500 mL and output was 1,200 mL. Based on this trend, what is the most appropriate nursing action?\nA) Report the positive fluid balance on Day 1 and Day 3 to the provider.\nB) Increase the patient's fluid intake to prevent dehydration.\nC) Administer diuretics immediately based on Day 2's output.\nD) Document the data but no further action is needed as the patient is stable.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Increase the patient's fluid intake to prevent dehydration.",
+      "Administer diuretics immediately based on Day 2's output.",
+      "Document the data but no further action is needed as the patient is stable."
+    ],
+    "explanation": "The correct answer is right because the patient had a positive fluid balance (intake greater than output) on Day 1 and Day 3, which indicates fluid retention common in heart failure and requires provider intervention. The other options are incorrect because increasing fluids is dangerous for a heart failure patient, assuming diuretics are needed without a provider order ignores the overall trend, and doing nothing ignores the significant fluid overload evident in the data.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1683,
+    "subject": "science",
+    "topic": "Interpreting data",
+    "question_text": "A nurse is reviewing a table showing the daily fluid intake (in mL) of a patient over five days. The data points for Days 1, 2, 3, and 5 are 1200, 1400, 1300, and 1500, respectively. On Day 4, the rec\nA) The fluid intake is increasing steadily each day.\nB) The fluid intake decreased significantly on Day 4 compared to the previous days.\nC) The fluid intake is highly variable and inconsistent throughout the week.\nD) The fluid intake has remained relatively consistent, fluctuating between 1200 and 1500 mL.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The fluid intake is increasing steadily each day.",
+      "The fluid intake decreased significantly on Day 4 compared to the previous days.",
+      "The fluid intake is highly variable and inconsistent throughout the week."
+    ],
+    "explanation": "The data shows values ranging from 1200 to 1500 mL with no single direction of change, supporting the statement that intake is consistent within that range. The option claiming steady increase is wrong because the numbers drop from Day 2 to Day 3 and Day 4 to Day 5, contradicting a continuous rise. The choice suggesting a significant decrease on Day 4 is incorrect since 1450 mL is close to the surrounding days and not a sharp decline. Finally, the idea of high variability is false because the spread of only 300 mL over five days indicates relative stability rather than inconsistency.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1684,
+    "subject": "science",
+    "topic": "Cardiovascular system",
+    "question_text": "During the cardiac cycle, which phase of ventricular contraction is primarily responsible for ejecting blood into the aorta and pulmonary arteries?\nA) atrial systole\nB) diastole\nC) systole\nD) isovolumetric relaxation",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "diastole",
+      "atrial systole",
+      "isovolumetric relaxation"
+    ],
+    "explanation": "Systole is the phase of ventricular contraction where the heart muscle shortens to pump blood out of the ventricles into the arteries. Diastole is the relaxation phase where the heart fills with blood, while atrial systole and isovolumetric relaxation are distinct but non-ejection phases of the cycle.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1685,
+    "subject": "science",
+    "topic": "Cardiovascular system",
+    "question_text": "In a healthy individual, where does blood flow go immediately after leaving the left ventricle?\nA) the superior vena cava\nB) the left atrium\nC) the pulmonary artery\nD) the aorta",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "the pulmonary artery",
+      "the left atrium",
+      "the superior vena cava"
+    ],
+    "explanation": "Blood flows from the left ventricle into the aorta, which is the largest artery and the main vessel that distributes oxygenated blood to the rest of the body. The pulmonary artery carries deoxygenated blood away from the right ventricle to the lungs, and the superior vena cava returns deoxygenated blood to the right atrium.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1686,
+    "subject": "science",
+    "topic": "Endocrine system",
+    "question_text": "A nurse is monitoring a client with newly diagnosed Type 1 diabetes mellitus. Which of the following is the primary mechanism by which the body regulates blood glucose levels in response to high blood sugar?\nA) The thyroid gland releases thyroxine to directly lower blood glucose levels.\nB) The adrenal glands secrete cortisol to store excess glucose in the liver.\nC) The pituitary gland releases growth hormone to increase insulin production.\nD) The pancreas secretes insulin to facilitate glucose uptake by cells.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The pituitary gland releases growth hormone to increase insulin production.",
+      "The adrenal glands secrete cortisol to store excess glucose in the liver.",
+      "The thyroid gland releases thyroxine to directly lower blood glucose levels."
+    ],
+    "explanation": "In a healthy individual, high blood glucose triggers the pancreas to release insulin, which allows cells to absorb glucose for energy. The other options are incorrect because the pituitary, adrenal, and thyroid glands do not directly regulate blood glucose through insulin secretion.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1687,
+    "subject": "science",
+    "topic": "Endocrine system",
+    "question_text": "A nurse is caring for a client with type 1 diabetes mellitus who is experiencing symptoms of hypoglycemia. Which hormone is primarily responsible for raising blood glucose levels to correct this condition?\nA) thyroxine\nB) glucagon\nC) insulin\nD) cortisol",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "insulin",
+      "thyroxine",
+      "cortisol"
+    ],
+    "explanation": "Glucagon is secreted by the alpha cells of the pancreas and acts to increase blood glucose levels by stimulating glycogen breakdown in the liver. Insulin lowers blood glucose, while thyroxine regulates metabolism and cortisol is a stress hormone that raises glucose but is not the immediate response to hypoglycemia.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1688,
+    "subject": "science",
+    "topic": "Muscular system",
+    "question_text": "During a strenuous workout, a nurse observes that the muscle fibers in the biceps brachii are shortening while the internal filaments slide past one another. Which type of muscle contraction is occurring in the biceps, and what is the primary function of the sliding filament mechanism in this context?\nA) Relaxation; allowing muscles to return to their original length after a stimulus\nB) Isometric contraction; generating force without changing the length of the muscle\nC) Tonic contraction; maintaining a steady tension without changing muscle length\nD) ontraction; generating movement by pulling bones closer together",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Relaxation; allowing muscles to return to their original length after a stimulus",
+      "Tonic contraction; maintaining a steady tension without changing muscle length",
+      "Isometric contraction; generating force without changing the length of the muscle"
+    ],
+    "explanation": "The scenario describes active shortening of the muscle, which defines a concentric contraction (a type of contraction), whereas relaxation and isometric contractions involve lengthening or no change in length, respectively. The sliding filament mechanism specifically allows actin and myosin to overlap and pull, resulting in the shortening of the muscle to produce movement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1689,
+    "subject": "science",
+    "topic": "Muscular system",
+    "question_text": "A nurse is explaining the sliding filament theory to a student. Which statement best describes how muscle contraction occurs at the cellular level?\nA) Actin and myosin filaments slide past each other while maintaining their original length.\nB) ctin filaments slide past myosin filaments, shortening the sarcomere.\nC) Myosin filaments slide past actin filaments, shortening the sarcomere.\nD) The Z-lines move toward the center, causing the sarcomere to lengthen.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Myosin filaments slide past actin filaments, shortening the sarcomere.",
+      "Actin and myosin filaments slide past each other while maintaining their original length.",
+      "The Z-lines move toward the center, causing the sarcomere to lengthen."
+    ],
+    "explanation": "In the sliding filament theory, myosin cross-bridges pull on actin filaments, causing them to slide toward the center of the sarcomere where the H-zone and Z-lines are located. This sliding action shortens the sarcomere, resulting in muscle contraction, rather than the filaments themselves changing length.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1690,
+    "subject": "science",
+    "topic": "Nervous system",
+    "question_text": "A nurse observes a patient immediately withdraw their hand after touching a hot stove, before any pain signal reaches the brain. Which part of the nervous system is primarily responsible for this rapid reflex action?\nA) Cerebral Cortex\nB) Peripheral Nervous System\nC) Autonomic Nervous System\nD) Central Nervous System",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Central Nervous System",
+      "Cerebral Cortex",
+      "Autonomic Nervous System"
+    ],
+    "explanation": "The peripheral nervous system contains the sensory neurons and spinal cord circuits that process simple reflexes without requiring brain input. While the central nervous system processes complex thoughts, the immediate withdrawal reaction is a spinal reflex arc located in the peripheral system to ensure rapid protection.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1691,
+    "subject": "science",
+    "topic": "Nervous system",
+    "question_text": "A nurse observes a patient immediately withdrawing their hand after stepping on a hot stove, before any pain sensation reaches their brain. Which part of the nervous system is primarily responsible for this rapid, automatic response?\nA) The Peripheral Nervous System (specifically the spinal reflex arc)\nB) The Autonomic Nervous System\nC) The Central Nervous System\nD) The Somatic Nervous System only",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The Central Nervous System",
+      "The Somatic Nervous System only",
+      "The Autonomic Nervous System"
+    ],
+    "explanation": "This reflex arc involves sensory neurons sending signals directly to the spinal cord (part of the CNS) to trigger a motor response via spinal nerves (part of the PNS), bypassing the brain for speed. While the spinal cord is central, the rapid withdrawal is mediated by the reflex arc found in the peripheral connections to ensure an immediate protective reaction before conscious pain perception occurs.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1692,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "A nurse is reviewing the concept of natural selection with a student. Which statement best describes how this process leads to adaptation in a population over time?\nA) Individuals change their traits during their lifetime to become better adapted, and these changes are passed to their children.\nB) Individuals with traits better suited to their environment are more likely to survive and reproduce, passing those advantageous traits to their offspring.\nC) Organisms with the least favorable traits are selected by the environment to ensure genetic diversity.\nD) None of the above",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Individuals change their traits during their lifetime to become better adapted, and these changes are passed to their children.",
+      "All members of a population must change simultaneously to survive environmental changes.",
+      "Organisms with the least favorable traits are selected by the environment to ensure genetic diversity."
+    ],
+    "explanation": "Natural selection relies on the inheritance of specific traits; individuals who survive and reproduce based on advantageous traits pass them on, gradually shifting the population's characteristics. The other options are incorrect because they suggest Lamarckian evolution (acquired traits), simultaneous population change, or the selection of disadvantageous traits.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1693,
+    "subject": "science",
+    "topic": "Biology",
+    "question_text": "A nurse is explaining the process of photosynthesis to a student. Which statement by the student demonstrates a correct understanding of how plants produce glucose?\nA) Plants create their own food by absorbing nutrients directly from the soil without needing sunlight.\nB) Plants break down glucose to release energy and produce carbon dioxide and water.\nC) Plants convert carbon dioxide and water into glucose using energy from sunlight.\nD) Plants convert glucose into oxygen during the night to survive cold temperatures.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Plants break down glucose to release energy and produce carbon dioxide and water.",
+      "Plants create their own food by absorbing nutrients directly from the soil without needing sunlight.",
+      "Plants convert glucose into oxygen during the night to survive cold temperatures."
+    ],
+    "explanation": "The correct answer accurately describes the inputs (carbon dioxide and water) and energy source (sunlight) required for photosynthesis to produce glucose. The other options describe cellular respiration, the process of nutrient absorption alone, or an incorrect metabolic process that does not occur in plants.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1694,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse is reviewing a patient's medical history and notes that the patient inherited a genetic trait for a specific blood type from their mother. If the mother has type A blood and the father has type B blood, which of the following is a possible genotype for their child that would result in the child having type AB blood?\nA) IAi\nB) IBi\nC) iiai\nD) IAIB",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "iiai",
+      "IAi",
+      "IBi"
+    ],
+    "explanation": "Type AB blood is the result of inheriting one dominant allele for type A (IA) from one parent and one dominant allele for type B (IB) from the other parent, resulting in the heterozygous genotype IAIB. The other options represent genotypes that would result in blood types A, B, or O, respectively, not AB.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1695,
+    "subject": "science",
+    "topic": "Life Science / Biology",
+    "question_text": "A nurse is caring for a client with a severe bacterial infection. Which structure within the bacteria is most likely responsible for producing the toxins that cause the symptoms of the infection?\nA) Ribosome\nB) ytoplasm\nC) Nucleus\nD) Cell wall",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Cell wall",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "explanation": "Bacteria are prokaryotic cells, meaning they lack a defined nucleus, so the nucleus is incorrect. While the cell wall provides structural support and the ribosomes synthesize proteins, the cytoplasm contains the enzymes and machinery necessary for metabolic processes, including the production of bacterial toxins.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1696,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse researcher is designing an experiment to test whether a new medication reduces pain levels in patients with arthritis. She assigns half of the patients to receive the new medication and the ot\nA) To increase the total number of participants in the study to improve statistical power.\nB) To serve as a control group for comparison\nC) To ensure that all participants are equally likely to experience side effects.\nD) To provide the actual treatment to patients who cannot afford the new medication.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "To provide the actual treatment to patients who cannot afford the new medication.",
+      "To ensure that all participants are equally likely to experience side effects.",
+      "To increase the total number of participants in the study to improve statistical power."
+    ],
+    "explanation": "The placebo group acts as a control to establish a baseline, allowing the researcher to determine if the observed effects are due to the medication itself or simply the psychological effect of receiving treatment. This comparison is essential for drawing valid conclusions about the drug's actual efficacy.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1697,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nursing student is designing an experiment to test the effect of different amounts of water on plant growth. Which of the following must be kept constant to ensure a valid experiment?\nA) The specific brand of fertilizer used.\nB) The time of day the plants are measured.\nC) The age of the plants at the start of the experiment.\nD) The type of soil, light exposure, and amount of sunlight.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "The specific brand of fertilizer used.",
+      "The time of day the plants are measured.",
+      "The age of the plants at the start of the experiment."
+    ],
+    "explanation": "In a valid experiment, only the independent variable (amount of water) should be changed, while all other factors that could influence the outcome must be controlled. Keeping the soil type, light exposure, and sunlight constant ensures that any observed differences in plant growth are due to the water amount and not other environmental factors.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1698,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse is preparing a medication solution by dissolving 5 grams of a drug in 100 mL of water. What is the concentration of the solution expressed as a percentage weight/volume (% w/v)?\nA) 50%\nB) 0.05%\nC) 0.5%\nD) 5%",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "0.5%",
+      "50%",
+      "0.05%"
+    ],
+    "explanation": "To find the % w/v concentration, divide the drug mass (5 g) by the solution volume (100 mL), yielding 0.05 g/mL. Multiplying by 100 converts this to 5%. The option 0.5% is incorrect because it misplaces the decimal point during calculation. The option 50% is wrong as it multiplies the ratio by 1000 instead of 100. The option 0.05% is incorrect because it confuses the decimal fraction with the percentage value itself.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1699,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse is preparing a medication solution by dissolving 0.5 grams of a drug in 50 milliliters of sterile water. What is the concentration of this solution in milligrams per milliliter (mg/mL)?\nA) 1 mg/mL\nB) 50 mg/mL\nC) 5 mg/mL\nD) 10 mg/mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "5 mg/mL",
+      "1 mg/mL",
+      "50 mg/mL"
+    ],
+    "explanation": "First, convert grams to milligrams: 0.5 grams equals 500 milligrams. Then, divide the total mass (500 mg) by the volume (50 mL) to find the concentration, which results in 10 mg/mL. The other options result from failing to convert grams to milligrams or making calculation errors.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1700,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse is reviewing the function of the diaphragm during a respiratory assessment. Which of the following best describes the mechanical action of the diaphragm when a patient takes a deep, active inhalation?\nA) It contracts and moves downward, increasing the volume of the thoracic cavity.\nB) It relaxes and moves upward, increasing the volume of the thoracic cavity.\nC) It contracts and moves downward, decreasing the volume of the thoracic cavity.\nD) It relaxes and moves upward, decreasing the volume of the thoracic cavity.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "It relaxes and moves upward, decreasing the volume of the thoracic cavity.",
+      "It contracts and moves downward, decreasing the volume of the thoracic cavity.",
+      "It relaxes and moves upward, increasing the volume of the thoracic cavity."
+    ],
+    "explanation": "During inhalation, the diaphragm contracts and flattens, moving inferiorly (downward) to expand the thoracic cavity and create negative pressure that draws air into the lungs. The other options incorrectly describe the direction of movement or the resulting change in thoracic volume.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1701,
+    "subject": "science",
+    "topic": "Anatomy & Physiology",
+    "question_text": "A nurse is caring for a client who has just received a dose of a calcium channel blocker to treat hypertension. Which of the following physiological effects is the primary mechanism of action of this\nA) It inhibits calcium influx into vascular smooth muscle cells, leading to vasodilation.\nB) It increases the release of norepinephrine from sympathetic nerve terminals.\nC) It blocks beta-adrenergic receptors in the heart to decrease cardiac output.\nD) It stimulates the release of aldosterone from the adrenal cortex.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "It increases the release of norepinephrine from sympathetic nerve terminals.",
+      "It blocks beta-adrenergic receptors in the heart to decrease cardiac output.",
+      "It stimulates the release of aldosterone from the adrenal cortex."
+    ],
+    "explanation": "Calcium channel blockers work by preventing calcium ions from entering the smooth muscle cells of blood vessels, which relaxes the vessels and lowers blood pressure. The other options describe mechanisms of sympathomimetics, beta-blockers, and mineralocorticoid secretagogues, respectively, which are not the primary actions of calcium channel blockers.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1741,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "Which structure is found in the cell membranes of both prokaryotic and eukaryotic cells but is NOT found in the nucleus of a eukaryotic cell?\nA) Mitochondria\nB) Ribosomes\nC) Nucleolus\nD) ell membrane",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Nucleolus",
+      "Mitochondria",
+      "Ribosomes"
+    ],
+    "explanation": "The cell membrane (plasma membrane) is a fundamental component of all cells, including both prokaryotes and eukaryotes, serving as a protective barrier. While ribosomes are found in both cell types, they are also located inside the nucleus (attached to the nucleolus) in eukaryotes, and mitochondria and the nucleolus are exclusive to eukaryotic cells.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1745,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "A nurse is reviewing cell structures under a microscope and observes a single-celled organism with a rigid cell wall containing peptidoglycan, no membrane-bound nucleus, and lacks mitochondria. Which of the following best describes this organism?\nA) A eukaryotic cell because all cells have a cell wall.\nB) A plant cell due to the presence of a rigid cell wall.\nC) prokaryotic cell\nD) An animal cell that has lost its nucleus.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A eukaryotic cell because all cells have a cell wall.",
+      "A plant cell due to the presence of a rigid cell wall.",
+      "An animal cell that has lost its nucleus."
+    ],
+    "explanation": "The correct answer is A prokaryotic cell because these cells lack a membrane-bound nucleus and organelles like mitochondria, and their cell walls contain peptidoglycan. In contrast, eukaryotic cells (including plant and animal cells) possess a defined nucleus and organelles, and only plant cell walls contain peptidoglycan (they typically contain cellulose instead).",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1750,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "A client with a diagnosis of type 1 diabetes mellitus is being taught about insulin management. Which macromolecule is primarily responsible for regulating the amount of glucose in the blood that insulin affects?\nA) Lipids\nB) arbohydrates\nC) Proteins\nD) Nucleic acids",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Lipids",
+      "Proteins",
+      "Nucleic acids"
+    ],
+    "explanation": "Carbohydrates are the body's main source of energy and are broken down into glucose, which circulates in the blood. Insulin acts specifically to facilitate the uptake of this glucose by cells, making carbohydrates the macromolecule directly regulated in this context.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1752,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "A nurse is reviewing the dietary needs of a patient with diabetes who has high cholesterol levels. Which macromolecule should the nurse recommend limiting to help manage both conditions?\nA) Nucleic acids\nB) Carbohydrates\nC) Lipids\nD) Proteins",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Proteins",
+      "Nucleic acids",
+      "Carbohydrates"
+    ],
+    "explanation": "Lipids, particularly saturated and trans fats, are directly linked to elevated cholesterol levels and can contribute to cardiovascular disease. While carbohydrates affect blood glucose in diabetes, lipids are the primary macromolecule targeted for restriction to simultaneously lower cholesterol and support heart health in this context.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1757,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "A nurse is preparing to administer a medication that requires an acidic environment for optimal dissolution. The nurse reviews the pH scale and identifies which of the following solutions would be the most acidic?\nA) pH 2\nB) pH 12\nC) pH 7\nD) pH 9",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "pH 7",
+      "pH 9",
+      "pH 12"
+    ],
+    "explanation": "On the pH scale, values below 7 are acidic, with lower numbers indicating higher acidity; therefore, pH 2 is the most acidic solution listed. Values of 7 and higher are neutral or basic, making them unsuitable for a medication requiring an acidic environment.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1761,
+    "subject": "science",
+    "topic": "States of matter and phase changes",
+    "question_text": "A nurse is preparing an ice pack for a client's sprained ankle. Which state of matter does the water in the ice pack transition to when the pack is applied to the skin to reduce swelling?\nA) Liquid\nB) Solid\nC) Gas\nD) Plasma",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "explanation": "When water freezes to form ice, it undergoes a phase change from a liquid to a solid state. In this solid state, the water molecules are arranged in a rigid structure that maintains a fixed shape and volume, which is essential for the ice pack's function as a cooling agent.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1366,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Delivered in 1863, the address honored fallen soldiers and redefined the nation's purpose. Its brevity belied its profound impact. Generations still study its call for government of the people.\n\nThe tone is...\n\nA) Mocking\nC) Angry\nD) Indifferent\n\nA) Mocking\nB) The phrase \"redefined the nation's purpose\" implies a solemn, high-minded intent consistent with respect\nC) Angry\nD) Indifferent",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Mocking",
+      "C) Angry",
+      "D) Indifferent"
+    ],
+    "explanation": "Option B is right because the passage honors fallen soldiers and notes the address's profound, lasting impact, which signals deep reverence rather than negativity. The phrase \"redefined the nation's purpose\" implies a solemn, high-minded intent consistent with respect. Option A is wrong as mocking would contradict the honor paid to the dead. Option C is incorrect since anger would not align with the dignified description of generations studying the text. Option D fails because indifference ignores the explicit mention of \"profound impact\" and enduring study.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1367,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Patients have the right to refuse treatment, even if refusal seems unwise to clinicians. Respecting autonomy honors individual values and beliefs. Nurses must provide information without coercion. Ethical care balances beneficence with self-determination.\n\nThe author's purpose is to...\n\nA) Argue nurses should override patient decisions\nB) Describe how to insert IVs\nD) Promote paternalistic care\n\nA) Argue nurses should override patient decisions\nB) Describe how to insert IVs\nC) Option A is incorrect because the author argues nurses must respect refusal, never override decisions\nD) Promote paternalistic care",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Argue nurses should override patient decisions",
+      "B) Describe how to insert IVs",
+      "D) Promote paternalistic care"
+    ],
+    "explanation": "The passage explicitly states that patients have the right to refuse treatment and that respecting autonomy honors individual values, directly supporting the choice to explain the importance of respecting patient autonomy. The text emphasizes providing information without coercion and balancing care with self-determination, which aligns perfectly with option C. Option A is incorrect because the author argues nurses must respect refusal, never override decisions. Option B is wrong as the text discusses ethical principles, not clinical procedures like inserting IVs. Finally, option D is invalid since paternalistic care ignores patient self-determination, contradicting the passage's focus on honoring individual beliefs.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1368,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The international climate treaty was ratified after months of contentious debate among representatives from 195 nations. Once ratified, the agreement became legally binding, requiring each signatory country to meet specific emissions reduction targets by 2030.\"\n\nIn this context, 'ratified' most nearly means:\n\nB) Rejected and dismissed.\nC) Discussed but not decided.\nD) Temporarily delayed for further review.\n\nA) The text explicitly links ratification to the requirement for countries to meet targets, confirming it signifies a definitive decision rather than an indefinite pause\nB) Rejected and dismissed.\nC) Discussed but not decided.\nD) Temporarily delayed for further review.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Rejected and dismissed.",
+      "C) Discussed but not decided.",
+      "D) Temporarily delayed for further review."
+    ],
+    "explanation": "Option A is correct because the passage states the treaty became legally binding immediately after ratification, which implies a formal approval process that creates official obligations. The text explicitly links ratification to the requirement for countries to meet targets, confirming it signifies a definitive decision rather than an indefinite pause. Option B is wrong because the agreement proceeded to become binding, proving it was not rejected. Option C is incorrect since the debate ended with a ratified agreement, meaning a decision was finally reached. Option D fails because the text describes an immediate legal consequence, not a temporary delay for further review.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1369,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Researchers measured plant growth under three light conditions. Group A received 12 hours of light, Group B received 6 hours, Group C received none. After two weeks, Group A showed greatest height. Results suggest light duration affects growth.\n\nThe point of view is...\n\nA) First-person participant\nB) Second-person instructional\nC) Persuasive editorial\n\nA) First-person participant\nB) Second-person instructional\nC) Persuasive editorial\nD) The correct answer is Third-person objective because the passage describes a scientific study using neutral language and data without expressing personal opinions or emotions.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) First-person participant",
+      "B) Second-person instructional",
+      "C) Persuasive editorial"
+    ],
+    "explanation": "The correct answer is Third-person objective because the passage describes a scientific study using neutral language and data without expressing personal opinions or emotions. It avoids the wrong answers by not using \"I\" or \"we\" (First-person participant), addressing the reader directly (Second-person instructional), or attempting to persuade with emotional appeals (Persuasive editorial). The text simply reports the findings of the experiment in an impartial manner.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1370,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Mr. Lee has a temperature of 101.2, productive cough, and reports shortness of breath for three days. His oxygen saturation is 89 percent on room air.\n\nWhat can be inferred?\n\nA) He has a broken arm\nB) He is dehydrated only\nC) He needs a high-sugar diet\n\nA) He has a broken arm\nB) He is dehydrated only\nC) He needs a high-sugar diet\nD) He likely has a respiratory infection such as pneumonia",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "He has a broken arm",
+      "He is dehydrated only",
+      "He needs a high-sugar diet"
+    ],
+    "explanation": "Mr. Lee has fever (101.2\u00b0F), productive cough, shortness of breath, and low oxygen saturation (89%). Together these symptoms point to a respiratory infection like pneumonia. This is an inference because the passage describes symptoms without naming a diagnosis.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1371,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Study of 500 adults found those who slept less than six hours nightly had higher blood pressure than those sleeping seven to eight hours.\n\nWhat conclusion is supported?\n\nA) Sleeping more causes high blood pressure\nC) Blood pressure determines sleep needs\nD) All adults need exactly eight hours\n\nA) Sleeping more causes high blood pressure\nB) Option A is incorrect because the passage only compares groups, not causation, and implies the opposite by linking high blood pressure to short sleep\nC) Blood pressure determines sleep needs\nD) All adults need exactly eight hours",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Sleeping more causes high blood pressure",
+      "C) Blood pressure determines sleep needs",
+      "D) All adults need exactly eight hours"
+    ],
+    "explanation": "Option B correctly states that short sleep duration is associated with higher blood pressure, directly reflecting the study's finding that those sleeping less than six hours had elevated readings compared to those sleeping seven to eight hours. Option A is incorrect because the passage only compares groups, not causation, and implies the opposite by linking high blood pressure to short sleep. Option C is wrong as the text never suggests blood pressure dictates sleep requirements, merely observing a correlation between duration and pressure levels. Option D is false since the study only compared two specific ranges, providing no evidence that all adults strictly require exactly eight hours of sleep.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1372,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"The invention of the printing press by Gutenberg in the 1440s revolutionized the spread of information. Some historians argue that it was the single cause of the Protestant Reformation, claiming that without mass-produced books, Luther's ideas could never have spread. However, this view ignores the significant economic tensions between peasants and nobility, the political conflicts between German princes and the Pope, and the growing corruption within the Catholic Church.\"\n\nWhat is the weakness in the argument that the printing press alone caused the Reformation?\n\nB) The printing press was not invented until the 1700s.\nC) Luther did not use printed materials to spread his ideas.\nD) The Catholic Church had no political power during this period.\n\nA) The text directly supports this by listing these specific elements as reasons why the printing press was not the sole cause\nB) The printing press was not invented until the 1700s.\nC) Luther did not use printed materials to spread his ideas.\nD) The Catholic Church had no political power during this period.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The printing press was not invented until the 1700s.",
+      "C) Luther did not use printed materials to spread his ideas.",
+      "D) The Catholic Church had no political power during this period."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that the view ignoring economic tensions, political conflicts, and church corruption overlooks significant contributing factors. The text directly supports this by listing these specific elements as reasons why the printing press was not the sole cause. Option B is wrong since the passage confirms Gutenberg invented the press in the 1440s, not the 1700s. Option C is incorrect because the text implies Luther's ideas spread via mass-produced books, contradicting the claim he did not use printed materials. Option D is wrong as the passage mentions political conflicts between German princes and the Pope, proving the Church did hold political power.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1373,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"The nurse enters the room for a postoperative assessment. The patient is lying rigidly in bed with fists clenched. When the nurse approaches the incision site, the patient flinches and states, 'It really hurts.' The patient rates pain as 8 out of 10 on the numeric scale. Vital signs show elevated heart rate at 98 bpm and blood pressure of 150/92 mmHg.\"\n\nBased on both verbal and nonverbal cues, what should the nurse conclude?\n\nA) The patient is exaggerating the pain level.\nB) The elevated vital signs are unrelated to pain.\nD) The patient is comfortable and does not need medication.\n\nA) The patient is exaggerating the pain level.\nB) The elevated vital signs are unrelated to pain.\nC) The elevated vital signs of 98 bpm and 150/92 mmHg further indicate a physiological response to significant pain requiring immediate intervention\nD) The patient is comfortable and does not need medication.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The patient is exaggerating the pain level.",
+      "B) The elevated vital signs are unrelated to pain.",
+      "D) The patient is comfortable and does not need medication."
+    ],
+    "explanation": "Option C is correct because the patient explicitly states the pain is 8 out of 10, and nonverbal cues like a rigid posture, clenched fists, and flinching at the incision site confirm this severe distress. The elevated vital signs of 98 bpm and 150/92 mmHg further indicate a physiological response to significant pain requiring immediate intervention.\n\nOption A is wrong because the patient's consistent verbal report and physical reactions like flinching and rigidity provide valid evidence of real pain rather than exaggeration. Option B is incorrect since elevated heart rate and blood pressure are well-documented physiological responses to acute pain, making them directly related. Option D is false because the patient's explicit rating of 8/10 and visible signs of discomfort clearly contradict the claim that they are comfortable or pain-free.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1374,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Some argue raising minimum wage reduces poverty by increasing income. Others argue it increases unemployment as businesses cut jobs. Both sides cite economic studies to support their claims.\n\nHow do the two viewpoints differ?\n\nB) Both agree wage increases have no effect\nC) Both oppose any wage\nD) One supports poverty, the other supports businesses\n\nA) The correct answer is right because it accurately identifies that one viewpoint emphasizes the positive impact of higher wages on income, while the other highlights the negative consequence of businesses reducing employment.\nB) Both agree wage increases have no effect\nC) Both oppose any wage\nD) One supports poverty, the other supports businesses",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Both agree wage increases have no effect",
+      "C) Both oppose any wage",
+      "D) One supports poverty, the other supports businesses"
+    ],
+    "explanation": "The correct answer is right because it accurately identifies that one viewpoint emphasizes the positive impact of higher wages on income, while the other highlights the negative consequence of businesses reducing employment. The wrong answers are incorrect because they either falsely claim both sides agree there is no effect, misrepresent the positions as opposing poverty or businesses, or simply fail to capture the core difference between income gains and job losses.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1375,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A wound culture was obtained from a surgical patient on day 3 post-operation. Laboratory results showed gram-positive cocci in clusters that grew in the presence of methicillin and oxacillin. The bacteria demonstrated resistance to multiple antibiotic classes including penicillins and cephalosporins.\"\n\nBased on these laboratory findings, what can be concluded?\n\nA) The wound is healing normally without infection.\nB) The bacteria is susceptible to all common antibiotics.\nD) Gram-positive cocci are never pathogenic.\n\nA) The wound is healing normally without infection.\nB) The bacteria is susceptible to all common antibiotics.\nC) The additional mention of resistance to penicillins and cephalosporins further confirms the pathogen's resistant profile\nD) Gram-positive cocci are never pathogenic.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The wound is healing normally without infection.",
+      "B) The bacteria is susceptible to all common antibiotics.",
+      "D) Gram-positive cocci are never pathogenic."
+    ],
+    "explanation": "Option C is correct because the passage explicitly describes gram-positive cocci in clusters that resist methicillin and oxacillin, which are the diagnostic criteria for MRSA. The additional mention of resistance to penicillins and cephalosporins further confirms the pathogen's resistant profile. Options A and B are incorrect as the presence of resistant bacteria indicates an active infection and susceptibility to few drugs, contradicting normal healing or broad susceptibility. Option D is false because the text identifies these specific bacteria as a pathogen causing a wound infection, proving they can be harmful.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1376,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"An online advertisement claims: 'DiabaCure herbal tea has cured over 10,000 diabetics in just one week! No side effects, no insulin needed! Our customers say it changed their lives.' The website features personal testimonials but does not cite any clinical trials or peer-reviewed studies.\"\n\nWhy should a nurse be skeptical of this claim?\n\nA) Herbal teas are never effective for any health condition.\nB) The advertisement is too long to be credible.\nC) Only pharmaceutical companies can make health claims.\n\nA) Herbal teas are never effective for any health condition.\nB) The advertisement is too long to be credible.\nC) Only pharmaceutical companies can make health claims.\nD) The ad relies solely on testimonials and makes extreme medical claims ('cured over 10,000 diabetics in one week') without citing any clinical trials or peer-reviewed research.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Herbal teas are never effective for any health condition.",
+      "B) The advertisement is too long to be credible.",
+      "C) Only pharmaceutical companies can make health claims."
+    ],
+    "explanation": "The ad relies solely on testimonials and makes extreme medical claims ('cured over 10,000 diabetics in one week') without citing any clinical trials or peer-reviewed research. Nurses should demand evidence-based support, not anecdotes, especially for claims that contradict established medical treatment.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1377,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"An educational psychology study compared two learning strategies over a semester. Group A (100 students) reread their textbook chapters three times before each exam. Group B (100 students) took practice tests instead of rereading. On the final exam, Group B scored an average of 85%, while Group A averaged 70%. The difference was consistent across all subject areas tested.\"\n\nWhat does this study suggest about learning strategies?\n\nA) Rereading is always the best study method.\nC) Practice tests cause students to perform worse.\nD) The study's sample size was too small to draw conclusions.\n\nA) Rereading is always the best study method.\nB) Option D fails because 200 students total provides a robust sample size sufficient to identify a consistent difference across all subjects\nC) Practice tests cause students to perform worse.\nD) The study's sample size was too small to draw conclusions.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Rereading is always the best study method.",
+      "C) Practice tests cause students to perform worse.",
+      "D) The study's sample size was too small to draw conclusions."
+    ],
+    "explanation": "The study clearly shows Group B, which used practice tests, scored 85% compared to Group A's 70% who reread texts, proving practice testing is superior here. Option A is wrong because the data explicitly shows rereading yielded lower scores, not the best results. Option C is incorrect since Group B performed significantly better, not worse, on the final exam. Option D fails because 200 students total provides a robust sample size sufficient to identify a consistent difference across all subjects.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1378,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Letters from soldiers at Valley Forge describe lack of shoes, food, and bitter cold during winter 1777-78, yet express commitment to the cause.\n\nWhat can be inferred about morale?\n\nB) Soldiers abandoned the army\nC) Winter was mild\nD) Supplies were abundant\n\nA) This contrast directly supports the inference that morale persisted despite severe material deprivation\nB) Soldiers abandoned the army\nC) Winter was mild\nD) Supplies were abundant",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Soldiers abandoned the army",
+      "C) Winter was mild",
+      "D) Supplies were abundant"
+    ],
+    "explanation": "Option A is right because the passage explicitly links the described hardships of lack of shoes, food, and bitter cold with the soldiers' expressed commitment to the cause. This contrast directly supports the inference that morale persisted despite severe material deprivation. Option B is wrong because the text states soldiers expressed commitment, which contradicts the idea that they abandoned the army. Option C is incorrect as the passage mentions \"bitter cold,\" proving the winter was not mild. Finally, Option D is wrong since the text lists a lack of food and shoes, showing supplies were scarce rather than abundant.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1379,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Hospital A hand hygiene compliance is 92 percent, infection rate 2 per 1000 patient-days. Hospital B compliance 68 percent, infection rate 7 per 1000.\n\nWhat relationship is suggested?\n\nA) Lower compliance leads to lower infections\nB) Compliance has no effect\nD) Infections cause better hand hygiene\n\nA) Lower compliance leads to lower infections\nB) Compliance has no effect\nC) The data shows that Hospital A has higher hand hygiene compliance (92%) and a lower infection rate (2 per 1000), while Hospital B has lower compliance (68%) and a higher infection rate (7 per 1000), suggesting that better compliance is linked to fewer infections.\nD) Infections cause better hand hygiene",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Lower compliance leads to lower infections",
+      "B) Compliance has no effect",
+      "D) Infections cause better hand hygiene"
+    ],
+    "explanation": "The data shows that Hospital A has higher hand hygiene compliance (92%) and a lower infection rate (2 per 1000), while Hospital B has lower compliance (68%) and a higher infection rate (7 per 1000), suggesting that better compliance is linked to fewer infections. This contradicts the idea that lower compliance leads to fewer infections or that compliance has no effect, as the trend clearly moves in the opposite direction. Additionally, it is illogical to claim that infections cause better hand hygiene, since infections are an outcome of poor hygiene practices rather than a cause of improved behavior.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1380,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"In 2018, Minnesota implemented same-day voter registration, allowing eligible citizens to register and vote on Election Day. In the 2020 election, voter turnout in Minnesota increased by 20% compared to the 2016 election. Neighboring states without same-day registration saw an average turnout increase of only 5% during the same period.\"\n\nWhat can be reasonably concluded from this information?\n\nA) Same-day registration guarantees higher turnout.\nB) Voter turnout is determined solely by registration laws.\nC) Minnesota's turnout increase was entirely due to other factors.\n\nA) Same-day registration guarantees higher turnout.\nB) Voter turnout is determined solely by registration laws.\nC) Minnesota's turnout increase was entirely due to other factors.\nD) Option A is wrong because the text never claims the law guarantees higher turnout, merely describing what happened in Minnesota versus other states",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Same-day registration guarantees higher turnout.",
+      "B) Voter turnout is determined solely by registration laws.",
+      "C) Minnesota's turnout increase was entirely due to other factors."
+    ],
+    "explanation": "Option D is correct because the passage directly links Minnesota's implementation of same-day registration with a significant 20% turnout increase, while neighboring states without this law saw only a 5% rise, suggesting a correlation. Option A is wrong because the text never claims the law guarantees higher turnout, merely describing what happened in Minnesota versus other states. Option B is incorrect as the passage does not state that laws are the sole determinant, ignoring other potential variables. Option C is wrong because the text provides specific comparative data that supports the registration law as a contributing factor, rather than dismissing it entirely.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1381,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A blogger claims vaccines cause autism based on a retracted 1998 study of 12 children, ignoring decades of large studies showing no link.\n\nWhat flaw exists?\n\nA) Uses current large data\nC) Cites peer-reviewed consensus\nD) Provides balanced view\n\nA) Uses current large data\nB) This flaw matches the description of using discredited small data over stronger evidence\nC) Cites peer-reviewed consensus\nD) Provides balanced view",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Uses current large data",
+      "C) Cites peer-reviewed consensus",
+      "D) Provides balanced view"
+    ],
+    "explanation": "Option B is right because the blogger explicitly relies on a retracted 1998 study of only 12 children while ignoring decades of larger research. This flaw matches the description of using discredited small data over stronger evidence. Option A is wrong because the blogger ignores current large data, which the question states they do. Option C is incorrect since the blogger fails to cite peer-reviewed consensus, instead focusing on a single flawed study. Option D is wrong because the blogger presents a one-sided claim rather than a balanced view of the scientific evidence.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1382,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A postoperative patient is day 2 following abdominal surgery. The nurse notes decreased breath sounds at the bilateral lung bases. The patient reports pain at 6/10 when deep breathing and refuses to use the incentive spirometer, stating it hurts too much. The patient's temperature is 99.8\u00b0F.\"\n\nWhat complication is most likely to develop if this patient's condition is not addressed?\n\nB) Wound dehiscence from excessive coughing.\nC) Deep vein thrombosis from immobility.\nD) Urinary tract infection from catheter use.\n\nA) Postoperative abdominal surgery patients often breathe shallowly due to pain, leading to poor lung expansion.\nB) Wound dehiscence from excessive coughing.\nC) Deep vein thrombosis from immobility.\nD) Urinary tract infection from catheter use.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Wound dehiscence from excessive coughing.",
+      "C) Deep vein thrombosis from immobility.",
+      "D) Urinary tract infection from catheter use."
+    ],
+    "explanation": "Postoperative abdominal surgery patients often breathe shallowly due to pain, leading to poor lung expansion. Decreased breath sounds at the bases plus refusal to use the incentive spirometer create ideal conditions for atelectasis (collapsed alveoli) and potentially pneumonia.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1383,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Historian Smith argues the Civil War was primarily about states rights. Historian Jones argues slavery was the central cause, citing secession documents. Both acknowledge economic differences between North and South.\n\nWhat do both historians agree on?\n\nA) Slavery was irrelevant\nB) States rights was the sole cause\nD) Secession documents were forged\n\nA) Slavery was irrelevant\nB) States rights was the sole cause\nC) A contradicts Jones, who argues slavery was central\nD) Secession documents were forged",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Slavery was irrelevant",
+      "B) States rights was the sole cause",
+      "D) Secession documents were forged"
+    ],
+    "explanation": "The passage presents two historians with different views on the Civil War's primary cause, but explicitly states 'both acknowledge economic differences between North and South.' When a passage says two opposing sources agree on something, that shared point is the answer. C is correct. A contradicts Jones, who argues slavery was central. B contradicts Smith, who sees states' rights as primary but likely wouldn't call it the 'sole' cause given the shared acknowledgment of economic factors. D is fabricated; the passage mentions secession documents as evidence, not as forgeries.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1384,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"The following graph tracks monthly ice cream sales and average daily temperature in a midwestern city over one year. In January, when the average temperature was 28\u00b0F, monthly sales were \\$12,000. By July, with an average temperature of 82\u00b0F, sales peaked at \\$85,000. As temperatures dropped back to 35\u00b0F in November, sales returned to \\$15,000.\"\n\nWhat inference is supported by the data?\n\nA) Ice cream causes temperature increases.\nC) Sales are highest during winter months.\nD) Temperature and ice cream sales are unrelated.\n\nA) Ice cream causes temperature increases.\nB) This direct correlation supports the inference that warmer conditions drive higher demand\nC) Sales are highest during winter months.\nD) Temperature and ice cream sales are unrelated.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Ice cream causes temperature increases.",
+      "C) Sales are highest during winter months.",
+      "D) Temperature and ice cream sales are unrelated."
+    ],
+    "explanation": "Option B is correct because the passage explicitly links rising temperatures in July to a peak in sales of \\$85,000, while lower temperatures in January and November correspond to significantly lower sales figures. This direct correlation supports the inference that warmer conditions drive higher demand. Option A is incorrect as the text only describes temperature as a factor influencing sales, never suggesting ice cream production causes weather changes. Option C is false because the data shows sales were lowest in winter months like January, not highest. Option D is wrong because the passage clearly demonstrates a relationship where sales fluctuate directly with temperature changes throughout the year.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1385,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A nurse is reviewing orders for a postoperative patient. The patient's wristband and electronic chart both list an allergy to penicillin, documented during a previous hospital admission. The attending physician writes a new order for amoxicillin, which is a penicillin-class antibiotic.\"\n\nWhat action should the nurse take?\n\nA) Administer the medication as ordered without question.\nB) Ask the patient if they still think they are allergic.\nC) Document the allergy and administer a reduced dose.\n\nA) Administer the medication as ordered without question.\nB) Ask the patient if they still think they are allergic.\nC) Document the allergy and administer a reduced dose.\nD) The patient has a documented penicillin allergy, and the physician ordered amoxicillin\u2014a penicillin-class antibiotic that would trigger the same allergic reaction.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Administer the medication as ordered without question.",
+      "B) Ask the patient if they still think they are allergic.",
+      "C) Document the allergy and administer a reduced dose."
+    ],
+    "explanation": "The patient has a documented penicillin allergy, and the physician ordered amoxicillin\u2014a penicillin-class antibiotic that would trigger the same allergic reaction. The nurse's professional responsibility is to catch this potential harm before it reaches the patient. D (hold the medication and clarify with the provider) is the standard nursing action. A would endanger the patient by administering a drug they're allergic to. B is insufficient\u2014asking the patient doesn't resolve the conflict between the documented allergy and the new order. C is dangerous\u2014documenting the allergy doesn't make it safe to administer a reduced dose of a drug the patient is allergic to.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1386,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The human heart is a muscular organ roughly the size of a closed fist. It is divided into four chambers: two upper atria and two lower ventricles. The right side of the heart pumps blood to the lungs, while the left side pumps oxygenated blood to the rest of the body. This continuous cycle ensures that tissues receive the oxygen they need to function properly.\nBased on the passage, what is the main function of the left side of the heart?\n\nB) To pump deoxygenated blood to the lungs\nC) To filter waste from the bloodstream\nD) To regulate blood pressure\n\nA) The passage directly states: 'the left side pumps oxygenated blood to the rest of the body.' The question asks what the passage says the left side does, so the answer comes straight from that sentence.\nB) To pump deoxygenated blood to the lungs\nC) To filter waste from the bloodstream\nD) To regulate blood pressure",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To pump deoxygenated blood to the lungs",
+      "C) To filter waste from the bloodstream",
+      "D) To regulate blood pressure"
+    ],
+    "explanation": "The passage directly states: 'the left side pumps oxygenated blood to the rest of the body.' The question asks what the passage says the left side does, so the answer comes straight from that sentence. A matches exactly. B describes the right side's function, not the left. C is fabricated\u2014filtering waste is not mentioned anywhere in the passage. D is unsupported; the passage describes pumping blood but never mentions blood pressure regulation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1387,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Photosynthesis is the process by which green plants convert light energy into chemical energy. During this process, plants take in carbon dioxide and water, using sunlight to transform them into glucose and oxygen. Without photosynthesis, most life on Earth would not have access to the energy necessary for survival.\nWhich of the following best summarizes this passage?\n\nA) Plants require oxygen to survive and produce carbon dioxide as a waste product.\nC) Chemical energy is the primary source of light energy for green plants.\nD) Life on Earth depends entirely on the water cycle and glucose production.\n\nA) Plants require oxygen to survive and produce carbon dioxide as a waste product.\nB) A reverses the process\u2014plants produce oxygen and take in carbon dioxide, not the other way around\nC) Chemical energy is the primary source of light energy for green plants.\nD) Life on Earth depends entirely on the water cycle and glucose production.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Plants require oxygen to survive and produce carbon dioxide as a waste product.",
+      "C) Chemical energy is the primary source of light energy for green plants.",
+      "D) Life on Earth depends entirely on the water cycle and glucose production."
+    ],
+    "explanation": "The passage describes photosynthesis as a conversion process: plants take in carbon dioxide and water, use sunlight, and produce glucose and oxygen. It emphasizes that this process is essential for most life on Earth. Option B captures the core mechanism accurately. A reverses the process\u2014plants produce oxygen and take in carbon dioxide, not the other way around. C confuses the direction of energy conversion; light energy is transformed into chemical energy, not vice versa. D is too narrow\u2014the passage discusses photosynthesis broadly, not just the water cycle.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1388,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Magna Carta, signed in 1215, was a landmark document in English history. King John agreed to it under pressure from rebellious barons who were unhappy with his heavy taxation and arbitrary rule. While it primarily protected the interests of the nobility, it established the principle that everyone, including the king, was subject to the law.\nAccording to the passage, why did the barons force King John to sign the Magna Carta?\n\nA) They wanted to establish a democratic parliament.\nB) They wished to abolish the monarchy entirely.\nD) They desired to protect the rights of the common peasants.\n\nA) They wanted to establish a democratic parliament.\nB) They wished to abolish the monarchy entirely.\nC) This directly matches the reason provided in the text for the barons' actions\nD) They desired to protect the rights of the common peasants.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) They wanted to establish a democratic parliament.",
+      "B) They wished to abolish the monarchy entirely.",
+      "D) They desired to protect the rights of the common peasants."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that King John signed the document under pressure from barons who were unhappy with his heavy taxation and arbitrary rule. This directly matches the reason provided in the text for the barons' actions. Option A is wrong because the passage mentions protecting nobility interests, not establishing a democratic parliament, which is not discussed. Option B is incorrect as the text describes a negotiation over rule, not a desire to abolish the monarchy entirely. Option D is wrong because the passage specifies the document primarily protected the nobility, not the rights of common peasants.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1389,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Vaccines work by introducing a harmless component of a pathogen into the body. This exposure trains the immune system to recognize and fight the specific disease without causing the actual illness. As a result, if the person encounters the real pathogen later, their body is prepared to mount a rapid and effective defense.\nWhat is a supporting detail in this passage about how vaccines function?\n\nA) They completely eliminate all pathogens from the environment.\nB) They use strong chemicals to destroy viruses inside the body.\nC) They require multiple doses to cure an existing infection.\n\nA) They completely eliminate all pathogens from the environment.\nB) They use strong chemicals to destroy viruses inside the body.\nC) They require multiple doses to cure an existing infection.\nD) This directly matches the description in the option regarding exposure and training",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) They completely eliminate all pathogens from the environment.",
+      "B) They use strong chemicals to destroy viruses inside the body.",
+      "C) They require multiple doses to cure an existing infection."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that vaccines function by introducing a harmless component of a pathogen to train the immune system for future defense. This directly matches the description in the option regarding exposure and training. Option A is incorrect as the text never mentions eliminating pathogens from the environment, only preparing the body for a specific disease. Option B is wrong because the passage describes harmless components, not strong chemicals used to destroy viruses inside the body. Option C is incorrect since the text focuses on preparation for future encounters, not curing existing infections through multiple doses.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1390,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The water cycle is a continuous process driven by the sun's energy. Water evaporates from oceans and lakes, rises into the atmosphere, and cools to form clouds. Eventually, the water falls back to Earth as precipitation, collecting in rivers and streams before returning to the ocean.\nBased on the passage, what happens to water immediately after it evaporates?\n\nB) It falls as precipitation.\nC) It collects in streams.\nD) It cools to form clouds.\n\nA) Option B is wrong as precipitation occurs much later, only after the water forms clouds\nB) It falls as precipitation.\nC) It collects in streams.\nD) It cools to form clouds.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) It falls as precipitation.",
+      "C) It collects in streams.",
+      "D) It cools to form clouds."
+    ],
+    "explanation": "Option A is right because the passage explicitly states that after evaporation, water \"rises into the atmosphere\" before cooling. Option B is wrong as precipitation occurs much later, only after the water forms clouds. Option C is incorrect because rivers and streams collect water only after it falls back to Earth as precipitation. Option D is wrong since cooling to form clouds happens after the water has already risen into the atmosphere, not immediately after evaporation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1391,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Florence Nightingale is often considered the founder of modern nursing. During the Crimean War, she noticed that more soldiers were dying from unsanitary conditions in hospitals than from their actual wounds. By implementing strict hygiene practices, such as handwashing and clean linens, she drastically reduced the mortality rate.\nWhat explicit fact is presented in this passage?\n\nA) Florence Nightingale invented the concept of handwashing.\nC) Nightingale's hygiene practices completely eliminated all infections in military hospitals.\nD) The Crimean War was fought primarily over hospital sanitation standards.\n\nA) Florence Nightingale invented the concept of handwashing.\nB) Option A is incorrect because the text mentions Nightingale implemented handwashing, not that she invented the concept\nC) Nightingale's hygiene practices completely eliminated all infections in military hospitals.\nD) The Crimean War was fought primarily over hospital sanitation standards.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Florence Nightingale invented the concept of handwashing.",
+      "C) Nightingale's hygiene practices completely eliminated all infections in military hospitals.",
+      "D) The Crimean War was fought primarily over hospital sanitation standards."
+    ],
+    "explanation": "Option B is the only explicitly stated fact because the passage directly claims that more soldiers died from unsanitary conditions than from actual wounds during the Crimean War. Option A is incorrect because the text mentions Nightingale implemented handwashing, not that she invented the concept. Option C is wrong since the passage says she \"drastically reduced\" mortality, not that she completely eliminated all infections. Option D is incorrect because the text focuses on the war's impact on soldiers, not the war's primary cause being hospital standards.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1392,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The three main types of rocks are igneous, sedimentary, and metamorphic. Igneous rocks form from cooled magma or lava. Sedimentary rocks are created from compressed layers of sediment. Metamorphic rocks are produced when existing rocks are subjected to extreme heat and pressure deep underground.\nAccording to the passage, how do metamorphic rocks form?\n\nA) Magma cools on the Earth's surface.\nB) Layers of sediment are compressed over time.\nD) Lava flows directly into ocean water.\n\nA) Magma cools on the Earth's surface.\nB) Layers of sediment are compressed over time.\nC) This directly matches the description in the option\nD) Lava flows directly into ocean water.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Magma cools on the Earth's surface.",
+      "B) Layers of sediment are compressed over time.",
+      "D) Lava flows directly into ocean water."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that metamorphic rocks are produced when existing rocks are subjected to extreme heat and pressure deep underground. This directly matches the description in the option. Option A is incorrect as it describes the formation of igneous rocks from cooled magma, not metamorphic ones. Option B is wrong because it details how sedimentary rocks form from compressed layers of sediment. Finally, Option D is incorrect since the text never mentions lava flowing into ocean water as a rock formation process.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1393,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Declaration of Independence, adopted in 1776, announced the American colonies' separation from Great Britain. Drafted primarily by Thomas Jefferson, the document argued that all men are created equal and possess unalienable rights such as life, liberty, and the pursuit of happiness. It then listed the colonists' grievances against King George III to justify their decision to rebel.\nWhat is the main idea of this passage?\n\nA) Thomas Jefferson was the only person involved in writing the Declaration of Independence.\nB) King George III willingly agreed to let the American colonies become independent.\nC) The Declaration of Independence was written to establish a new monarchy in America.\n\nA) Thomas Jefferson was the only person involved in writing the Declaration of Independence.\nB) King George III willingly agreed to let the American colonies become independent.\nC) The Declaration of Independence was written to establish a new monarchy in America.\nD) A is wrong because 'primarily by Thomas Jefferson' means he was the main drafter, not the only person involved",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Thomas Jefferson was the only person involved in writing the Declaration of Independence.",
+      "B) King George III willingly agreed to let the American colonies become independent.",
+      "C) The Declaration of Independence was written to establish a new monarchy in America."
+    ],
+    "explanation": "The passage covers three key points: the Declaration announced separation from Britain, it argued for unalienable rights, and it listed grievances against King George III to justify rebellion. Option D combines all three elements\u2014the document justified the break based on rights and grievances. A is wrong because 'primarily by Thomas Jefferson' means he was the main drafter, not the only person involved. B contradicts the passage entirely\u2014the Declaration announced separation against the king's wishes, not with his agreement. C is false; the passage describes breaking from a monarchy, not establishing one.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1394,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A balanced diet must include macronutrients and micronutrients. Macronutrients, which include carbohydrates, proteins, and fats, provide the body with energy. Micronutrients, such as vitamins and minerals, are required in smaller amounts but are essential for disease prevention and cellular function.\nWhich of the following is a supporting detail about macronutrients?\n\nB) They are required in small amounts.\nC) They help prevent diseases.\nD) They include vitamins and minerals.\n\nA) In contrast, Option B is incorrect as the text reserves the description of being required in smaller amounts for micronutrients, not macronutrients\nB) They are required in small amounts.\nC) They help prevent diseases.\nD) They include vitamins and minerals.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) They are required in small amounts.",
+      "C) They help prevent diseases.",
+      "D) They include vitamins and minerals."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that macronutrients provide the body with energy. In contrast, Option B is incorrect as the text reserves the description of being required in smaller amounts for micronutrients, not macronutrients. Option C is wrong because the passage links disease prevention specifically to micronutrients like vitamins and minerals, not macronutrients. Finally, Option D is incorrect since the text identifies vitamins and minerals as examples of micronutrients, whereas macronutrients are defined as carbohydrates, proteins, and fats.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1395,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Mitosis is a process of cell division that results in two genetically identical daughter cells. It is essential for growth, tissue repair, and asexual reproduction in certain organisms. The process consists of several distinct phases, including prophase, metaphase, anaphase, and telophase, each involving specific changes in the cell's chromosomes.\nWhat is the primary outcome of mitosis?\n\nA) Four genetically unique cells\nC) One cell with doubled DNA\nD) The destruction of old cells\n\nA) Four genetically unique cells\nB) The text emphasizes that this process ensures genetic consistency for growth and repair\nC) One cell with doubled DNA\nD) The destruction of old cells",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Four genetically unique cells",
+      "C) One cell with doubled DNA",
+      "D) The destruction of old cells"
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that mitosis results in two genetically identical daughter cells, directly matching this choice. The text emphasizes that this process ensures genetic consistency for growth and repair. Option A is wrong as mitosis produces two, not four, cells, and they remain identical rather than unique. Option C is incorrect because while DNA replicates before division, the final outcome is two cells with normal DNA amounts, not one cell with doubled DNA. Option D is wrong since the passage describes mitosis as essential for growth and repair, not the destruction of old cells.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1396,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Harlem Renaissance was a cultural, social, and artistic explosion centered in Harlem, New York, during the 1920s. African American writers, musicians, and artists used this movement to express their unique cultural experiences and challenge racial stereotypes. Figures like Langston Hughes and Zora Neale Hurston gained national prominence by depicting the realities of Black life in America.\nWhat is the main idea of this passage?\n\nA) The Harlem Renaissance was a failed political movement to gain voting rights.\nB) Langston Hughes was the only important writer to emerge from New York in the 1920s.\nD) Cultural explosions only happen in large, segregated urban neighborhoods.\n\nA) The Harlem Renaissance was a failed political movement to gain voting rights.\nB) Langston Hughes was the only important writer to emerge from New York in the 1920s.\nC) The other options fail because Option A misinterprets the movement as a failed political effort for voting rights, which is never mentioned\nD) Cultural explosions only happen in large, segregated urban neighborhoods.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The Harlem Renaissance was a failed political movement to gain voting rights.",
+      "B) Langston Hughes was the only important writer to emerge from New York in the 1920s.",
+      "D) Cultural explosions only happen in large, segregated urban neighborhoods."
+    ],
+    "explanation": "Option C correctly identifies the passage's central theme by synthesizing the text's explicit statements about the movement enabling artists to express unique cultural experiences and challenge racial stereotypes. The other options fail because Option A misinterprets the movement as a failed political effort for voting rights, which is never mentioned. Option B is incorrect as the text lists multiple figures like Zora Neale Hurston, contradicting the claim that Hughes was the only writer. Finally, Option D is wrong because the passage describes Harlem as a center for an explosion, not as evidence that such events only occur in segregated neighborhoods, and it does not support the restrictive claim about urban locations.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1397,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Regular physical activity provides numerous benefits for both the body and the mind. Physically, it strengthens the heart, improves lung capacity, and increases muscle strength. Mentally, exercise is known to reduce symptoms of anxiety and depression by releasing endorphins, which are natural mood lifters.\nAccording to the passage, how does exercise improve mental health?\n\nA) By increasing muscle strength and lung capacity\nB) By eliminating all sources of daily stress\nC) By forcing the brain to focus only on physical tasks\n\nA) By increasing muscle strength and lung capacity\nB) By eliminating all sources of daily stress\nC) By forcing the brain to focus only on physical tasks\nD) Options A and B are incorrect as they focus on physical benefits like muscle strength or make unsupported claims about eliminating all stress, neither of which addresses the mental mechanism mentioned",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) By increasing muscle strength and lung capacity",
+      "B) By eliminating all sources of daily stress",
+      "C) By forcing the brain to focus only on physical tasks"
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that exercise improves mental health by releasing endorphins, which are described as natural mood lifters that reduce anxiety and depression. Options A and B are incorrect as they focus on physical benefits like muscle strength or make unsupported claims about eliminating all stress, neither of which addresses the mental mechanism mentioned. Option C is wrong because the text never suggests that exercise forces the brain to focus solely on physical tasks, contradicting the stated mental health benefits. Therefore, only D aligns with the specific evidence regarding endorphins and mood regulation found in the text.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1398,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Lewis and Clark expedition, commissioned by President Thomas Jefferson in 1803, aimed to explore the newly acquired Louisiana Purchase. The team mapped rivers, established relations with Native American tribes, and recorded hundreds of new plant and animal species. Their journey provided valuable information about the western territory and helped fuel the idea of westward expansion.\nWhich of the following is an explicit detail from the passage?\n\nB) The expedition discovered a direct water route to the Pacific Ocean.\nC) Lewis and Clark successfully avoided all conflicts with Native American tribes.\nD) The journey took less than six months to complete.\n\nA) Option B is wrong as the text mentions mapping rivers but never claims a direct water route to the Pacific was discovered\nB) The expedition discovered a direct water route to the Pacific Ocean.\nC) Lewis and Clark successfully avoided all conflicts with Native American tribes.\nD) The journey took less than six months to complete.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The expedition discovered a direct water route to the Pacific Ocean.",
+      "C) Lewis and Clark successfully avoided all conflicts with Native American tribes.",
+      "D) The journey took less than six months to complete."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states the expedition was commissioned by President Thomas Jefferson in 1803. Option B is wrong as the text mentions mapping rivers but never claims a direct water route to the Pacific was discovered. Option C is incorrect since the passage notes establishing relations with tribes, not that all conflicts were successfully avoided. Option D is wrong because the duration of the journey is never mentioned in the provided text.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1399,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Osmosis is the movement of water molecules through a semipermeable membrane from an area of low solute concentration to an area of high solute concentration. This process does not require energy, making it a type of passive transport. Osmosis is vital for maintaining proper fluid balance in living cells.\nWhat can be concluded from this passage about osmosis?\n\nA) It requires cellular energy to move solutes across a membrane.\nC) It only occurs in dead or dying cells.\nD) It moves solutes from high to low concentration.\n\nA) It requires cellular energy to move solutes across a membrane.\nB) Option A is wrong as the text says the process does not require energy and specifically involves water, not solutes\nC) It only occurs in dead or dying cells.\nD) It moves solutes from high to low concentration.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It requires cellular energy to move solutes across a membrane.",
+      "C) It only occurs in dead or dying cells.",
+      "D) It moves solutes from high to low concentration."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that osmosis moves water toward areas of high solute concentration and does not require energy, matching the description perfectly. Option A is wrong as the text says the process does not require energy and specifically involves water, not solutes. Option C is incorrect because the passage mentions living cells as the context for fluid balance, not dead ones. Option D is wrong since the text clarifies that osmosis moves water, not solutes, and from low to high concentration rather than high to low.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1400,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "During the Industrial Revolution, many rural workers migrated to cities in search of factory jobs. This rapid urbanization led to overcrowded living conditions, poor sanitation, and the rapid spread of diseases. However, it also created a new working class and eventually spurred reforms in labor laws and public health.\nWhich of the following best summarizes the passage?\n\nA) The Industrial Revolution was entirely negative for rural workers because of disease.\nB) Factory jobs during the Industrial Revolution were safe and highly profitable for workers.\nD) Labor laws and public health reforms prevented workers from moving to cities.\n\nA) The Industrial Revolution was entirely negative for rural workers because of disease.\nB) Factory jobs during the Industrial Revolution were safe and highly profitable for workers.\nC) The text explicitly states that urbanization caused overcrowding and disease, yet it also notes this period created a new working class that spurred labor and health reforms\nD) Labor laws and public health reforms prevented workers from moving to cities.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The Industrial Revolution was entirely negative for rural workers because of disease.",
+      "B) Factory jobs during the Industrial Revolution were safe and highly profitable for workers.",
+      "D) Labor laws and public health reforms prevented workers from moving to cities."
+    ],
+    "explanation": "Option C correctly captures the passage's dual narrative of hardship and eventual reform. The text explicitly states that urbanization caused overcrowding and disease, yet it also notes this period created a new working class that spurred labor and health reforms. Option A is wrong because the passage mentions positive outcomes like reforms, not that the revolution was entirely negative. Option B contradicts the text by claiming jobs were safe, whereas the passage describes poor sanitation and disease spread. Option D is incorrect because the text says reforms followed migration, not that they prevented it.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1401,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Patient handoffs are a critical point in healthcare where information about a patient's condition is transferred from one provider to another. Studies show that a significant percentage of medical errors occur during these transitions, often due to miscommunication or omitted details. Standardized handoff protocols, such as the SBAR tool, have been developed to ensure that all necessary information is communicated clearly and consistently.\nWhat is the author's primary purpose in writing this passage?\n\nA) To entertain readers with a dramatic story about a medical error\nB) To persuade hospitals to fire nurses who make handoff mistakes\nC) To describe the exact steps of performing a complex surgical procedure\n\nA) To entertain readers with a dramatic story about a medical error\nB) To persuade hospitals to fire nurses who make handoff mistakes\nC) To describe the exact steps of performing a complex surgical procedure\nD) The text focuses on facts regarding risks and solutions rather than opinions or instructions",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) To entertain readers with a dramatic story about a medical error",
+      "B) To persuade hospitals to fire nurses who make handoff mistakes",
+      "C) To describe the exact steps of performing a complex surgical procedure"
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that handoffs are critical points where errors occur due to miscommunication and that standardized tools like SBAR exist to ensure clear communication. The text focuses on facts regarding risks and solutions rather than opinions or instructions. Option A is wrong as the passage uses a clinical tone and lacks any dramatic narrative or fictional story elements. Option B is incorrect because the text never suggests firing nurses, focusing instead on systemic protocols to prevent errors. Option C is wrong since the passage discusses general handoff processes, not the specific steps of a surgical procedure.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1402,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "It is utterly appalling that city officials continue to ignore the crumbling infrastructure of our public schools. While they pour millions into building new sports arenas, children are forced to learn in classrooms with leaking roofs and outdated textbooks. This blatant misallocation of funds demonstrates a complete disregard for the future of our community.\nWhat is the author's tone in this passage?\n\nB) Cheerful and optimistic\nC) Ambivalent and detached\nD) Apologetic and submissive\n\nA) Conversely, option B is wrong because the text contains no positive or hopeful descriptors\nB) Cheerful and optimistic\nC) Ambivalent and detached\nD) Apologetic and submissive",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Cheerful and optimistic",
+      "C) Ambivalent and detached",
+      "D) Apologetic and submissive"
+    ],
+    "explanation": "The author employs strong negative language like \"utterly appalling,\" \"blatant misallocation,\" and \"complete disregard\" to convey deep anger and condemnation of city officials. These words clearly establish an outraged and critical tone that matches option A. Conversely, option B is wrong because the text contains no positive or hopeful descriptors. Option C fails because the author expresses intense emotion rather than remaining neutral or detached. Finally, option D is incorrect since the passage never shows apology or submission; instead, it aggressively condemns the officials' actions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1403,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The development of the periodic table was a gradual process that spanned centuries. First, early chemists identified individual elements. Later, scientists like John Dalton proposed atomic theory to explain how elements combine. Finally, Dmitri Mendeleev organized the known elements into a logical table based on atomic mass, even predicting the existence of elements that had not yet been discovered.\nWhich text structure is used in this passage?\n\nA) Cause and effect\nC) Compare and contrast\nD) Problem and solution\n\nA) Cause and effect\nB) The passage uses chronological order because it explicitly sequences events by time, starting with early chemists identifying elements, followed by Dalton's atomic theory, and concluding with Mendeleev's table.\nC) Compare and contrast\nD) Problem and solution",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Cause and effect",
+      "C) Compare and contrast",
+      "D) Problem and solution"
+    ],
+    "explanation": "The passage uses chronological order because it explicitly sequences events by time, starting with early chemists identifying elements, followed by Dalton's atomic theory, and concluding with Mendeleev's table. This progression is marked by transition words like \"First,\" \"Later,\" and \"Finally,\" which clearly indicate a timeline of scientific discovery. Option A is incorrect because the text does not explain how one event caused another, only that they happened sequentially. Option C fails because there is no comparison between two different subjects or contrast of opposing ideas. Option D is wrong as the passage does not present a problem requiring a specific solution.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1404,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Despite the nurse's gentle demeanor, the patient remained recalcitrant, refusing to take his medication or follow the doctor's orders. He argued with the staff and insisted he knew better than the medical professionals trying to help him.\nIn the context of this passage, what does the word 'recalcitrant' mean?\n\nA) Extremely fearful and anxious\nB) Quietly cooperative and compliant\nD) Physically weak and unable to move\n\nA) Extremely fearful and anxious\nB) Quietly cooperative and compliant\nC) The phrase \"refusing to take his medication\" directly supports the idea of being resistant to control\nD) Physically weak and unable to move",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Extremely fearful and anxious",
+      "B) Quietly cooperative and compliant",
+      "D) Physically weak and unable to move"
+    ],
+    "explanation": "Option C is correct because the text explicitly describes the patient refusing medication, ignoring doctor orders, and arguing with staff, which perfectly defines stubborn resistance to authority. The phrase \"refusing to take his medication\" directly supports the idea of being resistant to control. Options A, B, and D are incorrect because the passage shows no fear or anxiety, explicitly contradicts cooperation by stating the patient argued, and mentions no physical weakness, only behavioral defiance. Therefore, only option C aligns with the patient's actions of arguing and insisting he knows better than the medical professionals.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1405,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "As a clinical instructor, I have observed that nursing students often feel overwhelmed during their first clinical rotations. They struggle to balance theoretical knowledge with the fast-paced reality of patient care. However, with structured mentorship and repeated practice, these students inevitably develop the confidence and competence required to excel in their profession.\nFrom which point of view is this passage written?\n\nA) Second-person point of view\nB) Third-person objective point of view\nC) Third-person omniscient point of view\n\nA) Second-person point of view\nB) Third-person objective point of view\nC) Third-person omniscient point of view\nD) This direct reference to the author establishes a first-person perspective",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Second-person point of view",
+      "B) Third-person objective point of view",
+      "C) Third-person omniscient point of view"
+    ],
+    "explanation": "Option D is right because the passage uses \"I\" to describe the clinical instructor's personal observations of nursing students. This direct reference to the author establishes a first-person perspective. Option A is wrong because second-person uses \"you\" to address the reader, which this text does not do. Option B is incorrect since third-person objective describes events without internal thoughts or feelings, yet this passage includes the instructor's subjective experience. Option C is wrong because third-person omniscient would reveal the thoughts of all characters, not just the narrator's specific viewpoint.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1406,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Antibiotics are medications used to treat bacterial infections, but they are entirely ineffective against viruses. When patients demand antibiotics for viral illnesses like the common cold, it contributes to a dangerous phenomenon known as antibiotic resistance. This occurs when bacteria evolve to survive the drugs designed to kill them, creating 'superbugs' that are incredibly difficult to treat.\nWhy does the author mention the common cold in the passage?\n\nB) To argue that the common cold is the most dangerous illness in existence\nC) To prove that antibiotics are the only way to cure a cold\nD) To contrast the common cold with bacterial superbugs\n\nA) The author uses this specific illness as a direct example of a condition where antibiotics fail\nB) To argue that the common cold is the most dangerous illness in existence\nC) To prove that antibiotics are the only way to cure a cold\nD) To contrast the common cold with bacterial superbugs",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To argue that the common cold is the most dangerous illness in existence",
+      "C) To prove that antibiotics are the only way to cure a cold",
+      "D) To contrast the common cold with bacterial superbugs"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states antibiotics are ineffective against viruses and links the demand for them during viral illnesses like the common cold to antibiotic resistance. The author uses this specific illness as a direct example of a condition where antibiotics fail. Option B is wrong because the text never claims the common cold is the most dangerous illness, only that antibiotic resistance is dangerous. Option C is incorrect as the passage implies antibiotics do not cure viral illnesses, contradicting the idea they are the only cure. Option D is wrong because the text does not contrast the cold with superbugs; rather, it explains how misuse against the cold creates the superbugs.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1407,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The greenhouse effect is often misunderstood. Unlike a real greenhouse, which traps heat primarily by preventing warm air from rising, the atmospheric greenhouse effect traps heat by absorbing and re-radiating infrared radiation. Greenhouse gases in the atmosphere, such as carbon dioxide and methane, act like a blanket, slowing the escape of heat into space.\nWhat is the author's purpose in the first sentence of this passage?\n\nA) To summarize the entire history of global warming\nC) To list all the greenhouse gases found in the atmosphere\nD) To describe how to build a physical greenhouse\n\nA) To summarize the entire history of global warming\nB) The author opens by stating the greenhouse effect is often misunderstood to immediately address a widespread error in understanding, which aligns with highlighting a common misconception.\nC) To list all the greenhouse gases found in the atmosphere\nD) To describe how to build a physical greenhouse",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To summarize the entire history of global warming",
+      "C) To list all the greenhouse gases found in the atmosphere",
+      "D) To describe how to build a physical greenhouse"
+    ],
+    "explanation": "The author opens by stating the greenhouse effect is often misunderstood to immediately address a widespread error in understanding, which aligns with highlighting a common misconception. The subsequent sentences clarify the difference between a real greenhouse and the atmospheric phenomenon, proving the first sentence sets up this specific contrast. Option A is incorrect because the text never discusses the history of global warming. Option C fails as the passage only lists examples like carbon dioxide, not all gases. Option D is wrong since the text explains the mechanism of heat trapping, not construction methods for a physical structure. Therefore, the primary goal is to correct a false belief before explaining the science.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1408,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The air in the abandoned hospital was thick with the acrid smell of disinfectant, a scent that had seeped into the walls over decades of use. Faded curtains hung like ghosts over broken windows, allowing the wind to whistle through the empty corridors. It was a place that felt suspended in time, frozen in a state of perpetual decay.\nWhich word best describes the tone of this passage?\n\nA) Joyful and lively\nB) Humorous and sarcastic\nD) Scientific and analytical\n\nA) Joyful and lively\nB) Humorous and sarcastic\nC) The description of the wind whistling through empty corridors reinforces a sense of unease and melancholy that fits the eerie and somber tone perfectly\nD) Scientific and analytical",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Joyful and lively",
+      "B) Humorous and sarcastic",
+      "D) Scientific and analytical"
+    ],
+    "explanation": "Option C captures the atmosphere created by words like \"abandoned,\" \"acrid,\" \"ghosts,\" and \"perpetual decay,\" which evoke a haunting and serious mood. The description of the wind whistling through empty corridors reinforces a sense of unease and melancholy that fits the eerie and somber tone perfectly. In contrast, Option A is wrong because there are no signs of happiness or energy in the text. Option B fails because the passage lacks any jokes or biting irony, presenting a straightforward, mournful scene instead. Finally, Option D is incorrect since the author uses poetic imagery rather than objective data or clinical language to describe the setting.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1409,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "There are two primary types of muscle tissue in the human body: smooth and striated. Smooth muscle is involuntary and is found in the walls of hollow organs like the intestines, where it pushes food through the digestive tract. In contrast, striated muscle, which includes skeletal muscle, is voluntary and allows for conscious movements like walking or lifting objects.\nWhich text structure does the author use to present the information?\n\nA) Sequential order\nB) Cause and effect\nC) Problem and solution\n\nA) Sequential order\nB) Cause and effect\nC) Problem and solution\nD) The passage uses a compare and contrast structure by explicitly using \"In contrast\" to differentiate between smooth and striated muscles.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Sequential order",
+      "B) Cause and effect",
+      "C) Problem and solution"
+    ],
+    "explanation": "The passage uses a compare and contrast structure by explicitly using \"In contrast\" to differentiate between smooth and striated muscles. The author highlights that smooth muscle is involuntary while striated muscle is voluntary, directly comparing their functions and contrasting their control mechanisms. This side-by-side analysis of two distinct types of tissue fits the compare and contrast category perfectly. Option A is incorrect because the text does not list steps in a chronological sequence. Option B fails because no cause-and-effect relationship is established between events. Option C is wrong as there is no problem presented requiring a solution.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1410,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The hospital's new policy mandated that all healthcare workers abstain from wearing fragrances. While some staff members found the rule overly fastidious, administrators argued that strong scents could trigger severe allergic reactions in vulnerable patients.\nIn this context, what does 'fastidious' mean?\n\nB) Dangerous and harmful to health\nC) Relaxing and pleasantly calm\nD) Illegal and against hospital regulations\n\nA) The context clue is the contrast: staff found the rule 'overly fastidious' while administrators argued it was necessary for patient safety.\nB) Dangerous and harmful to health\nC) Relaxing and pleasantly calm\nD) Illegal and against hospital regulations",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Dangerous and harmful to health",
+      "C) Relaxing and pleasantly calm",
+      "D) Illegal and against hospital regulations"
+    ],
+    "explanation": "The context clue is the contrast: staff found the rule 'overly fastidious' while administrators argued it was necessary for patient safety. 'Fastidious' must mean something like excessively particular or strict\u2014staff thought the fragrance ban was nitpicking over a minor detail. A matches. B doesn't fit\u2014'dangerous' would support the rule, not criticize it. C is the opposite; the rule was seen as restrictive, not relaxing. D is incorrect; staff thought the rule was unnecessary, not that it was illegal.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1411,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "When reviewing a patient's chart, you must first verify their identity using two separate identifiers. Next, check for any known allergies. After that, review the current medications and compare them to the physician's orders to ensure there are no discrepancies. Finally, document your findings.\nWhat is the text structure of this passage?\n\nA) Descriptive\nC) Argumentative\nD) Cause and effect\n\nA) Descriptive\nB) This passage outlines a specific medical procedure involving distinct steps performed in a fixed sequence, such as verifying identity, checking allergies, reviewing medications, and documenting findings.\nC) Argumentative\nD) Cause and effect",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Descriptive",
+      "C) Argumentative",
+      "D) Cause and effect"
+    ],
+    "explanation": "This passage outlines a specific medical procedure involving distinct steps performed in a fixed sequence, such as verifying identity, checking allergies, reviewing medications, and documenting findings. Because the text guides the reader through a chronological process where each action follows the previous one, the structure is clearly sequential. Option A is incorrect because the text does not merely describe a patient's characteristics or environment. Option C fails as there is no attempt to persuade or argue a viewpoint. Option D is wrong since the steps are not presented as a result of a specific cause, but rather as a required order of operations.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1412,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "It is a widely held belief that humans only use 10% of their brains. This pervasive myth has been perpetuated by pop culture and self-help gurus who claim that unlocking the other 90% would grant extraordinary intelligence. In reality, neuroimaging shows that we use virtually every part of our brain, and even damage to a small area can have profound effects.\nWhat is the author's purpose in this passage?\n\nA) To instruct readers on how to increase their brain capacity\nB) To praise self-help gurus for their insights into human potential\nD) To describe the complex functions of neuroimaging technology\n\nA) To instruct readers on how to increase their brain capacity\nB) To praise self-help gurus for their insights into human potential\nC) Option B is wrong since the text criticizes self-help gurus for spreading myths rather than praising their insights\nD) To describe the complex functions of neuroimaging technology",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) To instruct readers on how to increase their brain capacity",
+      "B) To praise self-help gurus for their insights into human potential",
+      "D) To describe the complex functions of neuroimaging technology"
+    ],
+    "explanation": "The author aims to refute the false claim that humans only use 10% of their brains, as explicitly stated by the phrase \"In reality, neuroimaging shows that we use virtually every part of our brain.\" This direct contradiction of the opening myth confirms the purpose is to debunk the misconception. Option A is incorrect because the passage offers no instructions on increasing capacity, only factual corrections. Option B is wrong since the text criticizes self-help gurus for spreading myths rather than praising their insights. Finally, Option D fails because neuroimaging is mentioned merely as evidence, not as the primary subject of description. The text focuses entirely on correcting a widespread belief.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1413,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The French Revolution began in 1789, but its roots can be traced back years earlier. The country was facing a severe financial crisis caused by expensive wars and an unfair taxation system. Furthermore, a harsh winter had led to widespread bread shortages, leaving the common people starving and desperate.\nFrom which point of view is this passage written?\n\nA) First-person\nB) Second-person\nC) Third-person omniscient\n\nA) First-person\nB) Second-person\nC) Third-person omniscient\nD) The passage describes historical events using a detached, factual tone without referencing any specific individual or using \"we\" or \"you,\" which eliminates first-person and second-person perspectives.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) First-person",
+      "B) Second-person",
+      "C) Third-person omniscient"
+    ],
+    "explanation": "The passage describes historical events using a detached, factual tone without referencing any specific individual or using \"we\" or \"you,\" which eliminates first-person and second-person perspectives. It reports on the French Revolution's causes like financial crises and bread shortages as if observing them from a neutral distance, fitting the third-person objective style. While the text mentions multiple people, it does not reveal their inner thoughts or feelings, ruling out the third-person omniscient view. Therefore, the description relies solely on observable facts rather than internal knowledge or personal experience.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1414,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Although the new electronic health record (EHR) system was designed to streamline workflows, the transition period was fraught with challenges. Nurses spent more time typing notes than interacting with patients, leading to increased frustration. Ultimately, the administration had to hire additional IT support to help staff navigate the cumbersome interface.\nWhat is the tone of this passage?\n\nB) Elated and enthusiastic\nC) Indifferent and neutral\nD) Mystified and confused\n\nA) increased frustration.\nB) Elated and enthusiastic\nC) Indifferent and neutral\nD) Mystified and confused",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Elated and enthusiastic",
+      "C) Indifferent and neutral",
+      "D) Mystified and confused"
+    ],
+    "explanation": "The passage conveys a frustrated and critical tone because it highlights how the new system caused nurses to spend excessive time typing rather than caring for patients, explicitly mentioning \"increased frustration.\" The description of the interface as \"cumbersome\" further criticizes the design, while the need to hire extra IT support underscores the system's failure to streamline workflows as intended. Option B is wrong because no positive emotions or excitement are expressed, and Option C is incorrect since the author clearly dislikes the outcome rather than remaining neutral. Option D is also wrong because the text does not suggest confusion or mystery, but rather a clear, negative reaction to poor execution.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1415,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The paramedics arrived to find the patient in a state of profound lethargy. He was unresponsive to verbal commands and his muscles appeared flaccid. The family noted that he had been prescribed a new sedative the previous day, which they suspected he had taken in excess.\nIn this context, what does 'lethargy' mean?\n\nA) A sudden burst of hyperactive energy\nC) A severe state of physical pain\nD) An inability to remember recent events\n\nA) A sudden burst of hyperactive energy\nB) The passage explicitly links this state to the suspected overdose of a sedative, a drug known to cause drowsiness and reduced movement\nC) A severe state of physical pain\nD) An inability to remember recent events",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) A sudden burst of hyperactive energy",
+      "C) A severe state of physical pain",
+      "D) An inability to remember recent events"
+    ],
+    "explanation": "Option B correctly defines lethargy as extreme sluggishness, which aligns perfectly with the text describing the patient as unresponsive and having flaccid muscles. The passage explicitly links this state to the suspected overdose of a sedative, a drug known to cause drowsiness and reduced movement. Options A, C, and D are incorrect because the text mentions no hyperactivity, pain, or memory loss, focusing solely on the lack of energy and response to commands. Therefore, only B accurately reflects the clinical picture of profound lethargy presented in the scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

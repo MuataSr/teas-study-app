@@ -1,0 +1,752 @@
+[
+  {
+    "id": 506,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the sentence with correct subject-verb agreement.\n\nA. The group of nurses are starting their shift.\nB. The group of nurses is starting its shift.\nC. The group of nurses be starting their shift.\nD. The group of nurses were starting its shift.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence in option B correctly uses the singular verb \"is\" because the subject \"group\" is singular, even though it is followed by the plural \"nurses.\" Option A is wrong because it pairs the singular \"group\" with the plural verb \"are,\" violating subject-verb agreement rules. Option C is incorrect as the verb \"be\" does not agree with the present tense singular subject. Option D fails because \"were\" is plural and past tense, which does not match the singular subject \"group.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 507,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the correct verb: Neither the physician nor the technicians ___ the updated protocol.\n\nA. understands\nB. understand\nC. understanding\nD. has understood",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The subject of this sentence is \"Neither the physician nor the technicians,\" where the second part \"technicians\" is plural, requiring the plural verb \"understand.\" Option A uses \"understands,\" which is singular and incorrect for a plural subject. Option C is a gerund and cannot function as the main verb here. Option D uses \"has understood,\" which is singular and also grammatically mismatched. Therefore, B is the only choice that agrees with the plural subject.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 508,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with correct verb tense.\n\nA. The patient walked to the clinic yesterday.\nB. The patient walks to the clinic yesterday.\nC. The patient will walked to the clinic yesterday.\nD. The patient walking to the clinic yesterday.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is right because \"walked\" correctly matches the past time marker \"yesterday.\" Option B is wrong since \"walks\" is present tense, which contradicts \"yesterday.\" Option C fails because \"will walked\" mixes future and past forms incorrectly. Option D is invalid as \"walking\" lacks a main verb to complete the sentence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 509,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "By the time the surgeon arrived, the nurse ___ the instruments.\n\nA. sterilizes\nB. had sterilized\nC. has sterilized\nD. will sterilize",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence describes an action completed before another past event, requiring the past perfect tense. Option B, \"had sterilized,\" correctly places the instrument cleaning before the surgeon's arrival. Option A uses present tense, which contradicts the past narrative. Option C uses present perfect, linking the action to now rather than the past. Option D uses future tense, implying the cleaning happens after the arrival, which is illogical.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 510,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the correct pronoun: The charge nurse gave the report to Sarah and ___.\n\nA. I\nB. me\nC. myself\nD. mine",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence requires an object pronoun because it follows the preposition \"to.\" Option B, \"me,\" is the correct object form. Option A, \"I,\" is a subject pronoun and cannot follow a preposition. Option C, \"myself,\" is a reflexive pronoun used when the subject and object are the same, which is not the case here. Option D, \"mine,\" is a possessive pronoun indicating ownership, not an object of a preposition. Therefore, \"me\" fits the grammatical structure of the sentence perfectly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 511,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Everyone on the medical team must wash ___ hands before entering.\n\nA. their\nB. his or her\nC. its\nD. our",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The question asks for the proper pronoun to complete the sentence about the medical team. Option B, \"his or her,\" is correct because it uses a singular pronoun that agrees with the singular noun \"team\" while avoiding gender bias. Option A, \"their,\" is often used as a singular they but is less formal in this specific context. Option C, \"its,\" is incorrect because \"team\" is not an object. Option D, \"our,\" is wrong because it shifts the perspective to the speaker rather than the team.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 512,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Choose the sentence in active voice.\n\nA. The medication was administered by the nurse.\nB. The nurse administered the medication.\nC. The medication was given.\nD. The medication had been administered.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is right because it clearly shows the nurse performing the action on the medication. Options A, C, and D are wrong since they all use passive voice structures like \"was administered\" or \"had been administered.\" The passive voice hides who did the action, whereas active voice makes the subject do the verb directly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 513,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Which sentence is in passive voice?\n\nA. The lab analyzed the blood sample.\nB. The blood sample was analyzed by the lab.\nC. The lab will analyze the blood sample.\nD. The lab analyzes samples daily.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the subject \"blood sample\" receives the action, indicated by \"was analyzed.\" In contrast, Option A, C, and D are active voice since the subject \"lab\" performs the action directly. The passive construction in B shifts focus from the doer to the receiver, unlike the other choices.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 514,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Choose the sentence that corrects the dangling modifier: Walking into the ER, the patient was assessed by the trauma team.\n\nA. Walking into the ER, the trauma team assessed the patient.\nB. Walking into the ER, the patient was assessed by the trauma team.\nC. Walking into the ER, the assessment happened quickly.\nD. Walking into the ER, the patient's chart was ready.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The original sentence has a dangling modifier because \"Walking into the ER\" incorrectly describes the patient instead of the person walking. Option A fixes this by making the trauma team the subject who performs the action of walking. Options B, C, and D all fail because the patient, assessment, or chart cannot logically be the ones walking into the emergency room. Only A aligns the modifier with the correct subject performing the movement.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 515,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Choose the clearest sentence.\n\nA. The nurse gave the medication in a cup to the patient with a broken arm.\nB. The nurse gave the medication to the patient with a broken arm in a cup.\nC. The nurse gave the patient with a broken arm in a cup the medication.\nD. With a broken arm, the nurse gave the medication to the patient in a cup.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is clearest because it places the instrument \"in a cup\" directly after \"medication,\" avoiding ambiguity about what has the broken arm. Option B incorrectly suggests the patient has the broken arm inside the cup, while C and D create confusing word orders that obscure the relationship between the nurse, patient, and cup. This specific phrasing ensures the reader immediately understands the nurse administered the medicine via a cup to a patient with a broken arm.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 516,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Patient education includes monitoring blood sugar, exercising regularly, and ___.\n\nA. diet should be healthy\nB. maintain a healthy diet\nC. maintaining a healthy diet\nD. to maintain healthy diet",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "The sentence lists gerund phrases (monitoring, exercising) to describe patient education activities, so the blank must also be a gerund for grammatical parallelism. Option C, \"maintaining a healthy diet,\" is the only choice that uses the correct gerund form to match the existing structure. Options A and B use incorrect verb forms (\"should be\" and \"maintain\"), while D incorrectly starts with an infinitive (\"to maintain\"). Therefore, C is the right answer because it maintains the consistent gerund pattern required by the sentence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 517,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Choose the sentence with correct parallel structure.\n\nA. The CNA is responsible for bathing patients, recording vitals, and the stocking of supplies.\nB. The CNA is responsible for bathing patients, recording vitals, and stocking supplies.\nC. The CNA is responsible for to bathe patients, recording vitals, and stocking supplies.\nD. The CNA is responsible for bathes patients, records vitals, and stocks supplies.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses three gerunds (bathing, recording, stocking) to maintain parallel structure. Option A fails as it mixes a gerund phrase with a noun phrase (stocking). Option C is incorrect due to the infinitive \"to bathe\" breaking the pattern. Option D is wrong because it uses three verbs (bathes, records, stocks) instead of gerunds after \"responsible for.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 518,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Which is a sentence fragment?\n\nA. Because the patient was dehydrated.\nB. The patient was dehydrated.\nC. The nurse started an IV.\nD. We monitored his output.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is a fragment because it starts with \"Because,\" making it a dependent clause that cannot stand alone as a complete thought. Options B, C, and D are all complete sentences with subjects and verbs that express full ideas. The question asks to identify the fragment, which is only A.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 519,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Identify the run-on (comma splice).\n\nA. The wound healed well, the patient was discharged.\nB. The wound healed well; the patient was discharged.\nC. The wound healed well, so the patient was discharged.\nD. The wound healed well and the patient was discharged.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is the run-on because it joins two independent clauses with only a comma, creating a comma splice. Option B uses a semicolon correctly to separate the clauses. Option C adds the conjunction \"so\" to form a complex sentence. Option D uses \"and\" to properly connect the independent clauses.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 520,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage in a series.\n\nA. The crash cart contains epinephrine atropine and amiodarone.\nB. The crash cart contains epinephrine, atropine, and amiodarone.\nC. The crash cart contains epinephrine, atropine and amiodarone.\nD. The crash cart contains, epinephrine, atropine, and amiodarone.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it properly uses commas to separate items in a series and includes an Oxford comma before the final item. Option A is wrong as it lacks all necessary commas between the drugs. Option C fails by omitting the Oxford comma, which can cause ambiguity in a list. Option D is incorrect because it places a comma after the verb, disrupting the sentence structure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 521,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage.\n\nA. The nurse who works nights, is very experienced.\nB. The nurse, who works nights is very experienced.\nC. The nurse, who works nights, is very experienced.\nD. The nurse who works nights is very experienced.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is right because it uses commas to set off the non-essential clause \"who works nights,\" correctly showing the nurse is experienced regardless of shift. Option A is wrong as it incorrectly places a comma after the clause, breaking the sentence flow. Option B fails by missing the second comma needed to close the non-essential phrase. Option D is incorrect because it omits all commas, treating the clause as essential when it is not.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 522,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Choose the correct sentence.\n\nA. The vital signs are as follows: temperature, pulse, respiration, and blood pressure.\nB. The vital signs are as follows; temperature, pulse, respiration, and blood pressure.\nC. The vital signs are as follows temperature, pulse, respiration, and blood pressure.\nD. The vital signs are: as follows temperature, pulse, respiration, and blood pressure.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because it properly uses a colon to introduce the list of vital signs following the phrase \"are as follows.\" Option B is incorrect because a semicolon cannot introduce a simple list in this context. Option C is wrong as it omits the necessary punctuation after \"follows,\" creating a run-on. Option D is flawed because it redundantly combines \"are\" and \"as follows\" without proper structure. Only A adheres to standard English grammar rules for listing items.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 523,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Choose the correct possessive form.\n\nA. The nurses station is busy.\nB. The nurse's station is busy.\nC. The nurses' station is busy.\nD. The nurses's station is busy.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because it uses the plural possessive form \"nurses'\" for multiple nurses sharing one station. Option A is wrong as it lacks an apostrophe entirely, failing to show possession. Option B is incorrect because it uses the singular possessive \"nurse's,\" implying only one nurse owns the station. Option D is wrong due to the double apostrophe and extra 's', which is grammatically invalid. This question tests your ability to distinguish between singular and plural possessives in context.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 524,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct words: ___ going to check ___ vital signs over ___ at the nurses' station.\n\nA. They're, their, there\nB. Their, they're, there\nC. There, their, they're\nD. They're, there, their",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is right because \"They're\" starts the sentence as a contraction for \"they are,\" \"their\" shows possession of the vital signs, and \"there\" indicates the location at the station. Option B fails by using \"Their\" first, which incorrectly implies possession before the subject exists. Option C is wrong because \"There\" cannot begin the sentence as a subject, and Option D swaps \"there\" and \"their,\" misplacing the location and possession. This specific word choice ensures grammatical accuracy in the context of the question.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 525,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "The IV pump has lost ___ power; ___ beeping loudly.\n\nA. its, it's\nB. it's, its\nC. its, its\nD. it's, it's",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The first blank needs the possessive pronoun \"its\" to show the pump's power, while the second requires the contraction \"it's\" for \"it is beeping.\" Option A correctly uses \"its\" and \"it's,\" whereas B swaps them, C uses the possessive twice, and D uses the contraction twice. This distinction separates the ownership of the power from the action of beeping.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 526,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "The new protocol will ___ patient outcomes, and the ___ was measurable within a month.\n\nA. affect, effect\nB. effect, affect\nC. affect, affect\nD. effect, effect",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The word \"affect\" is a verb meaning to influence, so it correctly fills the first blank regarding how the protocol changes outcomes. The second blank requires the noun \"effect,\" which refers to the measurable result observed within a month. Option B swaps these roles incorrectly, making \"effect\" a verb and \"affect\" a noun in the wrong context. Options C and D use identical words for both blanks, failing to distinguish between the action of influencing and the resulting outcome. This distinction ensures the sentence accurately describes the cause-and-effect relationship.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 527,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct words: The ___ of sterile technique is a ___ reason for low infection rates.\n\nA. principle, principal\nB. principal, principle\nC. principle, principle\nD. principal, principal",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The principle of sterile technique is a principal reason for low infection rates. Principle refers to a fundamental rule, while principal means main or primary. Option A correctly uses both words in their proper contexts. Options B, C, and D incorrectly swap or repeat these terms, failing to distinguish between the rule and its importance. This distinction ensures the sentence accurately describes why sterile technique works.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 528,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "The physical therapist tried to ___ the patient's interest in rehab, reaching a ___ in motivation after a sincere ___ about progress.\n\nA. pique, peak, compliment\nB. peek, pique, complement\nC. peak, peek, compliment\nD. pique, peek, complement",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "To pique interest means to stimulate it, while a peak represents the highest point of motivation, and a compliment is a sincere praise for progress. Option B is wrong because peeking is looking briefly and complementing differs from complimenting. Option C fails as peak cannot stimulate interest and peeking is not about praise. Option D is incorrect since peeking does not mean stimulating and complementing is not the right word for praise.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 529,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "The patient's edema was pitting, leaving an indentation after pressure. What does 'pitting' mean?\n\nA. painful\nB. forming a pit\nC. swollen without mark\nD. red and warm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The term 'pitting' in this context describes edema that forms a temporary pit or indentation when pressure is applied, which matches option B. Options A, C, and D are incorrect because pitting edema is not defined by pain, lack of a mark, or redness and warmth. The specific evidence from the question confirms that pressure leaves an indentation, directly supporting the meaning of forming a pit.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 530,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "After the code, the nurse felt lethargic for the rest of the shift. What does 'lethargic' mean?\n\nA. unusually energetic\nB. unusually drowsy or sluggish\nC. angry\nD. anxious",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The word 'lethargic' means unusually drowsy or sluggish, making option B the correct choice. This fits the context where the nurse felt lethargic for the rest of the shift, indicating a lack of energy. Option A is incorrect because it suggests high energy, which is the opposite of lethargy. Options C and D are wrong as they describe emotions like anger or anxiety, not a state of physical sluggishness.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 531,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "The wound was described as purulent. What does 'purulent' mean?\n\nA. bleeding\nB. containing pus\nC. healing cleanly\nD. dry and closed",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The term 'purulent' in the wound description means containing pus, which matches option B. This is a standard medical definition where purulent specifically refers to the presence of thick, yellowish fluid produced by infection. Options A, C, and D are incorrect because bleeding, healing cleanly, and being dry do not describe pus formation. Therefore, only B accurately defines the condition of a purulent wound.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 532,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "The physician noted the patient's affect was blunted. In this context, 'affect' means:\n\nA. observable emotional expression\nB. effect on others\nC. physical strength\nD. allergic reaction",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "In this medical context, 'affect' refers to observable emotional expression, making option A correct. A blunted affect means the patient shows reduced or flattened emotional responses. Option B is wrong because 'affect' is not about the effect on others. Option C is incorrect as it does not mean physical strength. Option D is false since it does not refer to an allergic reaction.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 533,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Administer the medication STAT. What does 'STAT' mean?\n\nA. slowly\nB. immediately\nC. with food\nD. at bedtime",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The term STAT is a medical abbreviation derived from the Latin word 'statim,' meaning immediately. In this question regarding medication administration, option B correctly defines STAT as immediately, ensuring the drug is given without delay. Option A is wrong because slowly contradicts the urgent nature of STAT orders. Option C is incorrect as taking with food refers to 'with meals,' not urgency. Option D is false since at bedtime describes a specific time, not an immediate action.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 534,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Choose the most formal sentence for nursing documentation.\n\nA. Patient kinda refused meds.\nB. Patient declined medication.\nC. Patient was like, no way to pills.\nD. Patient didn't wanna take meds.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the most formal because it uses precise vocabulary like \"declined\" and \"medication,\" fitting professional nursing documentation standards. Option A is too informal with slang like \"kinda.\" Option C uses inappropriate colloquialisms such as \"was like\" and \"no way.\" Option D relies on casual phrasing like \"didn't wanna\" instead of formal grammar.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 535,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Which is most appropriate for a shift report?\n\nA. Guy in 204 is totally crashing, FYI.\nB. The patient in Room 204 is experiencing rapid clinical deterioration.\nC. 204's doing bad, real bad.\nD. Yo, 204 needs help ASAP lol.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is right because it uses professional medical terminology like \"rapid clinical deterioration\" suitable for a formal shift report. Options A, C, and D are wrong as they rely on slang such as \"crashing,\" \"bad,\" and \"lol,\" which violate communication standards. The other choices lack the necessary clarity and respect required in healthcare settings.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 536,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Choose the informal sentence.\n\nA. Please ensure intake is documented hourly.\nB. Could you please chart I&O each hour?\nC. Chart that stuff every hour, k?\nD. Hourly intake and output documentation is required.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C uses casual language like \"stuff\" and \"k\" to sound informal, unlike the professional tone of A, B, and D. Choices A and B employ polite requests with formal vocabulary such as \"ensure\" and \"chart,\" while D states a strict requirement. Only C drops formalities to create a relaxed, conversational sentence fitting the question's goal.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 537,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Select the best professional email opening to a physician.\n\nA. Hey doc, need orders\nB. Dr. Patel, I am writing regarding patient M. in Room 312.\nC. Sup, got a sec?\nD. Yo Patel, orders plz",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the only professional choice because it uses a formal title and clear context. Options A, C, and D fail due to slang like \"Hey,\" \"Sup,\" and \"Yo.\" These informal terms are inappropriate for communicating with a physician. Professional emails require respectful language and specific details.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 538,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "In the sentence 'The nurse quickly assessed the patient,' what part of speech is 'quickly'?\n\nA. noun\nB. adverb\nC. verb\nD. adjective",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "In the sentence about the nurse assessing the patient, 'quickly' modifies the verb 'assessed' to describe how the action was performed. This function identifies it as an adverb, making option B the only correct choice among the four. Options A, C, and D are incorrect because nouns, verbs, and adjectives do not modify other verbs in this manner. Therefore, B is the right answer for this specific grammar question.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 539,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "In 'The sterile dressing protects the incision,' what part of speech is 'sterile'?\n\nA. noun\nB. verb\nC. adjective\nD. adverb",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "In the phrase \"The sterile dressing protects the incision,\" the word \"sterile\" modifies the noun \"dressing\" by describing its quality, which is the primary function of an adjective. Since it appears directly before the noun it describes without acting as a verb, noun, or adverb, option C is the only correct classification. Options A, B, and D are incorrect because \"sterile\" does not name a person or thing, perform an action, or modify a verb or adjective in this context.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 540,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "In 'The team will triage patients in the waiting room,' what part of speech is 'triage'?\n\nA. noun\nB. adjective\nC. verb\nD. adverb",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "In the phrase \"The team will triage patients,\" the word \"triage\" functions as a verb because it describes the action the team performs on the patients. Option C is correct since \"will\" is an auxiliary verb that requires a main verb to follow, and \"triage\" fits this grammatical role. Options A, B, and D are incorrect because \"triage\" does not name a person or thing (noun), modify another word (adjective), or describe how an action is done (adverb) in this context.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 541,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Choose the best topic sentence for a paragraph about hand hygiene.\n\nA. Hand hygiene reduces hospital-acquired infections.\nB. I washed my hands today.\nC. Soap smells nice.\nD. Nurses wear gloves sometimes.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A serves as the best topic sentence because it directly addresses the main idea of hand hygiene's impact on reducing hospital-acquired infections, providing a clear focus for the paragraph. Option B is too personal and anecdotal, failing to generalize the importance of hygiene for a broader audience. Option C focuses on the sensory experience of soap rather than the critical function of hand hygiene itself. Option D discusses glove usage by nurses, which is a different subject from the specific practice of hand washing and its infection control benefits.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 542,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Which is the strongest thesis for an essay on nurse-patient ratios?\n\nA. Nurse-patient ratios are interesting.\nB. Lower nurse-patient ratios improve patient safety and reduce burnout, so hospitals should adopt mandated limits.\nC. I like working as a nurse.\nD. Ratios exist in hospitals.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the strongest thesis because it clearly argues that lower ratios improve safety and reduce burnout, urging hospitals to adopt limits. In contrast, Option A merely states ratios are interesting without offering a specific claim. Option C focuses on personal feelings rather than the broader issue of ratios. Option D simply notes that ratios exist, which is a fact but not an argument. A strong thesis must be debatable and guide the essay's direction, which only Option B achieves.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 543,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Choose the most effective topic sentence that previews three points: cost, staffing, and outcomes.\n\nA. Telehealth is used sometimes.\nB. Telehealth offers benefits.\nC. Telehealth reduces costs, alleviates staffing shortages, and improves access to care in rural areas.\nD. Technology is changing.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is the only sentence that explicitly previews the three required points: cost, staffing, and outcomes. It directly states that telehealth reduces costs, alleviates staffing shortages, and improves access to care in rural areas. Options A and B are too vague because they do not mention any specific benefits or points. Option D is irrelevant as it discusses technology in general without addressing the specific context of telehealth. Therefore, C is the most effective choice because it fulfills all the prompt's requirements.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 544,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which best supports the claim 'Smoking cessation improves wound healing'?\n\nA. My uncle smokes.\nB. A 2023 study found smokers had 40% slower wound closure than nonsmokers.\nC. Smoking is bad.\nD. Many people smoke.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B directly supports the claim by providing specific evidence that smoking slows wound closure by 40%, proving the negative impact of smoking on healing. In contrast, Option A merely states a fact about the narrator's uncle without linking it to wound healing data. Option C is too vague as it only says smoking is bad without explaining how it affects wounds. Option D is irrelevant because the number of smokers does not address the biological process of wound healing. Therefore, only B offers the necessary scientific backing for the assertion.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 545,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Choose the strongest evidence for fall prevention.\n\nA. I think falls are bad.\nB. Hospitals using hourly rounding reduced falls by 30% in a peer-reviewed trial.\nC. Everyone knows falls happen.\nD. My friend fell once.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the strongest evidence because it cites a specific, measurable outcome (30% reduction) from a peer-reviewed trial, which provides objective data. In contrast, Option A is merely an opinion stating falls are bad without proof. Option C is a general statement that everyone knows falls happen, offering no new information or data. Option D relies on a single anecdote about a friend falling, which lacks the statistical significance and scientific rigor needed for strong evidence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 546,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which detail does NOT support the topic 'Benefits of early ambulation post-op'?\n\nA. Reduces risk of DVT\nB. Improves lung expansion\nC. Shortens hospital stay\nD. Increases need for pain medication",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Option D is the right choice because increasing pain medication need contradicts the goal of early movement, which aims to reduce discomfort. Options A, B, and C are incorrect as they all list proven advantages: less DVT risk, better lung function, and shorter stays. Therefore, D is the only detail that does not support the topic of early ambulation benefits.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 547,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Choose the best order for inserting an IV:\n1. Wash hands and apply gloves. 2. Select vein and apply tourniquet. 3. Clean site with antiseptic. 4. Insert catheter and secure.\n\nA. 1,3,2,4\nB. 1,2,3,4\nC. 2,1,3,4\nD. 4,3,2,1",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct sequence for IV insertion is 1, 2, 3, 4 because you must wash hands and apply gloves first to ensure safety. Next, select the vein and apply a tourniquet to make it visible. Then, clean the site with antiseptic to prevent infection. Finally, insert the catheter and secure it. Option A is wrong as it places the tourniquet before cleaning the site. Option C is incorrect because it starts with the tourniquet instead of hand hygiene. Option D is reversed, beginning with insertion before preparation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 548,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Organize discharge teaching steps:\n1. Provide written instructions. 2. Assess patient understanding with teach-back. 3. Identify learning needs. 4. Document teaching.\n\nA. 3,1,2,4\nB. 1,3,2,4\nC. 4,3,1,2\nD. 2,1,3,4",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct sequence is 3,1,2,4 because teaching must begin by identifying learning needs before providing written instructions. After assessing needs, the nurse gives the material and then uses teach-back to verify understanding. Finally, the session is documented to complete the process. Options B, C, and D fail because they place steps like documentation or teach-back before establishing what the patient needs to learn.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 549,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Which sentence should come first in a process paragraph about taking blood pressure?\n\nA. Record the reading.\nB. Position the cuff at heart level.\nC. Explain the procedure to the patient.\nD. Deflate the cuff slowly.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "In a process paragraph about taking blood pressure, the logical first step is to explain the procedure to the patient, making option C the correct choice. This ensures the patient understands what will happen before any physical actions occur. Options A, B, and D are incorrect because recording the reading, positioning the cuff, and deflating the cuff are all steps that happen after the patient is informed and the cuff is applied. Therefore, explaining the procedure must precede all other actions in the sequence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 550,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Choose the best transition: The patient reported chest pain. ___, the EKG was normal.\n\nA. Therefore\nB. However\nC. Because\nD. For example",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence shows a contrast between the patient's chest pain and the normal EKG, making \"However\" the best transition. Option A, \"Therefore,\" implies the normal EKG is a result of the pain, which is illogical. Option C, \"Because,\" suggests the pain caused the normal EKG, contradicting the medical facts. Option D, \"For example,\" fails to connect the two unrelated ideas. Only B correctly signals the unexpected difference between the symptoms and the test results.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 551,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Hand hygiene is essential. ___, it is the single most effective way to prevent infection.\n\nA. In contrast\nB. Moreover\nC. Instead\nD. Otherwise",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence begins with a statement about hand hygiene being essential, and the second clause adds that it is the single most effective way to prevent infection. The transition word \"Moreover\" correctly signals that the second idea supports and expands upon the first, showing agreement. \"In contrast\" and \"Instead\" imply opposition, which is illogical here since both clauses share the same positive meaning. \"Otherwise\" suggests a conditional consequence, which does not fit the context of adding information. Therefore, \"Moreover\" is the only logical choice to connect these related thoughts.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 552,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "First, assess airway. ___, check breathing.\n\nA. Finally\nB. Next\nC. Previously\nD. Likewise",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The logical sequence for patient assessment starts with the airway, followed immediately by breathing. Therefore, the word \"Next\" correctly indicates the subsequent step after checking the airway. Option A, \"Finally,\" implies the last step, which contradicts the immediate need to check breathing. Option C, \"Previously,\" suggests a past action, whereas we are describing a current, ordered process. Option D, \"Likewise,\" means similarly, but checking breathing is a distinct step, not a repetition of checking the airway.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 553,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Choose the clearest revision.\n\nA. The reason for the delay in medication administration was because the pharmacy was closed.\nB. The medication administration was delayed because the pharmacy was closed.\nC. Because the pharmacy was closed was the reason.\nD. The delay was because of the reason pharmacy closed.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the clearest revision because it removes the redundant \"because... was because\" structure found in A and C, which creates a confusing double causal link. It also avoids the awkward phrasing in D where \"because of the reason\" is unnecessary and grammatically weak. The sentence in B flows logically by stating the event and its cause directly without extra words. Options A, C, and D all suffer from wordiness or poor syntax that obscures the simple meaning. Therefore, B is the best choice for clarity and conciseness.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 554,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Combine clearly: The patient is diabetic. He monitors his glucose four times daily.\n\nA. The patient is diabetic, he monitors his glucose four times daily.\nB. The patient is diabetic and monitors his glucose four times daily.\nC. The patient is diabetic monitors his glucose four times daily.\nD. Being diabetic the patient monitors.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct answer is B because it uses the conjunction \"and\" to properly link two independent clauses with a shared subject, creating a grammatically sound sentence. Option A is incorrect as it creates a run-on sentence by joining two complete thoughts with only a comma. Option C fails because it lacks any punctuation or conjunction to separate the subject from the verb phrase. Option D is wrong because it uses an awkward prepositional phrase that does not clearly connect the ideas. The original text requires a clear combination, which only B achieves.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 555,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Choose the most concise revision: In spite of the fact that the patient was noncompliant with his diet, his blood sugar remained within normal limits.\n\nA. In spite of the fact that the patient was noncompliant with his diet, his blood sugar remained within normal limits.\nB. Although the patient was noncompliant with his diet, his blood sugar remained within normal limits.\nC. Despite the patient was noncompliant, blood sugar normal.\nD. The patient noncompliant diet but sugar normal.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is best because \"Although\" concisely replaces the wordy \"In spite of the fact that\" without losing meaning. Option A repeats the original phrasing, failing to improve conciseness. Option C creates a sentence fragment by omitting the verb \"remained\" and proper punctuation. Option D is ungrammatical and lacks necessary articles, making it unclear and incorrect.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1566,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The water cycle involves evaporation, where water turns into vapor from oceans and lakes. Condensation forms clouds, and precipitation returns water to Earth. This process sustains life by distributing freshwater. According to the passage, what causes clouds to form?\nA) Evaporation B) Condensation C) Precipitation D) Distribution",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Evaporation",
+      "C) Precipitation",
+      "D) Distribution"
+    ],
+    "explanation": "The passage explicitly states that condensation is the process where water vapor turns into clouds, making option B the only correct choice. While evaporation creates vapor from oceans, it does not directly form clouds, ruling out option A. Precipitation refers to water returning to Earth from clouds, not the formation of the clouds themselves, which invalidates option C. Finally, distribution describes how life is sustained by freshwater, not the physical mechanism creating clouds, so option D is incorrect.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1567,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "During the Civil War, Abraham Lincoln issued the Emancipation Proclamation in 1863. It declared freedom for slaves in Confederate states. This boosted Union morale and shifted the war's focus to ending slavery. What was a key effect of the Emancipation Proclamation?\nA) Ended the Civil War B) Boosted Union morale C) Freed all slaves D) Started the war",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Ended the Civil War",
+      "C) Freed all slaves",
+      "D) Started the war"
+    ],
+    "explanation": "The passage explicitly states that the Emancipation Proclamation \"boosted Union morale,\" making option B the only choice directly supported by the text. While the proclamation shifted the war's focus to ending slavery, it did not end the conflict, so option A is incorrect. Furthermore, the document only declared freedom for slaves in Confederate states, meaning option C is false because it claims to have freed all slaves. Finally, since the war had already begun before Lincoln issued the proclamation in 1863, option D is historically inaccurate and contradicted by the timeline provided.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1568,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Photosynthesis allows plants to convert sunlight, carbon dioxide, and water into glucose and oxygen. Chlorophyll in leaves captures light energy for this process. It forms the base of most food chains. Which is a product of photosynthesis?\nA) Carbon dioxide B) Glucose C) Water D) Sunlight",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Carbon dioxide",
+      "C) Water",
+      "D) Sunlight"
+    ],
+    "explanation": "The passage explicitly states that photosynthesis converts sunlight, carbon dioxide, and water into glucose and oxygen, making glucose a direct product of this process. Option B is the only choice listed as an output in the sentence describing the conversion. Option A is incorrect because the text identifies carbon dioxide as an input, not a product. Similarly, Option C is wrong since water is listed as a reactant used to create glucose, not a result. Finally, Option D is incorrect because sunlight provides the necessary energy to drive the reaction but is consumed rather than produced.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1569,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Community health programs promote vaccination drives to prevent outbreaks. Nurses educate residents on hygiene and nutrition. These efforts reduce hospital admissions significantly. What do community health programs aim to prevent?\nA) Hospital admissions B) Outbreaks C) Education D) Nutrition issues",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Hospital admissions",
+      "C) Education",
+      "D) Nutrition issues"
+    ],
+    "explanation": "The passage explicitly states that vaccination drives are used to prevent outbreaks, making option B the direct answer. While nurses educate residents on hygiene and nutrition to reduce hospital admissions, these are secondary goals of the broader program, not the primary prevention target mentioned for vaccines. Option A is incorrect because hospital admissions are a result being reduced, not the specific outbreak being prevented by vaccines. Option C is wrong as education is a method used by nurses, not the ultimate goal of the program. Option D is also incorrect since nutrition issues are addressed through education to improve health, not as the main prevention target for vaccination drives.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1570,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Industrial Revolution began in Britain in the late 1700s with textile machinery. Factories replaced home workshops, leading to urbanization. Workers moved to cities for jobs. A major change during this period was:\nA) Rural living B) Home workshops C) Urbanization D) Textile decline",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Rural living",
+      "B) Home workshops",
+      "D) Textile decline"
+    ],
+    "explanation": "The passage explicitly states that factories replaced home workshops, which directly caused workers to move to cities for employment. This shift from rural areas to urban centers is the definition of urbanization, making option C the only accurate summary of the major change described. Option A is incorrect because the text notes workers left rural settings to enter cities, contradicting the idea of returning to rural living. Option B is wrong since the passage clearly indicates that home workshops were replaced by factories, not maintained. Finally, option D is false because the rise of textile machinery drove the industrial revolution rather than causing a decline in the textile industry itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1571,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Antibiotics revolutionized medicine by treating bacterial infections previously fatal. Penicillin, discovered in 1928, was the first. Overuse has led to resistance. What discovery marked the start of antibiotics?\nA) Resistance B) Penicillin C) Fatal infections D) Overuse",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Resistance",
+      "C) Fatal infections",
+      "D) Overuse"
+    ],
+    "explanation": "The passage explicitly states that Penicillin, discovered in 1928, was the first antibiotic, directly identifying it as the starting point of this medical revolution. Option B is the only choice that aligns with this specific historical fact mentioned in the text. Option A is incorrect because resistance is a negative consequence of overuse, not the initial discovery. Option C refers to the problem antibiotics solved, not the discovery itself. Option D describes a modern issue resulting from misuse, which occurred long after the first antibiotic was found.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1572,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Electoral college determines U.S. presidential winners based on state votes. Each state gets electors equal to its congressional representation. Candidates focus on swing states. How many electors does a state receive?\nA) Based on population B) Equal to all states C) Congressional representation D) Swing status",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Based on population",
+      "B) Equal to all states",
+      "D) Swing status"
+    ],
+    "explanation": "The passage states the rule directly: 'Each state gets electors equal to its congressional representation.' The question asks for the number of electors, and the passage gives a specific formula. C matches exactly. A is a distractor\u2014while population indirectly determines congressional representation (House seats), the passage doesn't say electors are 'based on population'; it says they equal congressional representation, which includes Senate seats (2 per state regardless of population). B is wrong; the passage says representation varies by state, not that all states are equal. D is fabricated; swing status affects campaign strategy but has nothing to do with how many electors a state receives.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1573,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Registered nurses assess patient conditions and develop care plans. They collaborate with physicians on treatments. Advanced practice nurses can prescribe medications. What do registered nurses primarily do?\nA) Prescribe medications B) Develop care plans C) Work alone D) Assess only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Prescribe medications",
+      "C) Work alone",
+      "D) Assess only"
+    ],
+    "explanation": "The passage states RNs 'assess patient conditions and develop care plans.' Prescribing is for advanced practice nurses (eliminating A). B wrongly claims nurses work alone\u2014the passage mentions physician collaboration. D is too narrow\u2014assessing is only part of the role.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1574,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Gravity keeps planets in orbit around the sun. Newton's law states force equals mass times acceleration. It explains falling objects too. What does gravity do to planets?\nA) Accelerate them B) Keep in orbit C) Increase mass D) Explain falling",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Accelerate them",
+      "C) Increase mass",
+      "D) Explain falling"
+    ],
+    "explanation": "The passage explicitly states that gravity keeps planets in orbit around the sun, making option B the only choice that directly matches the text. Option A is incorrect because while gravity causes acceleration, the specific function described for planetary motion is maintaining their orbit, not merely accelerating them. Option C is wrong since the text never mentions gravity increasing a planet's mass, and mass remains constant regardless of gravitational force. Option D is incorrect because the passage notes gravity explains falling objects, but this refers to terrestrial physics, not the orbital behavior of planets. Therefore, the text clearly identifies orbit maintenance as gravity's role for planets.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1575,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Renaissance sparked innovation in art and science from 14th to 17th centuries. Figures like Leonardo da Vinci advanced anatomy and engineering. Humanism emphasized individual potential. What emphasized individual potential?\nA) Art innovation B) Humanism C) Science D) Engineering",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Art innovation",
+      "C) Science",
+      "D) Engineering"
+    ],
+    "explanation": "The passage explicitly states that Humanism emphasized individual potential, making option B the only choice directly supported by the text. While Leonardo da Vinci advanced anatomy and engineering, these specific fields are presented as examples of innovation sparked by the Renaissance rather than the definition of emphasizing individual potential. Art innovation and science are also mentioned as areas of advancement during this era, but the sentence structure clearly links the concept of valuing the individual solely to Humanism. Therefore, options A, C, and D are incorrect because they describe outcomes or related fields, not the specific philosophy defined in the text.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1576,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Patient-centered care prioritizes individual needs and preferences. Nurses involve families in decisions. This approach improves outcomes. What does patient-centered care prioritize?\nA) Family decisions B) Individual needs C) Nurse preferences D) Outcomes only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Family decisions",
+      "C) Nurse preferences",
+      "D) Outcomes only"
+    ],
+    "explanation": "Patient-centered care explicitly prioritizes individual needs and preferences, as stated directly in the first sentence of the passage. While nurses involve families in decisions, this action serves the patient rather than making the family the primary focus, ruling out option A. The text never mentions nurse preferences, making option C incorrect, and outcomes are an improvement result, not the core priority itself, so option D is wrong. Therefore, the passage clearly identifies individual needs as the central element of this care approach.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1577,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Mitosis divides one cell into two identical ones for growth. It occurs in body cells. Meiosis produces gametes with half chromosomes. What is the purpose of mitosis?\nA) Produce gametes B) Growth C) Half chromosomes D) Body cells only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Produce gametes",
+      "C) Half chromosomes",
+      "D) Body cells only"
+    ],
+    "explanation": "The passage explicitly states that mitosis divides one cell into two identical ones specifically for growth, making option B the only choice supported by the text. Option A is incorrect because the text assigns gamete production to meiosis, not mitosis. Option C is wrong since the passage links half chromosomes to meiosis, whereas mitosis creates identical copies. Finally, option D is inaccurate because while mitosis occurs in body cells, the text identifies growth as its purpose rather than the cell type itself.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1578,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Bill of Rights, first 10 amendments, protects freedoms like speech. Ratified in 1791. It limits government power. When was the Bill of Rights ratified?\nA) 1791 B) 10 amendments C) Speech freedom D) Government power",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 10 amendments",
+      "C) Speech freedom",
+      "D) Government power"
+    ],
+    "explanation": "The passage explicitly states that the Bill of Rights was \"Ratified in 1791,\" making option A the only factually accurate date provided. Option B is incorrect because \"10 amendments\" describes the document's composition, not a temporal event. Option C is wrong as \"speech freedom\" is a protected right within the text, not a date of ratification. Finally, option D fails because \"government power\" refers to the entity being limited, not a specific year. Therefore, only A directly answers the question about when the event occurred.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1579,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Hypertension, or high blood pressure, strains the heart over time. Lifestyle changes like diet and exercise manage it. Medications help when needed. What strains the heart in hypertension?\nA) Diet B) High blood pressure C) Exercise D) Medications",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Diet",
+      "C) Exercise",
+      "D) Medications"
+    ],
+    "explanation": "The passage opens by defining hypertension as high blood pressure, then states it 'strains the heart over time.' The strain comes directly from elevated blood pressure, not from diet, exercise, or medications (which are management tools, not causes).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1580,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "In the article, the author extols the virtues of evidence-based nursing practice. She argues it enhances patient safety and outcomes. The tone can best be described as:\nA) Critical B) Neutral C) Enthusiastic D) Sarcastic",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Critical",
+      "B) Neutral",
+      "D) Sarcastic"
+    ],
+    "explanation": "The author uses strong, positive language like \"extols the virtues\" to highlight the benefits of evidence-based nursing, signaling deep approval and excitement for the topic. This choice of words indicates a tone of enthusiasm rather than detachment or mockery. The focus on enhancing safety and outcomes reflects a passionate advocacy for the practice. Option A is wrong because the text lacks harsh or questioning language. Option B is incorrect since the author clearly favors the subject over a balanced, objective stance. Option D fails because there is no irony or mocking intent in the description. Option C fits perfectly given the celebratory nature of the vocabulary used throughout the passage.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1581,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Quantum mechanics revolutionized physics by describing particle behavior at atomic scales. Unlike classical physics, it embraces probability. In the passage, 'embraces' most nearly means:\nA) Rejects B) Accepts C) Ignores D) Fears",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Rejects",
+      "C) Ignores",
+      "D) Fears"
+    ],
+    "explanation": "The word \"embraces\" in the context of quantum mechanics implies a willingness to adopt or include probability, which directly aligns with option B, Accepts. The sentence structure contrasts this approach with classical physics, suggesting a positive adoption of uncertainty rather than a negative reaction. Therefore, the passage clearly indicates that the theory welcomes probability as a fundamental concept.\n\nOption A, Rejects, is incorrect because it contradicts the positive connotation of \"embraces\" and the fact that probability is a core component of the theory. Option C, Ignores, is wrong as ignoring would mean disregarding probability, whereas the text states the theory fully incorporates it. Finally, option D, Fears, is illogical since fear implies a negative emotional response, while embracing suggests an active and positive inclusion of the concept.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1582,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The Lewis and Clark expedition mapped western territories post-Louisiana Purchase. Jefferson commissioned it to explore resources. The passage is structured as:\nA) Problem-solution B) Cause-effect C) Chronological D) Compare-contrast",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Problem-solution",
+      "C) Chronological",
+      "D) Compare-contrast"
+    ],
+    "explanation": "The passage illustrates a clear cause-effect relationship where Jefferson's commission to explore resources directly caused the Lewis and Clark expedition to map western territories. This logical link demonstrates that the action of commissioning the trip resulted in the specific outcome of mapping the land. Option A is incorrect because the text does not present a problem requiring a solution but rather a directive leading to an event. Option C fails because the passage lacks a sequential timeline of events, focusing instead on the relationship between the commission and the mapping. Finally, Option D is wrong as there is no comparison or contrast between two subjects; the text simply describes one event resulting from another.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1583,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "\"We must prioritize preventive care,\" the nurse advocate declared. Her perspective emphasizes long-term health over reactive treatment. The point of view is:\nA) First-person B) Third-person C) Second-person D) Omniscient",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) First-person",
+      "C) Second-person",
+      "D) Omniscient"
+    ],
+    "explanation": "The passage uses the pronoun \"Her\" to refer to the nurse advocate, which identifies her without using \"I\" or \"you.\" This third-person perspective allows the narrator to describe the character from an external viewpoint while maintaining a specific focus on her actions and beliefs regarding preventive care. Option A is incorrect because it would require the use of \"I,\" as seen in the quote itself, but the narrative voice remains separate from the speaker. Option C is wrong because the text never directly addresses the reader with \"you,\" keeping the audience at a distance. Finally, Option D is inaccurate since the story does not reveal the inner thoughts of every character, limiting the scope to just the advocate's declared perspective.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1584,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Antibiotic resistance has been called one of the greatest threats to global health. The CDC reports that at least 2.8 million antibiotic-resistant infections occur each year in the United States, resulting in over 35,000 deaths. Common bacteria such as MRSA have become resistant to multiple drugs, leaving doctors with fewer treatment options. The overuse of antibiotics in both medicine and agriculture has accelerated this crisis.\"\n\nWhat is the author's purpose in this passage?\n\nA) To entertain readers with a story about bacteria.\nB) To describe the chemical structure of antibiotics.\nD) To argue that all antibiotics should be banned.\n\nA) To entertain readers with a story about bacteria.\nB) To describe the chemical structure of antibiotics.\nC) 8 million infections and 35,000 deaths to urge immediate action against antibiotic resistance\nD) To argue that all antibiotics should be banned.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) To entertain readers with a story about bacteria.",
+      "B) To describe the chemical structure of antibiotics.",
+      "D) To argue that all antibiotics should be banned."
+    ],
+    "explanation": "Option C is right because the passage cites alarming statistics like 2.8 million infections and 35,000 deaths to urge immediate action against antibiotic resistance. The author uses these facts to persuade readers to recognize the severity of the crisis caused by overuse in medicine and agriculture. Options A, B, and D are incorrect because the text focuses on health threats, not storytelling, chemical structures, or banning all antibiotics. The tone is serious and informative, aiming to change behavior rather than entertain or provide technical details.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1585,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Climate change accelerates species extinction through habitat loss. Data shows rising temperatures disrupt ecosystems. The tone is:\nA) Optimistic B) Alarmist C) Humorous D) Detached",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Optimistic",
+      "C) Humorous",
+      "D) Detached"
+    ],
+    "explanation": "The passage uses urgent language\u2014'accelerates extinction,' 'disrupt ecosystems'\u2014conveying a sense of crisis about climate change's effects. This heightened concern about environmental damage characterizes an alarmist tone, not optimism or detachment.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1586,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Nurses play a critical role in reducing patient anxiety before surgery. Techniques such as active listening, clear explanations of procedures, and guided breathing exercises help mitigate fear and create a sense of control for patients facing uncertain outcomes.\"\n\nIn this context, 'mitigate' most nearly means:\n\nA) Increase or intensify.\nB) Ignore or disregard.\nD) Study or investigate.\n\nA) Increase or intensify.\nB) Ignore or disregard.\nC) The other options fail to match this context\nD) Study or investigate.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Increase or intensify.",
+      "B) Ignore or disregard.",
+      "D) Study or investigate."
+    ],
+    "explanation": "Option C is correct because the passage states that techniques help \"mitigate fear,\" which logically means to decrease the intensity of that emotion, aligning perfectly with reducing severity. The other options fail to match this context. Option A suggests making fear worse, which contradicts the goal of reducing anxiety. Option B implies neglecting the fear, whereas the text describes active engagement through listening and explanations. Option D refers to analyzing the fear, which does not fit the action of alleviating the patient's distress described in the sentence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1587,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The Federal Reserve manages U.S. economy by adjusting interest rates. Passage structure: definition, examples, impacts. This is:\nA) Spatial B) Topical C) Narrative D) Argumentative",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Spatial",
+      "C) Narrative",
+      "D) Argumentative"
+    ],
+    "explanation": "The passage is organized by topics related to the Federal Reserve: its definition, examples of its actions, and impacts on the economy. This topic-by-topic organization is the definition of topical structure. No spatial, narrative, or argumentative pattern is present.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1588,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Darwin's theory faced opposition from religious views. He presented evidence gradually. Author's purpose:\nA) Defend religion B) Explain controversy C) Mock Darwin D) Promote faith",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Defend religion",
+      "C) Mock Darwin",
+      "D) Promote faith"
+    ],
+    "explanation": "The passage describes Darwin presenting evidence gradually against religious opposition, highlighting the tension between his scientific findings and established beliefs. This focus on the clash of ideas directly supports the purpose of explaining the controversy surrounding his theory. Option A is incorrect because the text does not argue for religious views but rather notes the opposition to them. Option C is wrong as there is no satirical tone or mockery of Darwin in the description. Option D fails because the author does not aim to promote faith but instead illustrates the conflict that arose from Darwin's gradual evidence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1589,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"'Epidemics have ravaged unprepared societies throughout history,' warns Dr. Elena Vasquez, a professor of global health. 'The Black Death killed one-third of Europe's population because communities lacked basic sanitation and had no understanding of contagion. Today, we face similar risks with antibiotic-resistant bacteria and emerging viruses. If we do not invest in public health infrastructure, history will repeat itself.'\"\n\nWhat is the author's tone?\n\nB) Celebratory and triumphant.\nC) Indifferent and unconcerned.\nD) Ironic and mocking.\n\nA) Vasquez uses strong words like \"ravaged\" and \"history will repeat itself\" to warn readers about the dangers of ignoring public health, creating a sense of urgency\nB) Celebratory and triumphant.\nC) Indifferent and unconcerned.\nD) Ironic and mocking.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Celebratory and triumphant.",
+      "C) Indifferent and unconcerned.",
+      "D) Ironic and mocking."
+    ],
+    "explanation": "Option A is right because Dr. Vasquez uses strong words like \"ravaged\" and \"history will repeat itself\" to warn readers about the dangers of ignoring public health, creating a sense of urgency. Her warnings about the Black Death and antibiotic resistance show she wants society to be careful and prepared. Option B is wrong because there is no celebration or triumph in the text; the passage focuses on tragedy and risk. Option C is incorrect since the author clearly cares deeply about the consequences of inaction, showing zero indifference. Option D is wrong because the tone is serious and direct, not ironic or mocking of anyone.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1590,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Vaccination hesitancy stems from misinformation despite proven efficacy. It can be inferred that authors urge:\nA) Ignore vaccines B) Combat misinformation C) Promote hesitancy D) Study only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Ignore vaccines",
+      "C) Promote hesitancy",
+      "D) Study only"
+    ],
+    "explanation": "The passage states that vaccination hesitancy arises from misinformation despite vaccines being proven effective. This logical connection implies the author urges readers to actively combat misinformation to restore trust and ensure public health safety. Option B is the only choice that directly addresses the root cause identified in the text. Option A contradicts the passage's emphasis on proven efficacy, while Option C suggests promoting the very problem the author seeks to solve. Option D is too narrow, as studying alone does not address the active need to fight false claims.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1591,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Women gained suffrage via 19th Amendment after decades of activism. This concludes:\nA) Activism ineffective B) Persistence succeeds C) Amendments rare D) Voting unimportant",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Activism ineffective",
+      "C) Amendments rare",
+      "D) Voting unimportant"
+    ],
+    "explanation": "Option B is right because the passage explicitly links decades of activism to the successful passage of the 19th Amendment, proving that persistent effort leads to victory. The other choices fail because Option A contradicts the text by claiming activism failed, while Option C incorrectly suggests amendments are uncommon despite this specific example. Option D is wrong as the text highlights the importance of voting rights, and none of the alternatives support the idea that suffrage was unimportant.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1592,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "DNA replication ensures genetic continuity. Errors lead to mutations. Inference: Mutations arise from:\nA) Perfect replication B) Replication errors C) Genetic continuity D) No errors",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Perfect replication",
+      "C) Genetic continuity",
+      "D) No errors"
+    ],
+    "explanation": "The passage states that DNA replication ensures genetic continuity but explicitly notes that errors lead to mutations. Therefore, mutations must arise from replication errors, making option B the only logical inference based on the text. Option A is incorrect because perfect replication would prevent errors and thus mutations would not occur. Option C is wrong because genetic continuity is the result of successful replication, not the source of mutations. Finally, option D is incorrect as the text clearly identifies errors as the cause, contradicting the idea that no errors exist.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1593,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The argument for universal healthcare cites reduced costs long-term. Evidence: Countries with it have better life expectancy. Valid because:\nA) Costs irrelevant B) Correlates outcomes C) Life short D) No evidence",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Costs irrelevant",
+      "C) Life short",
+      "D) No evidence"
+    ],
+    "explanation": "The argument claims universal healthcare reduces costs long-term, and the evidence cited is that countries with universal healthcare have better life expectancy. This evidence shows a correlation between the healthcare system and health outcomes, which supports the cost-effectiveness argument. B is correct. A is wrong; costs are central to the argument, not irrelevant. C contradicts the evidence, which says life expectancy is better (longer), not shorter. D is false; the passage presents evidence (life expectancy data across countries).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1594,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: \"Medieval art (5th\u201315th century) was primarily religious in theme. Figures were flat and two-dimensional, sized according to spiritual importance rather than realistic proportions. Gold leaf backgrounds symbolized divine light rather than representing actual settings.\"\n\nPassage B: \"Renaissance artists (14th\u201317th century) pioneered techniques like linear perspective, chiaroscuro (light and shadow), and anatomical accuracy. Leonardo da Vinci and Michelangelo studied human cadavers to understand muscle and bone structure, creating lifelike figures that reflected the natural world.\"\n\nComparing both passages shows the evolution toward:\n\nA) Greater use of religious symbolism.\nC) Abstract and non-representational art.\nD) Flat, two-dimensional painting techniques.\n\nA) Greater use of religious symbolism.\nB) B highlights Renaissance techniques like perspective and anatomical accuracy\u2014this shift represents a move toward realism\nC) Abstract and non-representational art.\nD) Flat, two-dimensional painting techniques.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Greater use of religious symbolism.",
+      "C) Abstract and non-representational art.",
+      "D) Flat, two-dimensional painting techniques."
+    ],
+    "explanation": "Passage A describes flat, symbolic medieval art while Passage B highlights Renaissance techniques like perspective and anatomical accuracy\u2014this shift represents a move toward realism. A is backwards\u2014medieval art was more religious. C and D describe pre-Renaissance characteristics.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1595,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"Between 1999 and 2019, pharmaceutical companies aggressively marketed opioid painkillers to physicians, emphasizing their effectiveness while downplaying addiction risks. During this period, opioid prescriptions quadrupled. By 2017, the CDC declared the opioid crisis a public health emergency, with over 70,000 drug overdose deaths that year alone.\"\n\nBased on the passage, what inference can be made about addressing the crisis?\n\nA) Prescribing more opioids would resolve the problem.\nC) Pharmaceutical marketing had no effect on prescribing.\nD) The crisis resolved itself by 2019.\n\nA) Prescribing more opioids would resolve the problem.\nB) The other options contradict the text or ignore the evidence\nC) Pharmaceutical marketing had no effect on prescribing.\nD) The crisis resolved itself by 2019.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Prescribing more opioids would resolve the problem.",
+      "C) Pharmaceutical marketing had no effect on prescribing.",
+      "D) The crisis resolved itself by 2019."
+    ],
+    "explanation": "Option B is correct because the passage links aggressive marketing and quadrupled prescriptions directly to the severe overdose crisis, implying that changing these practices is necessary to reverse the negative outcomes. The other options contradict the text or ignore the evidence. Option A is wrong because increasing prescriptions would worsen the problem described by the quadrupling trend and high death toll. Option C is incorrect since the passage explicitly states companies emphasized effectiveness while downplaying risks, showing a clear marketing effect. Option D is wrong because the text notes the crisis was declared an emergency in 2017 with 70,000 deaths, indicating it did not resolve itself by 2019.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1596,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"Plate tectonics theory explains that Earth's lithosphere is divided into large plates that float on the semi-fluid asthenosphere. These plates move at rates of 1\u201310 centimeters per year. Earthquakes concentrate along plate boundaries where plates converge, diverge, or slide past one another. The Pacific Ring of Fire, home to 90% of the world's earthquakes, follows the boundaries of the Pacific Plate.\"\n\nBased on the passage, where do most earthquakes occur?\n\nA) Randomly across the Earth's surface.\nC) Only in the center of tectonic plates.\nD) Exclusively in the Pacific Ocean.\n\nA) Randomly across the Earth's surface.\nB) It further supports this by noting the Pacific Ring of Fire follows the boundaries of the Pacific Plate, confirming that movement at these edges triggers seismic activity\nC) Only in the center of tectonic plates.\nD) Exclusively in the Pacific Ocean.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Randomly across the Earth's surface.",
+      "C) Only in the center of tectonic plates.",
+      "D) Exclusively in the Pacific Ocean."
+    ],
+    "explanation": "The passage states that earthquakes concentrate along plate boundaries where plates converge, diverge, or slide past one another, making option B the only choice reflecting this specific mechanism. It further supports this by noting the Pacific Ring of Fire follows the boundaries of the Pacific Plate, confirming that movement at these edges triggers seismic activity. Option A is incorrect because the text explicitly links earthquakes to boundaries rather than a random distribution. Option C is wrong since the passage implies the lithosphere is divided into plates, suggesting the interior is stable compared to the active edges. Option D is inaccurate because while the Pacific Ring of Fire is in the ocean, earthquakes also occur at boundaries elsewhere, not exclusively in the Pacific.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1597,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Democracy empowers citizens. Passage 2: Elites influence policy. Comparing reveals:\nA) Pure empowerment B) Elite limits C) No influence D) Citizen weakness",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Pure empowerment",
+      "C) No influence",
+      "D) Citizen weakness"
+    ],
+    "explanation": "Option B correctly identifies that while democracy empowers citizens, the passage explicitly states elites influence policy, creating a limitation on pure empowerment. This synthesis of both texts reveals that citizen power is not absolute. Option A is wrong because it ignores the second passage's claim about elite influence. Option C fails because the texts clearly show interaction between citizens and elites, not a lack of influence. Option D is incorrect as the passage suggests citizens have power, not inherent weakness.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1598,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The Great Depression worsened by Dust Bowl droughts. Evaluating argument: Environmental factors amplified economic woes. Strength:\nA) Ignores economy B) Adds complexity C) Denies depression D) Focuses drought",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Ignores economy",
+      "C) Denies depression",
+      "D) Focuses drought"
+    ],
+    "explanation": "The passage describes environmental destruction (deforestation, pollution) and then explains its economic consequences (lost tourism, declining agriculture). This connection between ecology and economy enriches the explanation beyond just environmental impact.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1599,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"Telemedicine \u2014 remote healthcare via video calls and digital monitoring \u2014 expanded dramatically during the COVID-19 pandemic. Rural hospitals, which previously struggled to recruit specialists, were able to provide cardiology and dermatology consultations remotely. Patient satisfaction with telemedicine visits averaged 4.2 out of 5 stars.\"\n\nBased on the passage, telemedicine will likely continue to be most valuable for:\n\nA) Patients who prefer in-person doctor visits.\nC) Emergency surgeries that require immediate hands-on care.\nD) Patients in urban areas with many healthcare facilities.\n\nA) Patients who prefer in-person doctor visits.\nB) The passage specifically notes rural hospitals 'previously struggled to recruit specialists' but telemedicine let them provide cardiology and dermatology remotely.\nC) Emergency surgeries that require immediate hands-on care.\nD) Patients in urban areas with many healthcare facilities.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Patients who prefer in-person doctor visits.",
+      "C) Emergency surgeries that require immediate hands-on care.",
+      "D) Patients in urban areas with many healthcare facilities."
+    ],
+    "explanation": "The passage specifically notes rural hospitals 'previously struggled to recruit specialists' but telemedicine let them provide cardiology and dermatology remotely. This strongly suggests telemedicine's greatest ongoing value is connecting remote, underserved areas to specialist care.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1600,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "In overcrowded ERs, triage prioritizes critical cases first. This system ensures survival rates improve despite high volume. The main idea is best summarized as:\nA) ERs are crowded B) Triage saves lives in busy ERs C) Survival rates vary D) Systems fail",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) ERs are crowded",
+      "C) Survival rates vary",
+      "D) Systems fail"
+    ],
+    "explanation": "Option B correctly captures the passage's main idea by linking triage directly to improved survival rates in high-volume settings, as explicitly stated in the text. While Option A merely notes a condition without addressing the outcome, Option C incorrectly suggests variability rather than the guaranteed improvement described. Option D contradicts the passage, which emphasizes successful prioritization rather than system failure. Therefore, B is the only choice that fully summarizes the causal relationship presented.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1601,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Newton's laws underpin modern engineering from bridges to rockets. First law: objects resist motion changes. Second: force equals mass times acceleration. Third: action-reaction. Supporting detail for second law:\nA) Resist motion B) F=ma C) Action-reaction D) Modern engineering",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Resist motion",
+      "C) Action-reaction",
+      "D) Modern engineering"
+    ],
+    "explanation": "Option B is correct because the passage explicitly links the second law directly to the formula \"force equals mass times acceleration,\" which is the definition of F=ma. The question asks specifically for the supporting detail of this law, making the mathematical expression the only valid choice. Option A is incorrect as it describes the first law regarding resistance to motion changes, not the second. Option C is wrong because it refers to the third law concerning action-reaction pairs, which is a separate principle. Option D is incorrect since modern engineering is merely the context for the laws' application, not a specific detail explaining the second law's mechanics.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1602,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Progressive Era tackled monopolies and corruption via reforms. Muckrakers exposed ills. Teddy Roosevelt enforced antitrust. A supporting detail is:\nA) Monopolies grew B) Muckrakers exposed ills C) No reforms D) Corruption increased",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Monopolies grew",
+      "C) No reforms",
+      "D) Corruption increased"
+    ],
+    "explanation": "Option B is right because the passage explicitly states that Muckrakers exposed ills as a method used during the Progressive Era. This directly supports the main idea of tackling corruption. The other options contradict the text; A suggests monopolies grew, but the passage says they were tackled via reforms. Option C claims no reforms occurred, ignoring the sentence about Teddy Roosevelt enforcing antitrust laws. Finally, D states corruption increased, which opposes the goal of the era described.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1603,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Diabetes management involves monitoring blood sugar and insulin dosing. Complications include neuropathy if uncontrolled. Diet and exercise aid control. Explicit info on complications:\nA) Monitoring B) Neuropathy C) Insulin D) Exercise",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Monitoring",
+      "C) Insulin",
+      "D) Exercise"
+    ],
+    "explanation": "The passage explicitly states that uncontrolled diabetes leads to complications like neuropathy, making option B the only choice directly identified as a complication. While monitoring blood sugar and insulin dosing are essential management steps, they are actions taken to prevent issues rather than the complications themselves. Similarly, diet and exercise aid control but are not listed as complications in the text. Therefore, only neuropathy fits the specific category of disease complications mentioned.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1604,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Enzymes are biological catalysts that speed up chemical reactions in living organisms. They work by binding to specific substrate molecules, much like a key fits into a lock. This lock-and-key model means each enzyme catalyzes only one type of reaction. Without enzymes, reactions that take milliseconds could require hours or days to complete.\"\n\nWhat is the main idea?\n\nA) Enzymes slow down all chemical reactions.\nC) Any enzyme can catalyze any reaction.\nD) Enzymes are only found in plants.\n\nA) Enzymes slow down all chemical reactions.\nB) The passage covers four points: enzymes are catalysts that speed up reactions, they bind to specific substrates (lock-and-key model), each enzyme catalyzes only one reaction type, and without enzymes reactions would take much longer.\nC) Any enzyme can catalyze any reaction.\nD) Enzymes are only found in plants.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Enzymes slow down all chemical reactions.",
+      "C) Any enzyme can catalyze any reaction.",
+      "D) Enzymes are only found in plants."
+    ],
+    "explanation": "The passage covers four points: enzymes are catalysts that speed up reactions, they bind to specific substrates (lock-and-key model), each enzyme catalyzes only one reaction type, and without enzymes reactions would take much longer. The main idea combines the function (speed up reactions) with the mechanism (specific substrate binding). B captures both. A states the opposite\u2014enzymes speed up, not slow down. C contradicts the lock-and-key model, which implies specificity. D is wrong; the passage says 'living organisms,' not just plants.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1605,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"'Subprime mortgages were the fuel that ignited the 2008 financial crisis,' states economist Dr. Robert Chen with a heavy sigh. 'Millions of families lost their homes. Banks that had stood for a century collapsed overnight. And the recovery, such as it was, benefited those at the top while the working class bore the losses.'\"\n\nWhat is the economist's tone?\n\nA) Optimistic and hopeful.\nC) Neutral and dispassionate.\nD) Enthusiastic and excited.\n\nA) Optimistic and hopeful.\nB) Chen sighs heavily and describes the crisis as a fuel that ignited destruction, while noting the working class bore losses while the top benefited\nC) Neutral and dispassionate.\nD) Enthusiastic and excited.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Optimistic and hopeful.",
+      "C) Neutral and dispassionate.",
+      "D) Enthusiastic and excited."
+    ],
+    "explanation": "Option B is right because Dr. Chen sighs heavily and describes the crisis as a fuel that ignited destruction, while noting the working class bore losses while the top benefited. This language reveals deep sorrow and acceptance of a grim reality. Option A is wrong because no hopeful words appear; the text focuses on millions losing homes and banks collapsing. Option C is incorrect since the heavy sigh and emotional phrasing show bias, not a dispassionate voice. Option D fails because enthusiasm contradicts the heavy sigh and the bleak description of families losing everything.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1606,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Globalization integrates economies by connecting markets through international trade, investment, and technology transfer. While this creates economic growth opportunities, it also produces cultural clashes as Western business practices encounter local traditions in developing nations.\"\n\nIn this context, 'integrates' most nearly means:\n\nA) Separates or divides.\nC) Clashes or conflicts.\nD) Destroys or eliminates.\n\nA) Separates or divides.\nB) The context of international trade and technology transfer supports the idea of bringing separate entities together\nC) Clashes or conflicts.\nD) Destroys or eliminates.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Separates or divides.",
+      "C) Clashes or conflicts.",
+      "D) Destroys or eliminates."
+    ],
+    "explanation": "Option B is correct because the passage explicitly links globalization to connecting markets, which inherently means uniting or combining them into a cohesive economic whole. The context of international trade and technology transfer supports the idea of bringing separate entities together. Option A is wrong because separating or dividing contradicts the text's focus on connection and integration. Option C is incorrect as clashes are mentioned separately as a negative side effect, not the definition of integrating. Option D is wrong since destroying or eliminating markets would halt growth, whereas the passage describes creating opportunities through connection.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1607,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"I have been a nurse for 15 years, and I see the struggles patients face every single day. I watch families navigate insurance paperwork while their loved ones lie in hospital beds. I hold the hand of someone who just received a difficult diagnosis. From where I stand, our healthcare system works for some but fails far too many.\"\n\nFrom what point of view is this passage written?\n\nB) Third-person limited.\nC) Third-person omniscient.\nD) Second-person.\n\nA) The consistent use of singular pronouns confirms the intimate perspective found only in first-person writing\nB) Third-person limited.\nC) Third-person omniscient.\nD) Second-person.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Third-person limited.",
+      "C) Third-person omniscient.",
+      "D) Second-person."
+    ],
+    "explanation": "The passage uses \"I\" and \"me\" to describe the narrator's personal nursing experience, establishing a clear first-person point of view. This direct address allows the reader to hear the author's specific observations about families and diagnoses firsthand. Options B, C, and D are incorrect because they require an external narrator or a \"you\" address, neither of which appears in this text. The consistent use of singular pronouns confirms the intimate perspective found only in first-person writing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1608,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Research consistently shows that nurse-to-patient ratios directly affect patient outcomes. Hospitals with ratios of 1:4 or lower have 25% fewer patient falls, 18% fewer medication errors, and significantly lower mortality rates compared to hospitals with ratios of 1:6 or higher. California is the only state with mandated ratios, and its patient outcomes consistently rank among the best in the nation.\"\n\nWhat is the author's primary purpose?\n\nA) To describe a typical day in a nurse's life.\nC) To compare different nursing specialties.\nD) To argue that ratios do not matter.\n\nA) To describe a typical day in a nurse's life.\nB) The passage presents research showing that lower nurse-to-patient ratios lead to fewer falls, fewer errors, and lower mortality, then cites California's mandated ratios as evidence of success.\nC) To compare different nursing specialties.\nD) To argue that ratios do not matter.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To describe a typical day in a nurse's life.",
+      "C) To compare different nursing specialties.",
+      "D) To argue that ratios do not matter."
+    ],
+    "explanation": "The passage presents research showing that lower nurse-to-patient ratios lead to fewer falls, fewer errors, and lower mortality, then cites California's mandated ratios as evidence of success. This evidence-backed argument for policy change is advocacy.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1609,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Stem cells hold promise for regenerative medicine, but ethical debates persist. Author's purpose:\nA) Promote ethics B) Highlight promise and issues C) Reject medicine D) Debate only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Promote ethics",
+      "C) Reject medicine",
+      "D) Debate only"
+    ],
+    "explanation": "The passage states that stem cells hold promise for regenerative medicine while noting that ethical debates persist, directly supporting the choice to highlight both the promise and issues. Option A is incorrect because the text does not advocate for specific ethical standards, merely acknowledges the existence of debates. Option C is wrong since the author clearly views the medicine as promising rather than rejecting it. Option D fails because the text presents facts about the field rather than engaging in a personal debate. Therefore, the author's purpose is to present the dual nature of this medical field.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1610,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "World War I trenches exemplified stalemate warfare. Soldiers endured mud and disease. The structure is descriptive-chronological. No, primarily:\nA) Descriptive B) Chronological C) Argumentative D) Comparative",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Chronological",
+      "C) Argumentative",
+      "D) Comparative"
+    ],
+    "explanation": "The passage primarily uses descriptive techniques to vividly portray the harsh conditions of WWI trenches, such as mud and disease, rather than organizing events in a strict timeline. While the text mentions the concept of stalemate warfare, it does not present a logical argument or persuade the reader of a specific viewpoint, ruling out the argumentative style. Furthermore, there is no direct comparison made between different groups or eras, which eliminates the comparative approach. Although the text mentions soldiers enduring hardships, the focus remains on painting a picture of the environment rather than sequencing historical events chronologically. Therefore, the descriptive nature of the writing is the dominant structural element.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1611,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"In patients with weakened immune systems, such as those undergoing chemotherapy, pathogens can proliferate unchecked. Without the immune system's ability to fight back, even normally harmless bacteria can become life-threatening. This is why protective isolation protocols are essential in oncology wards.\"\n\nIn this context, the word 'proliferate' most nearly means:\n\nA) Decrease gradually.\nC) Remain unchanged.\nD) Move slowly.\n\nA) Decrease gradually.\nB) The phrase \"unchecked\" directly supports the idea of multiplying rapidly without restriction\nC) Remain unchanged.\nD) Move slowly.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Decrease gradually.",
+      "C) Remain unchanged.",
+      "D) Move slowly."
+    ],
+    "explanation": "Option B is correct because the passage states pathogens proliferate unchecked in weakened immune systems, implying rapid, uncontrolled growth that leads to life-threatening infections. The phrase \"unchecked\" directly supports the idea of multiplying rapidly without restriction. Option A is wrong because pathogens do not decrease; the text emphasizes their ability to grow when defenses fail. Option C is incorrect as the word \"unchecked\" contradicts the notion of remaining unchanged, suggesting active expansion instead. Option D is wrong because \"move slowly\" conflicts with the urgent, dangerous nature of the infection described as \"life-threatening.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1612,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Bioethics weighs autonomy against beneficence in end-of-life care. Author's purpose transcends description to:\nA) Resolve debates B) Persuade balance C) List principles D) Favor autonomy",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Resolve debates",
+      "C) List principles",
+      "D) Favor autonomy"
+    ],
+    "explanation": "The passage discusses how bioethics weighs autonomy against beneficence, indicating the author aims to persuade readers toward a balanced approach rather than simply describing the conflict. Option B is correct because the text implies a need for careful consideration of both principles in end-of-life care, suggesting a call for equilibrium. Option A is wrong because the text does not claim to settle ongoing debates but rather explores the tension between values. Option C is incorrect as the author goes beyond listing principles to analyze their interaction. Option D is wrong because the text treats both autonomy and beneficence as equally important, not favoring one over the other.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1613,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1 lauds fossil fuels' reliability; Passage 2 condemns emissions. Evaluating arguments, Passage 2 stronger because:\nA) Reliability irrelevant B) Environmental data empirical C) Fuels unreliable D) No condemnation",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Reliability irrelevant",
+      "C) Fuels unreliable",
+      "D) No condemnation"
+    ],
+    "explanation": "Passage 2 is stronger because it relies on empirical environmental data to condemn emissions, providing objective evidence that supports its argument more effectively than subjective claims. Passage 1 focuses on reliability, which is irrelevant to the core issue of pollution, making option A incorrect as it misses the point of scientific proof. Option C misinterprets the text by stating fuels are unreliable, whereas the passage only highlights their dependability, and option D is wrong because Passage 2 explicitly condemns emissions. Therefore, the strength lies in the use of factual data rather than abstract concepts or contradictions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1614,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Quantum entanglement defies classical intuition: particles linked instantly across distances. Einstein called it 'spooky action.' Inference on implications:\nA) Classical valid B) Challenges locality C) Einstein wrong D) No links",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Classical valid",
+      "C) Einstein wrong",
+      "D) No links"
+    ],
+    "explanation": "Quantum entanglement involves particles linked 'instantly across distances,' which directly challenges the classical physics principle of locality\u2014that objects are only influenced by their immediate surroundings. Einstein's 'spooky action' comment reflects this discomfort with non-locality.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

@@ -1,0 +1,225 @@
+/* === Mu2 Creative Toolkit — Visual Styles === */
+
+/* --- Formula blocks --- */
+.formula-block {
+    background: var(--surface, #fafaf7);
+    border: 1px solid var(--border, #e0e0e0);
+    border-radius: 6px;
+    padding: 1rem 1.25rem;
+    margin: 0.75rem 0;
+    font-family: inherit;
+}
+.formula-label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--text-secondary, #555);
+    margin-bottom: 0.5rem;
+}
+.formula-math {
+    font-size: 1.2rem;
+    overflow-x: auto;
+    padding: 0.5rem 0;
+}
+.formula-explanation {
+    font-size: 0.85rem;
+    color: var(--text-secondary, #666);
+    margin-top: 0.5rem;
+    line-height: 1.5;
+}
+.formula-variables {
+    font-size: 0.8rem;
+    color: var(--text-secondary, #666);
+    margin-top: 0.5rem;
+}
+.formula-variables ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0.25rem 0 0 0;
+}
+.formula-variables li {
+    padding: 0.1rem 0;
+}
+.formula-variables li::before {
+    content: "→ ";
+    color: var(--accent, #1B3A5C);
+}
+.formula-inline {
+    display: inline;
+}
+
+/* --- Diagram blocks --- */
+.diagram-block {
+    background: var(--surface, #fafaf7);
+    border: 1px solid var(--border, #e0e0e0);
+    border-radius: 6px;
+    padding: 1rem 1.25rem;
+    margin: 0.75rem 0;
+    overflow-x: auto;
+}
+.diagram-title {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--text-secondary, #555);
+    margin-bottom: 0.75rem;
+}
+.diagram-block pre.mermaid {
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    font-family: inherit;
+    text-align: center;
+}
+
+/* --- Table blocks --- */
+.table-block {
+    margin: 0.75rem 0;
+    overflow-x: auto;
+}
+.table-title {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--text-secondary, #555);
+    margin-bottom: 0.5rem;
+}
+.table-block table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+.table-block th,
+.table-block td {
+    padding: 0.6rem 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border, #e0e0e0);
+}
+.table-block th {
+    font-weight: 600;
+    color: var(--text-primary, #1B3A5C);
+    border-bottom: 2px solid var(--border, #ccc);
+}
+.table-block tfoot td {
+    font-style: italic;
+    color: var(--text-secondary, #666);
+    font-size: 0.8rem;
+}
+.table-caption {
+    font-size: 0.8rem;
+    color: var(--text-secondary, #666);
+    margin-top: 0.4rem;
+    font-style: italic;
+}
+.table-block[data-style="striped"] tbody tr:nth-child(even) {
+    background: var(--surface-alt, #f5f5f2);
+}
+.table-block[data-style="bordered"] table {
+    border: 1px solid var(--border, #ddd);
+}
+.table-block[data-style="bordered"] th,
+.table-block[data-style="bordered"] td {
+    border: 1px solid var(--border, #ddd);
+}
+.table-block[data-style="compact"] th,
+.table-block[data-style="compact"] td {
+    padding: 0.35rem 0.5rem;
+    font-size: 0.85rem;
+}
+
+/* --- Visual Library page --- */
+.visual-library {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+.visual-library h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem;
+}
+.visual-library .subtitle {
+    font-size: 0.9rem;
+    color: var(--text-secondary, #666);
+    margin-bottom: 1.25rem;
+}
+.visual-category {
+    margin-bottom: 1.5rem;
+}
+.visual-category h2 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--accent, #1B3A5C);
+}
+.visual-card {
+    background: var(--surface, #fafaf7);
+    border: 1px solid var(--border, #e0e0e0);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 0.75rem;
+}
+.visual-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+.visual-card-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+.visual-card-badge {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 10px;
+    background: var(--accent-light, #e8eef5);
+    color: var(--accent, #1B3A5C);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+.visual-card-body {
+    min-height: 2rem;
+}
+.visual-card-body .formula-block,
+.visual-card-body .diagram-block,
+.visual-card-body .table-block {
+    margin: 0;
+}
+
+/* --- Visual API playground --- */
+.visual-playground {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+.visual-playground textarea {
+    width: 100%;
+    min-height: 120px;
+    font-family: monospace;
+    font-size: 0.85rem;
+    padding: 0.75rem;
+    border: 1px solid var(--border, #ddd);
+    border-radius: 6px;
+    resize: vertical;
+    box-sizing: border-box;
+}
+.visual-playground select,
+.visual-playground button {
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+.visual-playground button {
+    background: var(--accent, #1B3A5C);
+    color: #fff;
+    border: none;
+}
+.visual-playground button:hover {
+    opacity: 0.9;
+}
+.visual-output {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px dashed var(--border, #ddd);
+    border-radius: 6px;
+    min-height: 3rem;
+}

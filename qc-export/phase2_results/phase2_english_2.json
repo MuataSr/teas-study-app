@@ -1,0 +1,82 @@
+[
+  {"id": 556, "verdict": "PASS"},
+  {"id": 557, "verdict": "PASS"},
+  {"id": 558, "verdict": "PASS"},
+  {"id": 559, "verdict": "PASS"},
+  {"id": 560, "verdict": "PASS"},
+  {"id": 561, "verdict": "PASS"},
+  {"id": 562, "verdict": "PASS"},
+  {"id": 563, "verdict": "PASS"},
+  {"id": 564, "verdict": "PASS"},
+  {"id": 565, "verdict": "PASS"},
+  {"id": 566, "verdict": "PASS"},
+  {"id": 567, "verdict": "PASS"},
+  {"id": 568, "verdict": "PASS"},
+  {"id": 569, "verdict": "PASS"},
+  {"id": 570, "verdict": "PASS"},
+  {"id": 571, "verdict": "PASS"},
+  {"id": 572, "verdict": "PASS"},
+  {"id": 573, "verdict": "PASS"},
+  {"id": 574, "verdict": "PASS"},
+  {
+    "id": 575,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Rated 'hard' but distinguishing your/you're is simple recall requiring no complex reasoning or multi-step analysis."
+    ]
+  },
+  {
+    "id": 576,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: The explanation claims 'principal' functions as 'a noun meaning the main or most important event,' which is not a recognized dictionary definition of 'principal' as a noun. The noun 'principal' means the head of a school, a leading performer, or a capital sum—not 'main event.' The sentence 'The principal of the new hospital wing will begin next month' is awkward and semantically unclear."
+    ]
+  },
+  {"id": 577, "verdict": "PASS"},
+  {
+    "id": 578,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: The explanation states 'The sentence requires a verb in the past tense to follow the auxiliary phrase had to.' This is incorrect. 'Had to' requires the base form (infinitive) of the verb, not the past tense. 'Had to choose' is correct because 'choose' is the base form. The correct answer B is right, but the explanation's grammatical reasoning is wrong."
+    ]
+  },
+  {"id": 579, "verdict": "PASS"},
+  {"id": 580, "verdict": "PASS"},
+  {"id": 581, "verdict": "PASS"},
+  {"id": 582, "verdict": "PASS"},
+  {"id": 583, "verdict": "PASS"},
+  {"id": 584, "verdict": "PASS"},
+  {"id": 585, "verdict": "PASS"},
+  {"id": 586, "verdict": "PASS"},
+  {"id": 587, "verdict": "PASS"},
+  {"id": 588, "verdict": "PASS"},
+  {"id": 589, "verdict": "PASS"},
+  {
+    "id": 590,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Rated 'hard' but identifying plural possessive apostrophe placement ('nurses' vs 'nurse's') is single-step application of a basic punctuation rule, not complex reasoning."
+    ]
+  },
+  {"id": 591, "verdict": "PASS"},
+  {"id": 592, "verdict": "PASS"},
+  {"id": 593, "verdict": "PASS"},
+  {"id": 594, "verdict": "PASS"},
+  {"id": 595, "verdict": "PASS"},
+  {"id": 596, "verdict": "PASS"},
+  {"id": 597, "verdict": "PASS"},
+  {"id": 598, "verdict": "PASS"},
+  {
+    "id": 599,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error: The correct answer C (2, 4, 1, 3) produces an illogical paragraph where sentence 4 ('For example, nurses may become less proficient…') follows sentence 2 (a positive statement about EHRs). 'For example' should illustrate the preceding claim, but sentence 4 contradicts sentence 2 rather than exemplifying it. The logically correct order is A (2, 1, 4, 3): positive statement → contrast with 'However' → supporting example with 'For example' → conclusion with 'Therefore.'"
+    ]
+  },
+  {"id": 600, "verdict": "PASS"},
+  {"id": 601, "verdict": "PASS"},
+  {"id": 602, "verdict": "PASS"},
+  {"id": 603, "verdict": "PASS"},
+  {"id": 604, "verdict": "PASS"},
+  {"id": 605, "verdict": "PASS"}
+]

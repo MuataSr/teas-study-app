@@ -1,0 +1,235 @@
+{
+  "completed_ids": [
+    29,
+    71,
+    83,
+    184,
+    225,
+    368,
+    412,
+    409,
+    450,
+    449,
+    448,
+    475,
+    481,
+    485,
+    506,
+    487,
+    508,
+    543,
+    666,
+    698,
+    702,
+    703,
+    706,
+    708,
+    755,
+    805,
+    834,
+    840,
+    838,
+    891,
+    882,
+    935,
+    960,
+    1030,
+    1048,
+    1155,
+    1214,
+    1221,
+    1229,
+    1231,
+    1240,
+    1260,
+    1262,
+    1276,
+    1282,
+    1284,
+    1288,
+    1297,
+    1319,
+    1328,
+    1376,
+    1406,
+    1409,
+    1435,
+    1431,
+    1440,
+    1448,
+    1460,
+    1465,
+    1471,
+    1481,
+    1490,
+    1512,
+    1523,
+    1575,
+    1570,
+    1588,
+    1587,
+    1607,
+    1731,
+    1747,
+    1725,
+    1755,
+    1770,
+    1783,
+    1779,
+    1782,
+    1787,
+    1797,
+    1831,
+    1895,
+    1900,
+    1925,
+    1943,
+    1976,
+    1995,
+    1991,
+    1974,
+    2021,
+    2027,
+    2046,
+    2068
+  ],
+  "results": [
+    {
+      "id": 412,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 449,
+      "status": "failed",
+      "errors": [
+        "Explanation leaks answer: 'option c is correct'"
+      ]
+    },
+    {
+      "id": 487,
+      "status": "failed",
+      "errors": [
+        "Explanation leaks answer: 'option c is correct'"
+      ]
+    },
+    {
+      "id": 508,
+      "status": "failed",
+      "errors": [
+        "Explanation leaks answer: 'option a is correct'"
+      ]
+    },
+    {
+      "id": 666,
+      "status": "failed",
+      "errors": [
+        "Explanation leaks answer: 'option a is correct'"
+      ]
+    },
+    {
+      "id": 1030,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1048,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1221,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1229,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1276,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1288,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1297,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1376,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1406,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1471,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1481,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    },
+    {
+      "id": 1490,
+      "status": "failed",
+      "errors": [
+        "Explanation leaks answer: 'the correct answer is'"
+      ]
+    },
+    {
+      "id": 1570,
+      "status": "failed",
+      "errors": [
+        "Missing option A in question_text",
+        "Missing option B in question_text",
+        "Missing option C in question_text",
+        "Missing option D in question_text"
+      ]
+    },
+    {
+      "id": 1747,
+      "status": "failed",
+      "errors": [
+        "Missing field: explanation"
+      ]
+    }
+  ],
+  "skipped": []
+}

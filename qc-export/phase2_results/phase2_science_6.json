@@ -1,0 +1,121 @@
+[
+  {"id": 1102, "verdict": "PASS"},
+  {"id": 1103, "verdict": "PASS"},
+  {
+    "id": 1104,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Labeled 'hard' but this is simple single-step recall — knowing sodium has valence 1 makes mmol = mEq."]
+  },
+  {"id": 1105, "verdict": "PASS"},
+  {
+    "id": 1106,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Labeled 'hard' but this is simple recall of the 'like dissolves like' principle — no multi-step reasoning required."]
+  },
+  {
+    "id": 1107,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Explanation states 'atomic radius decreases down a group' when it actually increases down a group — factual error.",
+      "Rule 8: Explanation states 'ionization energy increases down a group' when it actually decreases down a group — factual error."
+    ]
+  },
+  {"id": 1108, "verdict": "PASS"},
+  {"id": 1109, "verdict": "PASS"},
+  {"id": 1110, "verdict": "PASS"},
+  {"id": 1111, "verdict": "PASS"},
+  {"id": 1112, "verdict": "PASS"},
+  {"id": 1113, "verdict": "PASS"},
+  {"id": 1114, "verdict": "PASS"},
+  {"id": 1115, "verdict": "PASS"},
+  {"id": 1116, "verdict": "PASS"},
+  {"id": 1117, "verdict": "PASS"},
+  {"id": 1118, "verdict": "PASS"},
+  {"id": 1119, "verdict": "PASS"},
+  {"id": 1120, "verdict": "PASS"},
+  {"id": 1121, "verdict": "PASS"},
+  {"id": 1122, "verdict": "PASS"},
+  {"id": 1123, "verdict": "PASS"},
+  {"id": 1124, "verdict": "PASS"},
+  {"id": 1125, "verdict": "PASS"},
+  {"id": 1126, "verdict": "PASS"},
+  {"id": 1127, "verdict": "PASS"},
+  {
+    "id": 1128,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8: Ensuring a tool measures pain and not anxiety is construct/discriminant validity, not content validity. Content validity refers to whether items adequately cover the content domain, not whether the tool distinguishes between constructs. The correct answer and explanation are factually wrong about the definition of content validity."
+    ]
+  },
+  {"id": 1129, "verdict": "PASS"},
+  {"id": 1130, "verdict": "PASS"},
+  {"id": 1131, "verdict": "PASS"},
+  {"id": 1132, "verdict": "PASS"},
+  {"id": 1133, "verdict": "PASS"},
+  {"id": 1134, "verdict": "PASS"},
+  {"id": 1135, "verdict": "PASS"},
+  {
+    "id": 1136,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Labeled 'easy' but requires multi-step calculation (compute ARR = 10% - 5% = 5%, then NNT = 1/0.05 = 20)."]
+  },
+  {"id": 1137, "verdict": "PASS"},
+  {"id": 1138, "verdict": "PASS"},
+  {"id": 1139, "verdict": "PASS"},
+  {"id": 1646, "verdict": "PASS"},
+  {
+    "id": 1647,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Labeled 'hard' but this is simple recall — bacteria lacking membrane-bound nucleus = prokaryotic cell."]
+  },
+  {"id": 1648, "verdict": "PASS"},
+  {
+    "id": 1649,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8: Question text typo in option C — 'arbohydrates' instead of 'Carbohydrates' (missing the letter 'C')."]
+  },
+  {
+    "id": 1650,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but this is straightforward recall — administering medication with food/antacid to minimize gastric irritation for ulcer patients is standard clinical knowledge.",
+      "Rule 8: Question text typo in option B — 'dminster' instead of 'Administer' (missing the letter 'A')."
+    ]
+  },
+  {
+    "id": 1651,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Labeled 'hard' but knowing pH 7.0 = neutral is extremely basic single-step recall."]
+  },
+  {"id": 1652, "verdict": "PASS"},
+  {
+    "id": 1653,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but identifying covalent bonds within a water molecule is simple recall of a basic chemistry definition.",
+      "Rule 8: Question text typo in option C — 'ovalent bond' instead of 'Covalent bond' (missing the letter 'C')."
+    ]
+  },
+  {
+    "id": 1654,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7: Labeled 'hard' but converting 750 mg to grams is a single-step conversion (divide by 1000)."]
+  },
+  {
+    "id": 1655,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation contradicts itself — correctly calculates 0.05 g = 50 mg and concentration is 50 mg/mL, then claims 50/50 = 0.1 mL, but 50/50 actually equals 1.0 mL. The correct answer should be A) 1.0 mL, not C) 0.1 mL.",
+      "Rule 8: Factual error — the correct answer is wrong. 50 mg ÷ 50 mg/mL = 1 mL, not 0.1 mL."
+    ]
+  },
+  {
+    "id": 1656,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Labeled 'hard' but knowing atomic radius increases down a group is simple periodic trend recall.",
+      "Rule 8: Question text is truncated/corrupted — ends with 'from the top of G' before cutting into option A, missing the complete group reference."
+    ]
+  },
+  {"id": 1657, "verdict": "PASS"}
+]

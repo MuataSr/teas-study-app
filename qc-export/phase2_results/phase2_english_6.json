@@ -1,0 +1,210 @@
+[
+  {
+    "id": 757,
+    "verdict": "PASS"
+  },
+  {
+    "id": 758,
+    "verdict": "PASS"
+  },
+  {
+    "id": 759,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: tagged 'hard' but three wrong answers all retain the exact cliché verbatim, making this simple elimination/single-step recognition, not complex reasoning."]
+  },
+  {
+    "id": 760,
+    "verdict": "PASS"
+  },
+  {
+    "id": 761,
+    "verdict": "PASS"
+  },
+  {
+    "id": 762,
+    "verdict": "PASS"
+  },
+  {
+    "id": 763,
+    "verdict": "PASS"
+  },
+  {
+    "id": 764,
+    "verdict": "PASS"
+  },
+  {
+    "id": 765,
+    "verdict": "PASS"
+  },
+  {
+    "id": 766,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: tagged 'hard' but only requires checking whether three list items share the same verb form (gerund vs infinitive). This is single-step pattern recognition."]
+  },
+  {
+    "id": 767,
+    "verdict": "PASS"
+  },
+  {
+    "id": 768,
+    "verdict": "PASS"
+  },
+  {
+    "id": 769,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8 — Factual error: Option A ('The patient needs rest; however, he wants to walk.') uses a semicolon correctly with a conjunctive adverb followed by a comma, which is standard correct usage. The explanation incorrectly claims Option A is wrong. Both A and B are grammatically correct, making the question flawed."]
+  },
+  {
+    "id": 770,
+    "verdict": "PASS"
+  },
+  {
+    "id": 771,
+    "verdict": "PASS"
+  },
+  {
+    "id": 772,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 8 — Factual error: the explanation states 'less properly modifies the uncountable noun phrase \"effects\"' but 'effects' is a countable noun (one effect, two effects). While the answer 'less' can be defended as referring to degree rather than count, the explanation's grammatical reasoning is factually incorrect."]
+  },
+  {
+    "id": 773,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: tagged 'hard' but this is simple vocabulary recall — looking up the meaning of 'guarded' in a medical context. No complex reasoning or multi-step analysis required."]
+  },
+  {
+    "id": 774,
+    "verdict": "PASS"
+  },
+  {
+    "id": 775,
+    "verdict": "PASS"
+  },
+  {
+    "id": 776,
+    "verdict": "PASS"
+  },
+  {
+    "id": 777,
+    "verdict": "PASS"
+  },
+  {
+    "id": 778,
+    "verdict": "PASS"
+  },
+  {
+    "id": 779,
+    "verdict": "PASS"
+  },
+  {
+    "id": 780,
+    "verdict": "PASS"
+  },
+  {
+    "id": 781,
+    "verdict": "PASS"
+  },
+  {
+    "id": 782,
+    "verdict": "PASS"
+  },
+  {
+    "id": 783,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: tagged 'hard' but only requires identifying the correct subject pronoun for a simple sentence. This is basic pronoun case identification — single-step recall."]
+  },
+  {
+    "id": 784,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: tagged 'hard' but converting a simple active sentence to passive voice is a standard single-step grammar exercise requiring no complex reasoning."]
+  },
+  {
+    "id": 785,
+    "verdict": "PASS"
+  },
+  {
+    "id": 786,
+    "verdict": "PASS"
+  },
+  {
+    "id": 787,
+    "verdict": "PASS"
+  },
+  {
+    "id": 788,
+    "verdict": "PASS"
+  },
+  {
+    "id": 789,
+    "verdict": "PASS"
+  },
+  {
+    "id": 790,
+    "verdict": "PASS"
+  },
+  {
+    "id": 791,
+    "verdict": "PASS"
+  },
+  {
+    "id": 792,
+    "verdict": "PASS"
+  },
+  {
+    "id": 793,
+    "verdict": "PASS"
+  },
+  {
+    "id": 794,
+    "verdict": "PASS"
+  },
+  {
+    "id": 795,
+    "verdict": "PASS"
+  },
+  {
+    "id": 796,
+    "verdict": "PASS"
+  },
+  {
+    "id": 797,
+    "verdict": "PASS"
+  },
+  {
+    "id": 798,
+    "verdict": "PASS"
+  },
+  {
+    "id": 799,
+    "verdict": "PASS"
+  },
+  {
+    "id": 800,
+    "verdict": "FAIL",
+    "fail_reasons": ["Rule 7 — Difficulty mismatch: tagged 'hard' but combining two nearly identical sentences with 'and' is a basic single-step operation requiring no complex reasoning."]
+  },
+  {
+    "id": 801,
+    "verdict": "PASS"
+  },
+  {
+    "id": 802,
+    "verdict": "PASS"
+  },
+  {
+    "id": 803,
+    "verdict": "PASS"
+  },
+  {
+    "id": 804,
+    "verdict": "PASS"
+  },
+  {
+    "id": 805,
+    "verdict": "PASS"
+  },
+  {
+    "id": 806,
+    "verdict": "PASS"
+  }
+]

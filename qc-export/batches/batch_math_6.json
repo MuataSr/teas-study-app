@@ -1,0 +1,752 @@
+[
+  {
+    "id": 817,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows weekly sales: 100, 150, 200, 50. What is the average?\nA) 100\nB) 125\nC) 150\nD) 175",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 100",
+      "C) 150",
+      "D) 175"
+    ],
+    "explanation": "To find the average, sum the sales (100+150+200+50=500) and divide by 4, yielding 125. Option B is correct because it matches this calculation. Option A is wrong as it ignores the total sum. Option C is incorrect because it represents the third value, not the mean. Option D is false since 175 exceeds the calculated average of 125.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 818,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A graph shows a value doubling from 5 to 10. What is the percent increase?\nA) 50%\nB) 75%\nC) 100%\nD) 200%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 50%",
+      "B) 75%",
+      "D) 200%"
+    ],
+    "explanation": "The percent increase is calculated by dividing the change in value by the original value. Here, the value changes from 5 to 10, a difference of 5. Dividing this change (5) by the original amount (5) yields 1, which equals 100%. Option C is correct because it accurately reflects this calculation. Options A, B, and D are incorrect as they do not match the mathematical result of doubling the initial value.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 819,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart shows 25% of people prefer tea. If 40 people were surveyed, how many prefer tea?\nA) 5\nB) 10\nC) 15\nD) 20",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 5",
+      "C) 15",
+      "D) 20"
+    ],
+    "explanation": "To find the number of people who prefer tea, multiply the total surveyed (40) by the percentage (25% or 0.25), which equals 10. Option B is correct because it matches this calculation. Option A is wrong as 5 represents only 12.5% of the group. Option C is incorrect since 15 is 37.5% of the total. Option D is false because 20 is exactly half of the 40 people surveyed.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 820,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows 6, 8, 10, 12. What is the median?\nA) 8\nB) 9\nC) 10\nD) 11",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 8",
+      "C) 10",
+      "D) 11"
+    ],
+    "explanation": "The median of 6, 8, 10, and 12 is 9 because the average of the two middle numbers, 8 and 10, equals 9. Option A is incorrect as 8 is only the second value, not the average of the center pair. Option C is wrong since 10 is the third value, and Option D is invalid because 11 is not derived from the data set's middle points.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 821,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A graph shows sales increasing from 200 to 260. What is the increase?\nA) 40\nB) 50\nC) 60\nD) 70",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 40",
+      "B) 50",
+      "D) 70"
+    ],
+    "explanation": "The increase is found by subtracting the starting value of 200 from the ending value of 260, which equals 60. Option C correctly states this difference, while A and B are too low because they ignore the full range of the graph. Option D is too high, likely resulting from an addition error instead of subtraction. This math question tests basic arithmetic on numerical changes shown in a visual representation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 822,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows 3 tests: 80, 90, 70. What is the average score?\nA) 75\nB) 80\nC) 85\nD) 90",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 75",
+      "C) 85",
+      "D) 90"
+    ],
+    "explanation": "To find the average of 80, 90, and 70, sum them to get 240, then divide by 3, resulting in 80. Option B is correct because it matches this calculation. Option A is wrong as 75 is too low, Option C is incorrect since 85 is too high, and Option D is false because 90 exceeds the true average.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 823,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A chart shows 20% increase from 50. What is the new value?\nA) 55\nB) 60\nC) 65\nD) 70",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 55",
+      "C) 65",
+      "D) 70"
+    ],
+    "explanation": "To find the new value after a 20% increase from 50, calculate 20% of 50, which is 10. Adding 10 to the original 50 results in 60, making option B the correct answer. Option A is incorrect because 55 represents only a 10% increase, not 20%. Option C is wrong as 65 implies a 30% increase, exceeding the given rate. Option D is invalid since 70 would require a 40% increase from the starting value.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 824,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows values 5, 10, 15, 20, 50. Which is the outlier?\nA) 5\nB) 10\nC) 15\nD) 50",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) 5",
+      "B) 10",
+      "C) 15"
+    ],
+    "explanation": "The value 50 is the outlier because it is significantly larger than the other numbers 5, 10, 15, and 20, which are close together. Options A, B, and C are incorrect since 5, 10, and 15 fit the pattern of small integers near the start of the sequence. Only 50 breaks this trend by being much greater than the rest.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 825,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A graph shows a decrease from 120 to 90. What percent decrease?\nA) 20%\nB) 25%\nC) 30%\nD) 35%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 20%",
+      "C) 30%",
+      "D) 35%"
+    ],
+    "explanation": "To find the percent decrease, divide the difference (30) by the original amount (120), which equals 0.25 or 25%. Option A is wrong because 20% ignores the proper division by the starting value. Option C is incorrect as it mistakenly uses the new amount instead of the original for the denominator. Option D is also wrong because it miscalculates the ratio entirely. The math confirms B is the only accurate choice.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 826,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows 2, 4, 6, 8. What is the range?\nA) 4\nB) 5\nC) 6\nD) 7",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 4",
+      "B) 5",
+      "D) 7"
+    ],
+    "explanation": "The range is the difference between the largest and smallest values in the set. Since the table lists 2, 4, 6, and 8, subtracting the minimum (2) from the maximum (8) yields 6, making option C the correct choice. Option A is incorrect because 4 is simply the second number, not the calculated difference. Option B is wrong as 5 does not appear in the data and is not the result of 8 minus 2. Option D is incorrect because 7 is not the difference between the extremes of the given sequence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 827,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A chart shows 9 red balls and 6 blue balls. Total balls?\nA) 13\nB) 14\nC) 15\nD) 16",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 13",
+      "B) 14",
+      "D) 16"
+    ],
+    "explanation": "To find the total balls, add the 9 red balls and 6 blue balls shown in the chart, which equals 15. Option C is correct because it accurately reflects this sum. Options A, B, and D are incorrect as they represent wrong calculations like 13, 14, or 16. The math requires simple addition of the two given quantities to get the final count.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 828,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A graph shows 40% of students passed. Out of 50 students, how many passed?\nA) 15\nB) 20\nC) 25\nD) 30",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 15",
+      "C) 25",
+      "D) 30"
+    ],
+    "explanation": "To find the number of students who passed, calculate 40% of 50. Multiplying 0.40 by 50 yields exactly 20, which matches option B. Option A is incorrect because 15 represents only 30% of the total class. Option C is wrong as 25 equals 50%, not the given 40% passing rate. Option D is invalid since 30 corresponds to 60% of the students, exceeding the graph's data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 829,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows values doubling each step: 2, 4, 8, 16. What is the next value?\nA) 18\nB) 24\nC) 32\nD) 64",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 18",
+      "B) 24",
+      "D) 64"
+    ],
+    "explanation": "The pattern in the table shows values doubling each step: 2, 4, 8, 16. The next value must be 16 multiplied by 2, which equals 32. Option C correctly identifies this result. Option A is wrong because 18 does not follow the doubling rule. Option B is incorrect as 24 is not double 16. Option D is wrong since 64 is double 32, skipping a step.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 830,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "How many centimeters are in 1 meter?\nA) 10\nB) 100\nC) 1000\nD) 1",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 10",
+      "C) 1000",
+      "D) 1"
+    ],
+    "explanation": "The question asks for the centimeter equivalent of one meter, a standard metric conversion. Option B is correct because the metric system defines a meter as exactly 100 centimeters. Option A is wrong since 10 centimeters is only one-tenth of a meter. Option C is incorrect as 1000 centimeters equals one decameter, not a meter. Option D is false because 1 centimeter is far smaller than a meter.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 831,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the perimeter of a square with side 4 cm?\nA) 8 cm\nB) 12 cm\nC) 16 cm\nD) 20 cm",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 8 cm",
+      "B) 12 cm",
+      "D) 20 cm"
+    ],
+    "explanation": "The perimeter of a square is found by multiplying the side length by four. Since the side is 4 cm, the calculation is 4 times 4, which equals 16 cm. Option C correctly states this result. Option A is wrong because it only adds the side once. Option B is incorrect as it sums three sides. Option D is wrong because it adds 4 to 16 instead of multiplying.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 832,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the area of a rectangle 5 by 3?\nA) 8\nB) 15\nC) 10\nD) 20",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 8",
+      "C) 10",
+      "D) 20"
+    ],
+    "explanation": "To find the area of a rectangle 5 by 3, multiply the length 5 by the width 3, resulting in 15. Option B correctly states 15, while A is wrong because 8 is the sum of 5 and 3, not the product. Option C is incorrect as 10 is 5 times 2, ignoring the width of 3. Option D is wrong because 20 is 5 times 4, using an incorrect multiplier.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 834,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the volume of a cube with side 2?\nA) 4\nB) 6\nC) 8\nD) 10",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 4",
+      "B) 6",
+      "D) 10"
+    ],
+    "explanation": "The volume of a cube is found by cubing the side length, so 2 multiplied by 2 multiplied by 2 equals 8. Option C is correct because it matches this calculation. Option A is wrong as it represents only the side length squared. Option B is incorrect because it sums the side lengths instead of multiplying them. Option D is wrong as it adds 2 to the squared value rather than cubing it.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 835,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 2 km to meters.\nA) 200\nB) 2000\nC) 20\nD) 20000",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 200",
+      "C) 20",
+      "D) 20000"
+    ],
+    "explanation": "To convert kilometers to meters, multiply by 1000 since one kilometer equals 1000 meters. Option B is correct because 2 times 1000 equals 2000. Option A is wrong as it divides by 10 instead of multiplying. Option C is incorrect because it divides by 100. Option D is wrong as it multiplies by 10000.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 836,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the perimeter of a rectangle 6 by 2?\nA) 8\nB) 12\nC) 16\nD) 20",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 8",
+      "B) 12",
+      "D) 20"
+    ],
+    "explanation": "The perimeter of a rectangle is calculated by adding all four sides, which equals twice the length plus twice the width. For a rectangle measuring 6 by 2, the math is (2 \u00d7 6) + (2 \u00d7 2), resulting in 12 + 4, which equals 16. Therefore, option C is the correct answer because it matches this calculation. Options A, B, and D are incorrect as they do not represent the sum of the four sides.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 837,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 500 cm to meters.\nA) 0.5\nB) 5\nC) 50\nD) 5000",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 0.5",
+      "C) 50",
+      "D) 5000"
+    ],
+    "explanation": "To convert 500 centimeters to meters, divide by 100 since there are 100 cm in one meter. This calculation yields 5 meters, making option B the correct choice. Option A is incorrect because it multiplies instead of divides. Option C is wrong as it fails to adjust the unit properly. Option D is incorrect because it treats the number as unchanged.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 838,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the area of a triangle with base 10 and height 4?\nA) 20\nB) 40\nC) 14\nD) 24",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 40",
+      "C) 14",
+      "D) 24"
+    ],
+    "explanation": "The area of a triangle is found by multiplying the base by the height and dividing by two. Using the given values, 10 times 4 equals 40, and 40 divided by 2 results in 20, which matches option A. Option B is incorrect because it forgets to divide the product by two. Option C is wrong as it subtracts the height from the base instead of calculating area. Option D is incorrect because it multiplies the base by the height without dividing by two.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 839,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 3 liters to milliliters.\nA) 300\nB) 3000\nC) 30\nD) 30000",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 300",
+      "C) 30",
+      "D) 30000"
+    ],
+    "explanation": "To convert liters to milliliters, multiply by 1000 since 1 liter equals 1000 milliliters. Option B is correct because 3 times 1000 is 3000. Option A is wrong as it divides by 10 instead of multiplying. Option C is incorrect because it divides by 100. Option D is wrong as it multiplies by 10000. This math question tests unit conversion skills.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 840,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the volume of a rectangular prism 3\u00d74\u00d75?\nA) 12\nB) 20\nC) 60\nD) 120",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 12",
+      "B) 20",
+      "D) 120"
+    ],
+    "explanation": "To find the volume of a rectangular prism with dimensions 3\u00d74\u00d75, multiply the length, width, and height together. Option C is correct because 3 multiplied by 4 multiplied by 5 equals exactly 60. Option A is wrong as it only multiplies the two smaller dimensions (3\u00d74), ignoring the height. Option B is incorrect because it multiplies the two larger dimensions (4\u00d75) while missing the length. Option D is wrong since it adds the dimensions instead of multiplying them, resulting in 12.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 841,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 2500 m to km.\nA) 2.5\nB) 25\nC) 0.25\nD) 250",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 25",
+      "C) 0.25",
+      "D) 250"
+    ],
+    "explanation": "To convert 2500 meters to kilometers, divide by 1000 since 1 km equals 1000 m, yielding 2.5 km. Option A is correct because 2500 \u00f7 1000 = 2.5. Option B is wrong as it ignores division, treating the number as unchanged. Option C is incorrect because it multiplies by 0.1 instead of dividing by 1000. Option D is false since it divides by only 10, not 1000. This math conversion requires proper unit scaling.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 842,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the circumference of a circle with diameter 10? (Use \\(\\pi\\) \u2248 3)\nA) 20\nB) 25\nC) 30\nD) 35",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 20",
+      "B) 25",
+      "D) 35"
+    ],
+    "explanation": "The circumference formula is C = \\(\\pi\\)d. With a diameter of 10 and \\(\\pi\\) approximated as 3, the calculation is 3 times 10, which equals 30. Option C correctly states this result. Options A, B, and D are incorrect because they do not follow the multiplication of the given diameter by the specified value of pi.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 843,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A rectangle has area 48 and width 6. What is the length?\nA) 6\nB) 7\nC) 8\nD) 9",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 6",
+      "B) 7",
+      "D) 9"
+    ],
+    "explanation": "The area of a rectangle equals length times width, so 48 divided by 6 gives a length of 8, making option C correct. Option A is wrong because 6 times 6 equals 36, not 48. Option B fails since 7 times 6 equals 42, which is too small. Option D is incorrect because 9 times 6 equals 54, which is too large. This math problem requires simple division to find the missing dimension.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 844,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 0.75 km to meters.\nA) 75\nB) 750\nC) 7500\nD) 7.5",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 75",
+      "C) 7500",
+      "D) 7.5"
+    ],
+    "explanation": "To convert 0.75 kilometers to meters, multiply by 1,000 since there are 1,000 meters in a kilometer, yielding 750. Option B is correct because 0.75 \u00d7 1,000 = 750. Option A is wrong as it omits the multiplication factor entirely. Option C is incorrect because it multiplies by 10,000 instead of 1,000. Option D is wrong as it divides by 100 rather than multiplying by 1,000.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 845,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the area of a circle with radius 4? (Use \\(\\pi\\) \u2248 3)\nA) 16\nB) 32\nC) 48\nD) 64",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 16",
+      "B) 32",
+      "D) 64"
+    ],
+    "explanation": "The area formula is \\(\\pi\\)r\u00b2, so with r=4 and \\(\\pi\\)\u22483, the calculation is 3\u00d716=48, making C the right choice. Option A is incorrect because it uses only the radius value instead of squaring it. Option B is wrong as it multiplies \\(\\pi\\) by the radius once rather than the squared radius. Option D is incorrect because it squares the radius but fails to multiply by the approximate value of \\(\\pi\\).",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 846,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A box has volume 100 and base area 20. What is its height?\nA) 4\nB) 5\nC) 6\nD) 7",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 4",
+      "C) 6",
+      "D) 7"
+    ],
+    "explanation": "The volume formula for a box is base area times height, so 20 times h equals 100, which simplifies to h equals 5. Option B correctly states this result. Option A is wrong because 20 times 4 equals 80, not 100. Option C is incorrect since 20 times 6 equals 120. Option D fails because 20 times 7 equals 140. Only B satisfies the equation derived from the given volume and base area.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 847,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 1 kg to grams.\nA) 10\nB) 100\nC) 1000\nD) 10000",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 10",
+      "B) 100",
+      "D) 10000"
+    ],
+    "explanation": "To convert kilograms to grams, multiply by 1000 since there are 1000 grams in one kilogram, making C the right choice. Options A, B, and D are incorrect because they represent values ten, one hundred, and ten thousand times too small respectively. This standard metric conversion confirms that 1 kg equals exactly 1000 g.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 848,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the perimeter of a triangle with sides 3, 4, and 5?\nA) 10\nB) 11\nC) 12\nD) 13",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 10",
+      "B) 11",
+      "D) 13"
+    ],
+    "explanation": "The perimeter is the sum of all side lengths, so adding 3, 4, and 5 yields 12, making C the right choice. Options A, B, and D are incorrect because they do not represent the total sum of the three given sides. This math question tests basic addition skills where the correct calculation leads directly to 12.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 849,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 3600 seconds to hours.\nA) 0.5\nB) 1\nC) 2\nD) 3",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 0.5",
+      "C) 2",
+      "D) 3"
+    ],
+    "explanation": "To convert 3600 seconds to hours, divide by 60 to get minutes (60), then divide by 60 again to get 1 hour. Option B is correct because 3600 seconds equals exactly one hour. Option A is wrong as 0.5 hours is only 1800 seconds. Option C is incorrect since 2 hours requires 7200 seconds. Option D is false because 3 hours equals 10800 seconds.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 850,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A nurse records a patient's blood pressure readings over four shifts: \\(\\frac{122}{80}\\), \\(\\frac{118}{78}\\), \\(\\frac{130}{85}\\), \\(\\frac{124}{82}\\). Which systolic value is the highest?\nA) 118\nB) 122\nC) 124\nD) 130",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) 118",
+      "B) 122",
+      "C) 124"
+    ],
+    "explanation": "The question asks for the highest systolic value among the recorded blood pressure readings. The systolic numbers are the first figures in each pair: 122, 118, 130, and 124. Comparing these integers, 130 is clearly the largest number. Therefore, option D is the correct choice because it identifies 130 as the peak systolic reading. Options A, B, and C are incorrect because 118, 122, and 124 are all lower than 130.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 851,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A clinic bar graph shows flu shots given: Monday 25, Tuesday 30, Wednesday 35, Thursday 20, Friday 40. What is the total for the week?\nA) 130\nB) 140\nC) 150\nD) 160",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 130",
+      "B) 140",
+      "D) 160"
+    ],
+    "explanation": "To find the total flu shots, add the daily counts: 25 + 30 + 35 + 20 + 40 equals 150. Option C is correct because this sum matches the calculated total. Option A is wrong as 130 is 20 less than the actual sum. Option B is incorrect because 140 is 10 less than the true total. Option D is wrong since 160 is 10 more than the correct answer.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 852,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart shows blood types among 200 donors: O 45%, A 40%, B 10%, AB 5%. How many donors are type O?\nA) 80\nB) 85\nC) 90\nD) 95",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 80",
+      "B) 85",
+      "D) 95"
+    ],
+    "explanation": "To find the number of type O donors, multiply the total 200 by the 45% percentage shown in the chart. This calculation yields 90, making option C the correct answer. Option A is wrong because 80 represents 40% of the total, which is the count for type A donors. Option B is incorrect as 85 does not match any specific blood type percentage when applied to 200. Option D is wrong because 95 corresponds to 47.5% of the total, which is not listed for any blood type in the data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 853,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph shows patient temperature: 6 AM 99.1\u00b0F, 10 AM 100.4\u00b0F, 2 PM 101.2\u00b0F, 6 PM 100.0\u00b0F. What is the change from 6 AM to 2 PM?\nA) +1.1\u00b0F\nB) +2.1\u00b0F\nC) +2.3\u00b0F\nD) +3.1\u00b0F",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) +1.1\u00b0F",
+      "C) +2.3\u00b0F",
+      "D) +3.1\u00b0F"
+    ],
+    "explanation": "The change from 6 AM to 2 PM is calculated by subtracting the initial temperature of 99.1\u00b0F from the 2 PM reading of 101.2\u00b0F, resulting in a difference of 2.1\u00b0F. Option B correctly states this positive change as +2.1\u00b0F, while Option A is incorrect because it only accounts for the rise between 6 AM and 10 AM. Option C is wrong as it mistakenly uses the difference between 10 AM and 2 PM instead of the full range, and Option D is inaccurate because it adds the total hours elapsed to the temperature difference.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 854,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table lists pain medication doses for five patients: 5 mg, 10 mg, 5 mg, 15 mg, 10 mg. What is the mean dose?\nA) 8 mg\nB) 9 mg\nC) 10 mg\nD) 11 mg",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 8 mg",
+      "C) 10 mg",
+      "D) 11 mg"
+    ],
+    "explanation": "To find the mean, add the five doses (5+10+5+15+10=45) and divide by the count of 5 patients, resulting in 9 mg. Option B is correct because it matches this calculation. Option A is wrong as 8 mg is too low, Option C is incorrect since 10 mg ignores the lower values, and Option D is wrong because 11 mg is too high. The mean represents the average dose per patient in this specific dataset.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 855,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot of adult weight versus systolic blood pressure shows points trending up and to the right. Which correlation best describes this?\nA) Negative correlation\nB) No correlation\nC) Positive correlation\nD) Perfect inverse",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Negative correlation",
+      "B) No correlation",
+      "D) Perfect inverse"
+    ],
+    "explanation": "The scatter plot showing weight and blood pressure trending up and to the right indicates a positive correlation, meaning both variables increase together. Option C correctly identifies this relationship, while A is wrong because a negative correlation would show points trending down. Option B is incorrect since the clear upward trend proves a correlation exists, and D is false because \"perfect inverse\" describes an exact negative relationship, not the positive one shown.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 856,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "Hospital admissions by unit: ER 42, Cardiology 18, Orthopedics 25, Pediatrics 15. How many more patients were admitted to ER than Orthopedics?\nA) 15\nB) 17\nC) 18\nD) 27",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 15",
+      "C) 18",
+      "D) 27"
+    ],
+    "explanation": "The question asks for the difference between ER admissions (42) and Orthopedics (25). Subtracting 25 from 42 yields 17, which matches option B. Option A is incorrect because 15 represents Pediatrics, not the calculated difference. Option C is wrong as 18 is the number for Cardiology, not the result of the subtraction. Option D is invalid because 27 is not derived from the given ER and Orthopedics figures.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 857,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "Hospital-acquired infections were 12 in January and 9 in February. What is the percent decrease from January to February?\nA) 20%\nB) 25%\nC) 30%\nD) 33%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 20%",
+      "C) 30%",
+      "D) 33%"
+    ],
+    "explanation": "To find the percent decrease, subtract February's 9 from January's 12 to get a drop of 3, then divide 3 by the original 12 to get 0.25, which equals 25%. Option A is wrong because it ignores the base value, C incorrectly uses the new total instead of the drop, and D miscalculates the division. Only B correctly applies the percent change formula using the initial amount.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 858,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A double bar graph shows flu vaccines: Clinic A gave 80 in 2024 and 100 in 2025. Clinic B gave 60 in 2024 and 90 in 2025. What is the combined increase from 2024 to 2025?\nA) 30\nB) 40\nC) 50\nD) 70",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 30",
+      "B) 40",
+      "D) 70"
+    ],
+    "explanation": "To find the combined increase, subtract 2024 totals from 2025 totals for both clinics. Clinic A rose by 20 (100 minus 80) and Clinic B rose by 30 (90 minus 60). Adding these increases gives 50, which matches option C. Option A is wrong because it only calculates Clinic A's rise. Option B is incorrect as it sums the 2024 numbers instead of the differences. Option D fails because it adds the 2025 totals rather than the increases.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 859,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A histogram of patient ages shows: 20-29 years: 4, 30-39: 8, 40-49: 12, 50-59: 6. How many patients are younger than 40?\nA) 8\nB) 12\nC) 16\nD) 20",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 8",
+      "C) 16",
+      "D) 20"
+    ],
+    "explanation": "To find patients younger than 40, sum the counts for the 20-29 and 30-39 age groups: 4 + 8 = 12. Option B is correct because it matches this total. Option A is wrong as it only counts the 30-39 group. Option C incorrectly adds the 40-49 group. Option D mistakenly includes all groups. The question asks for those under 40, not 40 and under.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 860,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "Emergency department wait times in minutes are: 15, 22, 18, 25, 20, 30, 18. What is the median wait time?\nA) 18\nB) 20\nC) 22\nD) 25",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 18",
+      "C) 22",
+      "D) 25"
+    ],
+    "explanation": "To find the median, first sort the seven wait times: 15, 18, 18, 20, 22, 25, 30. The middle value is the fourth number, which is 20, making option B correct. Option A is incorrect because 18 is the second lowest value, not the middle. Option C is wrong as 22 is the sixth value in the sorted list. Option D is incorrect since 25 is the second highest number, not the median.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 861,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "An IV bag shows fluid remaining: Hour 0: 1000 mL, Hour 1: 800 mL, Hour 2: 600 mL, Hour 3: 400 mL. If the rate continues, how much remains at Hour 5?\nA) 0 mL\nB) 100 mL\nC) 200 mL\nD) 300 mL",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 100 mL",
+      "C) 200 mL",
+      "D) 300 mL"
+    ],
+    "explanation": "The fluid decreases by 200 mL each hour, so at Hour 5, 1000 mL minus 1000 mL equals 0 mL. Option A correctly identifies this remaining amount, while B, C, and D suggest incorrect values that do not match the linear rate. Since the bag empties completely by Hour 5, any positive remainder is mathematically wrong based on the given data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 862,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "Pain scores frequency: Score 0: 2 patients, 1: 3, 2: 5, 3: 4, 4: 1. What is the mean score?\nA) 1.8\nB) 2.0\nC) 2.1\nD) 2.3",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 1.8",
+      "C) 2.1",
+      "D) 2.3"
+    ],
+    "explanation": "To find the mean, multiply each score by its frequency, sum the results (0*2 + 1*3 + 2*5 + 3*4 + 4*1 = 27), and divide by the total patients (15), yielding 2.0. Option B is correct because this calculation matches the data provided. Option A is wrong as 1.8 underestimates the weighted average. Option C is incorrect since 2.1 overestimates the result. Option D is false because 2.3 is too high for this dataset.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 863,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot suggests weight increases about 6 lb for each 1 inch of height. A 65-inch adult weighs about 150 lb. Estimate weight for a 68-inch adult.\nA) 160 lb\nB) 168 lb\nC) 172 lb\nD) 185 lb",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 160 lb",
+      "C) 172 lb",
+      "D) 185 lb"
+    ],
+    "explanation": "The scatter plot indicates a rate of change where weight increases by 6 pounds for every 1-inch increase in height. Starting with a 65-inch adult weighing 150 pounds, a 68-inch adult is 3 inches taller, requiring an additional 18 pounds (3 times 6). Adding this 18 pounds to the base weight of 150 pounds results in an estimated total of 168 pounds. Option B correctly reflects this calculation, while A, C, and D fail to accurately apply the given rate of change to the height difference.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 864,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A stacked bar shows ED visits for three days: Monday Urgent 40 Non-urgent 30, Tuesday Urgent 35 Non-urgent 25, Wednesday Urgent 30 Non-urgent 20. What percent of all visits were urgent?\nA) 52%\nB) 58%\nC) 60%\nD) 65%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 52%",
+      "C) 60%",
+      "D) 65%"
+    ],
+    "explanation": "To find the urgent visit percentage, sum all visits (40+30+35+25+30+20=180) and urgent ones (40+35+30=105). Dividing 105 by 180 yields approximately 58.3%, making B the right choice. Option A is too low as it ignores the full dataset, while C and D overestimate the urgent proportion relative to total visits.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 865,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "In a study of 120 patients: normal cholesterol and BP 42, high cholesterol only 30, high BP only 24, both high 24. What percent have at least one high value?\nA) 55%\nB) 60%\nC) 65%\nD) 70%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 55%",
+      "B) 60%",
+      "D) 70%"
+    ],
+    "explanation": "To find the percent with at least one high value, add patients with high cholesterol only (30), high BP only (24), and both high (24) for a total of 78 out of 120. Dividing 78 by 120 gives 0.65, which equals 65%, making option C correct. Options A, B, and D are incorrect because they do not match the calculated sum of 78 patients. The question asks for the percentage with at least one high value, not just one specific condition.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 866,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "Medication errors per 1000 doses by quarter: Q1 4.5, Q2 3.6, Q3 2.7, Q4 1.8. What is the average decrease per quarter?\nA) 0.7\nB) 0.8\nC) 0.9\nD) 1.0",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 0.7",
+      "B) 0.8",
+      "D) 1.0"
+    ],
+    "explanation": "To find the average decrease, subtract consecutive quarters: Q1 to Q2 is 0.9, Q2 to Q3 is 0.9, and Q3 to Q4 is 0.9. Since the drop is constant at 0.9 per quarter, option C is correct. Options A, B, and D are incorrect because they do not match the calculated difference of 0.9 derived from the data. The consistent pattern confirms C as the only valid answer for the average decrease.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 867,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A box plot of hospital length of stay shows minimum 2 days, Q1 3, median 5, Q3 7, maximum 12. What is the interquartile range?\nA) 2\nB) 4\nC) 5\nD) 7",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 2",
+      "C) 5",
+      "D) 7"
+    ],
+    "explanation": "The interquartile range is calculated by subtracting the first quartile (Q1) from the third quartile (Q3). In this box plot, Q1 is 3 and Q3 is 7, so the difference is 4. Option B is correct because it matches this calculation. Option A is wrong as it uses the minimum value incorrectly. Option C is incorrect because it lists the median instead of the range. Option D is wrong since it uses the Q3 value alone.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

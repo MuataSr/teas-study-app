@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block title %}Results — {{ subject_name }}{% endblock %}
+
+{% block content %}
+
+<!-- Score Summary -->
+<div class="results-summary" id="results-summary">
+  <div class="results-score">{{ pct }}%</div>
+  <div class="results-score-label">{{ subject_name }}</div>
+
+  <div class="results-detail-row">
+    <div class="results-detail">
+      <div class="results-detail-value text-correct">{{ score }}</div>
+      <div class="results-detail-label">Correct</div>
+    </div>
+    <div class="results-detail">
+      <div class="results-detail-value text-wrong">{{ total - score }}</div>
+      <div class="results-detail-label">Wrong</div>
+    </div>
+    <div class="results-detail">
+      <div class="results-detail-value">{{ elapsed_time }}</div>
+      <div class="results-detail-label">Time</div>
+    </div>
+    <div class="results-detail">
+      <div class="results-detail-value">{{ best_streak }}</div>
+      <div class="results-detail-label">Streak</div>
+    </div>
+  </div>
+</div>
+
+<!-- Topic Breakdown -->
+{% if topic_breakdown %}
+<div class="results-topics">
+  <h2 class="section-title">By Topic</h2>
+
+  {% for t in topic_breakdown %}
+  <div class="results-topic-item">
+    <span class="results-topic-name">{{ t.topic }}</span>
+    <span class="results-topic-score">{{ t.correct }}/{{ t.total }}</span>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- Mistakes -->
+{% if mistakes %}
+<div class="results-mistakes">
+  <h2 class="section-title">Review Mistakes</h2>
+
+  {% for m in mistakes %}
+  <div class="mistake-card">
+    <div class="mistake-question">{{ m.question }}</div>
+    <div class="mistake-answers">
+      Your answer: <strong class="text-wrong">{{ m.user_answer }}</strong><br>
+      Correct: <strong class="text-correct">{{ m.correct_answer|safe }}</strong>
+    </div>
+    {% if m.explanation %}
+    <div class="mistake-explanation">{{ m.explanation|safe }}</div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- Actions -->
+<div style="padding: 28px 24px;">
+  <a href="/quiz/{{ subject_slug }}" class="submit-btn" style="display:block; text-align:center; text-decoration:none; margin-bottom:12px;">Try Again</a>
+  <a href="/quickfire" class="submit-btn" style="display:block; text-align:center; text-decoration:none; margin-bottom:12px; background:var(--primary-dark, #1a6fa0);">⚡ Quickfire Mode</a>
+  <a href="/" class="next-btn" style="display:block; text-align:center; text-decoration:none;">Back to Study</a>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var pct = {{ pct }};
+  var el = document.getElementById("results-summary");
+  if (pct === 100) el.classList.add("celebrate-perfect");
+  else if (pct >= 90) el.classList.add("celebrate-confetti");
+  else if (pct >= 70) el.classList.add("celebrate-good");
+});
+</script>
+{% endblock %}

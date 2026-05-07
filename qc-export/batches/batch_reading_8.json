@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1466,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The term 'homeostasis' describes the body's ability to maintain stable internal conditions despite external fluctuations. Thermoregulation, blood glucose control, and pH balance all rely on complex feedback loops. When these mechanisms fail, pathological states such as hypothermia or diabetic ketoacidosis can rapidly develop. Clinical interventions often aim to restore homeostatic equilibrium.\n\nQuestion: As used in the passage, what does 'equilibrium' most nearly mean?\n\nA) A sudden increase in metabolic rate\nB) A complete shutdown of organ systems\nD) An unpredictable external environment\n\nA) A sudden increase in metabolic rate\nB) A complete shutdown of organ systems\nC) The passage opens by defining homeostasis as 'stable internal conditions' and closes by saying clinical interventions aim to 'restore homeostatic equilibrium.' Since equilibrium is linked directly to homeostasis, it means the same thing\u2014a state of balance.\nD) An unpredictable external environment",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) A sudden increase in metabolic rate",
+      "B) A complete shutdown of organ systems",
+      "D) An unpredictable external environment"
+    ],
+    "explanation": "The passage opens by defining homeostasis as 'stable internal conditions' and closes by saying clinical interventions aim to 'restore homeostatic equilibrium.' Since equilibrium is linked directly to homeostasis, it means the same thing\u2014a state of balance. C matches. A describes a metabolic spike, the opposite of stability. B describes organ failure, which the passage says happens when homeostatic mechanisms fail. D refers to the external environment, but the passage focuses on internal conditions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1467,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The writer describes the emergency room as a 'chaotic symphony of beeping monitors, hurried footsteps, and hushed consultations.' Despite the apparent disorder, every movement follows a precise clinical protocol. Seasoned nurses navigate the commotion with practiced calm, anticipating physician needs before they are voiced. What appears to outsiders as confusion is actually highly coordinated triage in action.\n\nQuestion: What is the author's tone in this passage?\n\nA) Fearful and overwhelmed\nB) Cynical and dismissive\nC) Clinical and detached\n\nA) Fearful and overwhelmed\nB) Cynical and dismissive\nC) Clinical and detached\nD) This admiration contrasts with the other choices",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Fearful and overwhelmed",
+      "B) Cynical and dismissive",
+      "C) Clinical and detached"
+    ],
+    "explanation": "Option D is right because the author uses vivid imagery like \"chaotic symphony\" and praises nurses for their \"practiced calm,\" showing deep appreciation for their skill while carefully observing their actions. This admiration contrasts with the other choices. Option A is wrong since no fear or overwhelm is expressed; the text highlights calmness instead. Option B fails because the tone is respectful, not dismissive of the medical staff's efforts. Finally, Option C is incorrect as the passage uses emotional language like \"symphony\" rather than cold, detached clinical terms. The writer clearly values the hidden order within the chaos.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1468,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The passage opens by stating that sleep deprivation impairs cognitive function as severely as alcohol intoxication. It then cites studies showing reduced reaction times and poor decision-making in exhausted medical residents. The author concludes by recommending mandatory shift limits to protect both clinicians and patients. The argument relies heavily on empirical research and ethical responsibility.\n\nQuestion: What point of view does the author adopt?\n\nB) Neutral reporting without any clear stance\nC) Opposition to limiting resident work hours\nD) Personal anecdote about surviving medical school\n\nA) Option C is wrong as the author supports, rather than opposes, limiting work hours\nB) Neutral reporting without any clear stance\nC) Opposition to limiting resident work hours\nD) Personal anecdote about surviving medical school",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Neutral reporting without any clear stance",
+      "C) Opposition to limiting resident work hours",
+      "D) Personal anecdote about surviving medical school"
+    ],
+    "explanation": "The author adopts an advocacy stance by explicitly recommending mandatory shift limits to protect clinicians and patients, demonstrating a clear push for policy change. This position is grounded in the cited empirical research regarding sleep deprivation and its severe impact on cognitive function, which serves as the scientific evidence supporting the argument. Option B is incorrect because the text goes beyond neutral reporting by offering a specific solution. Option C is wrong as the author supports, rather than opposes, limiting work hours. Option D fails because the passage relies on studies and general principles, not personal anecdotes about surviving medical school.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1469,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The word 'prophylactic' frequently appears in clinical guidelines. In dentistry, it refers to preventive cleanings that reduce gum disease risk. In infectious disease, it describes medications given to prevent illness rather than treat active infections. Understanding this term helps patients comprehend why certain interventions are administered before symptoms arise.\n\nQuestion: As used in the passage, what does 'prophylactic' most nearly mean?\n\nA) Curative\nC) Experimental\nD) Surgical\n\nA) Curative\nB) A is the opposite; the passage distinguishes prophylactic from treatment\nC) Experimental\nD) Surgical",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Curative",
+      "C) Experimental",
+      "D) Surgical"
+    ],
+    "explanation": "The passage gives two examples of prophylactic use\u2014dental cleanings that 'reduce gum disease risk' and medications 'given to prevent illness rather than treat active infections'\u2014and explicitly says the term refers to interventions 'before symptoms arise.' The common thread across all three descriptions is prevention. B is correct. A is the opposite; the passage distinguishes prophylactic from treatment. C is wrong\u2014nothing about experimental or unproven treatments is mentioned. D doesn't fit; neither dental cleanings nor medications are surgical procedures.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1470,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Remote patient monitoring allows chronic disease management without frequent clinic visits. Wearable devices transmit real-time vitals to care teams, enabling early intervention.\nPassage 2: Elderly patients often struggle with complex digital health interfaces. Poor technology literacy can lead to missed alerts, incorrect data entry, and delayed treatment.\n\nQuestion: How do the two passages relate to each other?\n\nA) Both passages strongly oppose the use of technology in healthcare.\nB) Passage 1 contradicts Passage 2 by claiming all patients adapt easily to wearables.\nD) Passage 2 expands on Passage 1 by providing technical specifications for monitors.\n\nA) Both passages strongly oppose the use of technology in healthcare.\nB) Passage 1 contradicts Passage 2 by claiming all patients adapt easily to wearables.\nC) Option A is wrong because neither passage opposes technology; Passage 1 promotes it\nD) Passage 2 expands on Passage 1 by providing technical specifications for monitors.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Both passages strongly oppose the use of technology in healthcare.",
+      "B) Passage 1 contradicts Passage 2 by claiming all patients adapt easily to wearables.",
+      "D) Passage 2 expands on Passage 1 by providing technical specifications for monitors."
+    ],
+    "explanation": "Option C is correct because Passage 1 explicitly states that remote monitoring enables early intervention, highlighting benefits, while Passage 2 notes that poor technology literacy causes missed alerts, identifying a barrier. Option A is wrong because neither passage opposes technology; Passage 1 promotes it. Option B is incorrect as Passage 1 never claims all patients adapt easily, only that devices transmit vitals. Option D fails because Passage 2 discusses user challenges, not technical specifications for the monitors themselves.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1471,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A recent editorial claims that eliminating standardized nursing entrance exams will increase diversity in healthcare programs. The author cites declining enrollment numbers among underrepresented groups as justification. However, the argument overlooks data showing that structured preparatory programs, not exam removal, correlate with sustained graduation rates. Lowering academic standards may inadvertently compromise patient safety and professional competency.\n\nQuestion: Which conclusion is best supported by the passage?\n\nA) Standardized exams are the sole cause of low diversity in nursing schools.\nB) Preparatory programs have no measurable impact on graduation rates.\nC) Patient safety is unrelated to academic admission standards.\n\nA) Standardized exams are the sole cause of low diversity in nursing schools.\nB) Preparatory programs have no measurable impact on graduation rates.\nC) Patient safety is unrelated to academic admission standards.\nD) The text argues that eliminating exams fails to address the root causes of low graduation rates among underrepresented groups",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Standardized exams are the sole cause of low diversity in nursing schools.",
+      "B) Preparatory programs have no measurable impact on graduation rates.",
+      "C) Patient safety is unrelated to academic admission standards."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that lowering standards compromises patient safety and that exam removal overlooks data supporting preparatory programs. The text argues that eliminating exams fails to address the root causes of low graduation rates among underrepresented groups. Options A, B, and C are incorrect as the passage never claims exams are the sole cause of low diversity, explicitly links preparatory programs to sustained graduation rates, and directly connects academic standards to patient safety. Therefore, only D accurately reflects the author's critique of the editorial's flawed logic regarding educational quality and care.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1472,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The passage states that handwashing reduces diarrheal disease incidence by nearly forty percent in developing regions. It also notes that soap distribution campaigns are far more cost-effective than building advanced water treatment facilities. Community health workers who demonstrate proper technique see higher compliance rates than those who merely distribute pamphlets.\n\nQuestion: What can be reasonably inferred from the passage?\n\nB) Water treatment facilities are completely unnecessary in developing regions.\nC) Diarrheal diseases are primarily caused by genetic factors rather than pathogens.\nD) Soap distribution campaigns have failed to reduce illness rates globally.\n\nA) Option B is wrong because the text only claims soap campaigns are more cost-effective than building facilities, not that facilities are unnecessary\nB) Water treatment facilities are completely unnecessary in developing regions.\nC) Diarrheal diseases are primarily caused by genetic factors rather than pathogens.\nD) Soap distribution campaigns have failed to reduce illness rates globally.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Water treatment facilities are completely unnecessary in developing regions.",
+      "C) Diarrheal diseases are primarily caused by genetic factors rather than pathogens.",
+      "D) Soap distribution campaigns have failed to reduce illness rates globally."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that community health workers demonstrating proper technique achieve higher compliance rates than those merely distributing pamphlets, directly supporting the inference that active education outperforms passive information distribution. Option B is wrong because the text only claims soap campaigns are more cost-effective than building facilities, not that facilities are unnecessary. Option C is incorrect as the passage links handwashing to reduced diarrheal disease incidence, implying pathogens rather than genetic factors are the cause. Option D is wrong since the text notes soap campaigns are cost-effective without stating they have failed to reduce illness rates globally.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1473,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Urban green spaces reduce ambient temperatures and improve mental health outcomes among city residents.\nPassage 2: Municipal budgets frequently prioritize infrastructure repairs over park maintenance, leading to degraded recreational areas and reduced community usage.\n\nQuestion: What conclusion can be drawn by synthesizing both passages?\n\nA) City residents prefer concrete infrastructure over natural recreational areas.\nC) Mental health outcomes are unrelated to environmental conditions in cities.\nD) Infrastructure repairs should be completely halted to fund park expansion.\n\nA) City residents prefer concrete infrastructure over natural recreational areas.\nB) The text explicitly states that green spaces improve outcomes while municipal funds prioritize other repairs, leading to degraded areas\nC) Mental health outcomes are unrelated to environmental conditions in cities.\nD) Infrastructure repairs should be completely halted to fund park expansion.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) City residents prefer concrete infrastructure over natural recreational areas.",
+      "C) Mental health outcomes are unrelated to environmental conditions in cities.",
+      "D) Infrastructure repairs should be completely halted to fund park expansion."
+    ],
+    "explanation": "Option B correctly synthesizes the passages by linking the health and environmental benefits of green spaces described in Passage 1 with the budgetary neglect of parks in Passage 2. The text explicitly states that green spaces improve outcomes while municipal funds prioritize other repairs, leading to degraded areas. This direct contrast proves that underfunding prevents these specific benefits from being realized.\n\nOption A is incorrect because neither passage mentions resident preferences regarding concrete versus nature; it only notes reduced usage due to poor maintenance. Option C contradicts Passage 1, which clearly establishes a positive relationship between green spaces and mental health. Finally, Option D is wrong because the passages discuss budget priorities, not a call to halt all infrastructure repairs, which would likely harm essential city functions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1474,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The author argues that mandatory flu vaccinations for healthcare workers should be enforced without exception. They cite studies showing reduced patient mortality rates in hospitals with strict compliance policies. The passage dismisses religious and medical exemptions as statistically insignificant compared to community protection benefits. No alternative prevention strategies are discussed or acknowledged.\n\nQuestion: How does the author develop their argument?\n\nA) By weighing multiple perspectives and proposing a compromise policy\nB) By relying primarily on personal anecdotes from retired physicians\nD) By comparing flu vaccines to unrelated medical interventions like surgery\n\nA) By weighing multiple perspectives and proposing a compromise policy\nB) By relying primarily on personal anecdotes from retired physicians\nC) Option A is incorrect as the passage never weighs multiple perspectives or proposes a compromise policy\nD) By comparing flu vaccines to unrelated medical interventions like surgery",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) By weighing multiple perspectives and proposing a compromise policy",
+      "B) By relying primarily on personal anecdotes from retired physicians",
+      "D) By comparing flu vaccines to unrelated medical interventions like surgery"
+    ],
+    "explanation": "The author strengthens their definitive stance by presenting one-sided evidence regarding reduced mortality rates while dismissing religious and medical exemptions as statistically insignificant. This approach aligns with option C because the text explicitly ignores alternative prevention strategies and offers no room for debate. Option A is incorrect as the passage never weighs multiple perspectives or proposes a compromise policy. Option B fails because no personal anecdotes from retired physicians are mentioned in the text. Option D is wrong since the author does not compare vaccines to unrelated interventions like surgery.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1475,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A researcher claims that artificial intelligence will completely replace radiologists within a decade. The prediction relies on algorithms that detect pulmonary nodules with higher accuracy than human reviewers. However, the study only analyzed static images and excluded complex cases requiring clinical correlation, patient history, and multidisciplinary consultation. Diagnostic medicine involves nuanced judgment that extends beyond pattern recognition.\n\nQuestion: Which statement best evaluates the researcher's claim?\n\nA) The claim is fully supported by comprehensive, real-world clinical trials.\nB) The claim is irrelevant because radiology does not involve image analysis.\nC) The claim is moderately accurate but underestimates algorithm processing speeds.\n\nA) The claim is fully supported by comprehensive, real-world clinical trials.\nB) The claim is irrelevant because radiology does not involve image analysis.\nC) The claim is moderately accurate but underestimates algorithm processing speeds.\nD) The text emphasizes that diagnostic medicine involves nuanced judgment beyond simple pattern recognition, which the narrow study failed to address",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The claim is fully supported by comprehensive, real-world clinical trials.",
+      "B) The claim is irrelevant because radiology does not involve image analysis.",
+      "C) The claim is moderately accurate but underestimates algorithm processing speeds."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states the study excluded complex cases needing clinical correlation and multidisciplinary consultation, proving the claim ignores broader reasoning. The text emphasizes that diagnostic medicine involves nuanced judgment beyond simple pattern recognition, which the narrow study failed to address. Option A is wrong as the passage notes the study was limited to static images, not comprehensive real-world trials. Option B is incorrect since radiology clearly involves image analysis, making the claim irrelevant false. Option C is wrong because the passage focuses on diagnostic limitations, not algorithm processing speeds.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1476,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The text notes that patients who receive clear discharge instructions are thirty percent less likely to be readmitted within thirty days. It also states that teach-back methods, where patients repeat instructions in their own words, significantly improve comprehension. Hospitals that implemented standardized teach-back protocols saw measurable drops in emergency department returns.\n\nQuestion: What inference is best supported by the passage?\n\nB) Written discharge instructions are completely ineffective for all patients.\nC) Emergency departments are primarily responsible for poor patient education.\nD) Thirty-day readmissions are caused exclusively by surgical complications.\n\nA) Option B is incorrect since the text states instructions help patients, not that they are ineffective for everyone\nB) Written discharge instructions are completely ineffective for all patients.\nC) Emergency departments are primarily responsible for poor patient education.\nD) Thirty-day readmissions are caused exclusively by surgical complications.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Written discharge instructions are completely ineffective for all patients.",
+      "C) Emergency departments are primarily responsible for poor patient education.",
+      "D) Thirty-day readmissions are caused exclusively by surgical complications."
+    ],
+    "explanation": "Option A is supported because the passage directly links clear instructions and teach-back verification to a thirty percent reduction in readmissions, proving that confirming understanding lowers these rates. Option B is incorrect since the text states instructions help patients, not that they are ineffective for everyone. Option C is wrong because the passage credits hospitals for implementing protocols, not emergency departments for causing education failures. Option D is false as the text attributes readmissions to a lack of comprehension, not exclusively to surgical complications.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1477,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Telehealth expansion has dramatically improved rural access to psychiatric services, reducing travel burdens and appointment no-shows.\nPassage 2: Broadband infrastructure remains severely limited in many remote counties, preventing reliable video consultations and forcing patients to rely on audio-only calls.\n\nQuestion: How do the passages interact conceptually?\n\nA) Passage 2 completely refutes the data presented in Passage 1.\nC) Both passages argue that psychiatric care should be eliminated in rural areas.\nD) Passage 1 provides a historical timeline that Passage 2 updates with modern statistics.\n\nA) Passage 2 completely refutes the data presented in Passage 1.\nB) This creates a clear technological constraint rather than a contradiction\nC) Both passages argue that psychiatric care should be eliminated in rural areas.\nD) Passage 1 provides a historical timeline that Passage 2 updates with modern statistics.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Passage 2 completely refutes the data presented in Passage 1.",
+      "C) Both passages argue that psychiatric care should be eliminated in rural areas.",
+      "D) Passage 1 provides a historical timeline that Passage 2 updates with modern statistics."
+    ],
+    "explanation": "Option B is correct because Passage 2 explicitly states that limited broadband prevents reliable video, which directly restricts the full benefits of telehealth expansion mentioned in Passage 1. This creates a clear technological constraint rather than a contradiction. Option A is wrong because Passage 2 does not refute the data; it simply adds a limitation to the success described in Passage 1 regarding travel and no-shows. Option C is incorrect as neither passage suggests eliminating care; both discuss improving or maintaining access through technology. Option D is wrong because neither passage provides a historical timeline or modern statistics, focusing instead on current infrastructure gaps.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1478,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "An article promotes intermittent fasting as a universal solution for weight management and metabolic health. The author cites rodent studies showing improved insulin sensitivity and cellular repair mechanisms. Human trials referenced in the piece involved small, homogeneous samples of young, healthy males. The article fails to address contraindications for pregnant individuals or those with eating disorder histories.\n\nQuestion: What is a major weakness in the article's argument?\n\nA) It relies too heavily on large-scale, diverse clinical trials.\nB) It completely ignores animal research in favor of anecdotal evidence.\nD) It provides excessive detail on cellular repair mechanisms.\n\nA) It relies too heavily on large-scale, diverse clinical trials.\nB) It completely ignores animal research in favor of anecdotal evidence.\nC) The article incorrectly assumes rodent results apply universally to humans, ignoring the passage's note that human trials used only young, healthy males.\nD) It provides excessive detail on cellular repair mechanisms.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) It relies too heavily on large-scale, diverse clinical trials.",
+      "B) It completely ignores animal research in favor of anecdotal evidence.",
+      "D) It provides excessive detail on cellular repair mechanisms."
+    ],
+    "explanation": "The article incorrectly assumes rodent results apply universally to humans, ignoring the passage's note that human trials used only young, healthy males. This limited sample size makes any claim about all populations a dangerous generalization that overlooks specific risks like those for pregnant individuals or those with eating disorders. Option A is wrong because the text explicitly states the human trials were small and homogeneous, not large-scale or diverse. Option B is incorrect since the author actually cites rodent studies, not anecdotal evidence, making animal research a key part of the argument. Option D is wrong because detailing cellular repair mechanisms is not a weakness; the text focuses on the lack of risk assessment, not the depth of biological explanation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1479,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The passage explains that coral bleaching occurs when stressed corals expel symbiotic algae, losing their color and primary nutrient source. Rising ocean temperatures and acidification are identified as the primary stressors. Marine biologists warn that without rapid carbon emission reductions, reef ecosystems could collapse within decades. Coastal communities dependent on reefs for fisheries and storm protection would face severe economic consequences.\n\nQuestion: What conclusion logically follows from the passage?\n\nA) Coral bleaching is a natural cycle that requires no human intervention.\nB) Fisheries will thrive if coral reefs lose their symbiotic algae.\nC) Carbon emissions have no measurable impact on ocean acidification.\n\nA) Coral bleaching is a natural cycle that requires no human intervention.\nB) Fisheries will thrive if coral reefs lose their symbiotic algae.\nC) Carbon emissions have no measurable impact on ocean acidification.\nD) It further states that coastal communities relying on reefs for fisheries and storm protection will face severe economic consequences, confirming the threat to human livelihoods",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Coral bleaching is a natural cycle that requires no human intervention.",
+      "B) Fisheries will thrive if coral reefs lose their symbiotic algae.",
+      "C) Carbon emissions have no measurable impact on ocean acidification."
+    ],
+    "explanation": "Option D is correct because the passage explicitly links coral stressors like rising temperatures to ecosystem collapse, which directly endangers marine biodiversity. It further states that coastal communities relying on reefs for fisheries and storm protection will face severe economic consequences, confirming the threat to human livelihoods. Options A, B, and C are incorrect because the text identifies rising ocean temperatures and acidification as primary stressors requiring intervention, contradicting the claim that bleaching is a natural cycle needing no action. Additionally, the passage notes that without emission reductions, reefs could collapse, proving carbon emissions significantly impact acidification and that losing algae would deprive corals of their primary nutrient source rather than allowing fisheries to thrive.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1480,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The text states that medication reconciliation errors account for nearly half of all adverse drug events during hospital transitions. It recommends pharmacist-led reviews within twenty-four hours of admission. Facilities that adopted this protocol experienced a forty percent reduction in preventable complications. Nursing staff reported decreased workload stress when pharmacists managed complex medication histories.\n\nQuestion: What can be inferred about pharmacist-led reconciliation?\n\nB) It increases the frequency of adverse drug events during transfers.\nC) It should only be performed after patient discharge is complete.\nD) It replaces the need for physicians in medication management.\n\nA) Option B is incorrect as the text states these protocols reduced adverse drug events, whereas this option claims they increase them\nB) It increases the frequency of adverse drug events during transfers.\nC) It should only be performed after patient discharge is complete.\nD) It replaces the need for physicians in medication management.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) It increases the frequency of adverse drug events during transfers.",
+      "C) It should only be performed after patient discharge is complete.",
+      "D) It replaces the need for physicians in medication management."
+    ],
+    "explanation": "Option A is correct because the passage explicitly links pharmacist-led reviews to a forty percent reduction in preventable complications, which directly improves patient safety, and notes that nursing staff experienced decreased workload stress, confirming the reduction in nursing burden. Option B is incorrect as the text states these protocols reduced adverse drug events, whereas this option claims they increase them. Option C is wrong because the passage specifies reviews must occur within twenty-four hours of admission, contradicting the idea that they wait until discharge is complete. Option D is incorrect since the text describes pharmacists managing complex histories to assist staff, not replacing physicians entirely in medication management.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1481,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Standardized handoff protocols like SBAR improve communication accuracy between shifting clinical teams.\nPassage 2: Many experienced nurses resist structured handoffs, preferring informal conversational exchanges that they feel capture nuanced patient changes more naturally.\n\nQuestion: What synthesis best captures the relationship between the passages?\n\nA) Both passages agree that informal handoffs are superior to structured ones.\nC) Passage 2 provides statistical data that disproves Passage 1's claims.\nD) SBAR protocols are exclusively used in non-clinical administrative settings.\n\nA) Both passages agree that informal handoffs are superior to structured ones.\nB) This contrast highlights the tension between proven evidence and cultural resistance within clinical teams\nC) Passage 2 provides statistical data that disproves Passage 1's claims.\nD) SBAR protocols are exclusively used in non-clinical administrative settings.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Both passages agree that informal handoffs are superior to structured ones.",
+      "C) Passage 2 provides statistical data that disproves Passage 1's claims.",
+      "D) SBAR protocols are exclusively used in non-clinical administrative settings."
+    ],
+    "explanation": "Option B correctly synthesizes that while Passage 1 confirms SBAR improves accuracy, Passage 2 reveals nurses resist this structured approach in favor of informal talks. This contrast highlights the tension between proven evidence and cultural resistance within clinical teams. Option A is wrong because Passage 1 does not claim informal methods are superior; it only states SBAR improves accuracy. Option C is incorrect since Passage 2 offers anecdotal resistance, not statistical data disproving Passage 1's claims. Option D is false because Passage 1 explicitly places SBAR in clinical shifting teams, not administrative settings.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1482,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A policy brief argues that eliminating college prerequisites for nursing programs will accelerate workforce entry. The author points to staffing shortages and rising healthcare demand as justification. However, the brief ignores longitudinal data showing higher NCLEX failure rates among students lacking foundational science coursework. Fast-tracking candidates without academic preparation may exacerbate, rather than solve, systemic staffing crises.\n\nQuestion: How does the author of the critique evaluate the policy brief?\n\nA) As highly accurate and fully supported by workforce data\nB) As irrelevant, since nursing shortages are a temporary phenomenon\nD) As overly cautious, since science courses have no impact on clinical skills\n\nA) As highly accurate and fully supported by workforce data\nB) As irrelevant, since nursing shortages are a temporary phenomenon\nC) The author critiques the policy brief as shortsighted because it ignores longitudinal data showing higher NCLEX failure rates for students without foundational science coursework.\nD) As overly cautious, since science courses have no impact on clinical skills",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) As highly accurate and fully supported by workforce data",
+      "B) As irrelevant, since nursing shortages are a temporary phenomenon",
+      "D) As overly cautious, since science courses have no impact on clinical skills"
+    ],
+    "explanation": "The author critiques the policy brief as shortsighted because it ignores longitudinal data showing higher NCLEX failure rates for students without foundational science coursework. This evidence directly supports the claim that fast-tracking candidates without preparation exacerbates staffing crises rather than solving them. Option A is wrong because the critique explicitly contradicts the brief's accuracy by highlighting overlooked evidence. Option B is incorrect as the text never suggests nursing shortages are temporary, nor does it dismiss the policy's relevance. Option D is wrong because the passage clearly states science courses impact licensing success and competency, making the brief's dismissal of them inaccurate.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1483,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The passage describes how placebo effects can trigger measurable physiological changes, including endorphin release and reduced inflammatory markers. Researchers emphasize that patient expectations and clinician rapport significantly influence treatment outcomes. Ethical guidelines prohibit deceiving patients, but harnessing expectation through transparent communication remains an active area of study. The mind-body connection continues to reshape clinical trial design.\n\nQuestion: What conclusion is best supported by the passage?\n\nA) Placebos are biologically inert and produce no measurable physical changes.\nB) Deceiving patients is widely accepted in modern clinical trials.\nC) Clinician rapport has no impact on patient treatment outcomes.\n\nA) Placebos are biologically inert and produce no measurable physical changes.\nB) Deceiving patients is widely accepted in modern clinical trials.\nC) Clinician rapport has no impact on patient treatment outcomes.\nD) Option A is wrong since the text notes measurable changes occur, contradicting the claim that placebos are inert",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Placebos are biologically inert and produce no measurable physical changes.",
+      "B) Deceiving patients is widely accepted in modern clinical trials.",
+      "C) Clinician rapport has no impact on patient treatment outcomes."
+    ],
+    "explanation": "Option D is right because the passage explicitly states that placebo effects trigger physiological changes like endorphin release and that patient expectations and clinician rapport significantly influence treatment outcomes, directly supporting the link between psychological factors and biological responses. Option A is wrong since the text notes measurable changes occur, contradicting the claim that placebos are inert. Option B is incorrect because the passage says ethical guidelines prohibit deceiving patients, making widespread acceptance false. Option C is wrong as the text clearly states rapport significantly influences outcomes, refuting the idea that it has no impact.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1484,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The text notes that early mobilization after surgery reduces the risk of deep vein thrombosis and pneumonia. It also states that patients who walk within six hours of procedure report lower pain scores and shorter hospital stays. Physical therapists coordinate with nursing staff to implement progressive ambulation protocols. Facilities tracking mobility metrics consistently show improved postoperative recovery rates.\n\nQuestion: What inference is most strongly supported by the passage?\n\nB) Bed rest for forty-eight hours is the safest postoperative strategy.\nC) Physical therapists should not collaborate with nursing staff on mobility.\nD) Pain scores increase significantly when patients walk soon after surgery.\n\nA) These combined benefits directly support the inference that structured early walking protocols enhance overall postoperative outcomes\nB) Bed rest for forty-eight hours is the safest postoperative strategy.\nC) Physical therapists should not collaborate with nursing staff on mobility.\nD) Pain scores increase significantly when patients walk soon after surgery.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Bed rest for forty-eight hours is the safest postoperative strategy.",
+      "C) Physical therapists should not collaborate with nursing staff on mobility.",
+      "D) Pain scores increase significantly when patients walk soon after surgery."
+    ],
+    "explanation": "Option A is correct because the passage explicitly links early mobilization to reduced risks of complications like deep vein thrombosis and pneumonia, alongside lower pain scores and shorter hospital stays. These combined benefits directly support the inference that structured early walking protocols enhance overall postoperative outcomes. The text further reinforces this by noting that facilities tracking these mobility metrics consistently show improved recovery rates.\n\nOption B is incorrect because the passage states the opposite, noting that patients who walk within six hours report better results, whereas bed rest is not mentioned as a safe strategy. Option C is wrong since the text clearly states that physical therapists coordinate with nursing staff to implement these protocols. Finally, Option D contradicts the passage, which reports that patients who walk soon after surgery report lower, not increased, pain scores.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1485,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Artificial intelligence algorithms can predict patient deterioration hours before clinical symptoms become apparent, allowing proactive intervention.\nPassage 2: Algorithmic bias in healthcare AI often stems from training data that underrepresents minority populations, leading to inaccurate risk assessments for marginalized groups.\n\nQuestion: What conclusion emerges from synthesizing both passages?\n\nA) AI should be completely banned from clinical settings due to inherent bias.\nC) Minority populations benefit disproportionately from current AI diagnostic tools.\nD) Clinical symptoms are always more reliable than algorithmic predictions.\n\nA) AI should be completely banned from clinical settings due to inherent bias.\nB) The first text highlights clinical advantages, while the second explicitly links bias to underrepresented training data, making equitable data essential to prevent the disparities mentioned\nC) Minority populations benefit disproportionately from current AI diagnostic tools.\nD) Clinical symptoms are always more reliable than algorithmic predictions.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) AI should be completely banned from clinical settings due to inherent bias.",
+      "C) Minority populations benefit disproportionately from current AI diagnostic tools.",
+      "D) Clinical symptoms are always more reliable than algorithmic predictions."
+    ],
+    "explanation": "Option B correctly synthesizes the passages by combining AI's predictive power from Passage 1 with the critical need for diverse data from Passage 2 to ensure fairness. The first text highlights clinical advantages, while the second explicitly links bias to underrepresented training data, making equitable data essential to prevent the disparities mentioned. Option A is wrong because neither passage suggests banning AI; Passage 1 emphasizes proactive intervention, not prohibition. Option C contradicts Passage 2, which states marginalized groups face inaccurate assessments, not disproportionate benefits. Option D is incorrect because Passage 1 presents AI predictions as valuable tools that can appear before symptoms, not as less reliable than them.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1486,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "A nurse explains to a patient that antibiotics are only effective against bacterial infections, not viral ones. She uses the example of the common cold to illustrate a viral illness. The patient nods but asks why antibiotics are still sometimes prescribed. The nurse clarifies that misuse can lead to resistance.\n\nB) The common cold is the most dangerous viral illness\nC) Nurses should not explain medications to patients\nD) Antibiotics are always necessary for infections\n\nA) Option B is wrong as the text never claims the cold is the most dangerous illness, only that it is viral\nB) The common cold is the most dangerous viral illness\nC) Nurses should not explain medications to patients\nD) Antibiotics are always necessary for infections",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The common cold is the most dangerous viral illness",
+      "C) Nurses should not explain medications to patients",
+      "D) Antibiotics are always necessary for infections"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states antibiotics target bacteria, not viruses like the common cold, and notes that misuse leads to resistance. Option B is wrong as the text never claims the cold is the most dangerous illness, only that it is viral. Option C is incorrect since the nurse successfully explains the medication to the patient, contradicting the idea that nurses should avoid such explanations. Option D is false because the passage implies antibiotics are not always necessary, specifically when treating viral infections where they have no effect.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1487,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Photosynthesis is the process by which plants convert sunlight into energy. Chlorophyll in the leaves absorbs light, allowing the plant to produce glucose. This glucose serves as fuel for growth and development. Oxygen is released as a byproduct.\n\nA) Oxygen is released into the air\nC) Chlorophyll is found in leaves\nD) Sunlight reaches the plant\n\nA) Oxygen is released into the air\nB) Option A is incorrect as the text identifies oxygen as a byproduct, not the primary fuel source\nC) Chlorophyll is found in leaves\nD) Sunlight reaches the plant",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Oxygen is released into the air",
+      "C) Chlorophyll is found in leaves",
+      "D) Sunlight reaches the plant"
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that glucose serves as fuel for growth and development, directly matching the option's claim. Option A is incorrect as the text identifies oxygen as a byproduct, not the primary fuel source. Option C is wrong because while chlorophyll is found in leaves, the passage does not state this as the main purpose of the process. Option D is incorrect since sunlight is the energy source, not the product created by the plant. The question asks for the primary output used by the plant, which is clearly glucose.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1488,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "During the Industrial Revolution, many people moved from rural areas to cities in search of work. Factories provided jobs but often had poor working conditions. Workers faced long hours and low wages. Despite these challenges, industrialization led to economic growth.\n\nA) Factories were the best places to work\nB) Rural areas were better than cities\nD) Workers refused to move to cities\n\nA) Factories were the best places to work\nB) Rural areas were better than cities\nC) A is wrong\u2014the passage describes harsh conditions, not ideal workplaces\nD) Workers refused to move to cities",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Factories were the best places to work",
+      "B) Rural areas were better than cities",
+      "D) Workers refused to move to cities"
+    ],
+    "explanation": "The passage acknowledges both positive and negative effects of industrialization: factories 'provided jobs' and led to 'economic growth,' but workers faced 'poor working conditions,' 'long hours,' and 'low wages.' The word 'despite' signals this contrast. Option C captures both sides of this balanced view. A is wrong\u2014the passage describes harsh conditions, not ideal workplaces. B goes beyond the passage; while rural-to-urban migration is mentioned, the passage never judges which was 'better.' D contradicts the passage, which states that 'many people moved from rural areas to cities.'",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1489,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A study found that patients who exercised regularly recovered faster after surgery. The researchers tracked 100 individuals over six months. Those who followed a moderate exercise routine reported fewer complications. The study suggests incorporating activity into recovery plans.\n\nA) Surgery is unnecessary for most patients\nB) All patients should avoid activity\nC) Exercise causes complications\n\nA) Surgery is unnecessary for most patients\nB) All patients should avoid activity\nC) Exercise causes complications\nD) The study tracked 100 surgery patients and found those who exercised regularly had fewer complications and faster recovery.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Surgery is unnecessary for most patients",
+      "B) All patients should avoid activity",
+      "C) Exercise causes complications"
+    ],
+    "explanation": "The study tracked 100 surgery patients and found those who exercised regularly had fewer complications and faster recovery. This supports the conclusion that exercise benefits post-surgical outcomes. The study doesn't claim exercise cures anything or works for all conditions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1490,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The desert stretches endlessly under a sun that shows no mercy. Temperatures exceed 120\u00b0F during the day, yet many species thrive here. Kangaroo rats survive without ever drinking water, extracting moisture from seeds. Cacti store thousands of gallons in their fleshy stems. The desert does not forgive weakness, but it rewards adaptation.\"\n\nHow does the author feel about the desert environment?\n\nB) The author hates the desert and wants it destroyed.\nC) The author thinks the desert is a comfortable vacation spot.\nD) The author is completely indifferent to desert environments.\n\nA) The author respects the desert's harshness ('shows no mercy') while admiring its resilience\u2014species 'thrive' through adaptation.\nB) The author hates the desert and wants it destroyed.\nC) The author thinks the desert is a comfortable vacation spot.\nD) The author is completely indifferent to desert environments.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The author hates the desert and wants it destroyed.",
+      "C) The author thinks the desert is a comfortable vacation spot.",
+      "D) The author is completely indifferent to desert environments."
+    ],
+    "explanation": "The author respects the desert's harshness ('shows no mercy') while admiring its resilience\u2014species 'thrive' through adaptation. B is unsupported\u2014no hatred expressed. C contradicts '120\u00b0F' and 'no mercy.' D is wrong\u2014the author is clearly engaged with the subject.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1491,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Two articles discuss nutrition. One argues that a plant-based diet improves health, while the other emphasizes balanced eating including meat. Both agree that processed foods should be limited. Each uses scientific studies to support claims.\n\nA) They both promote vegetarianism\nC) They both reject scientific evidence\nD) They both focus only on exercise\n\nA) They both promote vegetarianism\nB) Option A is wrong since only one article promotes a plant-based diet, while the other emphasizes a balanced approach including meat\nC) They both reject scientific evidence\nD) They both focus only on exercise",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) They both promote vegetarianism",
+      "C) They both reject scientific evidence",
+      "D) They both focus only on exercise"
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that both articles agree processed foods should be limited, making this the shared conclusion. Option A is wrong since only one article promotes a plant-based diet, while the other emphasizes a balanced approach including meat. Option C is incorrect because the text notes each article uses scientific studies to support their claims, directly contradicting the idea that they reject evidence. Option D is wrong as the passage discusses nutrition and diet entirely, with no mention of exercise being a focus for either writer.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1492,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "In a biology class, the teacher explains that DNA carries genetic information. Students learn that genes determine traits such as eye color. Mutations can alter these genes. Some mutations have no effect, while others can cause disease.\n\nA) Eye color is the only genetic trait\nB) Mutations are always harmful\nD) Genes are unrelated to disease\n\nA) Eye color is the only genetic trait\nB) Mutations are always harmful\nC) A is wrong; eye color is given as one example of a trait, not the only one\nD) Genes are unrelated to disease",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Eye color is the only genetic trait",
+      "B) Mutations are always harmful",
+      "D) Genes are unrelated to disease"
+    ],
+    "explanation": "The passage covers three ideas: DNA carries genetic information, genes determine traits (eye color as example), and mutations alter genes with effects ranging from none to disease. Option C encompasses all three. A is wrong; eye color is given as one example of a trait, not the only one. B is contradicted by the passage, which says 'some mutations have no effect.' D is false; the passage explicitly states mutations 'can cause disease,' meaning genes are related to disease.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1493,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"A teacher noticed a student clutching his chest during a math exam. She calmly walked over, asked him to describe his symptoms, and called the school nurse. While waiting, she guided him through slow breathing exercises and kept other students focused on their work. Her training in first aid allowed her to remain composed throughout the ordeal.\"\n\nWhat word best describes the teacher's demeanor?\n\nA) Panicked and hysterical.\nB) Angry and frustrated.\nC) Confused and uncertain.\n\nA) Panicked and hysterical.\nB) Angry and frustrated.\nC) Confused and uncertain.\nD) Her actions of guiding breathing exercises and keeping others focused demonstrate this steady demeanor",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Panicked and hysterical.",
+      "B) Angry and frustrated.",
+      "C) Confused and uncertain."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states the teacher remained \"calm\" and used her training to \"remain composed\" while managing the crisis. Her actions of guiding breathing exercises and keeping others focused demonstrate this steady demeanor. Option A is wrong as the text describes calmness, not panic or hysteria, directly contradicting that choice. Option B is incorrect because there is no evidence of anger or frustration; the teacher acted professionally without emotional outbursts. Option C fails because the teacher knew exactly what to do, utilizing her first aid training to stay in control rather than acting confused or uncertain.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1494,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A historian argues that the printing press revolutionized communication. Before its invention, books were rare and expensive. Afterward, knowledge became more accessible. Literacy rates increased significantly.\n\nB) To criticize modern technology\nC) To entertain with a story\nD) To describe how to print books\n\nA) Option B is wrong as the text never mentions modern technology or offers any criticism of it\nB) To criticize modern technology\nC) To entertain with a story\nD) To describe how to print books",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To criticize modern technology",
+      "C) To entertain with a story",
+      "D) To describe how to print books"
+    ],
+    "explanation": "The passage outlines the historical shift in communication caused by the printing press, detailing how it made knowledge accessible and raised literacy rates. Option A is right because the text directly supports the claim that the device revolutionized communication through these specific outcomes. Option B is wrong as the text never mentions modern technology or offers any criticism of it. Option C is incorrect because the passage presents a factual historical argument, not a fictional story meant for entertainment. Option D fails because the text describes the *effects* of the press, not the mechanical process of how books were printed.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1495,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A graph shows a steady increase in global temperatures over 50 years. The accompanying text links this trend to human activity. Scientists warn of potential environmental consequences. They recommend reducing emissions.\n\nA) Temperatures will decrease soon\nC) Climate change is unrelated to humans\nD) Graphs are unreliable\n\nA) Temperatures will decrease soon\nB) While option A suggests an immediate decrease, the text only mentions potential consequences and recommendations, not a guaranteed reversal\nC) Climate change is unrelated to humans\nD) Graphs are unreliable",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Temperatures will decrease soon",
+      "C) Climate change is unrelated to humans",
+      "D) Graphs are unreliable"
+    ],
+    "explanation": "The passage explicitly states that the text links the observed temperature trend directly to human activity, making option B the only choice supported by the provided evidence. While option A suggests an immediate decrease, the text only mentions potential consequences and recommendations, not a guaranteed reversal. Option C contradicts the passage's clear assertion that humans are the cause, and option D is incorrect because the graph serves as valid visual data supporting the scientists' warnings. Therefore, the text firmly establishes a causal relationship between human actions and rising global temperatures.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1496,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"The heart is a muscular organ that pumps blood through a network of arteries and veins. With each contraction, it pushes oxygen-rich blood from the lungs to the rest of the body. Arteries carry blood away from the heart, while veins return it. Without this continuous cycle, organs would be deprived of oxygen and nutrients, leading to organ failure.\"\n\nBased on the passage, what would happen without proper blood circulation?\n\nA) The heart would grow stronger.\nB) Arteries and veins would switch functions.\nD) The lungs would produce more oxygen automatically.\n\nA) The heart would grow stronger.\nB) Arteries and veins would switch functions.\nC) This directly matches the consequence described in the text\nD) The lungs would produce more oxygen automatically.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The heart would grow stronger.",
+      "B) Arteries and veins would switch functions.",
+      "D) The lungs would produce more oxygen automatically."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that without the continuous cycle of blood circulation, organs would be deprived of oxygen and nutrients, leading to organ failure. This directly matches the consequence described in the text. Option A is incorrect as the passage never mentions the heart growing stronger; it only describes its pumping function. Option B is wrong because the text defines arteries as carrying blood away and veins as returning it, with no suggestion they would switch roles. Option D is incorrect since the lungs are mentioned only as the source of oxygen-rich blood, with no claim that they would automatically produce more oxygen.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1497,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The author describes aging by writing, 'Time is a thief that steals the color from your hair and the spring from your step.' She reflects on how quickly decades pass, comparing life to sand slipping through fingers. The passage encourages readers to 'hold each moment tightly' before it disappears.\"\n\nWhat does the metaphor 'time is a thief' suggest?\n\nA) Time literally steals physical objects.\nB) Time moves very slowly through life.\nC) Time is a criminal that can be stopped.\n\nA) Time literally steals physical objects.\nB) Time moves very slowly through life.\nC) Time is a criminal that can be stopped.\nD) The text further supports this by comparing life to sand slipping through fingers, emphasizing the irreversible loss of moments",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Time literally steals physical objects.",
+      "B) Time moves very slowly through life.",
+      "C) Time is a criminal that can be stopped."
+    ],
+    "explanation": "Option D is correct because the passage explicitly links the thief metaphor to stealing color from hair and spring from step, illustrating how time removes vitality and opportunities. The text further supports this by comparing life to sand slipping through fingers, emphasizing the irreversible loss of moments. In contrast, Option A is wrong because the passage uses figurative language to describe abstract changes, not literal theft of physical objects. Option B contradicts the text, which states that decades pass quickly rather than slowly. Finally, Option C is incorrect since the passage urges readers to hold moments tightly before they disappear, implying time cannot be stopped.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1498,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A report compares two hospitals. One has shorter wait times but fewer specialists. The other offers more services but longer delays. Patients must choose based on their needs.\n\nB) Both hospitals provide identical care\nC) Specialists are unnecessary\nD) Wait times do not matter\n\nA) Option B is wrong since the text describes distinct differences in wait times and specialist availability, proving care is not identical\nB) Both hospitals provide identical care\nC) Specialists are unnecessary\nD) Wait times do not matter",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Both hospitals provide identical care",
+      "C) Specialists are unnecessary",
+      "D) Wait times do not matter"
+    ],
+    "explanation": "Option A is right because the passage explicitly states one hospital has shorter waits while the other offers more services, meaning advantages depend on individual patient priorities. Option B is wrong since the text describes distinct differences in wait times and specialist availability, proving care is not identical. Option C is incorrect because the report mentions fewer specialists at one hospital, implying they are a relevant factor for some patients. Option D is wrong as the text directly contrasts wait times as a key difference between the two facilities.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1499,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Vaccines work by introducing a weakened or inactive form of a pathogen into the body. This exposure allows the immune system to recognize the pathogen and produce antibodies without causing illness. If the person later encounters the real pathogen, the immune system responds quickly, preventing or reducing the severity of the disease.\"\n\nWhat is the main idea?\n\nA) Vaccines cause the diseases they are meant to prevent.\nC) The immune system cannot be trained to recognize pathogens.\nD) Only children benefit from vaccination.\n\nA) Vaccines cause the diseases they are meant to prevent.\nB) Option A is wrong because the text explicitly says vaccines introduce weakened forms that do not cause illness\nC) The immune system cannot be trained to recognize pathogens.\nD) Only children benefit from vaccination.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Vaccines cause the diseases they are meant to prevent.",
+      "C) The immune system cannot be trained to recognize pathogens.",
+      "D) Only children benefit from vaccination."
+    ],
+    "explanation": "Option B correctly identifies that vaccines train the immune system to recognize pathogens and produce antibodies before encountering the real disease, as stated in the passage's explanation of how exposure prevents illness. Option A is wrong because the text explicitly says vaccines introduce weakened forms that do not cause illness. Option C contradicts the passage, which describes the immune system successfully recognizing and responding to the pathogen. Option D is incorrect since the passage discusses general immune responses without mentioning that only children benefit from vaccination.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1500,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"To conduct a valid experiment, a scientist first forms a hypothesis based on observations. Next, she designs an experiment with a control group and an experimental group, changing only one variable. After collecting data through careful measurement, she analyzes the results to determine whether the hypothesis is supported. Finally, she publishes her findings for peer review.\"\n\nHow is the passage organized?\n\nA) Compare and contrast.\nB) Cause and effect.\nD) Problem and solution.\n\nA) Compare and contrast.\nB) Cause and effect.\nC) The passage is organized sequentially because it follows the chronological steps of the scientific method, moving logically from forming a hypothesis to publishing findings.\nD) Problem and solution.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Compare and contrast.",
+      "B) Cause and effect.",
+      "D) Problem and solution."
+    ],
+    "explanation": "The passage is organized sequentially because it follows the chronological steps of the scientific method, moving logically from forming a hypothesis to publishing findings. Each sentence describes the next distinct phase in the process, creating a clear timeline of actions rather than comparing ideas or solving a problem. This linear progression confirms that the text presents events in the order they occur.\n\nOption A is incorrect because the text does not compare two different subjects or contrast opposing viewpoints. Option B is wrong since no cause-and-effect relationship is explicitly stated between unrelated events. Option D fails because the passage describes a standard procedure rather than identifying a specific problem and offering a unique solution to it.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1501,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Two passages discuss exercise. One emphasizes mental health benefits, while the other focuses on physical strength. Both agree exercise is essential. Together, they provide a broader understanding.\n\nA) They contradict each other completely\nB) They focus only on mental health\nC) They discourage exercise\n\nA) They contradict each other completely\nB) They focus only on mental health\nC) They discourage exercise\nD) Option A is wrong because the text states both agree exercise is essential, proving they do not contradict",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) They contradict each other completely",
+      "B) They focus only on mental health",
+      "C) They discourage exercise"
+    ],
+    "explanation": "The passages complement each other by covering both mental health and physical strength, creating a comprehensive understanding of exercise benefits. Option D correctly identifies this synthesis. Option A is wrong because the text states both agree exercise is essential, proving they do not contradict. Option B fails because the second passage explicitly focuses on physical strength, not just mental health. Option C is incorrect since both texts emphasize that exercise is essential, actively encouraging the activity rather than discouraging it.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1502,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"At sea level, water boils at 100\u00b0C (212\u00b0F). However, at higher altitudes, atmospheric pressure decreases, which lowers the boiling point. For example, in Denver, Colorado, at an elevation of 5,280 feet, water boils at approximately 95\u00b0C. This means foods that require boiling may need longer cooking times at altitude to reach the same internal temperature.\"\n\nWhat is the main idea?\n\nB) Water always boils at exactly 100\u00b0C everywhere.\nC) Altitude has no effect on cooking.\nD) Atmospheric pressure increases with elevation.\n\nA) The Denver example at 5,280 feet boiling at 95\u00b0C directly supports this cause-and-effect relationship\nB) Water always boils at exactly 100\u00b0C everywhere.\nC) Altitude has no effect on cooking.\nD) Atmospheric pressure increases with elevation.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Water always boils at exactly 100\u00b0C everywhere.",
+      "C) Altitude has no effect on cooking.",
+      "D) Atmospheric pressure increases with elevation."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that higher altitudes cause atmospheric pressure to decrease, which lowers the boiling point of water. The Denver example at 5,280 feet boiling at 95\u00b0C directly supports this cause-and-effect relationship. Option B is wrong since the text clarifies water boils at 100\u00b0C only at sea level, not everywhere. Option C is incorrect because the passage concludes by stating foods need longer cooking times at altitude, proving altitude affects cooking. Option D is false as the text says pressure decreases, not increases, with elevation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1503,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The study examined the effects of screen time on adolescent sleep patterns. Researchers defined 'excessive screen use' as more than three hours daily. Data was collected through self-reported surveys and verified with parental logs. Statistical analysis was performed using regression models. The findings were presented at the annual conference without editorial commentary.\"\n\nWhat is the author's writing style?\n\nA) Casual and conversational.\nC) Emotional and dramatic.\nD) Poetic and metaphorical.\n\nA) Casual and conversational.\nB) Technical vocabulary ('regression models,' 'self-reported surveys') and neutral presentation of findings without editorial commentary indicate formal, objective academic writing.\nC) Emotional and dramatic.\nD) Poetic and metaphorical.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Casual and conversational.",
+      "C) Emotional and dramatic.",
+      "D) Poetic and metaphorical."
+    ],
+    "explanation": "Technical vocabulary ('regression models,' 'self-reported surveys') and neutral presentation of findings without editorial commentary indicate formal, objective academic writing. A is too casual. C introduces emotion absent from the text. D misreads the clinical tone as poetic.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1504,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A study compares online learning to traditional classrooms. Results show similar academic performance but different student preferences. Some value flexibility, while others prefer face-to-face interaction.\n\nA) Online learning is always better\nB) Traditional classrooms are outdated\nD) Students dislike flexibility\n\nA) Online learning is always better\nB) Traditional classrooms are outdated\nC) The passage states academic performance was similar between online and traditional formats, but preferences differed\u2014some valued flexibility, others wanted face-to-face interaction.\nD) Students dislike flexibility",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Online learning is always better",
+      "B) Traditional classrooms are outdated",
+      "D) Students dislike flexibility"
+    ],
+    "explanation": "The passage states academic performance was similar between online and traditional formats, but preferences differed\u2014some valued flexibility, others wanted face-to-face interaction. This shows learning style preferences vary, not that one method is superior.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1505,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Social workers serve a critical role in community health. They connect families with housing resources, advocate for children in court proceedings, and coordinate with healthcare providers to ensure continuity of care. Their work often involves managing complex cases that require collaboration across multiple agencies.\"\n\nAccording to the passage, what is one task social workers perform?\n\nA) They perform surgical procedures in hospitals.\nB) They prescribe medications for mental health conditions.\nC) They design public school curricula for all grade levels.\n\nA) They perform surgical procedures in hospitals.\nB) They prescribe medications for mental health conditions.\nC) They design public school curricula for all grade levels.\nD) A is wrong\u2014social workers don't perform surgery; that's outside their scope",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) They perform surgical procedures in hospitals.",
+      "B) They prescribe medications for mental health conditions.",
+      "C) They design public school curricula for all grade levels."
+    ],
+    "explanation": "The question asks what task social workers perform according to the passage. The passage lists three specific tasks: connecting families with housing, advocating for children in court, and coordinating with healthcare providers. Option D combines two of these directly from the text. A is wrong\u2014social workers don't perform surgery; that's outside their scope. B is incorrect; prescribing medications is a physician's role, not a social worker's. C is unsupported; the passage never mentions school curricula.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1506,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The theory of evolution proposes that all living organisms share a common ancestor. This theory is supported by a wide range of scientific evidence, including fossil records and genetic data.\n\nA) Persuade readers to accept the theory of evolution\nB) Entertain readers with a story about evolution\nD) Convince readers to reject the theory of evolution\n\nA) Persuade readers to accept the theory of evolution\nB) Entertain readers with a story about evolution\nC) Option A is wrong because the text provides facts without using persuasive language or emotional appeals to force acceptance\nD) Convince readers to reject the theory of evolution",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Persuade readers to accept the theory of evolution",
+      "B) Entertain readers with a story about evolution",
+      "D) Convince readers to reject the theory of evolution"
+    ],
+    "explanation": "The passage objectively states that the theory of evolution is supported by scientific evidence like fossils and genetics, which indicates its primary goal is to inform readers about the theory rather than influence their opinions. Option C correctly reflects this neutral, educational purpose. Option A is wrong because the text provides facts without using persuasive language or emotional appeals to force acceptance. Option B is incorrect as the passage lacks narrative elements, characters, or storytelling designed for entertainment. Option D is wrong since there is no argument presented to convince anyone to reject the theory, and the tone remains purely informative.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1507,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The American Revolution was a pivotal event in American history, marking the transition from colonial rule to independence. The Revolution was sparked by a combination of factors, including taxation, territorial expansion, and Enlightenment ideas.\n\nA) Slavery\nC) Immigration\nD) Industrialization\n\nA) Slavery\nB) Options A, C, and D are incorrect because the text never mentions slavery, immigration, or industrialization as causes\nC) Immigration\nD) Industrialization",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Slavery",
+      "C) Immigration",
+      "D) Industrialization"
+    ],
+    "explanation": "Option B is correct because the passage explicitly lists \"taxation\" as one of the specific factors that sparked the Revolution. Options A, C, and D are incorrect because the text never mentions slavery, immigration, or industrialization as causes. The passage strictly identifies taxation alongside territorial expansion and Enlightenment ideas as the primary triggers. Therefore, only the choice directly supported by the provided text is valid.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1508,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The concept of cultural relativism suggests that cultural practices and values should be understood and evaluated within their own cultural context. This approach recognizes that cultural norms and values can vary significantly across different cultures.\n\nA) Evaluating cultural practices based on universal standards\nB) Comparing cultural practices across different cultures\nC) Judging cultural practices as right or wrong\n\nA) Evaluating cultural practices based on universal standards\nB) Comparing cultural practices across different cultures\nC) Judging cultural practices as right or wrong\nD) The text emphasizes that norms vary significantly across cultures, supporting the need for internal evaluation rather than external judgment",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Evaluating cultural practices based on universal standards",
+      "B) Comparing cultural practices across different cultures",
+      "C) Judging cultural practices as right or wrong"
+    ],
+    "explanation": "Option D is right because the passage explicitly states that cultural practices must be understood and evaluated within their own cultural context, which matches the definition of relativism. The text emphasizes that norms vary significantly across cultures, supporting the need for internal evaluation rather than external judgment. Option A is wrong because it suggests using universal standards, directly contradicting the passage's focus on specific cultural contexts. Option B is incorrect since comparing cultures ignores the core instruction to evaluate them within their own unique settings. Finally, Option C is wrong because judging practices as right or wrong implies a universal moral standard, which the passage argues against by highlighting cultural variation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1509,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The scientific method is a systematic process used to develop and test scientific knowledge. It involves making observations, formulating hypotheses, and conducting experiments to test these hypotheses.\n\nB) To prove or disprove a theory\nC) To make observations and collect data\nD) To formulate hypotheses and conduct experiments\n\nA) While options B, C, and D describe individual steps like testing theories, collecting data, or forming hypotheses, they only represent parts of the broader goal rather than the overall purpose\nB) To prove or disprove a theory\nC) To make observations and collect data\nD) To formulate hypotheses and conduct experiments",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To prove or disprove a theory",
+      "C) To make observations and collect data",
+      "D) To formulate hypotheses and conduct experiments"
+    ],
+    "explanation": "The passage explicitly defines the scientific method as a process used to \"develop and test scientific knowledge,\" making option A the direct match. While options B, C, and D describe individual steps like testing theories, collecting data, or forming hypotheses, they only represent parts of the broader goal rather than the overall purpose. The text states the method involves these specific actions to achieve the primary outcome of developing and testing knowledge, which aligns perfectly with the first choice. Therefore, only option A captures the complete intent described in the opening sentence.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1510,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Climate change is driven primarily by the accumulation of greenhouse gases in the atmosphere. Carbon dioxide concentrations have increased from 280 ppm in the pre-industrial era to over 420 ppm today. Methane emissions from agriculture and fossil fuel extraction contribute additional warming. The Intergovernmental Panel on Climate Change projects a global temperature rise of 1.5 to 4.5\u00b0C by 2100 depending on emission levels.\"\n\nWhat is the author's tone?\n\nA) Panicked and fearful.\nB) Dismissive and unconcerned.\nD) Playful and humorous.\n\nA) Panicked and fearful.\nB) Dismissive and unconcerned.\nC) The other options fail because Option A is wrong as there is no fear or panic in the text, Option B is incorrect since the author clearly cares about the issue by citing projections, and Option D is wrong because the writing lacks jokes or humor\nD) Playful and humorous.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Panicked and fearful.",
+      "B) Dismissive and unconcerned.",
+      "D) Playful and humorous."
+    ],
+    "explanation": "Option C is right because the passage uses precise data like \"280 ppm\" and \"420 ppm\" to state facts without emotional language, creating a formal, objective tone. The other options fail because Option A is wrong as there is no fear or panic in the text, Option B is incorrect since the author clearly cares about the issue by citing projections, and Option D is wrong because the writing lacks jokes or humor. The entire response relies on scientific reporting style rather than any subjective emotion or stylistic flair found in the other choices.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1511,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The concept of supply and demand is a fundamental principle in economics. It suggests that the price of a good or service is determined by the interaction between the supply and demand for that good or service.\n\nA) The price of a good or service is determined by production costs\nB) The price of a good or service is determined by consumer preferences\nC) The price of a good or service is determined by market trends\n\nA) The price of a good or service is determined by production costs\nB) The price of a good or service is determined by consumer preferences\nC) The price of a good or service is determined by market trends\nD) A substitutes production costs for supply and demand\u2014this is a different economic concept not mentioned in the passage",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The price of a good or service is determined by production costs",
+      "B) The price of a good or service is determined by consumer preferences",
+      "C) The price of a good or service is determined by market trends"
+    ],
+    "explanation": "The passage states a single principle: price is determined by the 'interaction between the supply and demand.' Option D paraphrases this directly. A substitutes production costs for supply and demand\u2014this is a different economic concept not mentioned in the passage. B focuses only on consumer preferences, ignoring supply entirely. C mentions market trends, which is broader than the specific supply-demand interaction the passage describes.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1512,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Regular physical activity reduces the risk of heart disease, stroke, and type 2 diabetes by up to 50%. Adults who exercise at least 150 minutes per week report better sleep quality and improved mental health. Combined with a balanced diet rich in fruits, vegetables, and whole grains, exercise forms the foundation of a healthy lifestyle. Making these changes today can add years to your life.\"\n\nWhat is the author's primary purpose?\n\nA) To describe the anatomy of the human heart.\nC) To compare different types of diets.\nD) To explain how medications treat diabetes.\n\nA) To describe the anatomy of the human heart.\nB) The passage lists specific health benefits with statistics (50% reduction, 150 minutes/week) and advocates combining exercise with a balanced diet.\nC) To compare different types of diets.\nD) To explain how medications treat diabetes.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To describe the anatomy of the human heart.",
+      "C) To compare different types of diets.",
+      "D) To explain how medications treat diabetes."
+    ],
+    "explanation": "The passage lists specific health benefits with statistics (50% reduction, 150 minutes/week) and advocates combining exercise with a balanced diet. This goal-directed, benefit-driven tone aims to persuade readers to act, not merely inform about exercise.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1513,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The ancient civilization of Egypt was known for its impressive architectural achievements, including the construction of the Great Pyramid of Giza. The pyramid was built as a tomb for the pharaoh and took thousands of workers many years to complete.\n\nB) To provide a place of worship for the gods\nC) To serve as a symbol of the pharaoh's power\nD) To provide a center for trade and commerce\n\nA) While options B, C, and D suggest plausible historical functions like worship, power, or trade, the provided excerpt contains no evidence regarding religious rituals, political symbolism, or commercial activity\nB) To provide a place of worship for the gods\nC) To serve as a symbol of the pharaoh's power\nD) To provide a center for trade and commerce",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To provide a place of worship for the gods",
+      "C) To serve as a symbol of the pharaoh's power",
+      "D) To provide a center for trade and commerce"
+    ],
+    "explanation": "The passage explicitly states that the pyramid was constructed specifically as a tomb for the pharaoh, making option A the only choice directly supported by the text. While options B, C, and D suggest plausible historical functions like worship, power, or trade, the provided excerpt contains no evidence regarding religious rituals, political symbolism, or commercial activity. The sentence structure directly links the building's purpose to burying the ruler, ruling out all other interpretations not found in the source material. Therefore, relying solely on the text confirms that the primary function described was serving as a burial site.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1514,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The concept of natural selection suggests that species adapt to their environments through a process of variation, mutation, and genetic drift. This process can lead to the evolution of new species over time.\n\nA) Genetic variation and environmental pressure\nB) Mutation and genetic drift\nC) Natural selection and genetic variation\n\nA) Genetic variation and environmental pressure\nB) Mutation and genetic drift\nC) Natural selection and genetic variation\nD) The passage explicitly names three mechanisms that drive adaptation: 'variation, mutation, and genetic drift.' The question asks which combination matches the passage.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Genetic variation and environmental pressure",
+      "B) Mutation and genetic drift",
+      "C) Natural selection and genetic variation"
+    ],
+    "explanation": "The passage explicitly names three mechanisms that drive adaptation: 'variation, mutation, and genetic drift.' The question asks which combination matches the passage. D lists all three exactly as stated. A includes 'environmental pressure,' which is not named as a mechanism in this passage. B omits variation, listing only two of the three. C includes 'natural selection' itself as a mechanism, but the passage describes natural selection as the concept that involves the other three\u2014it's the umbrella, not one of the driving forces listed.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1515,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Nurses in community clinics often manage chronic conditions through education and monitoring. A recent program emphasized patient self-management and reduced hospital readmissions over a year. The clinics also coordinated with primary care to adjust medications and follow up on symptoms.\n\nWhat is the main idea of the passage?\n\nB) Hospitals should hire more nurses to reduce readmissions.\nC) Medication adjustments are unnecessary when patients self-manage.\nD) Coordinated care increases the cost of treatment.\n\nA) The other options misinterpret the text or introduce unsupported claims\nB) Hospitals should hire more nurses to reduce readmissions.\nC) Medication adjustments are unnecessary when patients self-manage.\nD) Coordinated care increases the cost of treatment.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Hospitals should hire more nurses to reduce readmissions.",
+      "C) Medication adjustments are unnecessary when patients self-manage.",
+      "D) Coordinated care increases the cost of treatment."
+    ],
+    "explanation": "Option A correctly identifies the passage's central theme by linking self-management education to reduced readmissions, which the text explicitly states as a result of the recent program. The other options misinterpret the text or introduce unsupported claims. Option B focuses on hiring more nurses, a detail never mentioned in the passage regarding staffing levels. Option C incorrectly claims medication adjustments are unnecessary, contradicting the text which states clinics coordinated to adjust medications alongside self-management. Finally, Option D suggests coordinated care increases costs, whereas the passage implies it improves outcomes without mentioning financial impacts.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

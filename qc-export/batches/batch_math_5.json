@@ -1,0 +1,752 @@
+[
+  {
+    "id": 448,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A rectangular storage container has a volume of 240 cubic cm. If the base of the container is 8 cm long and 5 cm wide, what is its height?\n\nA) 16 cm  B) 6 cm  C) 3 cm  D) 8 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "16 cm",
+      "3 cm",
+      "8 cm"
+    ],
+    "explanation": "The volume formula for a rectangular prism is length times width times height. Given the volume is 240 cubic cm, the base is 8 cm long and 5 cm wide, we divide 240 by 40 to find the height is 6 cm. Option B correctly states 6 cm. Option A is wrong because it likely confuses multiplication with division. Option C is incorrect as it may use the wrong base dimensions. Option D is wrong because it calculates an impossible height based on the given volume.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 449,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "How many cubic centimeters are in 1.5 liters of saline solution?\n\nA) 150 mL  B) 1,500 mL  C) 1,500 cm\u00b3  D) 15,000 cm\u00b3",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "150 mL",
+      "1,500 mL",
+      "15,000 cm\u00b3"
+    ],
+    "explanation": "To find cubic centimeters in 1.5 liters, multiply by 1000 since 1 liter equals 1000 cubic centimeters. Option C correctly calculates 1500 by performing 1.5 times 1000. Option A is wrong because it likely divides instead of multiplying. Option B fails by using an incorrect conversion factor like 100. Option D is incorrect as it might add numbers rather than convert units. This math question requires knowing the standard metric volume relationship.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 450,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A medication dosage is 0.1 mg per kg of body weight. If a patient weighs 50 kg, how many micrograms (mcg) of the medication should be administered?\n\nA) 50 mcg  B) 1000 mcg  C) 5000 mcg  D) 50000 mcg",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "50 mcg",
+      "1000 mcg",
+      "50000 mcg"
+    ],
+    "explanation": "To solve this, multiply 0.1 mg/kg by 50 kg to get 5 mg, then convert to micrograms by multiplying by 1,000, resulting in 5,000 mcg. Option C is correct because it matches this calculation. Option A is wrong as it likely omits the unit conversion, B is incorrect due to a math error, and D fails by using the wrong multiplier. The question requires precise dosage math and unit conversion.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 451,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The bar graph below shows the number of patients a nurse assisted each day last week: Monday=12, Tuesday=15, Wednesday=10, Thursday=18, Friday=14. How many patients were assisted on Wednesday?\n\nA) 10  B) 12  C) 14  D) 18",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "12",
+      "14",
+      "18"
+    ],
+    "explanation": "The question asks for the patient count on Wednesday based on the provided data. Option A states 10, which matches the explicit value given for Wednesday in the problem description. Options B, C, and D suggest incorrect numbers like 12, 15, and 18, which correspond to Monday, Tuesday, and Thursday respectively. Since the graph and text clearly define Wednesday as 10, only Option A is accurate.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 452,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The table shows final exam scores for five nursing students: Ana=85, Ben=92, Carla=78, Dev=90, Eva=88. What was the highest score?\n\nA) 85  B) 90  C) 88  D) 92",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "85",
+      "90",
+      "88"
+    ],
+    "explanation": "Option D states 92, which matches Ben's score, the highest value in the list. Options A (78), B (85), and C (88) are incorrect because they represent Carla's, Ana's, and Eva's scores respectively, all of which are lower than Ben's 92. The question asks for the single highest number, making 92 the only valid choice among the provided options.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 453,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart shows how a nursing student spends a 24-hour day. If 'Studying' represents 25% of the chart, how many hours does the student spend studying?\n\nA) 5 hours  B) 6 hours  C) 7 hours  D) 4 hours",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "5 hours",
+      "7 hours",
+      "4 hours"
+    ],
+    "explanation": "The student spends 6 hours studying because 25% of 24 hours equals 6. Option B states 6 hours, which matches this calculation. Option A suggests 4 hours, which is only 16.67% of the day. Option C claims 8 hours, representing 33.33%, and Option D says 12 hours, which is 50%. The math confirms B is the only valid choice for 25% of 24 hours.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 454,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph tracks a patient's temperature over 5 days: Day1=98.6\u00b0F, Day2=99.1\u00b0F, Day3=100.2\u00b0F, Day4=99.8\u00b0F, Day5=98.9\u00b0F. What was the temperature on Day 3?\n\nA) 99.1\u00b0F  B) 99.8\u00b0F  C) 100.2\u00b0F  D) 98.9\u00b0F",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "99.1\u00b0F",
+      "99.8\u00b0F",
+      "98.9\u00b0F"
+    ],
+    "explanation": "The question asks for the temperature on Day 3 based on the provided data points. Option C is correct because it states 100.2\u00b0F, which matches the specific value listed for Day 3 in the prompt. Option A is wrong as it likely cites a different day's temperature, such as Day 2's 99.1\u00b0F. Option B is incorrect because it probably refers to Day 5's 98.9\u00b0F instead of the requested day. Option D is wrong as it may list Day 4's 99.8\u00b0F, which is not the target value. Only C accurately reflects the data given for Day 3.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 455,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "The table shows enrollment in two nursing classes: Class A has 24 students, Class B has 28 students. What is the total number of students?\n\nA) 42  B) 48  C) 52  D) 56",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "42",
+      "48",
+      "56"
+    ],
+    "explanation": "The question asks for the total enrollment by adding Class A's 24 students and Class B's 28 students. Option C correctly sums these values to get 52, which matches the required total. Option A is wrong because it likely subtracts the numbers instead of adding them. Option B fails as it might only count one class or use incorrect digits. Option D is incorrect because it probably adds an extra number or misreads the table data entirely.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 456,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A bar graph compares fruit consumption in a cafeteria: Apples=45 servings, Oranges=30 servings. How many more servings of apples than oranges were consumed?\n\nA) 15  B) 25  C) 35  D) 45",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "15",
+      "35",
+      "45"
+    ],
+    "explanation": "The question asks for the difference between apple and orange servings shown in the bar graph. Option B correctly calculates 45 minus 30 to equal 15, matching the data. Option A is wrong because it likely adds the numbers instead of subtracting them. Option C is incorrect as it may use the wrong values or perform an unrelated operation. Option D fails because it ignores the graph entirely or guesses a random number. Only B uses the specific serving counts to find the true difference.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 457,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows that 50 out of 200 patients in a study were over age 65. What percentage of patients were over 65?\n\nA) 20%  B) 25%  C) 50%  D) 65%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "20%",
+      "50%",
+      "65%"
+    ],
+    "explanation": "To find the percentage, divide 50 by 200 to get 0.25, which equals 25%. Option B correctly states 25%, matching this calculation. Option A is wrong because it likely suggests 50%, ignoring the denominator. Option C is incorrect as it probably offers 12.5%, which is half the true value. Option D fails because it might claim 200%, reversing the fraction entirely.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 458,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows monthly clinic visits: January=120, February=135, March=150. What was the average number of visits per month for this quarter?\n\nA) 120  B) 135  C) 145  D) 150",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "120",
+      "145",
+      "150"
+    ],
+    "explanation": "To find the average, sum the visits (120 + 135 + 150 = 405) and divide by the three months, yielding 135. Option B correctly states this result. Option A is wrong because it likely sums the numbers without dividing. Option C is incorrect as it might divide by two instead of three. Option D is wrong because it could be a random calculation unrelated to the average formula.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 459,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A double bar graph shows patient satisfaction scores for two hospitals: Hospital A average=8.2, Hospital B average=7.6. What is the difference in average scores?\n\nA) 0.6  B) 1.4  C) 6.8  D) 8.2",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "0.6",
+      "6.8",
+      "8.2"
+    ],
+    "explanation": "The question asks for the difference between Hospital A's average of 8.2 and Hospital B's average of 7.6. Subtracting 7.6 from 8.2 yields 0.6, which matches option B. Option A is incorrect because it likely represents a sum or unrelated value not derived from the subtraction. Option C is wrong as it may show the difference in reverse order or an incorrect decimal. Option D is invalid because it does not correspond to the calculated result of 0.6 based on the provided averages.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 460,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph shows medication inventory decreasing linearly: Week1=200 doses, Week2=180, Week3=160. If the trend continues, how many doses remain in Week 4?\n\nA) 200  B) 140  C) 100  D) 180",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "200",
+      "100",
+      "180"
+    ],
+    "explanation": "The trend shows a consistent drop of 20 doses per week. Starting from 160 in Week 3, subtracting 20 yields 140 doses for Week 4. Option B correctly identifies this value. Options A, C, and D fail because they do not account for the linear decrease pattern shown in the graph data.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 461,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table indicates that 30% of 150 patients in a trial are children. How many children are in the trial?\n\nA) 45  B) 50  C) 40  D) 60",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "45",
+      "40",
+      "60"
+    ],
+    "explanation": "To find the number of children, multiply 150 patients by 30%, which equals 45. Option B states 45, matching this calculation. Option A suggests 30, ignoring the percentage of the total. Option C claims 150, representing the full patient count. Option D offers 4.5, likely a decimal error. Only B correctly applies the percentage to the total patients.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 462,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot shows a positive correlation between study hours and test scores. Points cluster around a line where 5 hours \u2248 75 points, 7 hours \u2248 85 points. Approximately what score corresponds to 6 hours of study?\n\nA) 70  B) 80  C) 75  D) 85",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "70",
+      "80",
+      "85"
+    ],
+    "explanation": "The question asks for the test score at 6 hours based on a scatter plot with a positive correlation. Option C is correct because 6 hours falls between 5 hours (75 points) and 7 hours (85 points), so the score must be roughly 80 points. Option A is wrong as it suggests a score too low for 6 hours, ignoring the upward trend. Option B is incorrect because it implies a score higher than the 7-hour benchmark, which contradicts the data. Option D is invalid since it proposes a value outside the logical range defined by the surrounding points.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 463,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows daily patient admissions: Monday=12, Tuesday=15, Wednesday=14, Thursday=20, Friday=18. Which day had the greatest increase from the previous day?\n\nA) Tuesday  B) Thursday  C) Friday  D) Monday",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Tuesday",
+      "Thursday",
+      "Monday"
+    ],
+    "explanation": "The correct answer is C because Thursday shows the largest jump from Wednesday, rising by 6 admissions compared to smaller daily increases. Option A is wrong as Monday starts the week with no prior day to compare, making an increase impossible. Option B is incorrect since Tuesday only grew by 3 from Monday, which is less than Thursday's gain. Option D fails because Friday increased by just 2 from Thursday, the smallest rise in the sequence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 464,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart of a \\$10,000 nursing department budget shows Supplies at 35%. How much money is allocated to Supplies?\n\nA) \\$3,000  B) \\$3,500  C) \\$6,500  D) \\$10,000",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "\\$3,000",
+      "\\$6,500",
+      "\\$10,000"
+    ],
+    "explanation": "To find the Supplies allocation, multiply the total \\$10,000 budget by the 35% shown for Supplies in the chart. This calculation yields \\$3,500, which matches option B. Option A is incorrect because it likely represents a different percentage or total. Option C is wrong as it may confuse the percentage with the dollar amount directly. Option D is incorrect because it probably uses an unrelated figure from the budget. The math confirms B is the right choice for this question.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 465,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows patient shifts: Morning shift saw 45 patients, Evening saw 38, Night saw 27. What percentage of total patients were seen during the Morning shift?\n\nA) 38%  B) 40%  C) 42%  D) 45%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "38%",
+      "40%",
+      "45%"
+    ],
+    "explanation": "To find the percentage, first calculate the total patients by adding 45, 38, and 27 to get 110. Then divide the Morning shift count of 45 by 110 and multiply by 100, which equals approximately 40.9%. Option C is correct because it matches this calculated value. Option A is wrong as it likely ignores the total sum. Option B is incorrect because it may use the wrong shift number. Option D is wrong since it probably miscalculates the division or percentage.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 466,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot has a line of best fit with equation y = 2x + 5, where x = hours of training and y = competency score. What is the predicted score for 12 hours of training?\n\nA) 29  B) 16  C) 29  D) 11",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "29",
+      "16",
+      "11"
+    ],
+    "explanation": "To find the predicted score, substitute x = 12 into the equation y = 2x + 5, yielding y = 2(12) + 5 = 29. Option C states 29, which matches this calculation perfectly. Options A, B, and D are incorrect because they likely result from arithmetic errors, such as forgetting to multiply or adding incorrectly, failing to follow the linear relationship defined by the best fit line. The question asks for a specific prediction based on the given formula, making C the only valid choice.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 467,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A double bar graph shows vaccination rates: 2022 rate was 60%, 2023 rate was 75%. What was the percent increase from 2022 to 2023?\n\nA) 15%  B) 18.75%  C) 20%  D) 25%",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "15%",
+      "18.75%",
+      "25%"
+    ],
+    "explanation": "To find the percent increase, divide the difference between 75% and 60% by the original 60%, then multiply by 100, yielding a 25% rise. Option C correctly states this 25% figure based on the graph's data. Option A is wrong because it likely miscalculates the difference as 15% instead of the relative increase. Option B is incorrect as it may subtract the rates incorrectly or ignore the base value entirely. Option D is wrong because it probably uses the wrong year as the denominator or calculates a percentage point change rather than a percent increase.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 468,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows a nurse administers medications at a consistent rate: 15 meds/hour. Based on this rate, how many medications would be administered in a 7.5-hour shift?\n\nA) 150  B) 75  C) 112.5  D) 112.5",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "150",
+      "75",
+      "112.5"
+    ],
+    "explanation": "To find the total medications, multiply the rate of 15 per hour by the 7.5-hour shift. Option C correctly calculates 112.5 by performing 15 times 7.5. Option A is wrong because it likely ignores the decimal in the time. Option B fails by perhaps using an incorrect rate or time value. Option D is incorrect as it does not match the product of the given rate and duration.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 469,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A graph plots patient weight (x-axis) vs. medication dose (y-axis). The line has a slope of 0.5 mg/lb. What does this slope represent in context?\n\nA) The medication dose increases by 0.5 mg for every 1 lb of patient weight.  B) The medication dose increases by 0.5 mg for every 2 lbs of patient weight.  C) The medication dose increases by 0.5 lbs for every 1 mg of patient weight.  D) The medication dose increases by 2 mg for every 1 lb of patient weight.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The medication dose increases by 0.5 mg for every 1 lb of patient weight.",
+      "The medication dose increases by 0.5 lbs for every 1 mg of patient weight.",
+      "The medication dose increases by 2 mg for every 1 lb of patient weight."
+    ],
+    "explanation": "The slope of 0.5 mg/lb represents the change in medication dose per pound of patient weight, meaning for every additional pound, the dose increases by half a milligram. Option B correctly identifies this rate of change as the dosage adjustment relative to weight. Option A is wrong because it suggests a total dose rather than a rate. Option C incorrectly implies weight changes per dose instead of dose per weight. Option D is invalid as it misinterprets the units entirely. This math question tests understanding of slope in a real-world medical context.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 470,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows patient intake over three shifts: Morning=40, Afternoon=42, Evening=44. The target average intake per shift is 42 patients. How does the actual average compare to the target?\n\nA) Actual average is 2 patients below target  B) Actual average is equal to target  C) Actual average is 4 patients above target  D) Actual average is 6 patients below target",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Actual average is 2 patients below target",
+      "Actual average is 4 patients above target",
+      "Actual average is 6 patients below target"
+    ],
+    "explanation": "The actual average intake is 42 patients, matching the target average of 42, so the difference is zero. Option A claims the average is higher, which is false since 42 equals 42. Option C suggests it is lower, also incorrect because the values are identical. Option D states there is no comparison, but the question explicitly asks how they compare, which is that they are equal. Thus, B is the only accurate choice.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 471,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A nurse needs to convert a patient's height from meters to centimeters. If the patient is 1.75 meters tall, what is the height in centimeters?\n\nA) 1.75 cm  B) 175 cm  C) 1.7500 cm  D) 0.175 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "1.75 cm",
+      "1.7500 cm",
+      "1750 cm"
+    ],
+    "explanation": "To find the height in centimeters, multiply 1.75 meters by 100 since there are 100 centimeters in a meter. Option B correctly states 175 centimeters, which is the accurate conversion. Option A is wrong because it suggests 17.5 centimeters, a value ten times too small. Option C is incorrect as it claims 1,750 centimeters, which is ten times too large. Option D is invalid because it offers 1.75 centimeters, failing to perform the necessary unit conversion entirely.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 472,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the perimeter of a rectangular medication tray that measures 5 cm by 8 cm?\n\nA) 13 cm  B) 26 cm  C) 40 cm  D) 56 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "13 cm",
+      "40 cm",
+      "56 cm"
+    ],
+    "explanation": "The perimeter of a rectangle is found by adding all four sides, calculated as 2 times the length plus 2 times the width. For this tray measuring 5 cm by 8 cm, the math is 2(5) + 2(8), which equals 10 + 16, resulting in 26 cm. Option B is correct because it matches this total. Options A, C, and D are wrong because they do not equal 26 cm.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 473,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A prescription calls for 750 mL of saline solution. How many liters is this?\n\nA) 0.75 L  B) 7.5 L  C) 75 L  D) 7500 L",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "0.75 L",
+      "75 L",
+      "7500 L"
+    ],
+    "explanation": "The question asks to convert 750 mL of saline solution into liters. Option B is correct because dividing 750 by 1,000 yields 0.75 liters, which matches the conversion factor. Option A is wrong as it likely suggests 7.5 liters, incorrectly multiplying instead of dividing. Option C is incorrect because it might state 0.075 liters, moving the decimal too far left. Option D is wrong as it could claim 75 liters, failing to account for the metric system's scale. This math problem requires knowing that 1 liter equals 1,000 milliliters.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 474,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the area of a square bandage with each side measuring 6 inches?\n\nA) 18 square inches  B) 30 square inches  C) 36 square inches  D) 48 square inches",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "18 square inches",
+      "30 square inches",
+      "48 square inches"
+    ],
+    "explanation": "The area of a square is side length squared, so 6 inches times 6 inches equals 36 square inches. Option C states 36, which matches this calculation. Option A suggests 12, which is the perimeter, not the area. Option B proposes 18, half the correct value, likely a division error. Option D gives 72, double the area, perhaps from multiplying side by perimeter.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 475,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A medication vial contains 2.5 grams of active ingredient. How many milligrams is this?\n\nA) 250 mg  B) 2.5 mg  C) 2500 mg  D) 25 mg",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "250 mg",
+      "2.5 mg",
+      "25 mg"
+    ],
+    "explanation": "The question asks to convert 2.5 grams to milligrams. Option C is correct because there are 1,000 milligrams in one gram, so multiplying 2.5 by 1,000 yields 2,500 mg. Option A is wrong as it likely suggests 0.0025, which divides instead of multiplies. Option B is incorrect because it might propose 250, missing a factor of ten. Option D is wrong if it claims 25,000, adding an extra zero. The conversion requires shifting the decimal three places right.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 476,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the perimeter of an equilateral triangle with each side measuring 4 cm?\n\nA) 4 cm  B) 12 cm  C) 16 cm  D) 48 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "4 cm",
+      "16 cm",
+      "48 cm"
+    ],
+    "explanation": "The perimeter of an equilateral triangle is found by multiplying one side length by three. Since each side measures 4 cm, the calculation is 4 times 3, which equals 12 cm. Option B correctly states 12 cm. Options A, C, and D are incorrect because they do not reflect the proper multiplication of the side lengths to find the total distance around the shape.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 477,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient's appointment is scheduled for 1.5 hours from now. How many minutes is this?\n\nA) 90 minutes  B) 105 minutes  C) 60 minutes  D) 120 minutes",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "90 minutes",
+      "105 minutes",
+      "120 minutes"
+    ],
+    "explanation": "The question asks to convert 1.5 hours into minutes. Option C is correct because multiplying 1.5 by 60 yields exactly 90 minutes. Option A is wrong as it likely suggests 1.5 hours equals 150 minutes, which ignores the 60-minute standard. Option B is incorrect if it claims 1.5 hours is 60 minutes, confusing the decimal with a whole hour. Option D is wrong if it states 1.5 hours equals 120 minutes, mistakenly adding an extra 30 minutes. The conversion relies on the fixed ratio of 60 minutes per hour.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 478,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the area of a triangular wound dressing with a base of 10 cm and a height of 6 cm?\n\nA) 30 cm\u00b2  B) 60 cm\u00b2  C) 15 cm\u00b2  D) 40 cm\u00b2",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "30 cm\u00b2",
+      "15 cm\u00b2",
+      "40 cm\u00b2"
+    ],
+    "explanation": "The area of a triangle equals one-half the base times the height. Substituting the given values, one-half of ten centimeters times six centimeters yields thirty square centimeters. Option B correctly states this result. Options A, C, and D are incorrect because they fail to apply the triangle area formula properly or calculate the wrong value.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 479,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the volume of a rectangular medication box measuring 4 cm by 5 cm by 3 cm?\n\nA) 20 cm\u00b3  B) 60 cm\u00b3  C) 60 cm\u00b3  D) 12 cm\u00b3",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "20 cm\u00b3",
+      "30 cm\u00b3",
+      "12 cm\u00b3"
+    ],
+    "explanation": "The volume of a rectangular prism is found by multiplying its length, width, and height. Option C correctly calculates 4 cm \u00d7 5 cm \u00d7 3 cm to equal 60 cubic centimeters. Options A, B, and D are incorrect because they fail to apply the proper volume formula for a three-dimensional box. This math question requires finding the total space inside the medication container.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 480,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 2.4 kilometers to centimeters.\n\nA) 24,000 cm  B) 240,000 cm  C) 2,400,000 cm  D) 24,000,000 cm",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "24,000 cm",
+      "240,000 cm",
+      "2,400,000 cm"
+    ],
+    "explanation": "To convert 2.4 kilometers to centimeters, multiply by 100,000 since there are 100,000 centimeters in a kilometer. Option D correctly yields 240,000 centimeters. Options A, B, and C are incorrect because they fail to apply the proper conversion factor or calculate the result accurately. This math question requires precise unit conversion skills.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 481,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the circumference of a circular bandage with a diameter of 10 cm? Use \\(\\pi\\) \u2248 3.14.\n\nA) 10.4 cm  B) 31.4 cm  C) 15.7 cm  D) 62.8 cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "10.4 cm",
+      "15.7 cm",
+      "62.8 cm"
+    ],
+    "explanation": "The circumference formula is C = \\(\\pi\\)d, so multiplying 3.14 by 10 yields 31.4 cm. Option B states this exact value, making it correct. Option A likely suggests 31.4 mm, which is wrong because units must match the diameter's centimeters. Option C might propose 15.7 cm, incorrectly using the radius instead of the diameter in the formula. Option D could claim 62.8 cm, resulting from doubling the correct answer unnecessarily.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 482,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A recipe for medical nutrition requires 750 mL of broth. How many liters is this?\n\nA) 0.75 L  B) 0.75 L  C) 7.5 L  D) 75 L",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "0.075 L",
+      "7.5 L",
+      "7500 L"
+    ],
+    "explanation": "To convert 750 mL to liters, divide by 1000, resulting in 0.75 L. Option B states 0.75 L, which matches this calculation exactly. Option A claims 7.5 L, incorrectly multiplying instead of dividing. Option C suggests 0.075 L, mistakenly moving the decimal two places. Option D offers 75 L, erroneously treating the unit as grams or failing to convert.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 483,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the area of a circular IV site with a radius of 5 cm? Use \\(\\pi\\) \u2248 3.14.\n\nA) 25 cm\u00b2  B) 31.4 cm\u00b2  C) 78.5 cm\u00b2  D) 157 cm\u00b2",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "25 cm\u00b2",
+      "31.4 cm\u00b2",
+      "157 cm\u00b2"
+    ],
+    "explanation": "The question asks for the area of a circle with radius 5 cm using \\(\\pi\\) \u2248 3.14. Option C is correct because it applies the formula Area = \\(\\pi\\)r\u00b2, calculating 3.14 \u00d7 5\u00b2 = 78.5. Option A is wrong as it likely uses diameter instead of radius or forgets to square the value. Option B is incorrect because it might multiply \\(\\pi\\) by the radius only once rather than squaring it. Option D is wrong as it could involve an incorrect arithmetic step or use a different constant.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 484,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 45 minutes to hours expressed as a decimal.\n\nA) 0.75  B) 0.75  C) 0.8  D) 0.7",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "0.75",
+      "0.8",
+      "0.65"
+    ],
+    "explanation": "To convert 45 minutes to hours, divide 45 by 60, which equals 0.75. Option B correctly states 0.75 hours. Option A is wrong because 45 minutes is not equal to 0.5 hours. Option C is incorrect as it suggests a value larger than the actual time. Option D is wrong because it represents a much smaller fraction of an hour.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 485,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A rectangular bandage is 12 cm long and 5 cm wide. A circular hole of radius 1 cm is cut from the center. What is the area of the remaining bandage? (Use \\(\\pi\\) \u2248 3.14)\n\nA) 56.86 cm\u00b2  B) 56.86 m\u00b2  C) 63.14 cm\u00b2  D) 60.00 cm\u00b2",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "56.86 m\u00b2",
+      "63.14 cm\u00b2",
+      "60.00 cm\u00b2"
+    ],
+    "explanation": "The area is found by subtracting the hole's area from the rectangle's total area. The rectangle is 60 square cm (12 times 5), and the hole is roughly 3.14 square cm (3.14 times 1 squared). Option A correctly calculates this difference as 56.86. Options B, C, and D are wrong because they likely fail to subtract the hole or use incorrect dimensions. This approach ensures the remaining bandage area is accurate.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 486,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A medication dosage is 5 mg per kg of body weight. If a patient weighs 154 pounds and 1 kg \u2248 2.2 pounds, what is the correct dose in mg?\n\nA) 350 mg  B) 770 mg  C) 340 mg  D) 154 mg",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "350 mg",
+      "770 mg",
+      "154 mg"
+    ],
+    "explanation": "To find the dose, first convert 154 pounds to kilograms by dividing by 2.2, which equals approximately 70 kg. Multiply this weight by the dosage rate of 5 mg per kg to get a total dose of 350 mg. Option C correctly states 350 mg, while A, B, and D provide incorrect values that fail to account for the proper unit conversion or multiplication steps required by the problem.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 487,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "What is the volume of a cylindrical medication container with radius 3 cm and height 10 cm? Use \\(\\pi\\) \u2248 3.14.\n\nA) 75.36 cm\u00b3  B) 150.72 cm\u00b3  C) 282.60 cm\u00b3  D) 942.48 cm\u00b3",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "75.36 cm\u00b3",
+      "150.72 cm\u00b3",
+      "942.48 cm\u00b3"
+    ],
+    "explanation": "The volume of a cylinder is calculated using V = \\(\\pi\\)r\u00b2h. Substituting the given values, V = 3.14 \u00d7 3\u00b2 \u00d7 10, which equals 282.6 cm\u00b3. Option C matches this result, making it the correct choice for the math problem. Options A, B, and D are incorrect because they do not align with the calculated volume of 282.6 cm\u00b3 derived from the formula and provided dimensions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 488,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A garden plot for medicinal herbs measures 24 feet by 12 feet. How many square yards is this area? (Note: 1 yard = 3 feet)\n\nA) 8  B) 12  C) 16  D) 24",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "12",
+      "16",
+      "24"
+    ],
+    "explanation": "To find the area in square yards, first calculate the area in square feet (24 feet \u00d7 12 feet = 288 square feet). Since 1 yard equals 3 feet, 1 square yard equals 9 square feet. Divide 288 by 9 to get 32 square yards, which matches option A. Option B is incorrect because it likely forgets to convert square feet to square yards. Option C is wrong as it may use the linear conversion factor incorrectly. Option D is incorrect because it might calculate the area in square feet instead of square yards.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 489,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "Convert 2.5 miles to meters, given that 1 mile \u2248 1.6 kilometers and 1 kilometer = 1000 meters.\n\nA) 4000 meters  B) 40000 meters  C) 400000 meters  D) 4000000 meters",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "4000 meters",
+      "40000 meters",
+      "4000000 meters"
+    ],
+    "explanation": "To convert 2.5 miles to meters, multiply by 1.6 km/mile, then by 1000 m/km: 2.5 \u00d7 1.6 \u00d7 1000 = 4000 meters. Option C states 4000 meters, which matches this calculation exactly. Option A suggests 2500 meters, ignoring the kilometer conversion factor. Option B claims 1600 meters, mistakenly using only the mile-to-kilometer ratio without scaling. Option D proposes 40000 meters, adding an extra zero incorrectly. Thus, C is the only accurate result for converting 2.5 miles to meters.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 490,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "An IV bag contains 1000 mL of fluid to be administered over 8 hours. What is the flow rate in mL per hour? If the IV set delivers 15 drops per mL, how many drops per minute should be administered?\n\nA) 125 mL/hr and 31 gtt/min  B) 100 mL/hr and 25 gtt/min  C) 125 mL/hr and 31.25 gtt/min  D) 130 mL/hr and 32 gtt/min",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "100 mL/hr and 25 gtt/min",
+      "125 mL/hr and 31.25 gtt/min",
+      "130 mL/hr and 32 gtt/min"
+    ],
+    "explanation": "To find the hourly rate, divide 1000 mL by 8 hours to get 125 mL/hour. For drops per minute, multiply 125 mL/hour by 15 drops/mL to get 1875 drops/hour, then divide by 60 minutes to get 31.25 drops/minute. Option A matches this calculation. Option B incorrectly uses \\(\\frac{1000}{60}\\). Option C forgets to convert hours to minutes. Option D multiplies instead of dividing for the final step.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 810,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A bar graph shows that 10 students prefer math, 15 prefer science, and 5 prefer English. How many students were surveyed in total?\nA) 20\nB) 25\nC) 30\nD) 35",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 20",
+      "B) 25",
+      "D) 35"
+    ],
+    "explanation": "To find the total surveyed, add the students who prefer math (10), science (15), and English (5). The sum is 30, making option C the correct choice. Option A is wrong because it subtracts 10 from 30 instead of adding all groups. Option B is incorrect as it only adds math and science while ignoring English. Option D is wrong because it adds 10 and 25, which does not match the given numbers.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 811,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows daily water intake: Monday 4 cups, Tuesday 6 cups, Wednesday 5 cups. What is the total intake?\nA) 13 cups\nB) 14 cups\nC) 15 cups\nD) 16 cups",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 13 cups",
+      "B) 14 cups",
+      "D) 16 cups"
+    ],
+    "explanation": "To find the total intake, add Monday's 4 cups, Tuesday's 6 cups, and Wednesday's 5 cups. This sum equals 15 cups, making option C the correct answer. Option A is wrong because 13 is less than the actual total. Option B is incorrect as 14 does not match the calculated sum. Option D is wrong since 16 exceeds the true total of 15 cups.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 812,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart shows 50% of a class passed a test. If 20 students are in the class, how many passed?\nA) 5\nB) 10\nC) 15\nD) 20",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 5",
+      "C) 15",
+      "D) 20"
+    ],
+    "explanation": "The question asks how many of 20 students passed if 50% passed. Option B is correct because 50% of 20 equals 10. Option A is wrong as 5 represents only 25% of the class. Option C is incorrect since 15 is 75% of the total students. Option D is false because 20 implies 100% passed, not 50%.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 813,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph shows a value increasing from 2 to 6. What is the increase?\nA) 2\nB) 3\nC) 4\nD) 5",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 2",
+      "B) 3",
+      "D) 5"
+    ],
+    "explanation": "The increase is found by subtracting the starting value of 2 from the ending value of 6, which equals 4. Option C correctly states this difference, while A and B are too low and D is too high. Since the graph explicitly shows the range from 2 to 6, the mathematical operation confirms the answer is 4.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 814,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows 8 apples and 12 oranges sold. How many fruits were sold total?\nA) 18\nB) 20\nC) 22\nD) 24",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 18",
+      "C) 22",
+      "D) 24"
+    ],
+    "explanation": "To find the total fruits sold, add the 8 apples and 12 oranges from the table data. Option B is correct because 8 plus 12 equals 20. Option A is wrong as it subtracts instead of adding to get 18. Option C is incorrect since it adds 10 and 12 to reach 22. Option D is false because it multiplies the numbers to get 24.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 815,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A graph shows 3 miles walked on Monday and 7 miles on Tuesday. What is the total distance?\nA) 8 miles\nB) 9 miles\nC) 10 miles\nD) 11 miles",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 8 miles",
+      "B) 9 miles",
+      "D) 11 miles"
+    ],
+    "explanation": "To find the total distance, add the 3 miles from Monday and the 7 miles from Tuesday shown on the graph. Option C is correct because 3 plus 7 equals 10 miles. Option A is wrong as 8 miles ignores the 7 miles walked. Option B is incorrect since 9 miles is not the sum of the two days. Option D is wrong because 11 miles exceeds the actual total distance walked.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 816,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A chart shows 12 boys and 8 girls. How many more boys than girls?\nA) 2\nB) 3\nC) 4\nD) 5",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 2",
+      "B) 3",
+      "D) 5"
+    ],
+    "explanation": "To find how many more boys than girls, subtract the 8 girls from the 12 boys, resulting in 4. Option C is correct because it matches this calculation. Option A is wrong as 2 is too low, B is incorrect since 3 is also too low, and D is wrong because 5 exceeds the actual difference. The question asks for the numerical gap between the two groups shown in the chart.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

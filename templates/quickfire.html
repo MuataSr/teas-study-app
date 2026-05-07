@@ -1,0 +1,293 @@
+{% extends "base.html" %}
+{% block title %}Quickfire — TEAS Study{% endblock %}
+
+{% block content %}
+<div class="quickfire">
+
+  <!-- Subject Picker -->
+  <div id="qf-picker" class="qf-picker">
+    <h1 class="qf-title">⚡ Quickfire</h1>
+    <p class="qf-subtitle">60 seconds. 5 lives. How high can you score?</p>
+    <div class="qf-subjects">
+      {% for slug, info in subjects.items() %}
+      <button class="qf-subject-card qf-card-{{ slug }}" onclick="startGame('{{ slug }}')">
+        <span class="qf-subject-icon">{% if slug == 'math' %}<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>{% elif slug == 'science' %}<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3h6v5.5l3.5 8a2 2 0 01-1.8 2.9H7.3a2 2 0 01-1.8-2.9L9 8.5V3z"/><line x1="9" y1="3" x2="15" y2="3"/><path d="M10 14h4"/></svg>{% elif slug == 'english' %}<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 3a2.83 2.83 0 114 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>{% elif slug == 'reading' %}<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z"/><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z"/></svg>{% endif %}</span>
+        <span class="qf-subject-name">{{ info.name }}</span>
+        <span class="qf-subject-hs" id="hs-{{ slug }}"></span>
+      </button>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Game View -->
+  <div id="qf-game" class="qf-game" style="display:none">
+    <div class="qf-hud">
+      <div class="qf-hud-item qf-timer">
+        <svg class="qf-timer-ring" viewBox="0 0 36 36">
+          <circle class="qf-timer-bg" cx="18" cy="18" r="15.9"/>
+          <circle class="qf-timer-fg" id="qf-timer-circle" cx="18" cy="18" r="15.9"/>
+        </svg>
+        <span id="qf-timer-text">60</span>
+      </div>
+      <div class="qf-hud-item qf-score">🏆 <span id="qf-score">0</span></div>
+      <div class="qf-hud-item qf-lives" id="qf-lives"></div>
+    </div>
+
+    <div class="qf-question-card" id="qf-question-card">
+      <div class="qf-question-text" id="qf-question-text"></div>
+      <div class="qf-options" id="qf-options"></div>
+    </div>
+
+    <div class="qf-feedback" id="qf-feedback" style="display:none"></div>
+  </div>
+
+  <!-- Results View -->
+  <div id="qf-results" class="qf-results" style="display:none">
+    <div id="qf-celebration" class="qf-celebration"></div>
+    <h2 class="qf-results-title" id="qf-results-title">Round Over!</h2>
+    <div class="qf-results-grid">
+      <div class="qf-stat">
+        <div class="qf-stat-value" id="qf-r-score">0</div>
+        <div class="qf-stat-label">Score</div>
+      </div>
+      <div class="qf-stat">
+        <div class="qf-stat-value" id="qf-r-accuracy">0%</div>
+        <div class="qf-stat-label">Accuracy</div>
+      </div>
+      <div class="qf-stat">
+        <div class="qf-stat-value" id="qf-r-qpm">0</div>
+        <div class="qf-stat-label">Q/min</div>
+      </div>
+      <div class="qf-stat">
+        <div class="qf-stat-value" id="qf-r-correct">0/0</div>
+        <div class="qf-stat-label">Correct</div>
+      </div>
+    </div>
+    <div id="qf-new-record" class="qf-new-record" style="display:none">
+      🏆 New High Score!
+    </div>
+    <div id="qf-high-score" class="qf-high-score" style="display:none">
+      Best: <span id="qf-hs-value">0</span>
+    </div>
+    <button class="qf-btn qf-btn-primary" onclick="backToPicker()">Play Again</button>
+  </div>
+
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+const GAME_DURATION = 60;
+const MAX_WRONG = 5;
+let sessionId = null;
+let timerInterval = null;
+let timeLeft = GAME_DURATION;
+let waiting = false; // prevent double-clicks during feedback
+
+// ── Load high scores on page load ──
+document.addEventListener("DOMContentLoaded", () => {
+  fetch("/api/quickfire/highscores")
+    .then(r => r.json())
+    .then(scores => {
+      for (const [slug, score] of Object.entries(scores)) {
+        const el = document.getElementById("hs-" + slug);
+        if (el && score > 0) el.textContent = "Best: " + score;
+      }
+    });
+});
+
+function startGame(subject) {
+  fetch("/api/quickfire/start", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({subject})
+  })
+  .then(r => r.json())
+  .then(data => {
+    if (data.error) { alert(data.error); return; }
+    sessionId = data.session_id;
+    showView("game");
+    renderQuestion(data.question);
+    updateHud(data);
+    startTimer();
+  });
+}
+
+function renderQuestion(q) {
+  document.getElementById("qf-question-text").innerHTML = q.text;
+  const optsEl = document.getElementById("qf-options");
+  optsEl.innerHTML = "";
+  const labels = q.labels || ["A", "B", "C", "D"];
+  (q.options || []).forEach((opt, i) => {
+    const btn = document.createElement("button");
+    btn.className = "qf-option-btn";
+    btn.innerHTML = "<span class='qf-opt-label'>" + labels[i] + "</span> " + opt;
+    btn.onclick = () => submitAnswer(labels[i]);
+    optsEl.appendChild(btn);
+  });
+  // Re-render math if KaTeX loaded
+  if (typeof renderMathInElement === "function") {
+    renderMathInElement(document.getElementById("qf-question-text"), {
+      delimiters: [{left: "\\(", right: "\\)", display: false}, {left: "\\[", right: "\\]", display: true}],
+      throwOnError: false
+    });
+  }
+}
+
+function submitAnswer(answer) {
+  if (waiting) return;
+  waiting = true;
+
+  fetch("/api/quickfire/answer", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({session_id: sessionId, answer: answer, time_left: timeLeft})
+  })
+  .then(r => r.json())
+  .then(data => {
+    if (data.error) { waiting = false; return; }
+
+    if (data.ended) {
+      stopTimer();
+      showResults(data);
+      return;
+    }
+
+    // Show brief feedback
+    showFeedback(data.correct);
+    updateHud(data);
+
+    setTimeout(() => {
+      hideFeedback();
+      renderQuestion(data.question);
+      waiting = false;
+    }, 350);
+  });
+}
+
+function showFeedback(correct) {
+  const el = document.getElementById("qf-feedback");
+  el.style.display = "block";
+  el.className = "qf-feedback qf-feedback-" + (correct ? "correct" : "wrong");
+  el.textContent = correct ? "+10" : "-5";
+  setTimeout(() => { el.style.display = "none"; }, 350);
+}
+function hideFeedback() {
+  document.getElementById("qf-feedback").style.display = "none";
+}
+
+function updateHud(data) {
+  document.getElementById("qf-score").textContent = data.score || 0;
+  // Lives
+  const livesEl = document.getElementById("qf-lives");
+  const wrong = data.wrong || 0;
+  let hearts = "";
+  for (let i = 0; i < MAX_WRONG; i++) {
+    hearts += i < (MAX_WRONG - wrong) ? "❤️" : "🖤";
+  }
+  livesEl.innerHTML = hearts;
+}
+
+// ── Timer ──
+function startTimer() {
+  timeLeft = GAME_DURATION;
+  updateTimerDisplay();
+  timerInterval = setInterval(() => {
+    timeLeft--;
+    updateTimerDisplay();
+    if (timeLeft <= 0) {
+      // Time's up — submit with time_left=0 to trigger end
+      if (!waiting) {
+        waiting = true;
+        fetch("/api/quickfire/answer", {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({session_id: sessionId, answer: "SKIP", time_left: 0})
+        }).then(r => r.json()).then(data => {
+          stopTimer();
+          if (data.ended) showResults(data);
+        });
+      }
+    }
+  }, 1000);
+}
+
+function stopTimer() {
+  clearInterval(timerInterval);
+  timerInterval = null;
+}
+
+function updateTimerDisplay() {
+  const text = document.getElementById("qf-timer-text");
+  const circle = document.getElementById("qf-timer-circle");
+  text.textContent = timeLeft;
+  const pct = (timeLeft / GAME_DURATION) * 100;
+  circle.style.strokeDasharray = pct + ", 100";
+  // Urgent styling
+  if (timeLeft <= 10) {
+    text.classList.add("qf-timer-urgent");
+    circle.style.stroke = "var(--danger, #e74c3c)";
+  } else {
+    text.classList.remove("qf-timer-urgent");
+    circle.style.stroke = "";
+  }
+}
+
+// ── Results ──
+function showResults(data) {
+  showView("results");
+  document.getElementById("qf-r-score").textContent = data.score;
+  document.getElementById("qf-r-accuracy").textContent = data.accuracy + "%";
+  document.getElementById("qf-r-qpm").textContent = data.qpm;
+  document.getElementById("qf-r-correct").textContent = data.correct + "/" + data.total;
+
+  if (data.is_new_high) {
+    document.getElementById("qf-new-record").style.display = "block";
+  } else {
+    document.getElementById("qf-new-record").style.display = "none";
+  }
+  if (data.high_score > 0) {
+    document.getElementById("qf-high-score").style.display = "block";
+    document.getElementById("qf-hs-value").textContent = data.high_score;
+  } else {
+    document.getElementById("qf-high-score").style.display = "none";
+  }
+
+  // Trigger celebrations based on accuracy
+  const celeb = document.getElementById("qf-celebration");
+  celeb.className = "qf-celebration";
+  if (data.accuracy === 100) {
+    celeb.classList.add("celebrate-perfect");
+  } else if (data.accuracy >= 90) {
+    celeb.classList.add("celebrate-confetti");
+  } else if (data.accuracy >= 70) {
+    celeb.classList.add("celebrate-good");
+  }
+
+  // Update title based on end reason
+  const titleEl = document.getElementById("qf-results-title");
+  if (data.reason === "5 wrong") titleEl.textContent = "5 Wrong — Game Over!";
+  else if (data.reason === "time") titleEl.textContent = "Time's Up!";
+  else titleEl.textContent = "All Questions Cleared!";
+}
+
+function backToPicker() {
+  showView("picker");
+  // Refresh high scores
+  fetch("/api/quickfire/highscores")
+    .then(r => r.json())
+    .then(scores => {
+      for (const [slug, score] of Object.entries(scores)) {
+        const el = document.getElementById("hs-" + slug);
+        if (el) el.textContent = score > 0 ? "Best: " + score : "";
+      }
+    });
+}
+
+function showView(view) {
+  document.getElementById("qf-picker").style.display = view === "picker" ? "" : "none";
+  document.getElementById("qf-game").style.display = view === "game" ? "" : "none";
+  document.getElementById("qf-results").style.display = view === "results" ? "" : "none";
+}
+</script>
+{% endblock %}

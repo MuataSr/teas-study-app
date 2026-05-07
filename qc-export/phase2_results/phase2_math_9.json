@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1644,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): The sorted list is 98.4, 98.5, 98.6, 98.6, 98.7, 98.8, 98.8, 98.9, 99.0, 99.0, 99.1, 99.2, 99.3, 100.4, 100.5. Position 8 is 98.9°F, not 99.0°F. The correct answer should be B (98.9°F), not C (99.0°F)."
+    ]
+  },
+  {
+    "id": 1645,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1740,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but recognizing that a×b = b×a is the commutative property is simple recall, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1744,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): Answer choice D has a typo — 'ssociative Property' instead of 'Associative Property'."
+    ]
+  },
+  {
+    "id": 1747,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but identifying the commutative property of addition is simple recall.",
+      "Rule 8 (Factual error): Answer choice A has a typo — 'ommulative property' instead of 'commutative property'."
+    ]
+  },
+  {
+    "id": 1748,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1749,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but dividing 0.5 by 0.25 is a single-step calculation."
+    ]
+  },
+  {
+    "id": 1753,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1754,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation misidentifies option letters — says 'Option B is wrong as it adds an extra zero' (describing 0.075 which is actually C), and 'Option C incorrectly treats the fraction as a mixed number' (describing 0.34 which is actually D).",
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but converting 3/4 to 0.75 is simple recall."
+    ]
+  },
+  {
+    "id": 1756,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation assigns wrong option letters to values. It says 'Option A (1/4 cups)' but A is 3/4 cups, 'Option B (3/4 cups)' but B is 5/4 cups (the correct answer), and 'Option C (1 cup)' but C is 1/4 cups."
+    ]
+  },
+  {
+    "id": 1758,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation says 'Option B is incorrect because it fails to convert the denominator' but Option B (1 1/4) is the correct answer. The explanation contradicts itself."
+    ]
+  },
+  {
+    "id": 1759,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but adding 250 + 150 + 50 is simple arithmetic, not complex multi-step reasoning."
+    ]
+  },
+  {
+    "id": 1760,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1762,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): Recording every 4 hours over a 24-hour shift including start and end times yields points at 0, 4, 8, 12, 16, 20, 24 = 7 data points. The explanation incorrectly claims hour 20 is 'the end of the 24-hour block' and the answer of 6 is wrong."
+    ]
+  },
+  {
+    "id": 1764,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1765,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1766,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1767,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but adding 20 + 80 = 100 is single-step simple addition."
+    ]
+  },
+  {
+    "id": 1768,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but adding 250 + 125 = 375 is single-step simple addition."
+    ]
+  },
+  {
+    "id": 1769,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but adding 125 + 40 = 165 is single-step simple addition."
+    ]
+  },
+  {
+    "id": 1770,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation says distractor '9' results from 'simply adding 0.9 five times' but adding 0.9 five times equals 4.5, not 9. Also references distractor '5' which is not among the answer options (options are 9, 45, 4.5, 5.4)."
+    ]
+  },
+  {
+    "id": 1771,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but dividing 250 by 125 is a single-step calculation."
+    ]
+  },
+  {
+    "id": 1772,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): Concentration is 500 mg per 2 mL = 250 mg/mL. For a 250 mg dose: 250/250 = 1 mL. The correct answer should be 1.0 mL (option C), not 0.5 mL (option D). The explanation compounds this by saying '1 mL divided by 2 = 0.5 mL' which is unjustified."
+    ]
+  },
+  {
+    "id": 1773,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1774,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1775,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation discusses distractors '400 mL', '625 mL', and '450 mL' — none of which are answer options. The actual options are A) 250, B) 375, C) 125, D) 500."
+    ]
+  },
+  {
+    "id": 1779,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation references '250 mL' as a distractor, but 250 mL is not one of the answer options (A=125, B=100, C=5, D=50)."
+    ]
+  },
+  {
+    "id": 1780,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1782,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation references 'Option 100.2' which is not among the answer options (A=100.5, B=101, C=100, D=99)."
+    ]
+  },
+  {
+    "id": 1783,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation says 'Answer choice B (15)' but B is actually 14. Then says 'C and D represent the mode or the lowest value' but C is 14.75 — the correct answer. The explanation misidentifies option letters and incorrectly calls the correct answer a distractor."
+    ]
+  },
+  {
+    "id": 1787,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation misidentifies all option letters. Says 'Option A (16.0)' but A is 15.4 (the correct answer), 'Option B (15.0)' but B is 14.8, and 'Option C (14.8)' but C is 16.0. Every distractor letter is wrong."
+    ]
+  },
+  {
+    "id": 1904,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): Answer A ((m+n)/1000) and answer D (m/1000 + n/1000) are mathematically identical expressions, making two choices simultaneously correct."
+    ]
+  },
+  {
+    "id": 1905,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but identifying that 250 + 50 = 300 is simple single-step addition."
+    ]
+  },
+  {
+    "id": 1906,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1907,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1908,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): The question asks for 'total volume administered per hour' but the answer options use the bag volumes (500 mL, 750 mL) rather than the flow rate. The hourly total for two infusions at 2 mL/hr each is 4 mL/hr — none of the expressions correctly model this. Additionally, options A (2*(500+750)), B (2*500+2*750), and D ((500+750)*2) all evaluate to the same value (2500), making them mathematically equivalent."
+    ]
+  },
+  {
+    "id": 1909,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1910,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1911,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but converting 1/4 teaspoon to mL by dividing 5 by 4 is a single-step conversion."
+    ]
+  },
+  {
+    "id": 1912,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1913,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1914,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but dividing 120 by 60 is a single-step calculation."
+    ]
+  },
+  {
+    "id": 1915,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): Answer choice B has a typo — 'rithmetic sequence' instead of 'arithmetic sequence'."
+    ]
+  },
+  {
+    "id": 1916,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 (Factual error): If 2 mL = 10 mg, concentration = 5 mg/mL. For 0.5 mL: 0.5 × 5 = 2.5 mg, not 1 mg. The explanation's cross-multiplication is incorrect (10/2 = x/0.5 gives x = 2.5, not 1). The correct answer 2.5 mg is not even among the options."
+    ]
+  },
+  {
+    "id": 1917,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1918,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3 (Explanation mismatch): Explanation says 'Option C (125 tablets) vastly exceeds the prescription' but Option C is 50 tablets — the correct answer. Option D is 125 tablets."
+    ]
+  },
+  {
+    "id": 1919,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2019,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but recognizing a +5 pattern and adding 5 to 135 is simple single-step arithmetic."
+    ]
+  },
+  {
+    "id": 2020,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but recognizing a +5 linear pattern and computing the next term is simple single-step arithmetic."
+    ]
+  },
+  {
+    "id": 2021,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 (Difficulty mismatch): Labeled 'hard' but substituting x=4 into 3x+5 is basic two-operation arithmetic, not complex multi-step reasoning."
+    ]
+  }
+]

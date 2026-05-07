@@ -1,0 +1,752 @@
+[
+  {
+    "id": 384,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Despite the widespread adoption of smartphones, many teachers report increased burnout and frustration. The devices, intended to enhance learning, often become sources of distraction. Students frequently check social media during lessons, and teachers spend additional time monitoring screen use rather than teaching. Several educators have called for clearer district policies on classroom technology.\"\n\nWhich of the following best summarizes the passage?\n\nB) All teachers oppose technology in the classroom.\nC) Smartphones have improved student test scores significantly.\nD) Districts have already banned all devices in schools.\n\nA) B is wrong because the passage says 'many teachers,' not 'all\nB) All teachers oppose technology in the classroom.\nC) Smartphones have improved student test scores significantly.\nD) Districts have already banned all devices in schools.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) All teachers oppose technology in the classroom.",
+      "C) Smartphones have improved student test scores significantly.",
+      "D) Districts have already banned all devices in schools."
+    ],
+    "explanation": "The passage presents a cause-and-effect chain: smartphones were adopted to enhance learning, but instead they increase teacher burnout and student distraction, prompting calls for clearer policies. Option A captures this central tension. B is wrong because the passage says 'many teachers,' not 'all.' C contradicts the passage\u2014there's no mention of improved test scores. D is false; the passage says educators have 'called for' policies, meaning none exist yet.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 386,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Several school districts have implemented smartphone bans during instructional time, citing improved focus and fewer classroom distractions. However, a survey of 500 teachers revealed that 62% still spend class time asking students to put phones away, suggesting that enforcement remains inconsistent. Some educators argue that teaching responsible use is more effective than outright bans.\"\n\nWhich detail from the passage best supports the claim that devices contribute to teacher frustration?\n\nA) Districts have implemented smartphone bans during instruction.\nB) Some educators prefer teaching responsible phone use.\nD) The survey included 500 teachers from multiple districts.\n\nA) Districts have implemented smartphone bans during instruction.\nB) Some educators prefer teaching responsible phone use.\nC) The statistic that 62% of teachers spend class time managing phones proves devices remain a persistent issue despite rules\nD) The survey included 500 teachers from multiple districts.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Districts have implemented smartphone bans during instruction.",
+      "B) Some educators prefer teaching responsible phone use.",
+      "D) The survey included 500 teachers from multiple districts."
+    ],
+    "explanation": "Option C is right because the passage explicitly links the high frequency of phone requests to the reality that bans fail to stop distractions, implying teacher frustration. The statistic that 62% of teachers spend class time managing phones proves devices remain a persistent issue despite rules. Option A is wrong because implementing bans actually suggests a proactive solution, not necessarily frustration with the devices themselves. Option B is incorrect as it discusses a pedagogical preference for teaching responsibility, which does not indicate frustration. Option D is wrong because the survey size only establishes the study's scope, offering no direct evidence of teacher feelings toward phones.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 387,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"The heart is a muscular organ roughly the size of a closed fist. It is situated between the lungs in the mediastinum.\" Which of the following is true based *only* on the passage?\n\nA) The heart pumps blood throughout the entire body.\nC) The heart is roughly the same size as a human lung.\nD) The heart is the largest organ in the human body.\n\nA) The heart pumps blood throughout the entire body.\nB) A, while true in reality, is not stated in this passage\u2014the passage never mentions pumping blood\nC) The heart is roughly the same size as a human lung.\nD) The heart is the largest organ in the human body.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The heart pumps blood throughout the entire body.",
+      "C) The heart is roughly the same size as a human lung.",
+      "D) The heart is the largest organ in the human body."
+    ],
+    "explanation": "The passage gives two anatomical facts: the heart is roughly fist-sized and located in the mediastinum between the lungs. Option B directly paraphrases the second fact. A, while true in reality, is not stated in this passage\u2014the passage never mentions pumping blood. C is wrong because the passage compares the heart's size to a fist, not a lung. D is not supported\u2014the passage gives no comparison to other organs.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 389,
+    "subject": "reading",
+    "topic": "Reading",
+    "question_text": "Passage: \"The transition from printed textbooks to digital learning platforms has been gradual but significant. Early adopters faced technical glitches and steep learning curves, and some students struggled to adapt. However, recent studies show that digital platforms with interactive features improve engagement by 30% compared to static textbooks. Schools that invested in teacher training reported the smoothest transitions.\"\n\nWhat is the author's point of view regarding digital learning platforms?\n\nA) Strongly opposed to all forms of digital learning.\nB) Fully supportive without any reservations.\nD) Completely neutral with no opinion expressed.\n\nA) Strongly opposed to all forms of digital learning.\nB) Fully supportive without any reservations.\nC) Option A is wrong since the passage highlights significant benefits like improved engagement rather than opposition\nD) Completely neutral with no opinion expressed.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Strongly opposed to all forms of digital learning.",
+      "B) Fully supportive without any reservations.",
+      "D) Completely neutral with no opinion expressed."
+    ],
+    "explanation": "Option C is right because the author acknowledges early technical glitches and student struggles before citing recent studies showing a 30% engagement boost, indicating a balanced, hopeful view. Option A is wrong since the passage highlights significant benefits like improved engagement rather than opposition. Option B is incorrect because the mention of early difficulties and steep learning curves proves the author has reservations. Option D fails because the author clearly favors digital platforms over static textbooks through comparative data and specific examples.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 390,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"To properly plant a tree, the gardener must first dig a hole twice as wide as the root ball. Next, they loosen the soil at the bottom to encourage root growth. The tree is then placed in the hole, ensuring the root flare sits above ground level. Finally, the gardener backfills with soil and waters thoroughly.\"\n\nAccording to the passage, what must occur immediately before the gardener backfills with soil?\n\nB) The hole must be dug three times as wide.\nC) The soil must be tested for pH levels.\nD) The gardener must add fertilizer to the hole.\n\nA) The sequence shows loosening soil, placing the tree, and then backfilling\nB) The hole must be dug three times as wide.\nC) The soil must be tested for pH levels.\nD) The gardener must add fertilizer to the hole.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The hole must be dug three times as wide.",
+      "C) The soil must be tested for pH levels.",
+      "D) The gardener must add fertilizer to the hole."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that placing the tree with the root flare above ground level is the final step before backfilling. The sequence shows loosening soil, placing the tree, and then backfilling. Option B is wrong as the text specifies digging a hole twice as wide, not three times. Option C is incorrect because testing soil pH is never mentioned in the provided instructions. Option D is also wrong since adding fertilizer is not listed in the planting procedure described in the passage.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 391,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Planting a tree requires careful preparation. First, select a site with adequate sunlight and well-draining soil. Next, dig a hole twice as wide as the root ball but no deeper than the root mass itself. Gently loosen the soil along the walls of the hole to encourage root growth. Place the tree in the center, ensuring the root flare sits slightly above ground level. Backfill with the original soil, water thoroughly, and apply a layer of mulch.\"\n\nAccording to the passage, what must occur immediately before the gardener loosens the soil?\n\nA) The gardener must first water the planting site.\nB) The gardener must select a site with full shade.\nD) The gardener must apply fertilizer to the hole.\n\nA) The gardener must first water the planting site.\nB) The gardener must select a site with full shade.\nC) The text lists digging the hole as the second instruction, directly followed by the instruction to loosen the soil along the hole's walls\nD) The gardener must apply fertilizer to the hole.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The gardener must first water the planting site.",
+      "B) The gardener must select a site with full shade.",
+      "D) The gardener must apply fertilizer to the hole."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that digging the hole occurs before loosening soil, which is the immediate preceding step in the sequence. The text lists digging the hole as the second instruction, directly followed by the instruction to loosen the soil along the hole's walls. Option A is wrong as watering happens after backfilling, not before digging. Option B is incorrect because the passage requires adequate sunlight, not full shade. Option D is wrong since no mention of applying fertilizer exists in the provided text.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 392,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Passage: \"Voter turnout in midterm elections is a multifaceted issue. Factors include lack of awareness about candidates, inconvenience of polling locations, and skepticism about whether individual votes matter. Research shows that mailing reminder postcards and extending early voting periods can increase participation by up to 8%.\"\n\nBased on the passage, which factor most directly affects voter turnout?\n\nA) The color of the ballot.\nC) The number of political parties.\nD) Weather conditions on election day only.\n\nA) The color of the ballot.\nB) The text further supports this by noting that mailing reminders and extending voting periods directly increase participation\nC) The number of political parties.\nD) Weather conditions on election day only.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The color of the ballot.",
+      "C) The number of political parties.",
+      "D) Weather conditions on election day only."
+    ],
+    "explanation": "Option B is correct because the passage explicitly lists \"lack of awareness about candidates\" and \"inconvenience of polling locations\" as key factors influencing turnout, which aligns with awareness and logistics. The text further supports this by noting that mailing reminders and extending voting periods directly increase participation. Option A is wrong because the color of the ballot is never mentioned in the text. Option C is incorrect as the number of political parties is not discussed as a variable affecting voter behavior. Option D fails because weather conditions are not cited in the passage, and the text specifies early voting periods rather than election day weather.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 393,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The human body's immune response is a breathtaking symphony. When a pathogen breaches the perimeter, the macrophages act as the first violins, sounding the initial alarm. The T-cells then join the chorus, harmonizing to destroy the infected cells.\" What type of figurative language is primarily used in this passage?\n\nB) Simile\nC) Personification\nD) Hyperbole\n\nA) \" The text equates the biological process to a musical performance, stating the response \"is\" a \"breathtaking symphony\nB) Simile\nC) Personification\nD) Hyperbole",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Simile",
+      "C) Personification",
+      "D) Hyperbole"
+    ],
+    "explanation": "Option A is right because the passage directly compares the immune response to a symphony using \"is,\" a definitive metaphor marker, without \"like\" or \"as.\" The text equates the biological process to a musical performance, stating the response \"is\" a \"breathtaking symphony.\" Option B is wrong because a simile requires \"like\" or \"as\" to compare two things, which this sentence lacks. Option C is incorrect since personification attributes human traits to non-humans, whereas \"violin\" and \"chorus\" are musical instruments and groups, not human characteristics. Option D is wrong because hyperbole involves extreme exaggeration for effect, but describing the immune system as a symphony is a direct comparison, not an overstatement of scale.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 394,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"When a pathogen enters the body, the immune system responds like a well-trained military unit. White blood cells called macrophages are the first responders, engulfing and destroying invading organisms. If the threat is too large, they send chemical signals that recruit T-cells and B-cells. B-cells produce antibodies that lock onto specific pathogens, while T-cells directly attack infected cells. This coordinated response is why vaccines work \u2014 they train the immune system to recognize threats before they cause illness.\"\n\nWhat is the author's primary purpose in this passage?\n\nB) To argue against the use of vaccines in medicine.\nC) To persuade readers to become medical researchers.\nD) To describe the history of immunology research.\n\nA) The text focuses on describing this mechanism rather than debating it\nB) To argue against the use of vaccines in medicine.\nC) To persuade readers to become medical researchers.\nD) To describe the history of immunology research.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To argue against the use of vaccines in medicine.",
+      "C) To persuade readers to become medical researchers.",
+      "D) To describe the history of immunology research."
+    ],
+    "explanation": "Option A is right because the passage explicitly compares the immune system to a \"well-trained military unit\" to simplify how macrophages, T-cells, and B-cells function, making a complex biological process accessible. The text focuses on describing this mechanism rather than debating it. Option B is wrong as the author never argues against vaccines; instead, the final sentence states that vaccines work by training the immune system. Option C is incorrect because there is no mention of medical researchers or a call to pursue that career path. Option D fails because the passage describes current biological mechanisms, not the historical timeline of immunology research.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 395,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Many believe that social media platforms are completely harmless. *However*, research studies have linked excessive social media use to increased anxiety, depression, and sleep disruption in teenagers. While the platforms themselves offer benefits like community connection, the dose matters. Experts recommend setting daily time limits.\"\n\nHow does the author use the word 'However' in this passage?\n\nB) To emphasize agreement with popular opinion.\nC) To indicate the passage is ending.\nD) To list additional benefits of social media.\n\nA) The author uses \"However\" to signal a sharp contrast between the initial claim that social media is harmless and the subsequent research showing it causes anxiety and depression.\nB) To emphasize agreement with popular opinion.\nC) To indicate the passage is ending.\nD) To list additional benefits of social media.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To emphasize agreement with popular opinion.",
+      "C) To indicate the passage is ending.",
+      "D) To list additional benefits of social media."
+    ],
+    "explanation": "The author uses \"However\" to signal a sharp contrast between the initial claim that social media is harmless and the subsequent research showing it causes anxiety and depression. This transition word effectively pivots the reader from the popular belief to the scientific evidence presented in the text. Option B is incorrect because the word explicitly signals disagreement rather than agreement with the popular opinion. Option C is wrong as the passage continues with further details about benefits and expert recommendations after the transition. Option D is inaccurate because the word introduces negative health outcomes, not a list of additional benefits.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 396,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Excessive screen time has been linked to sleep disruption in adolescents. Blue light from devices suppresses melatonin production, making it harder to fall asleep. Consequently, teens who use phones before bed report poorer sleep quality. Therefore, experts recommend turning off screens at least one hour before bedtime. As a result, many parents now enforce screen-free evenings.\"\n\nWhich of the following signal words in this passage most strongly indicates a cause/effect relationship?\n\nA) However.\nC) Similarly.\nD) For example.\n\nA) However.\nB) The passage structure shows that the previous sentence describes the problem, while \"Consequently\" introduces the expert solution as a direct result\nC) Similarly.\nD) For example.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) However.",
+      "C) Similarly.",
+      "D) For example."
+    ],
+    "explanation": "Option B, \"Consequently,\" correctly identifies a cause/effect relationship by explicitly linking the suppression of melatonin and poor sleep quality to the recommendation to turn off screens. The passage structure shows that the previous sentence describes the problem, while \"Consequently\" introduces the expert solution as a direct result. Option A, \"However,\" signals a contrast or contradiction, which does not fit the logical flow where the recommendation follows the evidence. Option C, \"Similarly,\" suggests a comparison between two unrelated ideas, whereas the text presents a single chain of events. Finally, Option D, \"For example,\" would introduce a specific instance of a general rule, but the text provides a logical deduction rather than an illustration.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 397,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The shift from printed textbooks to digital learning platforms was not without growing pains. Initially, teachers found the software confusing and the content incomplete. Training sessions were inconsistent, and technical glitches disrupted lessons.\"\n\nWhat is the author's tone in this passage?\n\nA) Enthusiastic and promotional.\nC) Hostile and dismissive.\nD) Confused and uncertain.\n\nA) Enthusiastic and promotional.\nB) The author simply reports facts about inconsistent training and disrupted lessons to inform the reader about the transition's reality\nC) Hostile and dismissive.\nD) Confused and uncertain.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Enthusiastic and promotional.",
+      "C) Hostile and dismissive.",
+      "D) Confused and uncertain."
+    ],
+    "explanation": "Option B is right because the passage objectively lists both the benefits of digital learning and the specific problems like confusing software and technical glitches without taking a side. The author simply reports facts about inconsistent training and disrupted lessons to inform the reader about the transition's reality. Option A is wrong as the text contains no praise or excitement, only a neutral description of difficulties. Option C is incorrect because the tone is not angry or rejecting; it acknowledges the shift happened despite the issues. Option D is wrong since the author states facts clearly rather than expressing personal confusion or uncertainty about the topic.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 399,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Antibacterial cleaners are ineffective against viruses. Viruses replicate by hijacking host cells, a mechanism entirely distinct from bacterial reproduction. Antibacterial agents target bacterial cell walls, which viruses do not possess. Therefore, using antibacterial products during a viral outbreak provides a false sense of security.\"\n\nWhat is the main argument of this passage?\n\nA) All cleaning products are equally effective.\nB) Viruses and bacteria are identical in structure.\nD) Cleaning provides no benefit in any situation.\n\nA) All cleaning products are equally effective.\nB) Viruses and bacteria are identical in structure.\nC) The text explicitly states these cleaners are ineffective against viruses because they target bacterial cell walls, which viruses lack\nD) Cleaning provides no benefit in any situation.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) All cleaning products are equally effective.",
+      "B) Viruses and bacteria are identical in structure.",
+      "D) Cleaning provides no benefit in any situation."
+    ],
+    "explanation": "Option C correctly identifies the passage's core argument that antibacterial products fail against viruses and create a false sense of security. The text explicitly states these cleaners are ineffective against viruses because they target bacterial cell walls, which viruses lack. This logical gap directly supports the conclusion that relying on them during outbreaks is misguided.\n\nOption A is incorrect because the passage never compares the effectiveness of different cleaning products, focusing solely on the failure of antibacterial agents against viruses. Option B contradicts the text, which clearly distinguishes viral replication from bacterial reproduction and notes viruses lack cell walls. Option D is too broad and unsupported, as the passage implies cleaning has value but specifically warns against the false security of antibacterial products during viral events.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 400,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "In the antibacterial cleaner passage, the phrase \"entirely distinct\" is used to describe the relationship between viral and bacterial reproduction. What does this phrase suggest?\n\nA) The two processes are exactly the same.\nC) The two processes are somewhat similar.\nD) The two processes are difficult to compare.\n\nA) The two processes are exactly the same.\nB) This directly supports the idea that the processes function independently without overlap\nC) The two processes are somewhat similar.\nD) The two processes are difficult to compare.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The two processes are exactly the same.",
+      "C) The two processes are somewhat similar.",
+      "D) The two processes are difficult to compare."
+    ],
+    "explanation": "Option B is correct because \"entirely distinct\" explicitly means completely separate or different, indicating no meaningful similarity between viral and bacterial reproduction. This directly supports the idea that the processes function independently without overlap. Option A is wrong because \"exactly the same\" contradicts the word \"distinct,\" which implies total difference rather than identity. Option C is incorrect since \"somewhat similar\" ignores the absolute nature of \"entirely,\" suggesting a partial connection that does not exist here. Option D is wrong because \"difficult to compare\" implies a lack of clarity, whereas the text provides a clear distinction, making the comparison straightforward despite the differences.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 401,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Which of the following best describes the organizational pattern of a passage that begins with a broad definition of epidemiology, narrows down to a specific outbreak, and then details the step-by-step investigation of that outbreak?\n\nA) Specific to General\nC) Cause-Effect\nD) Chronological Order\n\nA) Specific to General\nB) Option A is wrong because it reverses this order, starting with the specific outbreak rather than the broad definition\nC) Cause-Effect\nD) Chronological Order",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Specific to General",
+      "C) Cause-Effect",
+      "D) Chronological Order"
+    ],
+    "explanation": "Option B is right because the passage explicitly starts with a broad definition of epidemiology before narrowing to a specific outbreak and detailing its investigation, which matches the general-to-specific flow. Option A is wrong because it reverses this order, starting with the specific outbreak rather than the broad definition. Option C is incorrect as the text focuses on describing the investigation steps, not linking a cause directly to an effect. Option D is wrong because while steps are mentioned, the primary structure relies on narrowing the scope from general concepts to a specific case rather than a strict timeline.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 402,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"After the new public transit line opened, commute times in the downtown area decreased by 15%. Therefore, the city council concluded that the transit line was responsible for the improvement. However, during the same period, three major employers shifted to remote work, reducing downtown traffic significantly.\"\n\nWhich of the following best describes the flaw in the city council's conclusion?\n\nA) The council did not measure commute times accurately.\nC) The transit line was never actually built.\nD) The employers were the ones who requested the transit line.\n\nA) The council did not measure commute times accurately.\nB) The passage explicitly states this occurred during the same period as the transit line opening, meaning the improvement in commute times cannot be solely attributed to the new line\nC) The transit line was never actually built.\nD) The employers were the ones who requested the transit line.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The council did not measure commute times accurately.",
+      "C) The transit line was never actually built.",
+      "D) The employers were the ones who requested the transit line."
+    ],
+    "explanation": "Option B correctly identifies that the council ignored a confounding variable, specifically the shift to remote work by major employers, which independently reduced traffic. The passage explicitly states this occurred during the same period as the transit line opening, meaning the improvement in commute times cannot be solely attributed to the new line. Option A is incorrect because the passage provides no evidence suggesting inaccurate measurement of commute times. Option C is wrong as the text confirms the transit line actually opened, making its non-existence impossible. Option D is incorrect because the passage never mentions employer requests for the transit line, rendering this detail irrelevant to the logical flaw.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 403,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"We must either completely ban single-use plastics in all restaurants, or our oceans will be irreversibly destroyed. There is no middle ground. Every piece of plastic ever produced still exists in some form, and the environmental damage is accelerating beyond recovery.\"\n\nWhich logical fallacy is present in this argument?\n\nB) Ad hominem \u2014 attacking the character of opponents.\nC) Straw man \u2014 misrepresenting the opposing position.\nD) Circular reasoning \u2014 the conclusion restates the premise.\n\nA) The speaker presents only two options\u2014a complete ban or irreversible ocean destruction\u2014and explicitly says 'there is no middle ground.' This is a textbook false dilemma because intermediate solutions exist (e.g., phased reductions, recycling programs, biodegradable alternatives).\nB) Ad hominem \u2014 attacking the character of opponents.\nC) Straw man \u2014 misrepresenting the opposing position.\nD) Circular reasoning \u2014 the conclusion restates the premise.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Ad hominem \u2014 attacking the character of opponents.",
+      "C) Straw man \u2014 misrepresenting the opposing position.",
+      "D) Circular reasoning \u2014 the conclusion restates the premise."
+    ],
+    "explanation": "The speaker presents only two options\u2014a complete ban or irreversible ocean destruction\u2014and explicitly says 'there is no middle ground.' This is a textbook false dilemma because intermediate solutions exist (e.g., phased reductions, recycling programs, biodegradable alternatives). B is wrong because no person is attacked. C doesn't apply since no opposing argument is misrepresented. D doesn't fit because the conclusion (ban plastics) doesn't simply restate the premise (oceans are damaged).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 404,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A student is researching the efficacy of a new diet pill. They find two sources. Source A is a peer-reviewed article in the *Journal of the American Medical Association* (JAMA) detailing a double-blind study with 5,000 participants. Source B is a blog post by a celebrity who lost weight while taking the pill. Which source is more credible and why?\n\nA) Source A, because peer-reviewed studies with large samples provide more reliable evidence than personal anecdotes.\nB) Source B, because personal experience is more relatable than clinical studies.\nC) Both sources are equally credible since they both discuss the diet pill.\nD) Neither source is credible because weight loss studies are inherently biased.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Source B, because personal experience is more relatable than clinical studies.",
+      "C) Both sources are equally credible since they both discuss the diet pill.",
+      "D) Neither source is credible because weight loss studies are inherently biased."
+    ],
+    "explanation": "Source A is superior because it employs a double-blind study with 5,000 participants, ensuring rigorous methodology and minimizing bias through peer review in JAMA. This scientific approach provides reliable evidence of efficacy, unlike Source B which relies solely on a celebrity's personal anecdote that lacks statistical validity. Option B is incorrect because personal experience is subjective and not a substitute for clinical data. Option C fails because the sources differ vastly in credibility due to their distinct methodologies and publication standards. Option D is wrong as it incorrectly dismisses all weight loss research, ignoring the high credibility of well-conducted studies like the one in Source A.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 405,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A argues that 12-hour nursing shifts improve patient continuity of care. Passage B argues that 12-hour shifts lead to nurse fatigue and increased medical errors. How do the passages relate to one another?\n\nA) Both passages agree that 12-hour shifts are beneficial for nurses.\nC) The passages contradict each other's factual claims about nurse fatigue.\nD) Only Passage B presents a valid argument supported by evidence.\n\nA) Both passages agree that 12-hour shifts are beneficial for nurses.\nB) This demonstrates opposing views using different evaluation criteria rather than a single shared conclusion\nC) The passages contradict each other's factual claims about nurse fatigue.\nD) Only Passage B presents a valid argument supported by evidence.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Both passages agree that 12-hour shifts are beneficial for nurses.",
+      "C) The passages contradict each other's factual claims about nurse fatigue.",
+      "D) Only Passage B presents a valid argument supported by evidence."
+    ],
+    "explanation": "Option B is correct because both texts discuss 12-hour shifts but highlight conflicting outcomes: Passage A emphasizes patient continuity, while Passage B focuses on nurse fatigue and errors. This demonstrates opposing views using different evaluation criteria rather than a single shared conclusion. The other options fail because neither passage explicitly claims shifts are beneficial for nurses, making A incorrect. Option C is wrong as the passages debate the net effect of shifts rather than contradicting specific factual claims about fatigue itself. Finally, D is invalid because Passage A offers a logical argument regarding patient care, so it is not the only valid perspective presented.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 406,
+    "subject": "reading",
+    "topic": "Reading",
+    "question_text": "Passage: \"Handwashing remains the cornerstone of infection control. It is simple, cost-effective, and saves lives. Every healthcare worker must comply with hand hygiene protocols.\" Which of the following is an opinion expressed in the passage?\n\nA) Handwashing is simple and cost-effective.\nB) Handwashing saves lives.\nC) Handwashing is the cornerstone of infection control.\n\nA) Handwashing is simple and cost-effective.\nB) Handwashing saves lives.\nC) Handwashing is the cornerstone of infection control.\nD) Options A, B, and C are factual claims that can be objectively tested or proven through data regarding cost, mortality rates, and infection statistics",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Handwashing is simple and cost-effective.",
+      "B) Handwashing saves lives.",
+      "C) Handwashing is the cornerstone of infection control."
+    ],
+    "explanation": "Option D is the only opinion because it prescribes a mandatory duty (\"must comply\") that reflects a value judgment about healthcare worker responsibility rather than a verifiable fact. Options A, B, and C are factual claims that can be objectively tested or proven through data regarding cost, mortality rates, and infection statistics. While the passage presents these facts to support the argument, the requirement for compliance represents the author's subjective stance on necessary behavior. Therefore, D stands out as the subjective assertion within the text.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 407,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A survey of 50 people at a local gym found that 90% prefer working out in the morning. Therefore, 90% of all adults prefer morning workouts.\" What is the primary weakness of this argument?\n\nA) The survey should have been conducted online instead of in person.\nB) 90% is too low a percentage to draw any meaningful conclusion.\nD) Gym-goers are the most qualified people to assess workout preferences.\n\nA) The survey should have been conducted online instead of in person.\nB) 90% is too low a percentage to draw any meaningful conclusion.\nC) Option A is wrong because the survey location does not inherently invalidate the data\nD) Gym-goers are the most qualified people to assess workout preferences.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The survey should have been conducted online instead of in person.",
+      "B) 90% is too low a percentage to draw any meaningful conclusion.",
+      "D) Gym-goers are the most qualified people to assess workout preferences."
+    ],
+    "explanation": "The argument fails because it generalizes a specific group to all adults without justification. The passage explicitly states the survey covered only 50 people at a gym, making the sample too small and biased toward fitness enthusiasts. Option C correctly identifies this flaw, as gym-goers do not represent the general adult population. Option A is wrong because the survey location does not inherently invalidate the data. Option B is incorrect since 90% is a high percentage, not a low one, and does not preclude conclusions from the sample. Option D is false because being gym-goers makes them less qualified to represent the entire population of adults, not more.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 408,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Read the following statement: \"Water is essential for human survival; therefore, drinking exactly 8 glasses of water a day is the only way to stay healthy.\"\n\nWhich of the following best describes the logical weakness in this statement?\n\nA) The statement contains no factual claims.\nB) The author uses emotional language to manipulate readers.\nD) The argument is supported by multiple peer-reviewed studies.\n\nA) The statement contains no factual claims.\nB) The author uses emotional language to manipulate readers.\nC) Option A is wrong because the sentence explicitly makes factual claims about survival and hydration requirements\nD) The argument is supported by multiple peer-reviewed studies.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The statement contains no factual claims.",
+      "B) The author uses emotional language to manipulate readers.",
+      "D) The argument is supported by multiple peer-reviewed studies."
+    ],
+    "explanation": "The statement correctly identifies that water is vital, yet it erroneously concludes that exactly eight glasses is the sole method for health. Option C is right because the author takes a broad truth and forces it into an arbitrary, unproven rule without evidence. Option A is wrong because the sentence explicitly makes factual claims about survival and hydration requirements. Option B is incorrect as the text lacks emotional or manipulative language, relying instead on logic. Option D is false because the argument offers no citations or studies to support its rigid conclusion.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 409,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"Dr. Smith, a leading cardiologist, claims that Chocolate Cheerios are the optimal breakfast for heart health. However, Dr. Smith is a paid consultant for the cereal's manufacturer.\" How does this information affect the credibility of Dr. Smith's claim?\n\nA) It proves that Chocolate Cheerios are unhealthy and should not be consumed.\nC) It has no effect on credibility because Dr. Smith is still a cardiologist.\nD) It strengthens the claim because doctors are always trustworthy sources.\n\nA) It proves that Chocolate Cheerios are unhealthy and should not be consumed.\nB) Smith is a paid consultant, creating a conflict of interest that suggests financial motives could bias his scientific objectivity\nC) It has no effect on credibility because Dr. Smith is still a cardiologist.\nD) It strengthens the claim because doctors are always trustworthy sources.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It proves that Chocolate Cheerios are unhealthy and should not be consumed.",
+      "C) It has no effect on credibility because Dr. Smith is still a cardiologist.",
+      "D) It strengthens the claim because doctors are always trustworthy sources."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states Dr. Smith is a paid consultant, creating a conflict of interest that suggests financial motives could bias his scientific objectivity. This financial relationship undermines the impartiality required for a credible medical claim about heart health. Option A is wrong because the text only mentions his payment, not the actual nutritional value of the cereal, so it does not prove the food is unhealthy. Option C fails because being a cardiologist does not automatically guarantee unbiased advice when a monetary conflict exists. Option D is incorrect since the passage directly contradicts the idea that doctors are always trustworthy by highlighting this specific financial incentive.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 410,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: \"A nursing student is researching the effects of shift work on nurse health. She finds two websites. Site A is published by the National Institutes of Health (NIH), authored by Dr. Sarah Kim, PhD, and cites 12 peer-reviewed studies published in medical journals between 2015 and 2024. Site B is a blog post titled 'Why Night Shifts Will Kill You' by an anonymous author who shares personal experiences but cites no research.\"\n\nWhich site is the more reliable source, and why?\n\nA) Site B, because personal experience is more relatable.\nC) Both sites are equally reliable.\nD) Neither site is useful for nursing research.\n\nA) Site B, because personal experience is more relatable.\nB) In contrast, Option A is wrong because personal experience lacks scientific rigor, as Site B cites no research\nC) Both sites are equally reliable.\nD) Neither site is useful for nursing research.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Site B, because personal experience is more relatable.",
+      "C) Both sites are equally reliable.",
+      "D) Neither site is useful for nursing research."
+    ],
+    "explanation": "Option B is right because the passage explicitly states Site A is from the NIH, authored by a PhD, and cites 12 peer-reviewed studies, meeting all criteria for reliability. In contrast, Option A is wrong because personal experience lacks scientific rigor, as Site B cites no research. Option C fails because the distinct differences in sourcing make them unequal in quality. Option D is incorrect since Site A provides valuable data for nursing research.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1140,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Voting is considered the cornerstone of democratic participation. Citizens are taught that casting a ballot gives them a voice in government. However, voter turnout in local elections consistently falls below 30%. Many registered voters skip municipal races entirely, citing lack of information about candidates. Studies show that when communities provide voter guides, participation increases by up to 15%.\n\nWhat is the main idea of this passage?\n\nB) Voter guides are required by law in all states.\nC) Citizens only vote in presidential elections.\nD) Local governments have eliminated voting altogether.\n\nA) B is wrong\u2014voter guides are mentioned as helpful but never stated to be required by law\nB) Voter guides are required by law in all states.\nC) Citizens only vote in presidential elections.\nD) Local governments have eliminated voting altogether.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Voter guides are required by law in all states.",
+      "C) Citizens only vote in presidential elections.",
+      "D) Local governments have eliminated voting altogether."
+    ],
+    "explanation": "The passage opens by calling voting 'the cornerstone of democratic participation' but immediately contrasts this with the reality that 'voter turnout in local elections consistently falls below 30%.' The rest of the passage explores why (lack of information) and one solution (voter guides). Option A captures both halves of this contrast. B is wrong\u2014voter guides are mentioned as helpful but never stated to be required by law. C is an overgeneralization; the passage only says local turnout is low, not that citizens skip all non-presidential races. D has no support in the passage.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1141,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Plants convert sunlight into chemical energy through photosynthesis. Chlorophyll in leaves captures light and uses it to split water molecules. This process releases oxygen as a byproduct. Without photosynthesis, most life on Earth could not survive.\n\nWhy did the author write this passage?\n\nA) To persuade readers to plant more trees.\nC) To compare plants and animals.\nD) To criticize deforestation.\n\nA) To persuade readers to plant more trees.\nB) Option A is incorrect because the text never mentions planting trees or attempts to persuade readers to take action\nC) To compare plants and animals.\nD) To criticize deforestation.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To persuade readers to plant more trees.",
+      "C) To compare plants and animals.",
+      "D) To criticize deforestation."
+    ],
+    "explanation": "The author's primary goal is to inform readers about the mechanism of photosynthesis and its critical importance to life, as explicitly stated in the final sentence. Option B correctly identifies this dual purpose of explaining the process and highlighting its necessity. Option A is incorrect because the text never mentions planting trees or attempts to persuade readers to take action. Option C fails because there is no comparison made between plants and animals in the passage. Finally, Option D is wrong since the text does not criticize deforestation or discuss environmental destruction.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1142,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "During the 1860s, Harriet Tubman led multiple expeditions into the South to guide enslaved people to freedom. She found that the Underground Railroad relied on a network of safe houses, determined conductors, and coded spirituals. Despite a bounty on her head, she never lost a single passenger. Her bravery and strategic planning earned her the nickname 'Moses.'\n\nWhich conclusion is best supported by the passage?\n\nA) She discovered a cure for diseases.\nB) She preferred working alone.\nD) She was trained as a military general.\n\nA) She discovered a cure for diseases.\nB) She preferred working alone.\nC) A is fabricated; the passage never mentions medicine or cures\nD) She was trained as a military general.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) She discovered a cure for diseases.",
+      "B) She preferred working alone.",
+      "D) She was trained as a military general."
+    ],
+    "explanation": "The passage details two qualities\u2014'strategic planning' and 'bravery'\u2014and one result: she 'never lost a single passenger.' Option C directly links the qualities to the outcome. A is fabricated; the passage never mentions medicine or cures. B is contradicted\u2014the Underground Railroad is described as a 'network,' implying teamwork. D is unsupported; being called 'Moses' is a nickname for her leadership, not evidence of military training.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1143,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Voting is a fundamental right in a democracy. In the United States, citizens aged 18 and older are eligible to vote in federal elections. Registration requirements vary by state but must be completed before election day. Many communities offer early voting to increase participation.\n\nAccording to the passage, who is eligible to vote in U.S. federal elections?\n\nA) All residents\nB) Citizens aged 16 and older\nC) Only registered party members\n\nA) All residents\nB) Citizens aged 16 and older\nC) Only registered party members\nD) A is wrong because the passage specifies citizens, not all residents\u2014non-citizens can live in the U",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) All residents",
+      "B) Citizens aged 16 and older",
+      "C) Only registered party members"
+    ],
+    "explanation": "The passage states the eligibility rule directly: 'citizens aged 18 and older are eligible to vote in federal elections.' Option D paraphrases this exactly. A is wrong because the passage specifies citizens, not all residents\u2014non-citizens can live in the U.S. without voting rights. B uses 16, which contradicts the stated age of 18. C is incorrect because the passage says registration is required but never mentions party membership as a condition.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1144,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The weather station reported clear skies at 6:00 AM. Barometric pressure held steady at 30.12 inches. Wind speed measured 5 mph from the northwest. Humidity was recorded at 42%. No precipitation expected through the evening.\n\nWhat tone does the author use?\n\nB) Humorous and casual\nC) Alarmed and urgent\nD) Persuasive and emotional\n\nA) The passage consists entirely of measurable data\u2014specific times, pressures, wind speeds, and humidity percentages\u2014reported in a neutral, impersonal voice.\nB) Humorous and casual\nC) Alarmed and urgent\nD) Persuasive and emotional",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Humorous and casual",
+      "C) Alarmed and urgent",
+      "D) Persuasive and emotional"
+    ],
+    "explanation": "The passage consists entirely of measurable data\u2014specific times, pressures, wind speeds, and humidity percentages\u2014reported in a neutral, impersonal voice. This is the definition of an objective, factual tone. A fits perfectly. B would require jokes or informal language, which are absent. C would need urgent or alarming wording like 'danger' or 'warning,' none of which appear. D would require attempts to convince the reader of something, but the passage merely reports conditions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1145,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "In the 17th century, most astronomers believed the Earth was the center of the universe. Galileo Galilei observed Jupiter's moons through his telescope, providing evidence that not everything orbited Earth. The Catholic Church condemned his findings, and he was placed under house arrest for the rest of his life.\n\nWhat theme does this passage illustrate?\n\nA) The Church always supported scientific discovery.\nC) Galileo invented the telescope.\nD) Astronomy was not studied before Galileo.\n\nA) The Church always supported scientific discovery.\nB) Galileo's telescope revealed Jupiter's moons orbited Jupiter, not Earth, directly challenging the geocentric model.\nC) Galileo invented the telescope.\nD) Astronomy was not studied before Galileo.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The Church always supported scientific discovery.",
+      "C) Galileo invented the telescope.",
+      "D) Astronomy was not studied before Galileo."
+    ],
+    "explanation": "Galileo's telescope revealed Jupiter's moons orbited Jupiter, not Earth, directly challenging the geocentric model. The Church's condemnation and his house arrest demonstrate how groundbreaking scientific discoveries often meet fierce institutional resistance.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1146,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Students often cram before exams, but research shows this leads to quick forgetting. Spaced repetition involves reviewing material over increasing intervals. This method strengthens long-term memory. Even short daily reviews improve retention more than marathon sessions.\n\nWhich detail supports the main idea?\n\nA) Cramming is enjoyable\nB) Exams are always difficult\nD) Students prefer marathon sessions\n\nA) Cramming is enjoyable\nB) Exams are always difficult\nC) The passage explicitly contrasts this effective method against cramming, confirming that consistent, brief study sessions yield better results\nD) Students prefer marathon sessions",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Cramming is enjoyable",
+      "B) Exams are always difficult",
+      "D) Students prefer marathon sessions"
+    ],
+    "explanation": "Option C directly supports the main idea by stating that short daily reviews improve retention more than marathon sessions, which aligns with the text's claim that spaced repetition strengthens long-term memory. The passage explicitly contrasts this effective method against cramming, confirming that consistent, brief study sessions yield better results. Option A is incorrect because the text mentions cramming leads to quick forgetting but never describes it as enjoyable. Option B is wrong as the passage discusses study methods and memory, not the difficulty level of exams. Finally, Option D contradicts the text, which argues that marathon sessions are less effective than short daily reviews for improving retention.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1147,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The suffragists' relentless campaign for the vote faced ridicule. They organized marches and petitions across the country. Their perseverance eventually led to the 19th Amendment in 1920.\n\nWhat does 'relentless' mean in context?\n\nA) Occasional\nB) Secretive\nC) Unsuccessful\n\nA) Occasional\nB) Secretive\nC) Unsuccessful\nD) The context clues are strong: the suffragists 'faced ridicule' but kept 'organizing marches and petitions across the country' and 'perseverance' (a near-synonym) 'eventually led to the 19th Amendment.' 'Relentless' must describe persistent, unyielding effort despite opposition.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Occasional",
+      "B) Secretive",
+      "C) Unsuccessful"
+    ],
+    "explanation": "The context clues are strong: the suffragists 'faced ridicule' but kept 'organizing marches and petitions across the country' and 'perseverance' (a near-synonym) 'eventually led to the 19th Amendment.' 'Relentless' must describe persistent, unyielding effort despite opposition. D matches. A (occasional) is the opposite. B (secretive) has no support\u2014the marches were public. C (unsuccessful) is directly contradicted by the 19th Amendment's passage.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1148,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Older adults have a decreased sense of thirst. They also may take diuretics for blood pressure. During heat waves, nursing homes report more cases of confusion and falls. These symptoms often resolve with fluid replacement.\n\nWhat conclusion can be drawn?\n\nB) Diuretics prevent dehydration\nC) Thirst increases with age\nD) Falls are unrelated to fluids\n\nA) The passage links decreased thirst, diuretics, and heat to confusion that resolves with fluids.\nB) Diuretics prevent dehydration\nC) Thirst increases with age\nD) Falls are unrelated to fluids",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Diuretics prevent dehydration",
+      "C) Thirst increases with age",
+      "D) Falls are unrelated to fluids"
+    ],
+    "explanation": "The passage links decreased thirst, diuretics, and heat to confusion that resolves with fluids. This chain supports dehydration as a cause. B is contradicted (diuretics increase fluid loss). C is opposite of what's stated. D ignores the fluid-recovery detail.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1149,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Compound interest allows savings to grow by earning interest on both the initial deposit and previously accumulated interest. The account holder does not need to add money for growth to continue. Over decades, even small regular deposits can accumulate significantly. Financial advisors often call this the 'eighth wonder of the world.'\n\nWhat is the main idea?\n\nA) Interest rates are always unpredictable.\nC) Only wealthy people benefit from savings accounts.\nD) Banks charge fees that eliminate all growth.\n\nA) Interest rates are always unpredictable.\nB) A is wrong; the passage never says rates are unpredictable\nC) Only wealthy people benefit from savings accounts.\nD) Banks charge fees that eliminate all growth.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Interest rates are always unpredictable.",
+      "C) Only wealthy people benefit from savings accounts.",
+      "D) Banks charge fees that eliminate all growth."
+    ],
+    "explanation": "The passage explains how compound interest works\u2014earning interest on both the deposit and accumulated interest\u2014and emphasizes that growth continues without additional deposits, even from small contributions over time. Option B captures this self-sustaining growth. A is wrong; the passage never says rates are unpredictable. C contradicts the passage, which notes that 'even small regular deposits' accumulate. D is unsupported\u2014fees are never mentioned.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1150,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"I have served on two juries in my life, and both times the experience was deeply inconvenient. I missed work, sat in uncomfortable chairs, and listened to hours of testimony. Yet I would do it again without hesitation. There is something powerful about ordinary citizens coming together to determine the fate of another person. It is messy and imperfect, but it is how we protect liberty.\"\n\nWhich best describes the author's point of view?\n\nA) Third-person objective analysis of the legal system.\nB) Strongly opposed to mandatory jury service.\nD) Completely neutral with no personal opinion.\n\nA) Third-person objective analysis of the legal system.\nB) Strongly opposed to mandatory jury service.\nC) The author uses first-person pronouns like \"I\" and \"my life\" to share personal experiences, establishing a subjective perspective rather than an objective one.\nD) Completely neutral with no personal opinion.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Third-person objective analysis of the legal system.",
+      "B) Strongly opposed to mandatory jury service.",
+      "D) Completely neutral with no personal opinion."
+    ],
+    "explanation": "The author uses first-person pronouns like \"I\" and \"my life\" to share personal experiences, establishing a subjective perspective rather than an objective one. They explicitly state they would do jury duty again without hesitation, proving strong support despite admitting it was inconvenient. Option A is wrong because the text is not third-person or purely analytical. Option B is incorrect since the author clearly values the experience and would repeat it. Option D fails because the passage expresses a distinct positive opinion about protecting liberty through this process.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1151,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "All-nighters improve grades because students study more hours. However, sleep deprivation impairs memory consolidation. Research shows rested students recall more information.\n\nWhat weakens the argument for all-nighters?\n\nA) More hours always help\nB) Students enjoy studying\nC) Grades don't matter\n\nA) More hours always help\nB) Students enjoy studying\nC) Grades don't matter\nD) Since rested students recall more information, the lack of sleep caused by all-nighters undermines the premise that extra hours lead to improved performance",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) More hours always help",
+      "B) Students enjoy studying",
+      "C) Grades don't matter"
+    ],
+    "explanation": "Option D weakens the argument because the passage explicitly states that sleep deprivation impairs memory consolidation, directly contradicting the claim that studying longer guarantees better grades. Since rested students recall more information, the lack of sleep caused by all-nighters undermines the premise that extra hours lead to improved performance. Option A is incorrect because the passage does not claim hours always help, only that sleep affects recall. Option B is irrelevant as student enjoyment does not address the mechanical link between sleep and memory. Finally, option C is wrong because the passage focuses on grades and memory, not the importance of grades themselves.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1152,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Civil Rights Act of 1964 outlawed discrimination based on race, color, religion, sex, or national origin. It applied to employment and public accommodations. President Lyndon Johnson signed it into law. It followed years of activism.\n\nWhat did the Act outlaw?\n\nB) Only voting discrimination\nC) Private conversations\nD) International trade\n\nA) This directly matches the description in the option\nB) Only voting discrimination\nC) Private conversations\nD) International trade",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Only voting discrimination",
+      "C) Private conversations",
+      "D) International trade"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that the Act outlawed discrimination based on race, color, religion, sex, or national origin. This directly matches the description in the option. Option B is incorrect as the text mentions employment and public accommodations, never restricting the law solely to voting issues. Option C is wrong because the passage discusses public accommodations and employment, not private conversations, which fall outside the Act's scope. Option D is incorrect since the text focuses on domestic civil rights within the United States, making international trade irrelevant to the Act's provisions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1153,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"Proper hand hygiene is critical in healthcare settings. First, wet hands with clean running water. Second, apply soap and lather thoroughly for at least 20 seconds, covering all surfaces including between fingers and under nails. Third, rinse hands under running water. Finally, dry with a clean towel or air dryer. This process should be repeated before and after every patient contact.\"\n\nWhat organizational structure does the author use?\n\nA) Cause and effect.\nC) Compare and contrast.\nD) Problem and solution.\n\nA) Cause and effect.\nB) A is wrong because no cause-and-effect relationship is established (handwashing doesn't cause a result in this passage; it's a procedure)\nC) Compare and contrast.\nD) Problem and solution.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Cause and effect.",
+      "C) Compare and contrast.",
+      "D) Problem and solution."
+    ],
+    "explanation": "The author lists steps in a specific order using transition words: 'first,' 'second,' 'third,' 'finally.' This is the clearest marker of sequential/chronological organization. B is correct. A is wrong because no cause-and-effect relationship is established (handwashing doesn't cause a result in this passage; it's a procedure). C doesn't apply\u2014nothing is being compared. D is incorrect because the passage describes a process, not a problem being solved.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1154,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Farmers sometimes overapply pesticides when they see insects on crops. The strongest insects survive the spraying and reproduce. Over time, these resistant insects become harder to eliminate. Entomologists warn that rotating different pesticide types is essential to slow resistance.\n\nWhat is the author's main point?\n\nA) Pesticides should never be used on crops.\nB) Insects cannot develop resistance to chemicals.\nD) Farmers already rotate pesticides in every season.\n\nA) Pesticides should never be used on crops.\nB) Insects cannot develop resistance to chemicals.\nC) Option A is wrong since the text never suggests abandoning pesticides, only changing how they are used\nD) Farmers already rotate pesticides in every season.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Pesticides should never be used on crops.",
+      "B) Insects cannot develop resistance to chemicals.",
+      "D) Farmers already rotate pesticides in every season."
+    ],
+    "explanation": "Option C is right because the passage explicitly states that rotating pesticides is essential to slow resistance, directly matching the author's warning to farmers. Option A is wrong since the text never suggests abandoning pesticides, only changing how they are used. Option B is incorrect because the passage clearly describes insects surviving and reproducing, proving resistance develops. Option D is wrong as the text only says rotation is essential to slow resistance, not that it is currently practiced in every season. The main point focuses on the strategy to manage the problem described.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1155,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "HIPAA protects patient health information. Nurses may share information only for treatment, payment, or healthcare operations. Discussing a patient in the elevator violates privacy. Written consent is required to release records to employers.\n\nWhich is permitted under HIPAA without special consent?\n\nB) Telling a neighbor about a patient's diagnosis\nC) Posting patient photos online\nD) Giving records to an employer without consent\n\nA) HIPAA explicitly permits sharing patient information for treatment, payment, or healthcare operations.\nB) Telling a neighbor about a patient's diagnosis\nC) Posting patient photos online\nD) Giving records to an employer without consent",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Telling a neighbor about a patient's diagnosis",
+      "C) Posting patient photos online",
+      "D) Giving records to an employer without consent"
+    ],
+    "explanation": "HIPAA explicitly permits sharing patient information for treatment, payment, or healthcare operations. A physical therapist treating the patient qualifies as a treatment purpose. Discussing patients publicly, sharing with employers, or posting on social media all violate privacy rules.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1156,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The New Deal created jobs through public works. It established Social Security for retirees. While not ending the Depression, it reshaped government's role.\n\nWhat is the author's purpose?\n\nA) To argue the New Deal failed completely\nC) To persuade readers to oppose Social Security\nD) To entertain with personal stories\n\nA) To argue the New Deal failed completely\nB) This factual tone demonstrates an intent to inform readers about these programs and their historical impact rather than taking a side\nC) To persuade readers to oppose Social Security\nD) To entertain with personal stories",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To argue the New Deal failed completely",
+      "C) To persuade readers to oppose Social Security",
+      "D) To entertain with personal stories"
+    ],
+    "explanation": "Option B is correct because the passage objectively lists specific New Deal achievements like public works and Social Security while neutrally noting its limited success in ending the Depression. This factual tone demonstrates an intent to inform readers about these programs and their historical impact rather than taking a side. Option A is wrong as the text explicitly states the New Deal reshaped the government, contradicting the claim of total failure. Option C is incorrect since there is no language encouraging opposition to Social Security, only a description of its establishment. Finally, Option D fails because the passage uses formal, expository language without personal anecdotes or narrative elements designed for entertainment.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1157,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Type 1 diabetes results from autoimmune destruction of insulin-producing cells. Type 2 diabetes involves insulin resistance, often linked to lifestyle. Both cause high blood sugar.\n\nWhat conclusion is supported?\n\nA) Both types are caused by lifestyle\nB) Only Type 1 causes high blood sugar\nD) Insulin is unnecessary in both\n\nA) Both types are caused by lifestyle\nB) Only Type 1 causes high blood sugar\nC) Option A is wrong since the text says Type 1 is autoimmune, not lifestyle\nD) Insulin is unnecessary in both",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Both types are caused by lifestyle",
+      "B) Only Type 1 causes high blood sugar",
+      "D) Insulin is unnecessary in both"
+    ],
+    "explanation": "Option C is right because the passage explicitly states Type 1 stems from autoimmune destruction while Type 2 links to lifestyle, proving mechanisms differ, yet confirms both cause high blood sugar, showing a similar outcome. Option A is wrong since the text says Type 1 is autoimmune, not lifestyle. Option B is incorrect because the passage states both types cause high blood sugar. Option D fails because the text implies insulin is needed for both, as Type 1 lacks insulin-producing cells and Type 2 has resistance.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1158,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The U.S. Constitution divides power between national and state governments. States regulate education and marriage. The federal government handles defense and interstate commerce. This division prevents concentration of power.\n\nWhich best summarizes the passage?\n\nA) States control defense\nB) Federal government runs schools\nC) The Constitution abolished states\n\nA) States control defense\nB) Federal government runs schools\nC) The Constitution abolished states\nD) Option A is incorrect because the passage states states regulate education and marriage, while the federal government handles defense, directly contradicting the claim that states control defense",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) States control defense",
+      "B) Federal government runs schools",
+      "C) The Constitution abolished states"
+    ],
+    "explanation": "Option D correctly summarizes the passage by highlighting the shared power between federal and state levels to limit authority, as explicitly stated in the text's opening and concluding sentences regarding the division of power. Option A is incorrect because the passage states states regulate education and marriage, while the federal government handles defense, directly contradicting the claim that states control defense. Option B is wrong since the text specifies states regulate education, whereas the federal government manages defense and interstate commerce, not schools. Option C is false because the passage describes a system where states retain significant authority like education and marriage, proving the Constitution never abolished them.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1159,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The patient is afebrile, normotensive, and reports no dyspnea. Vital signs were taken at 0800. The nurse documented findings in the electronic record. The patient denied chest pain or dizziness.\n\nWhat does 'afebrile' mean in context?\n\nB) With high fever\nC) With low blood pressure\nD) Short of breath\n\nA) The other options are incorrect: Option B suggests a high fever, which contradicts the prefix 'a-' meaning without\nB) With high fever\nC) With low blood pressure\nD) Short of breath",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) With high fever",
+      "C) With low blood pressure",
+      "D) Short of breath"
+    ],
+    "explanation": "Option A is correct because 'afebrile' is the medical term specifically defined as being without a fever, directly matching the patient's stable condition described in the text. The other options are incorrect: Option B suggests a high fever, which contradicts the prefix 'a-' meaning without. Option C refers to low blood pressure, but the text explicitly states the patient is normotensive, meaning normal blood pressure, not low. Option D describes shortness of breath, yet the passage notes the patient denied dyspnea and reports no such symptoms. Therefore, only Option A accurately reflects the medical definition used here.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1160,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "From 1932 to 1972, researchers studied untreated syphilis in Black men without informing them of effective treatment. Participants were misled about the purpose of the research. The study led to public outrage and new research ethics rules.\n\nWhat can be inferred about modern research ethics?\n\nA) They were unchanged by the study\nC) Researchers are no longer monitored\nD) The study was widely praised\n\nA) They were unchanged by the study\nB) The mention of participants being \"misled\" and the resulting \"public outrage\" confirms that modern rules were designed to address these specific historical abuses\nC) Researchers are no longer monitored\nD) The study was widely praised",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) They were unchanged by the study",
+      "C) Researchers are no longer monitored",
+      "D) The study was widely praised"
+    ],
+    "explanation": "Option B is correct because the passage explicitly links the 1932 to 1972 study to \"new research ethics rules,\" directly supporting the inference that informed consent became critical to prevent such deception. The mention of participants being \"misled\" and the resulting \"public outrage\" confirms that modern rules were designed to address these specific historical abuses. Option A is wrong because the text states \"new research ethics rules\" were created, contradicting the claim that ethics remained unchanged. Option C is incorrect since the passage implies strict oversight was needed to stop unethical behavior, not that monitoring ceased. Option D is false because the study caused \"public outrage,\" which is the opposite of being \"widely praised.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1161,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The body maintains stable internal conditions through homeostasis. When temperature rises, sweat glands activate. When blood sugar drops, glucagon is released.\n\nWhich is an example of homeostasis?\n\nA) Breaking a bone\nB) Catching a cold\nD) Reading a book\n\nA) Breaking a bone\nB) Catching a cold\nC) Homeostasis is the body's process of maintaining stable internal conditions.\nD) Reading a book",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Breaking a bone",
+      "B) Catching a cold",
+      "D) Reading a book"
+    ],
+    "explanation": "Homeostasis is the body's process of maintaining stable internal conditions. Sweating when hot is the body cooling itself to restore normal temperature\u2014the textbook example given in the passage. Blood sugar regulation is also homeostasis but wasn't listed as an answer choice.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1162,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The evidence is overwhelming. Sleep-deprived teenagers score lower on tests, report higher rates of depression, and are involved in more car accidents. The American Academy of Pediatrics recommends that middle and high schools start no earlier than 8:30 AM. Yet nearly 85% of U.S. high schools still start before 8:00 AM. This must change \u2014 now.\"\n\nWhat is the author's tone?\n\nA) Calm and detached.\nB) Apologetic and uncertain.\nC) Humorous and lighthearted.\n\nA) Calm and detached.\nB) Apologetic and uncertain.\nC) Humorous and lighthearted.\nD) The author stacks evidence (lower test scores, depression, accidents), cites a pediatric recommendation, then uses urgent language like 'This must change \u2014 now.' This combination of data-driven argument and direct command creates an assertive, advocacy-driven tone.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Calm and detached.",
+      "B) Apologetic and uncertain.",
+      "C) Humorous and lighthearted."
+    ],
+    "explanation": "The author stacks evidence (lower test scores, depression, accidents), cites a pediatric recommendation, then uses urgent language like 'This must change \u2014 now.' This combination of data-driven argument and direct command creates an assertive, advocacy-driven tone.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1163,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Nurses should work 16-hour shifts because longer shifts mean fewer handoffs, and handoffs cause errors. Proponents argue continuity improves patient familiarity. Studies show fatigue after 12 hours increases medication errors.\n\nWhat weakens the argument for 16-hour shifts?\n\nB) Fewer handoffs occur\nC) Nurses prefer longer shifts\nD) Handoffs never cause errors\n\nA) The argument for 16-hour shifts rests on fewer handoffs reducing errors.\nB) Fewer handoffs occur\nC) Nurses prefer longer shifts\nD) Handoffs never cause errors",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Fewer handoffs occur",
+      "C) Nurses prefer longer shifts",
+      "D) Handoffs never cause errors"
+    ],
+    "explanation": "The argument for 16-hour shifts rests on fewer handoffs reducing errors. The finding that fatigue after 12 hours increases errors directly undermines this benefit. B supports the argument, C is irrelevant to safety, and D is an absolute that the passage never claims.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1164,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "After WWII, Europe's economies were devastated. The U.S. Marshall Plan provided billions in aid to rebuild infrastructure. The goal was to prevent communism and restore trade.\n\nMain idea?\n\nA) The U.S. wanted to colonize Europe\nC) WWII had no economic impact\nD) Communism was supported by the U.S.\n\nA) The U.S. wanted to colonize Europe\nB) The text explicitly links this financial support to restoring trade and preventing communism, directly supporting the idea of European recovery\nC) WWII had no economic impact\nD) Communism was supported by the U.S.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The U.S. wanted to colonize Europe",
+      "C) WWII had no economic impact",
+      "D) Communism was supported by the U.S."
+    ],
+    "explanation": "Option B correctly identifies that the passage states the Marshall Plan provided aid to rebuild infrastructure and stabilize economies after WWII devastation. The text explicitly links this financial support to restoring trade and preventing communism, directly supporting the idea of European recovery. Option A is incorrect because the passage mentions preventing communism and restoring trade, never suggesting a desire to colonize Europe. Option C is wrong since the text opens by stating Europe's economies were devastated by WWII, proving a significant economic impact occurred. Finally, Option D contradicts the passage, which notes the goal was to prevent communism, not support it. Therefore, only Option B accurately reflects the main idea presented.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1165,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Smoking damages cilia in airways. As a result, mucus accumulates and infections increase. Over years, this damage contributes to chronic bronchitis.\n\nWhat structure?\n\nA) Chronological\nB) Compare-contrast\nD) Description only\n\nA) Chronological\nB) Compare-contrast\nC) The passage explicitly uses transition words like \"As a result\" and \"Over years, this damage contributes to\" to show that one event directly triggers the next\nD) Description only",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Chronological",
+      "B) Compare-contrast",
+      "D) Description only"
+    ],
+    "explanation": "Option C correctly identifies the cause-and-effect relationship where smoking damages cilia, leading to mucus accumulation and chronic bronchitis. The passage explicitly uses transition words like \"As a result\" and \"Over years, this damage contributes to\" to show that one event directly triggers the next. Option A is incorrect because the text does not list events in a strict time sequence without logical connection. Option B fails as there is no comparison between two subjects or contrast of opposing ideas presented. Option D is wrong because the text goes beyond simple description by explaining the functional consequences of the damage on the airways.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

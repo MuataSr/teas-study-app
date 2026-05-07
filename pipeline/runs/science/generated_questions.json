@@ -1,0 +1,2290 @@
+[
+  {
+    "question": "Which of the following heart chambers is responsible for receiving deoxygenated blood from the systemic circulation?",
+    "correct_answer": "Right atrium",
+    "wrong_answers": [
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "explanation": "The right atrium receives deoxygenated blood returning from the body through the superior and inferior vena cava.",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The bicuspid (mitral) valve is located between which two structures of the heart?",
+    "correct_answer": "Left atrium and left ventricle",
+    "wrong_answers": [
+      "Right atrium and right ventricle",
+      "Right ventricle and pulmonary artery",
+      "Left ventricle and aorta"
+    ],
+    "explanation": "The bicuspid, or mitral, valve prevents the backflow of blood from the left ventricle into the left atrium during ventricular contraction.",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "On an electrocardiogram (ECG), which wave represents the depolarization of the atria?",
+    "correct_answer": "P wave",
+    "wrong_answers": [
+      "QRS complex",
+      "T wave",
+      "U wave"
+    ],
+    "explanation": "The P wave indicates atrial depolarization, which triggers the atria to contract and push blood into the ventricles.",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following best describes the structural differences between arteries and veins?",
+    "correct_answer": "Arteries have thicker, more muscular walls than veins to withstand higher blood pressure.",
+    "wrong_answers": [
+      "Veins have thicker walls than arteries to actively pump blood back to the heart.",
+      "Arteries contain valves to prevent backflow, while veins do not.",
+      "Veins typically carry oxygenated blood, while arteries carry deoxygenated blood."
+    ],
+    "explanation": "Arteries are high-pressure vessels requiring thick, elastic, and muscular walls, whereas veins are low-pressure vessels with thinner walls that rely on skeletal muscle pumps and valves to return blood to the heart.",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Cardiac output is calculated by multiplying which two physiological variables?",
+    "correct_answer": "Heart rate and stroke volume",
+    "wrong_answers": [
+      "Heart rate and blood pressure",
+      "Stroke volume and vascular resistance",
+      "Blood volume and heart rate"
+    ],
+    "explanation": "Cardiac output is the total volume of blood pumped by the heart per minute, determined by multiplying heart rate (beats per minute) by stroke volume (blood ejected per beat).",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After passing through the right ventricle, deoxygenated blood enters which of the following structures?",
+    "correct_answer": "Pulmonary artery",
+    "wrong_answers": [
+      "Pulmonary vein",
+      "Aorta",
+      "Left atrium"
+    ],
+    "explanation": "The right ventricle pumps deoxygenated blood into the pulmonary artery, which carries it to the lungs for oxygenation.",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The myocardium is primarily composed of which type of tissue?",
+    "correct_answer": "Cardiac muscle tissue",
+    "wrong_answers": [
+      "Smooth muscle tissue",
+      "Dense connective tissue",
+      "Stratified squamous epithelium"
+    ],
+    "explanation": "The myocardium is the thick, muscular middle layer of the heart wall made up of specialized cardiac muscle cells that enable the heart to contract.",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which structure in the heart's electrical conduction system is responsible for delaying the electrical impulse before it reaches the ventricles?",
+    "correct_answer": "Atrioventricular (AV) node",
+    "wrong_answers": [
+      "Sinoatrial (SA) node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "explanation": "The AV node introduces a critical delay in the electrical signal, allowing the atria to fully contract and empty their blood into the ventricles before ventricular contraction begins.",
+    "body_system": "Cardiovascular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which division of the peripheral nervous system is responsible for transmitting sensory signals from the skin and controlling voluntary skeletal muscle movements?",
+    "correct_answer": "Somatic nervous system",
+    "wrong_answers": [
+      "Autonomic nervous system",
+      "Sympathetic nervous system",
+      "Enteric nervous system"
+    ],
+    "explanation": "The somatic nervous system controls voluntary movements of skeletal muscles and transmits sensory information from external stimuli, unlike the autonomic system which regulates involuntary functions.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During the depolarization phase of an action potential, which ion primarily rushes into the neuron?",
+    "correct_answer": "Sodium (Na+)",
+    "wrong_answers": [
+      "Potassium (K+)",
+      "Calcium (Ca2+)",
+      "Chloride (Cl-)"
+    ],
+    "explanation": "Depolarization occurs when voltage-gated sodium channels open, allowing Na+ to flow into the neuron down its concentration gradient, making the intracellular environment more positive.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which region of the brain is primarily responsible for coordinating voluntary movement, balance, and posture?",
+    "correct_answer": "Cerebellum",
+    "wrong_answers": [
+      "Medulla oblongata",
+      "Cerebrum",
+      "Thalamus"
+    ],
+    "explanation": "The cerebellum, located posterior to the brainstem, integrates sensory input and motor signals to fine-tune motor activity and maintain equilibrium.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Acetylcholine is the primary neurotransmitter released at the neuromuscular junction to stimulate skeletal muscle contraction. What enzyme rapidly breaks down acetylcholine in the synaptic cleft to prevent continuous stimulation?",
+    "correct_answer": "Acetylcholinesterase",
+    "wrong_answers": [
+      "Monoamine oxidase (MAO)",
+      "Dopamine decarboxylase",
+      "GABA transaminase"
+    ],
+    "explanation": "Acetylcholinesterase hydrolyzes acetylcholine into acetate and choline in the synaptic cleft, ensuring the muscle fiber relaxes and is ready for the next signal.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following meningeal layers is the thick, tough, outermost layer that adheres directly to the inner surface of the skull and vertebral column?",
+    "correct_answer": "Dura mater",
+    "wrong_answers": [
+      "Arachnoid mater",
+      "Pia mater",
+      "Corpus callosum"
+    ],
+    "explanation": "The dura mater is the most superficial and durable of the three meningeal layers, providing strong physical protection and support for the central nervous system.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient experiences increased heart rate, dilated pupils, and inhibited digestive activity after a sudden stressor. Which branch of the autonomic nervous system is most active in this scenario?",
+    "correct_answer": "Sympathetic nervous system",
+    "wrong_answers": [
+      "Parasympathetic nervous system",
+      "Somatic nervous system",
+      "Enteric nervous system"
+    ],
+    "explanation": "The sympathetic nervous system mediates the \"fight or flight\" response, preparing the body for acute stress by increasing heart rate and redirecting blood flow away from the digestive tract.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Schwann cells are a type of neuroglia found exclusively in the peripheral nervous system. What is their primary function?",
+    "correct_answer": "Forming myelin sheaths around peripheral axons",
+    "wrong_answers": [
+      "Phagocytosing cellular debris in the central nervous system",
+      "Forming the blood-brain barrier",
+      "Producing cerebrospinal fluid"
+    ],
+    "explanation": "Schwann cells wrap around peripheral nerve fibers to create a myelin sheath, which insulates the axon and significantly increases the speed of action potential transmission via saltatory conduction.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which type of nerve tract in the spinal cord is responsible for carrying sensory information from the body up to the brain?",
+    "correct_answer": "Ascending tract",
+    "wrong_answers": [
+      "Descending tract",
+      "Commissural tract",
+      "Association tract"
+    ],
+    "explanation": "Ascending tracts, such as the dorsal columns and spinothalamic tracts, carry afferent sensory information from peripheral receptors to the brain for processing.",
+    "body_system": "Nervous system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Unlike peptide hormones, steroid hormones typically bind to receptors located where?",
+    "correct_answer": "Inside the target cell",
+    "wrong_answers": [
+      "On the outer surface of the cell membrane",
+      "In the synaptic cleft",
+      "On the Golgi apparatus"
+    ],
+    "explanation": "Steroid hormones are lipid-soluble, allowing them to diffuse directly across the plasma membrane and bind to intracellular receptors to influence gene expression.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following hormones is secreted by the anterior pituitary gland?",
+    "correct_answer": "Adrenocorticotropic hormone (ACTH)",
+    "wrong_answers": [
+      "Aldosterone",
+      "Epinephrine",
+      "Oxytocin"
+    ],
+    "explanation": "ACTH is produced by the anterior pituitary and stimulates the adrenal cortex, whereas aldosterone is from the adrenal cortex, epinephrine from the adrenal medulla, and oxytocin is stored in the posterior pituitary.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which pancreatic hormone is released in response to elevated blood glucose levels?",
+    "correct_answer": "Insulin",
+    "wrong_answers": [
+      "Glucagon",
+      "Cortisol",
+      "Antidiuretic hormone (ADH)"
+    ],
+    "explanation": "Insulin is secreted by the beta cells of the pancreas to lower blood glucose by promoting cellular uptake and storage as glycogen.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following hormones is NOT produced by the adrenal cortex?",
+    "correct_answer": "Epinephrine",
+    "wrong_answers": [
+      "Cortisol",
+      "Aldosterone",
+      "Androgens"
+    ],
+    "explanation": "Epinephrine is a catecholamine produced by the adrenal medulla, while cortisol, aldosterone, and androgens are all steroid hormones secreted by the adrenal cortex.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Antidiuretic hormone (ADH) and oxytocin are synthesized in which structure?",
+    "correct_answer": "Hypothalamus",
+    "wrong_answers": [
+      "Posterior pituitary",
+      "Anterior pituitary",
+      "Renal cortex"
+    ],
+    "explanation": "Although ADH and oxytocin are stored and released by the posterior pituitary, they are actually synthesized in the neurosecretory cells of the hypothalamus.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary effect of parathyroid hormone (PTH) on blood calcium levels?",
+    "correct_answer": "It increases blood calcium levels.",
+    "wrong_answers": [
+      "It decreases blood calcium levels.",
+      "It increases blood phosphate levels.",
+      "It has no effect on blood calcium levels."
+    ],
+    "explanation": "PTH is released by the parathyroid glands in response to low blood calcium and acts to increase calcium levels by stimulating bone resorption and kidney reabsorption.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient presents with fatigue, weight gain, cold intolerance, and bradycardia. These symptoms are most consistent with which condition?",
+    "correct_answer": "Hypothyroidism",
+    "wrong_answers": [
+      "Hyperthyroidism",
+      "Cushing's syndrome",
+      "Addison's disease"
+    ],
+    "explanation": "Hypothyroidism results from insufficient thyroid hormone, leading to a decreased basal metabolic rate characterized by weight gain, fatigue, and cold intolerance.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the regulation of thyroid hormones, high levels of T3 and T4 in the blood will result in which of the following?",
+    "correct_answer": "Decreased release of thyroid-stimulating hormone (TSH)",
+    "wrong_answers": [
+      "Increased release of thyroid-stimulating hormone (TSH)",
+      "Increased release of thyrotropin-releasing hormone (TRH)",
+      "Increased iodine uptake by the thyroid gland"
+    ],
+    "explanation": "High levels of T3 and T4 exert a negative feedback effect on both the anterior pituitary and hypothalamus, inhibiting the release of TSH to maintain homeostasis.",
+    "body_system": "Endocrine system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the functional contractile unit of a skeletal muscle fiber?",
+    "correct_answer": "Sarcomere",
+    "wrong_answers": [
+      "Myofibril",
+      "Fascicle",
+      "Myofilament"
+    ],
+    "explanation": "The sarcomere is the smallest contractile unit within a muscle fiber, defined as the segment between two Z-discs.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which neurotransmitter is released at the neuromuscular junction to initiate skeletal muscle contraction?",
+    "correct_answer": "Acetylcholine",
+    "wrong_answers": [
+      "Dopamine",
+      "Norepinephrine",
+      "Serotonin"
+    ],
+    "explanation": "Acetylcholine (ACh) is released from the motor neuron and binds to receptors on the motor end plate, triggering an action potential in the muscle fiber.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During muscle contraction, what is the primary role of calcium ions (Ca2+)?",
+    "correct_answer": "To bind to troponin, which moves tropomyosin away from actin binding sites",
+    "wrong_answers": [
+      "To bind to myosin heads, causing them to detach from actin",
+      "To directly provide the energy for the power stroke",
+      "To break down acetylcholine in the synaptic cleft"
+    ],
+    "explanation": "Calcium binds to troponin, causing a conformational shift that moves tropomyosin away from the myosin-binding sites on the actin filament.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What molecule directly provides the energy required for the myosin head to detach from actin during the cross-bridge cycle?",
+    "correct_answer": "ATP",
+    "wrong_answers": [
+      "Creatine phosphate",
+      "Glucose",
+      "ADP"
+    ],
+    "explanation": "The binding of ATP to the myosin head causes it to detach from actin; the subsequent hydrolysis of ATP cocks the head for the next power stroke.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which type of muscle tissue is characterized by being under involuntary control, lacking striations, and containing a single centrally located nucleus in each cell?",
+    "correct_answer": "Smooth muscle",
+    "wrong_answers": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Multiunit muscle"
+    ],
+    "explanation": "Smooth muscle is involuntary and non-striated, and its fibers contain a single central nucleus, distinguishing it from skeletal and cardiac muscle.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During a concentric muscle contraction, what accurately describes the muscle's insertion?",
+    "correct_answer": "It is the attachment point on the bone that moves toward the origin",
+    "wrong_answers": [
+      "It is the attachment point that remains entirely stationary",
+      "It is the broad, flat tendon connecting the muscle to bone",
+      "It is the connective tissue layer that wraps the entire muscle"
+    ],
+    "explanation": "The insertion is the distal attachment of a muscle on the more movable bone, which is pulled toward the origin during contraction.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During intense exercise, when oxygen supply is insufficient for aerobic respiration, skeletal muscle cells primarily rely on which metabolic pathway to generate ATP?",
+    "correct_answer": "Anaerobic glycolysis",
+    "wrong_answers": [
+      "The Krebs cycle",
+      "Oxidative phosphorylation",
+      "Beta-oxidation"
+    ],
+    "explanation": "Anaerobic glycolysis breaks down glucose without oxygen to rapidly produce ATP, although it results in the accumulation of lactic acid as a byproduct.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which connective tissue layer directly encloses a single muscle fiber (cell)?",
+    "correct_answer": "Endomysium",
+    "wrong_answers": [
+      "Epimysium",
+      "Perimysium",
+      "Tendon"
+    ],
+    "explanation": "The endomysium is a delicate connective tissue sheath that wraps around each individual muscle fiber, while perimysium wraps fascicles and epimysium wraps the whole muscle.",
+    "body_system": "Muscular system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which specific structure within the nephron is primarily responsible for the filtration of blood to form the glomerular filtrate?",
+    "correct_answer": "Glomerulus",
+    "wrong_answers": [
+      "Loop of Henle",
+      "Distal convoluted tubule",
+      "Collecting duct"
+    ],
+    "explanation": "The glomerulus is a knot of capillaries where blood pressure forces water and solutes out of the blood and into the Bowman's capsule to begin urine formation.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Antidiuretic hormone (ADH) acts on which part of the nephron to regulate water reabsorption?",
+    "correct_answer": "Collecting duct",
+    "wrong_answers": [
+      "Proximal convoluted tubule",
+      "Glomerulus",
+      "Loop of Henle"
+    ],
+    "explanation": "ADH increases the permeability of the collecting duct to water, allowing more water to be reabsorbed into the bloodstream and producing concentrated urine.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary role of the juxtaglomerular (JG) apparatus in the kidney?",
+    "correct_answer": "Regulating blood pressure via the renin-angiotensin-aldosterone system",
+    "wrong_answers": [
+      "Filtering waste products from the blood",
+      "Secreting erythropoietin in response to hypoxia",
+      "Actively transporting sodium out of the filtrate"
+    ],
+    "explanation": "The JG apparatus senses low blood pressure or low sodium and releases renin, which initiates a cascade to increase blood pressure.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How is urine transported from the kidneys to the urinary bladder?",
+    "correct_answer": "Peristalsis",
+    "wrong_answers": [
+      "Capillary action",
+      "Gravity",
+      "Osmosis"
+    ],
+    "explanation": "Smooth muscle in the walls of the ureters contracts in wave-like motions called peristalsis to propel urine downward into the bladder.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The majority of nutrient reabsorption, such as glucose and amino acids, occurs in which section of the nephron?",
+    "correct_answer": "Proximal convoluted tubule",
+    "wrong_answers": [
+      "Distal convoluted tubule",
+      "Loop of Henle",
+      "Bowman's capsule"
+    ],
+    "explanation": "The proximal convoluted tubule is responsible for reabsorbing approximately 100% of filtered glucose and amino acids back into the peritubular capillaries.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The counter-current multiplier mechanism, which creates a concentration gradient in the renal medulla, primarily involves the interaction between the descending and ascending limbs of which structure?",
+    "correct_answer": "Loop of Henle",
+    "wrong_answers": [
+      "Glomerulus",
+      "Proximal convoluted tubule",
+      "Collecting duct"
+    ],
+    "explanation": "The loop of Henle uses a counter-current multiplier system to establish a hypertonic renal medulla, which is essential for water reabsorption.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which type of muscle makes up the internal urethral sphincter, and is it under voluntary or involuntary control?",
+    "correct_answer": "Smooth muscle; involuntary",
+    "wrong_answers": [
+      "Skeletal muscle; involuntary",
+      "Smooth muscle; voluntary",
+      "Skeletal muscle; voluntary"
+    ],
+    "explanation": "The internal urethral sphincter is composed of smooth muscle and is controlled involuntarily by the autonomic nervous system to prevent urine leakage.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which vessel directly surrounds the proximal and distal convoluted tubules and is essential for reabsorption and secretion?",
+    "correct_answer": "Peritubular capillaries",
+    "wrong_answers": [
+      "Afferent arteriole",
+      "Glomerular capillaries",
+      "Vasa recta"
+    ],
+    "explanation": "Peritubular capillaries arise from the efferent arteriole and wrap around the convoluted tubules to reclaim water and solutes from the filtrate.",
+    "body_system": "Urinary system",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which antigens are present on the surface of red blood cells in a patient with type AB blood?",
+    "correct_answer": "Both A and B antigens",
+    "wrong_answers": [
+      "Only A antigens",
+      "Only B antigens",
+      "Neither A nor B antigens"
+    ],
+    "explanation": "Type AB blood expresses both A and B glycoprotein antigens on the erythrocyte membrane, which is why individuals with this blood type are universal recipients for red blood cells.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient with type O blood naturally has which antibodies circulating in their plasma?",
+    "correct_answer": "Both anti-A and anti-B antibodies",
+    "wrong_answers": [
+      "Only anti-A antibodies",
+      "Only anti-B antibodies",
+      "Neither anti-A nor anti-B antibodies"
+    ],
+    "explanation": "Individuals with type O blood lack both A and B surface antigens, causing their immune system to produce both anti-A and anti-B antibodies against foreign blood types.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why is type O negative blood considered the universal donor for packed red blood cell transfusions?",
+    "correct_answer": "It lacks A, B, and Rh antigens that could trigger an immune response.",
+    "wrong_answers": [
+      "It contains both anti-A and anti-B antibodies that neutralize recipient antigens.",
+      "It has Rh antigens that prevent agglutination in any recipient.",
+      "It possesses all major blood group antigens to safely match any recipient."
+    ],
+    "explanation": "Type O negative red blood cells do not express A, B, or RhD surface antigens, meaning they will not be targeted by the recipient's preformed antibodies.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient with type AB positive blood can safely receive packed red blood cells from which of the following donors without experiencing an acute hemolytic reaction?",
+    "correct_answer": "Types A, B, AB, and O",
+    "wrong_answers": [
+      "Only types A and B",
+      "Only type AB",
+      "Only type O"
+    ],
+    "explanation": "Because type AB positive blood has both A and B antigens and the RhD antigen, the patient's plasma lacks anti-A, anti-B, and anti-Rh antibodies, preventing agglutination with any donor blood type.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If an Rh-negative mother is exposed to Rh-positive fetal red blood cells during delivery, what will her immune system produce?",
+    "correct_answer": "Anti-Rh antibodies",
+    "wrong_answers": [
+      "Anti-A antibodies",
+      "Anti-B antibodies",
+      "Both anti-A and anti-B antibodies"
+    ],
+    "explanation": "The mother's immune system recognizes the foreign RhD antigen on the fetal erythrocytes and will synthesize specific anti-Rh (anti-D) antibodies.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During a mismatched blood transfusion, what is the primary immunological mechanism that causes red blood cells to clump together?",
+    "correct_answer": "Antibodies binding to antigens on the erythrocyte surface",
+    "wrong_answers": [
+      "Antigens binding to other antigens on the erythrocyte surface",
+      "Antibodies binding to other antibodies in the plasma",
+      "Platelets releasing clotting factors directly onto the red blood cells"
+    ],
+    "explanation": "Agglutination occurs when recipient plasma antibodies cross-link with donor erythrocyte surface antigens, forming large clumps that can block blood vessels.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In erythroblastosis fetalis (hemolytic disease of the fetus and newborn), maternal antibodies cross the placenta and destroy fetal red blood cells. Which immunoglobulin class is primarily responsible for this condition?",
+    "correct_answer": "IgG",
+    "wrong_answers": [
+      "IgA",
+      "IgM",
+      "IgE"
+    ],
+    "explanation": "IgG is the only antibody class capable of crossing the placental barrier, allowing maternal anti-Rh antibodies to enter the fetal circulation and target fetal erythrocytes.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In a forward blood typing test, a patient's blood sample agglutinates when mixed with anti-A serum but does not agglutinate with anti-B serum or anti-Rh serum. What is the patient's blood type?",
+    "correct_answer": "A negative",
+    "wrong_answers": [
+      "B negative",
+      "AB positive",
+      "O positive"
+    ],
+    "explanation": "Agglutination with anti-A serum indicates the presence of A antigens, while a lack of agglutination with anti-B and anti-Rh serum confirms the absence of B and RhD antigens.",
+    "body_system": "Blood typing and compatibility",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the four primary tissue types is specialized for contraction and generating movement in the body?",
+    "correct_answer": "Muscle tissue",
+    "wrong_answers": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Nervous tissue"
+    ],
+    "explanation": "Muscle tissue is composed of cells called fibers that have the unique ability to shorten (contract) to produce movement. The other three primary tissue types serve different functions, such as covering surfaces, providing structural support, and transmitting electrical signals.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Unlike other tissue types, epithelial tissue is distinguished by which key characteristic?",
+    "correct_answer": "It is avascular, meaning it lacks its own blood supply.",
+    "wrong_answers": [
+      "It contains an abundant extracellular matrix.",
+      "It is innervated exclusively by motor neurons.",
+      "It contains striations that allow for rapid contraction."
+    ],
+    "explanation": "Epithelial tissue does not contain blood vessels and relies on diffusion from underlying connective tissues for nutrients. Connective tissue, not epithelial tissue, is characterized by having an abundant extracellular matrix.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Blood is classified as a connective tissue because it:",
+    "correct_answer": "Has a fluid extracellular matrix (plasma) in which specialized cells are suspended.",
+    "wrong_answers": [
+      "Forms a continuous, protective sheet over the body's surface.",
+      "Contains striated fibers designed for voluntary movement.",
+      "Originates exclusively from the ectoderm during embryonic development."
+    ],
+    "explanation": "All connective tissues share the common feature of having specialized cells embedded in an extracellular matrix. In blood, the plasma serves as this matrix, suspending red blood cells, white blood cells, and platelets.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Intercalated discs are a distinguishing structural feature found exclusively in which type of muscle tissue?",
+    "correct_answer": "Cardiac muscle",
+    "wrong_answers": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Striated involuntary muscle"
+    ],
+    "explanation": "Intercalated discs are specialized junctions between cardiac muscle cells that contain gap junctions for rapid electrical communication and desmosomes for structural strength. Skeletal and smooth muscle tissues do not possess these structures.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which type of connective tissue provides a smooth, low-friction surface within joints and makes up the precursor skeleton in a developing fetus?",
+    "correct_answer": "Hyaline cartilage",
+    "wrong_answers": [
+      "Fibrocartilage",
+      "Elastic cartilage",
+      "Areolar connective tissue"
+    ],
+    "explanation": "Hyaline cartilage is the most abundant type of cartilage, providing smooth articulating surfaces in joints and forming the temporary embryonic skeleton that is later replaced by bone. Fibrocartilage is tougher and found in intervertebral discs, while elastic cartilage provides flexibility in structures like the ear.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Pseudostratified columnar epithelium appears to have multiple layers of cells, but is actually a single layer. Which of the following locations is lined by this specific tissue type?",
+    "correct_answer": "The trachea and upper respiratory tract",
+    "wrong_answers": [
+      "The lining of the stomach",
+      "The epidermis of the skin",
+      "The inner lining of blood vessels"
+    ],
+    "explanation": "Pseudostratified columnar epithelium, often containing cilia and goblet cells, lines the respiratory tract to trap and move debris out of the lungs. The stomach is lined by simple columnar, the skin by stratified squamous, and blood vessels by simple squamous epithelium.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Unlike mucous, cutaneous, and serous membranes, synovial membranes are unique because they:",
+    "correct_answer": "Consist entirely of connective tissue without an epithelial layer.",
+    "wrong_answers": [
+      "Line body cavities that open directly to the exterior of the body.",
+      "Are composed of stratified squamous epithelium.",
+      "Contain a continuous layer of transitional epithelium."
+    ],
+    "explanation": "Synovial membranes line the cavities of freely movable joints and are made solely of areolar connective tissue with specialized secretory cells, lacking the typical epithelial component found in other body membranes.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following cell types functions to support, protect, and nourish neurons within the central and peripheral nervous systems?",
+    "correct_answer": "Neuroglia",
+    "wrong_answers": [
+      "Motor neurons",
+      "Sensory neurons",
+      "Interneurons"
+    ],
+    "explanation": "Neuroglia, or glial cells, are the supporting cells of nervous tissue that do not transmit electrical impulses but instead maintain homeostasis, form myelin, and provide support for neurons. The other options are all functional classifications of neurons, which are the actual signaling cells.",
+    "body_system": "Tissue types",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A newborn receives antibodies through the placenta from the mother. Which type of immunity does this represent?",
+    "correct_answer": "Naturally acquired passive immunity",
+    "wrong_answers": [
+      "Naturally acquired active immunity",
+      "Artificially acquired passive immunity",
+      "Artificially acquired active immunity"
+    ],
+    "explanation": "Naturally acquired passive immunity involves the natural transfer of pre-formed antibodies from mother to baby, providing immediate but short-term protection without memory cell formation.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Administration of the hepatitis B vaccine stimulates a patient's body to produce its own antibodies and memory cells. This is an example of which type of immunity?",
+    "correct_answer": "Artificially acquired active immunity",
+    "wrong_answers": [
+      "Artificially acquired passive immunity",
+      "Naturally acquired active immunity",
+      "Naturally acquired passive immunity"
+    ],
+    "explanation": "Artificially acquired active immunity occurs when a vaccine introduces a weakened or inactivated pathogen, prompting the body's own immune system to create lasting memory cells.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient is bitten by a rabid animal and is immediately injected with rabies immune globulin. Which type of immunity is conferred?",
+    "correct_answer": "Artificially acquired passive immunity",
+    "wrong_answers": [
+      "Artificially acquired active immunity",
+      "Naturally acquired passive immunity",
+      "Innate immunity"
+    ],
+    "explanation": "Artificially acquired passive immunity is achieved by injecting pre-formed antibodies (immune globulins) from another source, offering immediate but temporary protection.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A child contracts chickenpox and recovers, gaining long-term protection against future infections with the varicella-zoster virus. What type of immunity is this?",
+    "correct_answer": "Naturally acquired active immunity",
+    "wrong_answers": [
+      "Naturally acquired passive immunity",
+      "Artificially acquired active immunity",
+      "Innate immunity"
+    ],
+    "explanation": "Naturally acquired active immunity results from natural exposure to a pathogen, leading to an immune response that generates memory cells for lasting protection.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which branch of the adaptive immune system primarily involves cytotoxic T-cells directly destroying host cells that have been infected by viruses?",
+    "correct_answer": "Cell-mediated immunity",
+    "wrong_answers": [
+      "Humoral immunity",
+      "Innate immunity",
+      "Passive immunity"
+    ],
+    "explanation": "Cell-mediated immunity is driven by T-lymphocytes, specifically cytotoxic T-cells, which target and destroy intracellular pathogens and cancerous cells.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The production of antibodies by plasma cells to neutralize bacterial toxins in the bloodstream is a primary function of which specific immune response?",
+    "correct_answer": "Humoral immunity",
+    "wrong_answers": [
+      "Cell-mediated immunity",
+      "Innate cellular immunity",
+      "Complement system"
+    ],
+    "explanation": "Humoral immunity is mediated by B-lymphocytes that differentiate into plasma cells, which secrete antibodies to target extracellular pathogens and toxins.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is a defining characteristic of innate immunity compared to adaptive immunity?",
+    "correct_answer": "It provides an immediate, non-specific response to pathogens.",
+    "wrong_answers": [
+      "It relies on the production of memory B-cells.",
+      "It involves the creation of highly specific antibodies.",
+      "It requires prior exposure to the pathogen to be effective."
+    ],
+    "explanation": "Innate immunity acts as the body's first line of defense, responding immediately and generically to a wide range of pathogens without requiring prior exposure or creating immunological memory.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why does passive immunity, such as receiving an injection of antibodies, typically provide only short-term protection?",
+    "correct_answer": "The recipient's immune system does not produce memory cells.",
+    "wrong_answers": [
+      "The injected antibodies are rapidly destroyed by the complement system.",
+      "Passive immunity only activates the innate immune response.",
+      "The antibodies cannot bind to antigens without T-cell assistance."
+    ],
+    "explanation": "Because passive immunity involves the transfer of pre-formed antibodies rather than antigen exposure, the recipient's body does not form memory cells, leading to a decline in protection once the antibodies degrade.",
+    "body_system": "Immune system - types of immunity",
+    "category": "Anatomy & Physiology",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is NOT a core tenet of the modern cell theory?",
+    "correct_answer": "All cells contain a membrane-bound nucleus.",
+    "wrong_answers": [
+      "All living organisms are composed of one or more cells.",
+      "The cell is the basic unit of structure and organization in organisms.",
+      "All cells arise from pre-existing cells."
+    ],
+    "explanation": "The cell theory states that all living things are made of cells, cells are the basic unit of life, and cells come from pre-existing cells. Prokaryotic cells, such as bacteria, lack a membrane-bound nucleus, making this statement incorrect.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which cellular structure is present in eukaryotic cells but universally absent in prokaryotic cells?",
+    "correct_answer": "Endoplasmic reticulum",
+    "wrong_answers": [
+      "Ribosomes",
+      "Cytoplasm",
+      "Cell membrane"
+    ],
+    "explanation": "Eukaryotic cells are characterized by the presence of membrane-bound organelles, such as the endoplasmic reticulum, which prokaryotic cells lack. Both cell types contain ribosomes, cytoplasm, and a cell membrane.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A scientist observes a cell that lacks membrane-bound organelles and has its DNA located in a nucleoid region. This cell most likely belongs to which organism?",
+    "correct_answer": "Bacteria",
+    "wrong_answers": [
+      "Mushroom",
+      "Oak tree",
+      "Human"
+    ],
+    "explanation": "Prokaryotic cells, such as those found in bacteria and archaea, lack membrane-bound organelles and organize their genetic material in a nucleoid region rather than a true nucleus. Mushrooms, oak trees, and humans are composed of eukaryotic cells.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is a primary structural component of a plant cell wall that is absent in animal cells?",
+    "correct_answer": "Cellulose",
+    "wrong_answers": [
+      "Chitin",
+      "Peptidoglycan",
+      "Phospholipid bilayer"
+    ],
+    "explanation": "Plant cell walls are primarily composed of cellulose, a complex carbohydrate that provides rigid structural support. Fungal cell walls contain chitin, bacterial cell walls contain peptidoglycan, and all cells have a phospholipid bilayer, but only in their cell membranes, not cell walls.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to the endosymbiotic theory, which organelle is believed to have originated from a free-living prokaryote that was engulfed by a host cell?",
+    "correct_answer": "Mitochondrion",
+    "wrong_answers": [
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Lysosome"
+    ],
+    "explanation": "The endosymbiotic theory proposes that mitochondria were once independent prokaryotic organisms that established a symbiotic relationship inside a host cell, which is supported by the fact that mitochondria have their own DNA and ribosomes.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following represents a well-recognized exception to the standard cell theory?",
+    "correct_answer": "Viruses",
+    "wrong_answers": [
+      "Bacteria",
+      "Fungi",
+      "Protozoa"
+    ],
+    "explanation": "Viruses are considered an exception to the cell theory because they are acellular, meaning they are not composed of cells, yet they exhibit some characteristics of living things, such as the ability to replicate inside a host cell.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary function of the rough endoplasmic reticulum in a eukaryotic cell?",
+    "correct_answer": "Synthesis and modification of proteins",
+    "wrong_answers": [
+      "Synthesis of lipids and steroid hormones",
+      "Production of cellular energy (ATP)",
+      "Digestion of worn-out cellular organelles"
+    ],
+    "explanation": "The rough endoplasmic reticulum is studded with ribosomes, giving it a rough appearance, and is primarily responsible for the synthesis, folding, and modification of proteins destined for secretion or insertion into cell membranes.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following organelles is responsible for generating most of the cell's supply of adenosine triphosphate (ATP) through aerobic respiration?",
+    "correct_answer": "Mitochondrion",
+    "wrong_answers": [
+      "Chloroplast",
+      "Ribosome",
+      "Vacuole"
+    ],
+    "explanation": "Mitochondria are known as the powerhouses of the cell because they produce the majority of ATP through the processes of the citric acid cycle and oxidative phosphorylation. Chloroplasts produce ATP during photosynthesis, but not as the primary energy source for general cellular functions.",
+    "body_system": "Cell theory and cell types",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following correctly describes the chromosome number of the daughter cells produced during mitosis compared to the parent cell?",
+    "correct_answer": "A. Diploid; identical to the parent cell",
+    "wrong_answers": [
+      "B. Haploid; identical to the parent cell",
+      "C. Diploid; half the number of the parent cell",
+      "D. Haploid; half the number of the parent cell"
+    ],
+    "explanation": "Mitosis is a process of cell division that results in two genetically identical diploid daughter cells, maintaining the same chromosome number as the original parent cell.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the correct sequence of events during the mitotic phase of the cell cycle?",
+    "correct_answer": "A. Prophase, metaphase, anaphase, telophase",
+    "wrong_answers": [
+      "B. Prophase, anaphase, metaphase, telophase",
+      "C. Metaphase, prophase, anaphase, telophase",
+      "D. Anaphase, metaphase, telophase, prophase"
+    ],
+    "explanation": "The correct order of the phases of mitosis is prophase, metaphase, anaphase, and telophase, often remembered by the acronym PMAT.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During which specific stage of meiosis does the exchange of genetic material between homologous chromosomes (crossing over) occur?",
+    "correct_answer": "A. Prophase I",
+    "wrong_answers": [
+      "B. Metaphase I",
+      "C. Prophase II",
+      "D. Metaphase II"
+    ],
+    "explanation": "Crossing over occurs during prophase I of meiosis when homologous chromosomes pair up and exchange segments of DNA, increasing genetic diversity.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which structure is responsible for separating the cytoplasm during cytokinesis in animal cells?",
+    "correct_answer": "A. Cleavage furrow",
+    "wrong_answers": [
+      "B. Cell plate",
+      "C. Spindle fiber",
+      "D. Centrosome"
+    ],
+    "explanation": "In animal cells, a cleavage furrow forms to pinch the cell membrane inward, dividing the cytoplasm, whereas plant cells form a cell plate.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is the primary function of mitosis in multicellular organisms?",
+    "correct_answer": "A. Tissue repair and growth",
+    "wrong_answers": [
+      "B. Production of gametes",
+      "C. Reduction of chromosome number by half",
+      "D. Genetic recombination"
+    ],
+    "explanation": "Mitosis primarily functions to replace damaged cells and facilitate organismal growth by producing genetically identical somatic cells.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does meiosis II fundamentally differ from mitosis?",
+    "correct_answer": "A. Meiosis II begins with haploid cells, whereas mitosis begins with diploid cells.",
+    "wrong_answers": [
+      "B. Meiosis II involves the separation of homologous chromosomes, whereas mitosis separates sister chromatids.",
+      "C. Meiosis II results in genetically identical daughter cells, whereas mitosis results in genetically diverse cells.",
+      "D. Meiosis II only occurs in plant cells, whereas mitosis occurs in all eukaryotic cells."
+    ],
+    "explanation": "Meiosis II separates sister chromatids, similar to mitosis, but it begins with haploid cells resulting from meiosis I, ultimately producing four haploid gametes.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary role of the G2 checkpoint in the cell cycle?",
+    "correct_answer": "A. To ensure DNA has been completely and accurately replicated before mitosis begins.",
+    "wrong_answers": [
+      "B. To assess whether the cell has reached an adequate size for division.",
+      "C. To verify that all chromosomes are properly attached to the spindle apparatus.",
+      "D. To determine if the cell should exit the cell cycle into the G0 phase."
+    ],
+    "explanation": "The G2 checkpoint occurs just before the cell enters mitosis and ensures that DNA replication during the S phase is complete and error-free.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary function of the mitotic spindle during cell division?",
+    "correct_answer": "A. To separate chromosomes by attaching to and pulling on kinetochores.",
+    "wrong_answers": [
+      "B. To synthesize a new nuclear envelope for the daughter cells.",
+      "C. To replicate the DNA before cell division occurs.",
+      "D. To dissolve the cytoskeleton so the cell can divide."
+    ],
+    "explanation": "The mitotic spindle is a network of microtubules that attaches to the kinetochores of chromosomes to move and separate them into the daughter cells.",
+    "body_system": "Cell division",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to Chargaff's rules, which of the following base pairings is correct in a DNA molecule?",
+    "correct_answer": "Adenine pairs with thymine, and cytosine pairs with guanine.",
+    "wrong_answers": [
+      "Adenine pairs with cytosine, and thymine pairs with guanine.",
+      "Adenine pairs with guanine, and cytosine pairs with thymine.",
+      "Adenine pairs with uracil, and cytosine pairs with guanine."
+    ],
+    "explanation": "Chargaff's rules state that in DNA, adenine (A) always forms two hydrogen bonds with thymine (T), and cytosine (C) always forms three hydrogen bonds with guanine (G). Uracil is found in RNA, not DNA.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "DNA polymerase can only add nucleotides in which direction during replication?",
+    "correct_answer": "5' to 3' direction",
+    "wrong_answers": [
+      "3' to 5' direction",
+      "Both 5' to 3' and 3' to 5' directions simultaneously",
+      "Random direction depending on the base sequence"
+    ],
+    "explanation": "DNA polymerase reads the template strand in the 3' to 5' direction but synthesizes the new strand exclusively in the 5' to 3' direction by adding nucleotides to the 3' end.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+    "correct_answer": "Helicase",
+    "wrong_answers": [
+      "DNA polymerase",
+      "Ligase",
+      "Primase"
+    ],
+    "explanation": "Helicase breaks the hydrogen bonds between the complementary nitrogenous bases, separating the two parental strands to form the replication fork.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Okazaki fragments are associated with the synthesis of which strand during DNA replication?",
+    "correct_answer": "Lagging strand",
+    "wrong_answers": [
+      "Leading strand",
+      "Template strand",
+      "Coding strand"
+    ],
+    "explanation": "Because DNA polymerase can only synthesize in the 5' to 3' direction, the lagging strand is synthesized discontinuously in short segments known as Okazaki fragments.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What type of sugar molecule is found in the backbone of a DNA nucleotide?",
+    "correct_answer": "Deoxyribose",
+    "wrong_answers": [
+      "Ribose",
+      "Glucose",
+      "Galactose"
+    ],
+    "explanation": "DNA stands for deoxyribonucleic acid, indicating the presence of deoxyribose sugar, which lacks a hydroxyl group on the 2' carbon compared to ribose found in RNA.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary function of DNA ligase in DNA replication?",
+    "correct_answer": "Joining Okazaki fragments together",
+    "wrong_answers": [
+      "Unwinding the DNA double helix",
+      "Synthesizing short RNA primers",
+      "Adding nucleotides to the 3' end of the growing strand"
+    ],
+    "explanation": "DNA ligase creates phosphodiester bonds to seal the gaps between Okazaki fragments on the lagging strand, resulting in a continuous DNA strand.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The two strands of a DNA double helix are described as antiparallel. What does this mean?",
+    "correct_answer": "One strand runs 5' to 3', while the other runs 3' to 5'.",
+    "wrong_answers": [
+      "The strands are parallel but twist in opposite directions.",
+      "Both strands run in the 5' to 3' direction but are offset.",
+      "The nitrogenous bases on opposite strands point in the same direction."
+    ],
+    "explanation": "Antiparallel orientation means that the sugar-phosphate backbones of the two DNA strands align in opposite chemical directions, which is essential for complementary base pairing and enzyme function.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "DNA replication is described as semiconservative. Which of the following best describes this process?",
+    "correct_answer": "Each new DNA molecule consists of one original strand and one newly synthesized strand.",
+    "wrong_answers": [
+      "Both strands of the new DNA molecule are entirely newly synthesized.",
+      "Both strands of the new DNA molecule are composed of fragments of the original strand.",
+      "The original DNA molecule is completely preserved, and a separate copy is made."
+    ],
+    "explanation": "Semiconservative replication means that when a double helix replicates, each of the two daughter molecules retains one of the original parental strands and gains one newly synthesized strand.",
+    "body_system": "DNA structure and replication",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following are the primary products of the light-dependent reactions of photosynthesis?",
+    "correct_answer": "ATP and NADPH",
+    "wrong_answers": [
+      "Glucose and oxygen",
+      "Carbon dioxide and water",
+      "ADP and NADP+"
+    ],
+    "explanation": "The light-dependent reactions capture solar energy to produce ATP and NADPH, which are then used in the Calvin cycle to synthesize glucose.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In eukaryotic cells, the Krebs cycle (citric acid cycle) takes place in which cellular compartment?",
+    "correct_answer": "Mitochondrial matrix",
+    "wrong_answers": [
+      "Cytoplasm",
+      "Inner mitochondrial membrane",
+      "Thylakoid space"
+    ],
+    "explanation": "The Krebs cycle occurs in the mitochondrial matrix, where acetyl-CoA is oxidized to produce electron carriers that feed into the electron transport chain.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the final electron acceptor in the electron transport chain of aerobic cellular respiration?",
+    "correct_answer": "Oxygen",
+    "wrong_answers": [
+      "Carbon dioxide",
+      "Water",
+      "NAD+"
+    ],
+    "explanation": "Oxygen serves as the final electron acceptor, combining with electrons and hydrogen ions to form water, which is essential for maintaining the flow of electrons through the chain.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Calvin cycle, also known as the light-independent reactions of photosynthesis, occurs in the:",
+    "correct_answer": "Stroma of the chloroplast",
+    "wrong_answers": [
+      "Thylakoid membrane",
+      "Matrix of the mitochondria",
+      "Cytoplasm of the cell"
+    ],
+    "explanation": "The stroma is the fluid-filled space surrounding the thylakoids in the chloroplast, and it is the site where carbon fixation and the Calvin cycle take place.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During aerobic cellular respiration, the majority of ATP is produced during which stage?",
+    "correct_answer": "Oxidative phosphorylation",
+    "wrong_answers": [
+      "Glycolysis",
+      "The Krebs cycle",
+      "Fermentation"
+    ],
+    "explanation": "Oxidative phosphorylation, which includes the electron transport chain and chemiosmosis, generates approximately 26 to 28 ATP out of the theoretical maximum of 30 to 32 ATP per glucose molecule.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How do the processes of photosynthesis and cellular respiration complement each other in the global carbon cycle?",
+    "correct_answer": "The products of one process serve as the reactants for the other.",
+    "wrong_answers": [
+      "Both processes release oxygen into the atmosphere as a byproduct",
+      "Both processes consume carbon dioxide from the atmosphere",
+      "They both occur exclusively in the mitochondria of plant cells"
+    ],
+    "explanation": "Photosynthesis uses carbon dioxide and water to produce glucose and oxygen, while cellular respiration uses glucose and oxygen to produce carbon dioxide and water, creating a continuous biological cycle.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the absence of oxygen, yeast cells undergo fermentation. What is the primary purpose of this metabolic pathway?",
+    "correct_answer": "To regenerate NAD+ so glycolysis can continue",
+    "wrong_answers": [
+      "To produce large amounts of ATP",
+      "To synthesize glucose from lactic acid",
+      "To break down ethanol into carbon dioxide"
+    ],
+    "explanation": "Fermentation allows glycolysis to continue by regenerating NAD+ from NADH, which is necessary to keep the glycolytic pathway producing a small, but vital, yield of ATP.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Scientific experiments using isotopes of oxygen have demonstrated that the oxygen gas (O2) released during photosynthesis originates from:",
+    "correct_answer": "Water (H2O)",
+    "wrong_answers": [
+      "Carbon dioxide (CO2)",
+      "Glucose (C6H12O6)",
+      "Atmospheric nitrogen (N2)"
+    ],
+    "explanation": "The splitting of water molecules (photolysis) during the light-dependent reactions releases oxygen, hydrogen ions, and electrons, proving that the oxygen byproduct comes from water, not carbon dioxide.",
+    "body_system": "Photosynthesis and cellular respiration",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to the rule of energy transfer in an ecosystem, approximately what percentage of energy is passed from one trophic level to the next?",
+    "correct_answer": "10%",
+    "wrong_answers": [
+      "50%",
+      "90%",
+      "1%"
+    ],
+    "explanation": "The 10% rule states that only about 10% of the available energy at a given trophic level is transferred to the next level, while the remaining 90% is lost primarily as metabolic heat.",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which biome is characterized by permafrost, low-growing vegetation such as mosses and lichens, and extremely cold temperatures?",
+    "correct_answer": "Tundra",
+    "wrong_answers": [
+      "Taiga",
+      "Tropical rainforest",
+      "Temperate deciduous forest"
+    ],
+    "explanation": "The tundra biome is defined by its permanently frozen subsoil (permafrost) and short growing seasons, which restrict plant growth to hardy, low-lying vegetation.",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A remora fish attaches to the belly of a shark and feeds on scraps left by the shark without harming or helping the shark. This is an example of which type of symbiotic relationship?",
+    "correct_answer": "Commensalism",
+    "wrong_answers": [
+      "Mutualism",
+      "Parasitism",
+      "Predation"
+    ],
+    "explanation": "Commensalism is a symbiotic relationship where one organism benefits while the other is neither helped nor harmed.",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following biological processes primarily removes carbon dioxide from the atmosphere?",
+    "correct_answer": "Photosynthesis",
+    "wrong_answers": [
+      "Cellular respiration",
+      "Decomposition",
+      "Combustion"
+    ],
+    "explanation": "Photosynthesis is the process by which plants and other autotrophs convert carbon dioxide and water into glucose and oxygen, effectively pulling carbon out of the atmosphere.",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The colonization of a barren, lava-covered landscape by pioneer species such as lichens is an example of which process?",
+    "correct_answer": "Primary succession",
+    "wrong_answers": [
+      "Secondary succession",
+      "Climax community establishment",
+      "Biotic potential realization"
+    ],
+    "explanation": "Primary succession occurs in an environment that is entirely devoid of soil and life, such as newly formed volcanic land, starting with pioneer species like lichens that break down rock.",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In a stable ecosystem, the maximum number of individuals of a particular species that the environment can sustain indefinitely is known as the:",
+    "correct_answer": "Carrying capacity",
+    "wrong_answers": [
+      "Biotic potential",
+      "Limiting factor",
+      "Logistic growth rate"
+    ],
+    "explanation": "Carrying capacity refers to the maximum population size of a species that an environment can support sustainably, dictated by available resources like food, water, and shelter.",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group of organisms is primarily responsible for converting atmospheric nitrogen gas (N2) into a biologically usable form in the nitrogen cycle?",
+    "correct_answer": "Nitrogen-fixing bacteria",
+    "wrong_answers": [
+      "Denitrifying bacteria",
+      "Fungi",
+      "Photosynthetic algae"
+    ],
+    "explanation": "Nitrogen-fixing bacteria possess the enzyme nitrogenase, which allows them to convert inert atmospheric nitrogen gas into ammonia, making nitrogen available for plant absorption.",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In a food chain consisting of grass \u2192 grasshopper \u2192 frog \u2192 snake \u2192 hawk, the snake occupies which trophic level?",
+    "correct_answer": "Tertiary consumer",
+    "wrong_answers": [
+      "Primary consumer",
+      "Secondary consumer",
+      "Primary producer"
+    ],
+    "explanation": "The snake is the fourth organism in the chain, making it a tertiary consumer (third-level consumer) that feeds on the secondary consumer (the frog).",
+    "body_system": "Ecology",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following macromolecules is primarily composed of amino acid monomers?",
+    "correct_answer": "Proteins",
+    "wrong_answers": [
+      "Carbohydrates",
+      "Lipids",
+      "Nucleic acids"
+    ],
+    "explanation": "Proteins are polymers made of amino acid monomers linked together by peptide bonds during a condensation reaction.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What type of macromolecule acts as the primary biological catalyst to speed up chemical reactions in the body?",
+    "correct_answer": "Proteins",
+    "wrong_answers": [
+      "Lipids",
+      "Carbohydrates",
+      "Nucleic acids"
+    ],
+    "explanation": "Enzymes are almost exclusively proteins that lower the activation energy required for biochemical reactions to occur.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which macromolecule provides the highest amount of energy per gram and is not considered a true polymer?",
+    "correct_answer": "Lipids",
+    "wrong_answers": [
+      "Proteins",
+      "Carbohydrates",
+      "Nucleic acids"
+    ],
+    "explanation": "Lipids yield about 9 calories per gram, but unlike the other macromolecules, they are not true polymers because their building blocks (glycerol and fatty acids) do not form repetitive chains.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which macromolecule serves as the primary short-term energy source for cells and includes sugars like glucose?",
+    "correct_answer": "Carbohydrates",
+    "wrong_answers": [
+      "Lipids",
+      "Proteins",
+      "Nucleic acids"
+    ],
+    "explanation": "Carbohydrates are the body's preferred and most readily available source of energy, typically broken down into simple sugars like glucose.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are the repeating monomer units that make up nucleic acids such as DNA and RNA?",
+    "correct_answer": "Nucleotides",
+    "wrong_answers": [
+      "Amino acids",
+      "Monosaccharides",
+      "Fatty acids"
+    ],
+    "explanation": "Nucleotides are the monomers of nucleic acids, and each consists of a phosphate group, a five-carbon sugar, and a nitrogenous base.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which chemical reaction is responsible for breaking down polymers into monomers by adding a water molecule?",
+    "correct_answer": "Hydrolysis",
+    "wrong_answers": [
+      "Dehydration synthesis",
+      "Phosphorylation",
+      "Oxidation"
+    ],
+    "explanation": "Hydrolysis breaks the covalent bonds between monomers by inserting a water molecule, effectively reversing the process of dehydration synthesis.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following accurately describes a saturated fatty acid?",
+    "correct_answer": "It contains no double bonds between carbon atoms in its hydrocarbon chain.",
+    "wrong_answers": [
+      "It contains at least one double bond in its hydrocarbon chain.",
+      "It is typically liquid at room temperature.",
+      "It is primarily found in plant oils such as olive oil."
+    ],
+    "explanation": "Saturated fatty acids have single bonds between all carbon atoms, causing the hydrocarbon chain to be straight and pack tightly together, making them solid at room temperature.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Cholesterol, which is an important component of cell membranes and a precursor for steroid hormones, belongs to which class of macromolecules?",
+    "correct_answer": "Lipids",
+    "wrong_answers": [
+      "Proteins",
+      "Carbohydrates",
+      "Nucleic acids"
+    ],
+    "explanation": "Cholesterol is classified as a lipid, specifically a steroid, characterized by its structure of four fused carbon rings.",
+    "body_system": "Macromolecules",
+    "category": "Life Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which type of chemical bond involves the complete transfer of one or more electrons from one atom to another?",
+    "correct_answer": "Ionic bond",
+    "wrong_answers": [
+      "Covalent bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "explanation": "Ionic bonds form when one atom donates an electron to another atom, resulting in oppositely charged ions that are attracted to each other.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A bond between two atoms with an electronegativity difference of 0.4 is best classified as which of the following?",
+    "correct_answer": "Nonpolar covalent",
+    "wrong_answers": [
+      "Polar covalent",
+      "Ionic",
+      "Metallic"
+    ],
+    "explanation": "A small electronegativity difference (typically less than 0.5) indicates that electrons are shared equally between the atoms, forming a nonpolar covalent bond.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Hydrogen bonds are primarily responsible for which of the following properties of water?",
+    "correct_answer": "High specific heat",
+    "wrong_answers": [
+      "Low surface tension",
+      "Formation of ionic crystals",
+      "High vapor pressure"
+    ],
+    "explanation": "Hydrogen bonds between water molecules require a significant amount of energy to break, giving water its characteristically high specific heat capacity.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which property of metals is best explained by the presence of a \"sea of electrons\" in metallic bonding?",
+    "correct_answer": "Electrical conductivity",
+    "wrong_answers": [
+      "Brittleness",
+      "Low melting point",
+      "High ionization energy"
+    ],
+    "explanation": "The delocalized electrons in a metallic bond are free to move throughout the metal's structure, allowing it to efficiently conduct electrical current.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A double covalent bond consists of which of the following combinations of orbital overlaps?",
+    "correct_answer": "One sigma bond and one pi bond",
+    "wrong_answers": [
+      "Two sigma bonds",
+      "Two pi bonds",
+      "One sigma bond and two pi bonds"
+    ],
+    "explanation": "A double bond always consists of one sigma bond, formed by end-to-end orbital overlap, and one pi bond, formed by the side-to-side overlap of p orbitals.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to the octet rule, how many covalent bonds will a neutral atom of oxygen typically form to reach stability?",
+    "correct_answer": "Two",
+    "wrong_answers": [
+      "One",
+      "Four",
+      "Six"
+    ],
+    "explanation": "Oxygen has six valence electrons and needs to share two additional electrons to achieve a stable octet configuration, resulting in two covalent bonds.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why is carbon dioxide (CO2) a nonpolar molecule even though it contains polar carbon-oxygen bonds?",
+    "correct_answer": "The dipole moments cancel out due to the linear geometry of the molecule.",
+    "wrong_answers": [
+      "The electronegativity difference between carbon and oxygen is zero.",
+      "Carbon dioxide only forms ionic bonds at room temperature.",
+      "The oxygen atoms completely shield the carbon atom's charge."
+    ],
+    "explanation": "In CO2, the equal but opposite dipole moments of the two C=O bonds cancel each other out because the molecule is linear and symmetrical.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In an exothermic chemical reaction, how does the energy of the newly formed bonds compare to the energy required to break the initial bonds?",
+    "correct_answer": "The energy of the formed bonds is greater than the energy of the broken bonds.",
+    "wrong_answers": [
+      "The energy of the formed bonds is less than the energy of the broken bonds.",
+      "The energy of the formed bonds equals the energy of the broken bonds.",
+      "Bond energy has no relationship to the heat released in a reaction."
+    ],
+    "explanation": "In an exothermic reaction, more energy is released when new bonds form than is required to break the initial bonds, resulting in a net release of energy to the surroundings.",
+    "body_system": "Chemical bonds",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A solution has a pH of 3. How does this solution compare to a solution with a pH of 5?",
+    "correct_answer": "It is 100 times more acidic.",
+    "wrong_answers": [
+      "It is 10 times more acidic.",
+      "It is 2 times more acidic.",
+      "It is 1000 times more acidic."
+    ],
+    "explanation": "The pH scale is logarithmic, meaning each whole number change represents a tenfold change in hydrogen ion concentration. A difference of 2 pH units represents a 10 x 10, or 100-fold, difference in acidity.",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to the Arrhenius definition, an acid is a substance that does which of the following?",
+    "correct_answer": "Increases the concentration of hydrogen ions (H+) when dissolved in water.",
+    "wrong_answers": [
+      "Increases the concentration of hydroxide ions (OH-) when dissolved in water.",
+      "Accepts a proton from another substance.",
+      "Donates an electron pair to another substance."
+    ],
+    "explanation": "The Arrhenius definition specifically characterizes an acid as a substance that yields hydrogen ions (H+) in an aqueous solution, while a base yields hydroxide ions (OH-).",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which buffer system is the primary regulator of blood pH in the human body?",
+    "correct_answer": "Carbonic acid-bicarbonate buffer system",
+    "wrong_answers": [
+      "Acetic acid-acetate buffer system",
+      "Ammonia-ammonium buffer system",
+      "Phosphoric acid-phosphate buffer system"
+    ],
+    "explanation": "The carbonic acid-bicarbonate buffer system is the most important extracellular buffer, maintaining human blood pH tightly within the normal range of 7.35 to 7.45.",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What distinguishes a strong acid from a weak acid?",
+    "correct_answer": "A strong acid completely dissociates into ions in water.",
+    "wrong_answers": [
+      "A strong acid has a pH closer to 7 than a weak acid.",
+      "A strong acid does not react with metals.",
+      "A strong acid is always a highly concentrated solution."
+    ],
+    "explanation": "A strong acid, such as hydrochloric acid (HCl), undergoes 100% ionization in water, completely dissociating into H+ and its conjugate base, unlike weak acids which only partially dissociate.",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are the typical products of a neutralization reaction between an acid and a base?",
+    "correct_answer": "Salt and water",
+    "wrong_answers": [
+      "Hydrogen gas and a metal oxide",
+      "Carbon dioxide and water",
+      "A weaker acid and a weaker base"
+    ],
+    "explanation": "In a classic Arrhenius acid-base neutralization reaction, the H+ ions from the acid and the OH- ions from the base combine to form water (H2O), while the remaining ions form an ionic salt.",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If a solution has a hydrogen ion concentration [H+] of 1 x 10^-8 M, what is its pH?",
+    "correct_answer": "8",
+    "wrong_answers": [
+      "-8",
+      "6",
+      "10"
+    ],
+    "explanation": "The pH of a solution is calculated using the formula pH = -log[H+]. Therefore, for a hydrogen ion concentration of 1 x 10^-8 M, the pH is exactly 8.",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the Bronsted-Lowry theory of acids and bases, how is a base defined?",
+    "correct_answer": "A proton (H+) acceptor",
+    "wrong_answers": [
+      "A proton (H+) donor",
+      "An electron pair donor",
+      "An electron pair acceptor"
+    ],
+    "explanation": "Under the Bronsted-Lowry theory, an acid is defined as a proton donor and a base is defined as a proton acceptor. (Note: Electron pair donor/acceptor refers to the Lewis definition).",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A student tests an unknown clear liquid with red litmus paper, and the paper turns blue. What can be concluded about the liquid?",
+    "correct_answer": "The liquid has a pH greater than 7.",
+    "wrong_answers": [
+      "The liquid is a strong acid.",
+      "The liquid has a pH of exactly 7.",
+      "The liquid contains no hydroxide ions."
+    ],
+    "explanation": "Red litmus paper turns blue under basic (alkaline) conditions, indicating that the pH of the solution is greater than 7. Blue litmus paper turns red under acidic conditions.",
+    "body_system": "Acids, bases, and pH",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "As you move from left to right across a period on the periodic table, what happens to the atomic radius?",
+    "correct_answer": "It decreases due to increasing effective nuclear charge.",
+    "wrong_answers": [
+      "It increases due to the addition of new electron shells.",
+      "It remains constant because protons and electrons are added equally.",
+      "It increases because the electron-electron repulsion outweighs the nuclear charge."
+    ],
+    "explanation": "Moving left to right increases the number of protons, which pulls the electron cloud closer to the nucleus without adding new inner shells to shield the valence electrons.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following best explains why ionization energy decreases as you move down a group in the periodic table?",
+    "correct_answer": "The outermost electrons are farther from the nucleus and experience less electrostatic attraction.",
+    "wrong_answers": [
+      "The number of protons in the nucleus decreases, reducing the pull on electrons.",
+      "The electron shielding effect remains constant while atomic size decreases.",
+      "The valence electrons are held more tightly due to an increase in electronegativity."
+    ],
+    "explanation": "As you descend a group, the principal energy level increases, placing valence electrons farther away from the nucleus and making them easier to remove.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following elements has the highest electronegativity?",
+    "correct_answer": "Fluorine",
+    "wrong_answers": [
+      "Oxygen",
+      "Chlorine",
+      "Neon"
+    ],
+    "explanation": "Fluorine is the most electronegative element because its small atomic radius and high effective nuclear charge allow it to attract bonding electrons most strongly. Noble gases like neon generally do not have electronegativity values because they do not typically form bonds.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does metallic character change as you move from left to right across Period 3 (from sodium to argon)?",
+    "correct_answer": "It decreases because elements tend to gain electrons rather than lose them.",
+    "wrong_answers": [
+      "It increases because the number of valence electrons increases.",
+      "It remains the same because all elements in the period share the same principal energy level.",
+      "It increases because the decreasing atomic radius makes electron loss easier."
+    ],
+    "explanation": "Metallic character is the tendency to lose electrons to form cations. Moving left to right increases the effective nuclear charge, making it harder to lose electrons and shifting elements from metals to nonmetals.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What happens to the shielding effect as you move down Group 1 (the alkali metals)?",
+    "correct_answer": "It increases because there are more inner electron shells blocking the nuclear charge.",
+    "wrong_answers": [
+      "It decreases because the valence electrons get closer to the nucleus.",
+      "It remains constant because only valence electrons contribute to shielding.",
+      "It decreases because the effective nuclear charge increases significantly."
+    ],
+    "explanation": "Moving down a group adds new electron shells between the nucleus and the outermost valence electrons, increasing the shielding effect and making valence electrons less tightly held.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following atoms has the largest atomic radius?",
+    "correct_answer": "Potassium (K)",
+    "wrong_answers": [
+      "Calcium (Ca)",
+      "Sodium (Na)",
+      "Argon (Ar)"
+    ],
+    "explanation": "Atomic radius increases down a group and decreases across a period. Potassium is located further down and to the left compared to calcium, sodium, and argon, giving it the largest radius.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "As you move from left to right across a period, the effective nuclear charge experienced by the valence electrons increases. What is the primary cause of this?",
+    "correct_answer": "Protons are added to the nucleus while electrons are added to the same principal energy level.",
+    "wrong_answers": [
+      "Electrons are added to new energy levels that are farther from the nucleus.",
+      "The number of neutrons in the nucleus increases, strengthening the nuclear pull.",
+      "The shielding effect increases, pushing valence electrons closer to the nucleus."
+    ],
+    "explanation": "Across a period, the increasing number of protons exerts a stronger pull on electrons, while the shielding effect remains relatively constant because no new inner shells are added.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Compared to nitrogen, oxygen has a slightly lower first ionization energy. Which of the following best explains this anomaly?",
+    "correct_answer": "Oxygen has a paired electron in its 2p subshell, which causes electron-electron repulsion and makes it easier to remove an electron.",
+    "wrong_answers": [
+      "Oxygen has a larger atomic radius than nitrogen, so its outer electrons are farther from the nucleus.",
+      "Nitrogen has a higher electronegativity than oxygen, making its electrons harder to remove.",
+      "Oxygen has a completely filled 2p subshell, making it exceptionally stable."
+    ],
+    "explanation": "Nitrogen has a half-filled 2p subshell, which is relatively stable. Oxygen's additional electron must pair up in the same orbital, creating repulsion that makes it easier to remove one of the paired electrons.",
+    "body_system": "Periodic table trends",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following phase changes is classified as endothermic?",
+    "correct_answer": "Sublimation",
+    "wrong_answers": [
+      "Deposition",
+      "Freezing",
+      "Condensation"
+    ],
+    "explanation": "Sublimation is the transition from solid to gas, which requires the absorption of heat energy to overcome intermolecular forces.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During the melting of a pure crystalline substance, what happens to the temperature of the substance?",
+    "correct_answer": "It remains constant until all of the solid has melted.",
+    "wrong_answers": [
+      "It increases steadily until the boiling point is reached.",
+      "It decreases as energy is lost to break intermolecular bonds.",
+      "It fluctuates depending on the atmospheric pressure."
+    ],
+    "explanation": "During a phase change, added heat energy is used to break intermolecular bonds rather than increase kinetic energy, resulting in a constant temperature.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which term describes the direct phase transition from a gas to a solid without passing through the liquid state?",
+    "correct_answer": "Deposition",
+    "wrong_answers": [
+      "Sublimation",
+      "Condensation",
+      "Solidification"
+    ],
+    "explanation": "Deposition is the exothermic process where gas molecules lose sufficient thermal energy to directly form a solid structure, such as frost forming on a window.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which properties of a liquid are primarily responsible for its ability to form a concave meniscus in a glass graduated cylinder?",
+    "correct_answer": "Adhesion and cohesion",
+    "wrong_answers": [
+      "Surface tension and viscosity",
+      "Vapor pressure and boiling point",
+      "Specific heat and thermal conductivity"
+    ],
+    "explanation": "Adhesion causes the liquid molecules to be attracted to the glass walls, while cohesion pulls the remaining liquid together, creating a curved meniscus.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "On a phase diagram, what is the physical significance of the triple point?",
+    "correct_answer": "It is the unique temperature and pressure at which all three phases exist in equilibrium.",
+    "wrong_answers": [
+      "It is the highest temperature and pressure at which a liquid can exist.",
+      "It represents the point where a substance's density is the same in all three phases.",
+      "It indicates the exact conditions required to induce sublimation."
+    ],
+    "explanation": "The triple point is the specific set of conditions where the solid, liquid, and gas phases of a substance coexist in a stable, dynamic equilibrium.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Compared to the heat of fusion, the heat of vaporization for a given substance is typically higher. Why is this the case?",
+    "correct_answer": "Completely separating molecules into a gas requires overcoming more intermolecular forces than just loosening them into a liquid.",
+    "wrong_answers": [
+      "Gases have a lower kinetic energy than liquids, requiring more heat to stabilize them.",
+      "Liquids are denser than solids, meaning they absorb heat more efficiently.",
+      "Vaporization occurs at a lower temperature than melting, requiring a heat deficit to be overcome."
+    ],
+    "explanation": "Vaporization requires completely breaking all intermolecular attractions to allow free molecular movement, whereas fusion only requires partially disrupting a rigid lattice structure.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following accurately describes the plasma state of matter?",
+    "correct_answer": "An ionized gas consisting of positively charged ions and free electrons.",
+    "wrong_answers": [
+      "A highly compressed liquid that exhibits electrical conductivity and a definite volume.",
+      "A superheated solid in which electrons are shared equally among a lattice of atoms.",
+      "A gas that has been cooled below its freezing point without forming a crystalline solid."
+    ],
+    "explanation": "Plasma is formed when a gas is subjected to extremely high energy, causing electrons to strip away from their atoms and creating an electrically conductive mixture of ions and electrons.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary distinction between evaporation and boiling?",
+    "correct_answer": "Evaporation occurs only at the surface of a liquid, while boiling occurs throughout the entire liquid.",
+    "wrong_answers": [
+      "Evaporation is an exothermic process, whereas boiling is an endothermic process.",
+      "Evaporation can only occur at a substance's boiling point, while boiling can occur at any temperature.",
+      "Evaporation decreases the vapor pressure of a liquid, while boiling increases it."
+    ],
+    "explanation": "Evaporation is a surface phenomenon where molecules with sufficient kinetic energy escape at any temperature, whereas boiling is a bulk process occurring when vapor pressure equals atmospheric pressure.",
+    "body_system": "States of matter and phase changes",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient's wound is measured as 45 millimeters. What is this measurement expressed in meters?",
+    "correct_answer": "0.045 m",
+    "wrong_answers": [
+      "0.45 m",
+      "450 m",
+      "0.0045 m"
+    ],
+    "explanation": "To convert millimeters to meters, divide by 1,000, which moves the decimal point three places to the left, resulting in 0.045 m.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A physician orders 1.5 liters of normal saline for IV fluid administration. How many milliliters (mL) should the nurse prepare?",
+    "correct_answer": "1,500 mL",
+    "wrong_answers": [
+      "150 mL",
+      "15 mL",
+      "15,000 mL"
+    ],
+    "explanation": "To convert liters to milliliters, multiply by 1,000 because the prefix 'milli-' means one-thousandth, yielding 1,500 mL.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A newborn infant weighs 3,200 grams. What is the infant's weight in kilograms?",
+    "correct_answer": "3.2 kg",
+    "wrong_answers": [
+      "32 kg",
+      "0.32 kg",
+      "320 kg"
+    ],
+    "explanation": "To convert grams to kilograms, divide by 1,000 by moving the decimal point three places to the left, which gives 3.2 kg.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A medication dosage is listed as 500 micrograms (mcg). What is this equivalent to in grams?",
+    "correct_answer": "0.0005 g",
+    "wrong_answers": [
+      "0.005 g",
+      "0.05 g",
+      "0.5 g"
+    ],
+    "explanation": "Since there are 1,000,000 micrograms in a gram, you must divide 500 by 1,000,000 to get 0.0005 g.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A surgical incision is documented as 7.5 centimeters long. How many millimeters long is the incision?",
+    "correct_answer": "75 mm",
+    "wrong_answers": [
+      "0.75 mm",
+      "750 mm",
+      "0.075 mm"
+    ],
+    "explanation": "To convert centimeters to millimeters, multiply by 10 because there are 10 millimeters in every centimeter, resulting in 75 mm.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient's body temperature is recorded as 38.0\u00b0C. Using the standard conversion formula, what is this temperature in degrees Fahrenheit?",
+    "correct_answer": "100.4\u00b0F",
+    "wrong_answers": [
+      "98.6\u00b0F",
+      "102.2\u00b0F",
+      "96.8\u00b0F"
+    ],
+    "explanation": "Using the formula F = (C \u00d7 9/5) + 32, substituting 38.0\u00b0C results in (68.4) + 32 = 100.4\u00b0F.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following metric prefixes represents exactly one-hundredth of a base unit?",
+    "correct_answer": "Centi-",
+    "wrong_answers": [
+      "Milli-",
+      "Deci-",
+      "Kilo-"
+    ],
+    "explanation": "The prefix 'centi-' means one-hundredth (0.01), whereas 'milli-' is one-thousandth, 'deci-' is one-tenth, and 'kilo-' is one thousand.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A nurse needs to administer 15 milliliters of liquid cough syrup. Using standard household measurements, approximately how many teaspoons (tsp) is this equivalent to?",
+    "correct_answer": "3 tsp",
+    "wrong_answers": [
+      "1.5 tsp",
+      "4.5 tsp",
+      "5 tsp"
+    ],
+    "explanation": "In standard healthcare and household conversions, 1 teaspoon is approximately equal to 5 mL, making 15 mL equal to 3 teaspoons.",
+    "body_system": "Metric system and conversions",
+    "category": "Physical Science",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In a study testing the effect of a new medication on blood pressure, what is the dependent variable?",
+    "correct_answer": "The blood pressure readings of the patients",
+    "wrong_answers": [
+      "The dosage of the medication administered",
+      "The age and weight of the patients",
+      "The use of a placebo in the control group"
+    ],
+    "explanation": "The dependent variable is the outcome that is measured to see if it changes as a result of the independent variable, which in this case is the patients' blood pressure.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the primary purpose of a control group in an experimental design?",
+    "correct_answer": "To provide a baseline for comparison to isolate the effect of the independent variable",
+    "wrong_answers": [
+      "To ensure the experiment has a sufficient sample size",
+      "To test a second independent variable simultaneously",
+      "To eliminate the need for randomization"
+    ],
+    "explanation": "A control group receives no experimental treatment, allowing researchers to determine if changes in the experimental group are actually caused by the independent variable.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In a study evaluating a new weight-loss supplement, researchers notice that participants who exercised regularly lost more weight regardless of whether they took the supplement. What is exercise in this experiment?",
+    "correct_answer": "A confounding variable",
+    "wrong_answers": [
+      "An independent variable",
+      "A dependent variable",
+      "A placebo effect"
+    ],
+    "explanation": "A confounding variable is an unaccounted-for outside influence that varies with the independent variable and can distort the true relationship between the independent and dependent variables.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why is a double-blind study design commonly used in clinical trials for new medications?",
+    "correct_answer": "To minimize both researcher and participant bias",
+    "wrong_answers": [
+      "To ensure that all participants receive the experimental treatment",
+      "To reduce the overall cost and duration of the clinical trial",
+      "To increase the statistical significance of the sample size"
+    ],
+    "explanation": "In a double-blind study, neither the participants nor the researchers know who receives the treatment or placebo, preventing expectations from influencing the results.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A researcher uses a thermometer that consistently reads 2 degrees Celsius higher than the actual temperature. This thermometer demonstrates high ________ but low ________.",
+    "correct_answer": "Reliability; validity",
+    "wrong_answers": [
+      "Validity; reliability",
+      "Accuracy; precision",
+      "Precision; accuracy"
+    ],
+    "explanation": "Reliability refers to the consistency of a measurement (it always reads 2 degrees high), while validity refers to whether the measurement accurately reflects what it is supposed to measure.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A researcher selects participants for a study by choosing the first 20 patients who arrive at a clinic. What is the primary flaw in this sampling method?",
+    "correct_answer": "It introduces selection bias because the sample may not represent the general population",
+    "wrong_answers": [
+      "The sample size is too small to generate any statistical data",
+      "It violates the principles of a double-blind study",
+      "It fails to establish a clear control group"
+    ],
+    "explanation": "Convenience sampling, like taking the first available subjects, often results in a non-representative sample and introduces selection bias into the study.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of the following is the most appropriate null hypothesis for an experiment testing a new drug's effect on sleep duration?",
+    "correct_answer": "The new drug has no effect on sleep duration.",
+    "wrong_answers": [
+      "The new drug significantly increases sleep duration.",
+      "The new drug is safer than current sleep medications.",
+      "The new drug decreases sleep duration in older adults."
+    ],
+    "explanation": "The null hypothesis always states that there is no significant difference or effect, serving as a baseline that researchers attempt to disprove.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A nurse records the wound healing process by noting the color of the tissue and the presence of granulation. What type of data is being collected?",
+    "correct_answer": "Qualitative data",
+    "wrong_answers": [
+      "Quantitative data",
+      "Discrete data",
+      "Nominal data"
+    ],
+    "explanation": "Qualitative data is descriptive and deals with characteristics that cannot be counted or measured with numerical values, such as tissue color and texture.",
+    "body_system": "Experimental design",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In a study investigating how different dosages of a new blood pressure medication affect patient heart rates, what is the independent variable?",
+    "correct_answer": "A. Dosage of the medication",
+    "wrong_answers": [
+      "B. Patient heart rate",
+      "C. Patient age",
+      "D. Type of medication"
+    ],
+    "explanation": "The independent variable is the factor that the researcher deliberately manipulates or changes, which in this case is the dosage of the medication.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A researcher designs an experiment to determine how room temperature affects the respiration rate of mice. What is the dependent variable in this study?",
+    "correct_answer": "A. Respiration rate of the mice",
+    "wrong_answers": [
+      "B. Room temperature",
+      "C. Type of mouse cage",
+      "D. Time of day"
+    ],
+    "explanation": "The dependent variable is the outcome or response that is measured to see if it changes as a result of the independent variable, making the mice's respiration rate the dependent variable.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A scientist measures the effect of different light wavelengths on plant growth. All plants are given the same amount of water, soil type, and temperature. Which of the following represents a controlled variable?",
+    "correct_answer": "A. Amount of water",
+    "wrong_answers": [
+      "B. Light wavelength",
+      "C. Plant growth",
+      "D. Number of leaves"
+    ],
+    "explanation": "Controlled variables are the factors kept constant throughout the experiment so they do not influence the outcome, such as the amount of water given to each plant.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A nurse researcher investigates whether different types of wound dressings affect the healing time of surgical incisions in diabetic patients. All patients receive the same postoperative care and are of similar age. What is the dependent variable?",
+    "correct_answer": "A. Healing time of the surgical incisions",
+    "wrong_answers": [
+      "B. Type of wound dressing",
+      "C. Postoperative care protocol",
+      "D. Patient age"
+    ],
+    "explanation": "Healing time is the dependent variable because it is the specific outcome being measured in response to the application of different wound dressings.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A study examines the effect of caffeine intake on sleep quality in college students. Which variable is the independent variable?",
+    "correct_answer": "A. Caffeine intake",
+    "wrong_answers": [
+      "B. Sleep quality",
+      "C. College student status",
+      "D. Time spent sleeping"
+    ],
+    "explanation": "Caffeine intake is the independent variable because it is the factor that the researchers are actively changing to observe its effect on sleep quality.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Researchers want to see if a new exercise program reduces body weight. Participants self-select into the program, and those who join also tend to eat healthier diets. In the context of identifying variables, what role does diet play in this study?",
+    "correct_answer": "A. Confounding variable",
+    "wrong_answers": [
+      "B. Dependent variable",
+      "C. Independent variable",
+      "D. Controlled variable"
+    ],
+    "explanation": "Diet is a confounding variable because it is an outside influence that varies with the independent variable and could alternatively explain the observed changes in body weight.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A botanist tests whether placing a plant in direct sunlight or shade affects the number of flowers it produces. The plant species, soil volume, and watering schedule remain unchanged. What is the controlled variable in this experiment?",
+    "correct_answer": "A. Watering schedule",
+    "wrong_answers": [
+      "B. Number of flowers produced",
+      "C. Direct sunlight versus shade",
+      "D. Height of the plant"
+    ],
+    "explanation": "The watering schedule is a controlled variable because it is intentionally kept the same for all plants to ensure it does not skew the results.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A clinical trial evaluates the effectiveness of two different antacids by measuring the change in gastric pH levels over a two-hour period. All patients are tested at the same time of day after fasting. What is the dependent variable?",
+    "correct_answer": "A. Change in gastric pH levels",
+    "wrong_answers": [
+      "B. Type of antacid administered",
+      "C. Fasting status",
+      "D. Time of day"
+    ],
+    "explanation": "The change in gastric pH levels is the dependent variable because it is the data collected to evaluate the effect of the different antacids.",
+    "body_system": "Identifying variables",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After a carbohydrate-rich meal, blood glucose levels begin to rise. Which cellular mechanism is directly stimulated by insulin to lower blood glucose?",
+    "correct_answer": "Translocation of GLUT4 transporters to the cell membrane in skeletal muscle and adipose tissue",
+    "wrong_answers": [
+      "Glycogenolysis in the liver to release stored glucose",
+      "Gluconeogenesis in the kidneys to produce new glucose molecules",
+      "Increased secretion of cortisol from the adrenal cortex to enhance glucose uptake"
+    ],
+    "explanation": "Insulin promotes glucose uptake by triggering GLUT4 transporter translocation to the cell membrane, allowing glucose to enter muscle and fat cells from the bloodstream.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient is fasting and has not eaten for 16 hours. Which hormone is primarily responsible for maintaining blood glucose levels during this period, and what is its mechanism of action?",
+    "correct_answer": "Glucagon stimulates glycogenolysis and gluconeogenesis in the liver",
+    "wrong_answers": [
+      "Insulin promotes glycogen synthesis in skeletal muscle",
+      "Epinephrine increases glucose absorption in the small intestine",
+      "Thyroxine enhances glucose storage in adipose tissue"
+    ],
+    "explanation": "During fasting, glucagon from alpha cells of the pancreas stimulates the liver to break down glycogen (glycogenolysis) and produce new glucose (gluconeogenesis) to maintain blood glucose levels.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In the negative feedback loop regulating blood glucose, which event directly inhibits glucagon secretion from pancreatic alpha cells?",
+    "correct_answer": "Elevated blood glucose levels detected by alpha cell receptors",
+    "wrong_answers": [
+      "Decreased insulin levels in the portal circulation",
+      "Activation of sympathetic nervous system receptors",
+      "Increased glycogen storage in hepatic tissues"
+    ],
+    "explanation": "Elevated blood glucose is detected by receptors on alpha cells, which directly inhibits glucagon secretion as part of the negative feedback mechanism to prevent excessive glucose production.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient with Type 2 diabetes presents with elevated blood glucose despite having normal or elevated insulin levels. Which pathophysiological mechanism best explains this finding?",
+    "correct_answer": "Downregulation of insulin receptors on target cells causing insulin resistance",
+    "wrong_answers": [
+      "Autoimmune destruction of beta cells in the pancreas",
+      "Insufficient dietary carbohydrate intake for insulin to act upon",
+      "Overproduction of glucagon from alpha cell hyperplasia"
+    ],
+    "explanation": "Type 2 diabetes is characterized by insulin resistance, where target cells have decreased sensitivity to insulin due to receptor downregulation, despite adequate or elevated insulin levels.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which pancreatic cell type is correctly matched with its hormone product and the primary effect of that hormone?",
+    "correct_answer": "Beta cells produce insulin, which decreases blood glucose",
+    "wrong_answers": [
+      "Alpha cells produce insulin, which increases blood glucose",
+      "Delta cells produce glucagon, which decreases blood glucose",
+      "Beta cells produce glucagon, which increases blood glucose"
+    ],
+    "explanation": "Beta cells of the pancreatic islets secrete insulin, which lowers blood glucose by promoting cellular glucose uptake and storage as glycogen.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When insulin binds to its receptor on a target cell, which intracellular signaling cascade is activated that ultimately leads to increased glucose uptake?",
+    "correct_answer": "Phosphorylation of insulin receptor substrate proteins activates PI3K/Akt pathway",
+    "wrong_answers": [
+      "Activation of adenylate cyclase increases cyclic AMP production",
+      "G-protein coupled receptor activates phospholipase C pathway",
+      "Opening of ligand-gated calcium channels triggers exocytosis"
+    ],
+    "explanation": "Insulin binding triggers autophosphorylation of the receptor, which phosphorylates IRS proteins, activating the PI3K/Akt pathway that leads to GLUT4 translocation and glucose uptake.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "During an acute stress response, blood glucose levels rise even without food intake. Which counter-regulatory hormone contributes to this elevation through glycogenolysis?",
+    "correct_answer": "Epinephrine from the adrenal medulla",
+    "wrong_answers": [
+      "Aldosterone from the adrenal cortex",
+      "Antidiuretic hormone from the posterior pituitary",
+      "Parathyroid hormone from the parathyroid glands"
+    ],
+    "explanation": "Epinephrine, released during the fight-or-flight response, stimulates glycogenolysis in the liver and muscles, rapidly increasing blood glucose to provide energy for the stress response.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A patient presents with confusion, tremors, and sweating. Laboratory tests reveal blood glucose of 52 mg/dL. Which physiological response is the body's initial corrective mechanism for this condition?",
+    "correct_answer": "Increased glucagon secretion stimulating hepatic glucose release",
+    "wrong_answers": [
+      "Increased insulin secretion to stabilize fluctuating glucose levels",
+      "Activation of parasympathetic nervous system to slow metabolism",
+      "Release of thyroid-stimulating hormone to increase basal metabolic rate"
+    ],
+    "explanation": "Hypoglycemia triggers immediate glucagon secretion from alpha cells, which stimulates the liver to release glucose through glycogenolysis and gluconeogenesis to restore normal blood glucose levels.",
+    "body_system": "Endocrine system - blood glucose regulation",
+    "category": "Scientific Reasoning",
+    "difficulty": "medium"
+  }
+]

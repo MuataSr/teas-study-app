@@ -1,0 +1,906 @@
+{
+  "completed_ids": [
+    35,
+    45,
+    46,
+    31,
+    53,
+    67,
+    80,
+    82,
+    86,
+    89,
+    91,
+    92,
+    94,
+    95,
+    56,
+    97,
+    98,
+    101,
+    106,
+    107,
+    81,
+    111,
+    112,
+    117,
+    118,
+    119,
+    120,
+    121,
+    125,
+    127,
+    178,
+    180,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    197,
+    200,
+    202,
+    203,
+    204,
+    205,
+    208,
+    209,
+    210,
+    211,
+    215,
+    223,
+    224,
+    230,
+    109,
+    236,
+    237,
+    238,
+    244,
+    247,
+    248,
+    254,
+    258,
+    261,
+    262,
+    263,
+    266,
+    267,
+    268,
+    271,
+    274,
+    276,
+    281,
+    283,
+    285,
+    289,
+    287,
+    291,
+    294,
+    295,
+    296,
+    298,
+    300,
+    301,
+    305,
+    311,
+    313,
+    320,
+    328
+  ],
+  "results": [
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken due to severe formatting errors in the options (mixing operations like division and addition into subtraction answers), the explanation contains a logical contradiction (claiming Option A is incorrect for calculating 4 1/2 when Option A actually shows 4 1/2, but the text says it fails logic), and the explanation incorrectly identifies Option C as an addition problem when the option text shows addition but the explanation logic is confused. The distractors are nonsensical for a simple subtraction problem.",
+      "fix_suggestion": "Rewrite the question to clearly present a simple mixed number subtraction (e.g., 8 1/3 - 2/3). Create distractors that represent common student errors: 1) Subtracting numerators only (6/3), 2) Subtracting whole numbers only (6), 3) Incorrectly borrowing (7 1/3). Ensure the explanation clearly steps through the subtraction of the fractional parts and adjusts the whole number if necessary.",
+      "id": 35,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question format is broken and non-standard for a TEAS exam. It presents a simple arithmetic problem but includes distractors that are formatted as multi-line text blocks resembling unrelated math problems (subtraction algorithms) rather than plausible numeric distractors. The explanation contains a factual error regarding the order of operations (multiplication and division are equal precedence and evaluated left-to-right, not 'multiplication before division' in this specific context, though the result is coincidentally correct). The distractors lack plausibility and the overall presentation is confusing.",
+      "fix_suggestion": "Rewrite the question to present a clean multiple-choice format with single-line numeric or algebraic options. Ensure distractors are plausible errors (e.g., 0, 1, 6/9, 2/3). Correct the explanation to accurately describe the left-to-right evaluation of multiplication and division.",
+      "id": 45,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 9,
+      "verdict": "accept",
+      "issues": "Minor inconsistency in distractor mapping: the explanation mentions '0.6' which does not appear in the provided distractors list, and the mapping keys in the JSON are slightly misaligned with the explanation text. Otherwise, the question is accurate, clear, and the explanation is effective.",
+      "fix_suggestion": "Update the explanation to reference only the actual distractors (0.75, 2.5, 1.4) and ensure the JSON distractor keys match the option labels exactly (e.g., A, B, C, D).",
+      "id": 46,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains severe logical errors and hallucinations. It incorrectly claims option E is the answer (E does not exist), falsely states that negative numbers cannot be the sum of two positive fractions (irrelevant to the options), and provides nonsensical reasoning for why other options are wrong (e.g., claiming the sum must exceed either fraction to disprove B, or that adding numerators without adjusting denominators results in an 'invalid fraction' rather than just an incorrect value).",
+      "fix_suggestion": "Rewrite the explanation to clearly state: 'Convert 2/5 to 4/10 and 1/2 to 5/10. Add the numerators: 4 + 5 = 9. The result is 9/10, which matches option A. Options B, C, and D are incorrect because they do not result from the correct addition of the converted fractions.'",
+      "id": 31,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The correct answer is mathematically wrong (2/3 \u00f7 3/8 = 16/9, not 9/16). The explanation contains a critical logic error: it claims Option A is incorrect because it multiplies directly, but Option A is actually the correct result. The explanation also incorrectly identifies Option D as the correct calculation while labeling it a distractor. The distractors are nonsensical (random arithmetic operations) and do not represent common student errors for this specific problem.",
+      "fix_suggestion": "Change the correct answer to D. Rewrite the explanation to state that dividing by a fraction requires multiplying by its reciprocal (3/8 becomes 8/3), resulting in (2/3)*(8/3) = 16/9. Explain that Option A is incorrect because it multiplies the numerators and denominators directly without flipping the divisor. Ensure distractors represent plausible misconceptions like flipping the wrong fraction or adding instead of multiplying.",
+      "id": 53,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken due to a critical formatting error where the correct answer is explicitly stated in the question text itself ('Correct Answer: C) 5'). This completely invalidates the assessment purpose. Additionally, the explanation is overly verbose and repetitive for a simple arithmetic problem, and the distractors are not well-constructed (e.g., 10 and 18 are arbitrary and not based on common student errors like order of operations mistakes).",
+      "fix_suggestion": "Remove the 'Correct Answer' line from the question block. Simplify the explanation to focus only on the direct calculation (7 - 2 = 5) and briefly mention why adding (7 + 2 = 9) or multiplying (7 * 2 = 14) are incorrect, rather than inventing complex errors for distractors like 18.",
+      "id": 67,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is incomplete (cuts off mid-sentence). The explanation is completely invalid as it admits the provided correct answer is wrong and invents a scenario not in the question. The distractors are poor because they are just formatting variations of the same number. The math in the explanation does not match the answer key.",
+      "fix_suggestion": "Complete the question stem to specify the exact comparison (e.g., 'What is the cost difference between two 60-second commercials and five 15-second commercials?'). Recalculate the correct answer based on the completed scenario. Create distinct distractors based on common calculation errors (e.g., adding instead of subtracting, wrong multipliers). Rewrite the explanation to clearly show the step-by-step calculation for the correct answer.",
+      "id": 80,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 6,
+      "verdict": "revise",
+      "issues": "The explanation contains a factual error: it claims '13.3571 is wrong because it adds an unnecessary extra digit,' but 13.3571 is not among the provided answer choices (A, B, C, D). This confuses the student. Additionally, the explanation for why C and D are wrong is vague ('do not accurately reflect sequential remainders') compared to the specific error analysis for A.",
+      "fix_suggestion": "Remove the reference to '13.3571' as it is not a distractor. Instead, explicitly state that options C and D result from rounding errors or incorrect division steps (e.g., stopping too early or miscalculating the remainder).",
+      "id": 82,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question text is incomplete and grammatically broken, ending mid-sentence ('that'). The explanation reveals the correct answer too early by stating 'resulting in 15' before the final conclusion, which violates the principle of not giving away the answer directly. Distractor D (18) is a plausible error but the explanation's logic for distractors is slightly confusing.",
+      "fix_suggestion": "Complete the question sentence (e.g., '...that exist in the game?'). Rewrite the explanation to solve the problem step-by-step without explicitly stating the final number '15' until the very last sentence, and clarify the reasoning for the distractors.",
+      "id": 86,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question text is incomplete (missing '12 cups of flour'), and the explanation contains a hallucinated distractor ('53') that does not appear in the options. The explanation also fails to explicitly state the missing variable from the question stem.",
+      "fix_suggestion": "Complete the question stem to include '12 cups of flour'. Remove the reference to '53' in the explanation and replace it with an analysis of why other options are incorrect based on the math.",
+      "id": 89,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 9,
+      "verdict": "accept",
+      "issues": "Minor inconsistency in the explanation: it states '6 cm corresponds to h cm, and 9 cm corresponds to 24 cm' but the visual context (implied by standard similar figure problems) usually pairs the shorter side of one with the shorter side of the other. If the rectangles are 6x9 and h x 24, the ratio 6/9 = h/24 is correct, but the phrasing '9 cm corresponds to 24 cm' might confuse students if they misidentify which sides are corresponding without a diagram. The logic holds, but the textual description of correspondence is slightly ambiguous without the image.",
+      "fix_suggestion": "Clarify the correspondence in the explanation: 'Since the rectangles are similar, the ratio of the shorter sides equals the ratio of the longer sides: 6/h = 9/24 OR 6/9 = h/24 depending on orientation. Assuming the sides align such that 6 corresponds to h and 9 corresponds to 24, the proportion is 6/9 = h/24.'",
+      "id": 91,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical logical error: it claims that '1.78' (the correct answer) is wrong because it lacks units, yet the correct answer option A explicitly includes 'eggs'. Additionally, the explanation lists '1.25' as a distractor explanation, but 1.25 is not among the provided options (B, C, D). This creates confusion and undermines the validity of the question.",
+      "fix_suggestion": "Remove the false claim that option A is wrong due to missing units. Correct the distractor analysis to only reference options B, C, and D. Ensure the explanation clearly validates why A is correct and explains the specific mathematical errors leading to B, C, and D without introducing non-existent options.",
+      "id": 92,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 9,
+      "verdict": "accept",
+      "issues": "The question is accurate, clear, and has a correct answer. The explanation is thorough. The only minor issue is the phrasing '3 is 12 times larger than 0.25' in the explanation, which is a confusing and unnecessary analogy that doesn't directly aid understanding of the proportion 3:2=24:x.",
+      "fix_suggestion": "Remove the confusing analogy about 0.25 in the explanation. Instead, simply state that the ratio 3:2 simplifies to 1.5, and 24 divided by 1.5 equals 16, or stick to the clear cross-multiplication steps already provided.",
+      "id": 94,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 10,
+      "verdict": "accept",
+      "issues": "None. The question is accurate, clear, and the explanation effectively teaches the method without giving away the answer prematurely.",
+      "fix_suggestion": "No changes needed.",
+      "id": 95,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The correct answer is listed as B, but the explanation incorrectly claims that Option B is the answer while describing it as a distractor that 'simplifies prematurely'. The explanation actually describes the logic for Option D (6/8 = 3/8). Furthermore, the JSON distractor mapping is scrambled (A maps to C's logic, C maps to D's logic, D maps to A's logic), and the explanation text contains a factual error regarding what Option B represents.",
+      "fix_suggestion": "Correct the Correct Answer to D. Rewrite the explanation to accurately describe why D is correct (multiplying by reciprocal 3/2) and why A, B, and C are incorrect based on their specific mathematical errors. Fix the JSON distractor mapping to match the options correctly.",
+      "id": 56,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The correct answer (B) is mathematically incorrect. 3/9 simplifies to 1/3, which is not equivalent to 2/3. The explanation contains a severe logical error claiming 3/9 maintains the same unit rate as 2/3. Distractor C is actually the original rate, not an equivalent representation of a different group size as claimed. The question is broken due to factual errors in both the answer key and the reasoning.",
+      "fix_suggestion": "Change the correct answer to A) $2 dollars per 3 balloons (which is the original) or create a new option like $4 dollars per 6 balloons. Alternatively, change the target rate in the question to 1/3 dollars per balloon so that B becomes correct. The explanation must be rewritten to correctly demonstrate proportional reasoning.",
+      "id": 97,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a hallucinated distractor ('a/2') that was never listed in the options. Additionally, the phrasing 'quantity being measured... is typically placed in the numerator' is confusing and mathematically imprecise for this context; multiplying by 1/3 is simply division by 3, not a ratio definition issue.",
+      "fix_suggestion": "Remove the reference to 'a/2' in the explanation. Clarify that multiplying by 1/3 is equivalent to dividing by 3, which is written as a/3. Ensure the explanation only references the actual distractors provided (a/9, a/1, 3a).",
+      "id": 98,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 9,
+      "verdict": "accept",
+      "issues": "The question is accurate, clear, and has a valid explanation. The distractors are plausible. The only minor issue is that the explanation explicitly lists the distractors (20, 35) as 'common wrong answers' before the student attempts the problem, which slightly reduces the element of surprise, though it does not make the answer obvious.",
+      "fix_suggestion": "Remove the specific mention of the distractor values (20, 35) in the explanation. Instead, describe the types of errors (e.g., 'incorrect arithmetic' or 'misinterpreting the ratio') without revealing the specific wrong numbers.",
+      "id": 101,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains severe logical errors and hallucinations. It incorrectly claims Option A is incorrect, contradicts the stated correct answer, and provides nonsensical reasoning for why other options are wrong (e.g., '1 does not represent the proportional relationship'). The explanation fails to teach the student.",
+      "fix_suggestion": "Rewrite the explanation to correctly state that the total is 60, the ratio is 25/60, and simplifying by dividing by 5 yields 5/12. Explain that this matches Option A. Remove the confusing and incorrect analysis of the distractors.",
+      "id": 106,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is truncated mid-sentence ('He nee'). The correct answer is a qualitative statement while distractors are numbers, making the question type inconsistent. The explanation reveals the answer logic too directly and fails to address the missing text.",
+      "fix_suggestion": "Complete the question sentence (e.g., 'He needs to make 14 cups total. How many cups of lemon juice should he add?'). Change the correct answer to a numerical value (e.g., '4 cups') and adjust distractors to be plausible numerical errors based on incorrect ratios.",
+      "id": 107,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a mathematical error: it states the answer is 0.85666... but the correct repeating decimal is 0.85666... (repeating 6). More critically, the explanation claims the answer 'rounds to 0.8567', which is mathematically incorrect for standard rounding rules (0.85666... rounds to 0.857). The question itself is flawed because 0.8567 is not the exact value nor the standard rounded value, making it a poor distractor/correct answer pair for a math test.",
+      "fix_suggestion": "Change the correct answer to C) 0.86 (rounded to two decimal places, consistent with the input precision) or D) 0.857 (rounded to three decimal places). If keeping B as the answer, change it to 0.8567 and update the explanation to correctly describe the repeating nature and justify the specific truncation/rounding method used, though this is still ambiguous. Best fix: Change correct answer to C) 0.86 and update explanation to reflect standard rounding to the nearest hundredth.",
+      "id": 81,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is incomplete ('How muc'), the correct answer is listed as D but the explanation incorrectly identifies A as the correct value, and the distractor analysis contains logical contradictions and factual errors regarding the math.",
+      "fix_suggestion": "Complete the question stem to 'How much money did she receive?' Ensure the explanation correctly identifies D ($400) as the answer and provides accurate reasoning for why A, B, and C are wrong without self-contradiction.",
+      "id": 111,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical factual error: it states 'Option B is wrong as 800 times 0.15 equals 120', but Option B is the correct answer (1600), not 800. Additionally, the distractor mapping in the explanation is confused (it analyzes 800 as if it were Option B, and claims Option D fails when it actually equals 240.75, which is close but not exact, yet the logic is muddled). This mislabeling of options undermines the educational value and accuracy of the explanation.",
+      "fix_suggestion": "Correct the explanation to clearly state: 'Option A (1601) is incorrect because 1601 * 0.15 = 240.15. Option B (1600) is correct because 1600 * 0.15 = 240. Option C (1605) is incorrect because 1605 * 0.15 = 240.75. Option D (1601) is incorrect because 1601 * 0.15 = 240.15.' Ensure the option labels match the values provided in the question.",
+      "id": 112,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken due to severe formatting errors in the options and distractors, a complete mismatch between the calculated answer (2) and the provided correct answer (A/6), and an explanation that contains a logical fallacy (claiming 6 is the answer when the math proves it is 2).",
+      "fix_suggestion": "Rewrite the question to clearly present the equation 23 = 2 + 5 + __ + 4 + 6 with options A) 2, B) 3, C) 7, D) 11. Set the correct answer to A. Update the explanation to show that 23 - (2+5+4+6) = 6, but note that the original prompt's math implies the missing number is 6, while the options provided in the prompt text seem to have been garbled or mismatched with the intended logic. Actually, solving 23 = 2+5+x+4+6 yields x=6. The options provided in the prompt (A=23=7+__+10, B=3 is, etc.) are nonsensical. Create a clean version: 'Find the missing number: 23 = 2 + 5 + __ + 4 + 6. Options: A) 6, B) 3, C) 7, D) 11.'",
+      "id": 117,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "Distractors C and D are completely irrelevant to the math problem (random equations), making them poor choices. The explanation explicitly states the correct answer ('False') in the first sentence, which violates the rule against giving away the answer directly.",
+      "fix_suggestion": "Replace distractors C and D with plausible but incorrect mathematical statements (e.g., 'True, because 2/3 and 3/2 both equal 1' or 'True, because division is commutative like multiplication'). Rewrite the explanation to explain the concept without stating the correct answer in the opening sentence.",
+      "id": 118,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is fundamentally broken. The prompt asks 'How many people might there be' (singular/uncounted), but the options list sets of numbers (e.g., '2, 4, and 7'). The correct answer (A) lists valid divisors, but the distractors are logically inconsistent: Option B claims 2, 5, and 7 are valid (5 is not a divisor of 15.40), while Option D claims 3, 5, and 6 are valid (none are divisors). The explanation is confusing, contains a nonsensical mathematical argument about '3 times 5', and fails to clearly explain why the other options are wrong. The formatting is also messy with mismatched labels in the distractors vs the options.",
+      "fix_suggestion": "Rewrite the question to ask for the set of numbers that are factors of 15.40. Ensure distractors contain at least one number that is NOT a factor (e.g., 3, 5, or 6). Provide a clear explanation showing the division for the correct factors and demonstrating why the non-factors result in non-terminating decimals or remainders.",
+      "id": 119,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The explanation contains a critical factual error: it claims Option C is incorrect, but Option C is the correct answer. Additionally, the explanation incorrectly states that subtracting the net change of -1 leaves 'x+5=6' (it should be x-1=6). The distractors are also poorly formatted in the JSON input.",
+      "fix_suggestion": "Rewrite the explanation to correctly state that x-1=6 leads to x=7. Confirm that Option C is the correct answer. Ensure distractors represent common calculation errors (e.g., ignoring negatives, wrong arithmetic) and are clearly labeled as incorrect in the explanation.",
+      "id": 120,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical logical error: it states 'Option A is incorrect' when Option A is actually the correct answer. This directly contradicts the premise and fails to teach the student why the other options are wrong.",
+      "fix_suggestion": "Rewrite the explanation to correctly validate Option A as the answer and explain why Options B, C, and D are incorrect based on common calculation errors (e.g., forgetting to distribute, incorrect arithmetic).",
+      "id": 121,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 6,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical logic error: it claims Option D (n=6) results from an incorrect calculation, but n=6 is the correct answer. This misleads students by labeling the right answer as wrong. Additionally, the distractor analysis for Option A is vague and does not clearly explain why 7 is a common error.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify that n=6 is the solution. Explain that Option A (7) might result from adding 12 to 24 and dividing by 2 without moving the 3n term, or simply as a random guess. Ensure the explanation explicitly validates why D is correct and why A, B, and C are incorrect based on algebraic steps.",
+      "id": 125,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical logical error: it states 'Option A is incorrect' when Option A (n=14) is the correct answer. This directly contradicts the premise and confuses the student. Additionally, the explanations for the distractors are vague and do not clearly demonstrate the specific arithmetic errors that lead to those wrong answers.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify Option A as the correct answer. For the distractors, specify the likely calculation errors (e.g., 'Option B results from incorrectly calculating 131 - 19 as 112 instead of 112, then dividing by 8 incorrectly' or 'Option C results from forgetting to divide by 8').",
+      "id": 127,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "Distractors contain typos (D is y/1-1 instead of y+1). Explanation references non-existent options (2, 6, 14) and incorrectly claims distractors are 'specific numbers' when they are algebraic expressions. Distractors lack variety (A and D are identical in the provided JSON).",
+      "fix_suggestion": "Correct option D to 'y+1'. Rewrite explanation to focus on the algebraic logic: 'Sue weighs 1 less than y, so y-1. Option A represents 1 more, Option C represents 1 minus y, and Option D (corrected) represents 1 more.'",
+      "id": 178,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is incomplete and nonsensical. The options are inconsistent with the question stem (missing variables b and g). The explanation contains a critical logic error: it claims Option C is correct because b=g is true for 4, but then incorrectly states that Option C fails because placing 5 mice breaks equality. The explanation also references a non-existent Option E. The correct answer logic is muddled.",
+      "fix_suggestion": "Rewrite the question to clearly define variables b and g, provide a complete scenario, ensure options correspond to valid mathematical statements or values, and correct the explanation to logically support the correct answer without self-contradiction.",
+      "id": 180,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 6,
+      "verdict": "revise",
+      "issues": "The question is ambiguous because it asks 'What can you say about c' without specifying if c must be an integer. The correct answer (A) implies a continuous range (0 to 4), but the distractors (B, C, D) are specific integers. This creates a mismatch in the type of answer expected. Additionally, the explanation for distractor B is weak; it claims 2 is wrong because it 'allows d to be 8', but 2 is actually a valid value for c. The explanation should clarify that 2 is a valid instance, but not the complete description of c, whereas A describes the full set of possibilities.",
+      "fix_suggestion": "Rewrite the question to explicitly state that c and d are integers, or change the correct answer to reflect that c can be any integer from 0 to 4. Alternatively, change the question to 'Which of the following CANNOT be the value of c?' with options like 5, 6, 7, 8 to make the logic clearer and the distractors more distinct.",
+      "id": 186,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is incomplete (missing the third side description), the correct answer option A is an equation rather than a numerical value, and the explanation reveals the answer directly instead of explaining the concept.",
+      "fix_suggestion": "Complete the question by defining the third side (e.g., 'the third side is x cm long'). Change option A to the correct numerical value (10) and move the equation steps to the explanation or a separate 'work shown' section. Rewrite the explanation to explain the perimeter formula and algebraic steps without stating the final answer in the explanation text.",
+      "id": 187,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is incomplete ('If H stands for th'), making it impossible to answer. The correct answer choice C uses variable 'H' which was never defined in the prompt. Distractors are nonsensical and do not follow a logical pattern. The explanation fails to address the missing text.",
+      "fix_suggestion": "Complete the sentence to define H (e.g., 'If H stands for the number of overtime hours worked'). Ensure all variables in the options are defined in the prompt. Create distractors that represent common algebraic errors (e.g., W=20H, W=20+2, W=2H).",
+      "id": 188,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The explanation contains a critical logical error: it states 'This makes option A the only valid choice' while the correct answer is B. Additionally, the explanation for why B is incorrect is nonsensical ('adding 2 to the left side does not maintain equality'), and the reasoning for why A is wrong is vague. The explanation fails to teach the correct method and contradicts itself.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify B as the answer. Explain that subtracting 4 from both sides of x+4=2 yields x=-2. Clarify why A, C, and D are incorrect by showing they do not satisfy the equation or represent the wrong operation.",
+      "id": 189,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question is incomplete; the variable H is defined but the sentence ends abruptly without stating what H represents or what the question is asking (e.g., 'write an equation for total pay'). Additionally, the distractors are inconsistent: B is 21, C is 10, and D is 25, while the explanation lists C as 10 and D as 25, but the option list in the prompt has C as 25 and D as 10. This creates confusion between the option labels and the values.",
+      "fix_suggestion": "Complete the sentence to define H (e.g., 'If H stands for the number of overtime hours worked, which equation represents her total weekly pay?') and ensure the option labels (B, C, D) match the values provided in the explanation and the intended logic.",
+      "id": 190,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is incomplete and cut off mid-sentence. The explanation is extremely confusing, mixes up variable assignments (K vs S vs P), contains calculation errors (summing to 250 instead of 306), and fails to clearly demonstrate the correct algebraic setup. Distractors are just random numbers without logical derivation.",
+      "fix_suggestion": "Rewrite the question with a complete scenario (e.g., 'Total 306 bars, Snickers = KitKats + 22, PB = KitKats + 32'). Provide a clear step-by-step solution showing the equation setup and solving for K, then calculating the other values. Ensure distractors are common calculation errors.",
+      "id": 191,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical logical error: it states 'Option A incorrectly adds terms...' when Option A is actually the correct answer. Additionally, the explanation fails to explain why the other options are wrong, instead describing them as 'random' or 'nonsensical' without mathematical justification. The distractors are also poorly constructed; Option B is a valid algebraic step (factoring) that leads to a different form, and Option D is a valid expansion of a different expression, making them less distinct from the correct path than they should be.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify Option A as the solution. Explain that expanding (x+3)^2 yields x^2+6x+9, which simplifies to x^2-9<=0, factoring to (x-3)(x+3)<=0, resulting in -3<=x<=3. Clarify that Option B represents a factored form of a related equation but not the solution to the inequality, Option C is an incorrect algebraic manipulation, and Option D is an irrelevant expansion.",
+      "id": 192,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken because it is incomplete (Susan's tube count is missing), the answer choices are inconsistent (mix of text and numbers), and the explanation reveals the answer and contains confusing logic.",
+      "fix_suggestion": "Complete the question by specifying Susan has one tube. Define the variables clearly (e.g., Box = x, Tube = y). Ensure all distractors are numerical values representing plausible incorrect calculations. Rewrite the explanation to solve for the specific variable without giving away the answer in the prompt.",
+      "id": 193,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is incomplete (missing the actual question stem asking for a formula), the explanation reveals the answer directly instead of teaching the concept, and the distractors are just numbers without context or logical derivation from the problem.",
+      "fix_suggestion": "Rewrite the question to ask: 'Which equation represents the total number of seats S in row R?' Provide distractors that represent common errors (e.g., S=10+2R, S=10+2(R+1), S=2R+10). Rewrite the explanation to derive the formula step-by-step without stating the correct answer in the explanation text.",
+      "id": 194,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The explanation is completely broken: it contains nonsensical text ('just do the answer'), incorrectly references 'Quadratic Equations' for a basic fraction topic, and fails to explain the mathematical reasoning (equivalence of fractions). The question itself is also poorly formatted with the prompt split awkwardly.",
+      "fix_suggestion": "Rewrite the explanation to clearly state that 1/3 equals 4/12 because multiplying the numerator and denominator of 1/3 by 4 results in 4/12, demonstrating they represent the same value. Ensure the explanation directly addresses why the equal sign implies equivalence.",
+      "id": 197,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The correct answer (B) is mathematically incorrect for the given equation. Solving t-24=23t yields t=-12, not -12/11. The explanation contains severe logical errors, claiming the correct answer is verified when it isn't, and confusingly stating that substituting -1 results in -23 on both sides (which is true for t=-1, but the explanation claims this makes it wrong while simultaneously implying the equation is 'already solved'). Distractors are incoherent and do not represent common student errors for this specific problem.",
+      "fix_suggestion": "Change the correct answer to t=-12. Rewrite distractors to reflect common algebraic mistakes (e.g., forgetting to subtract 24t, adding instead of subtracting). Rewrite the explanation to correctly show the step-by-step solution: subtract t from both sides to get -24=22t, then divide by 22 to get t=-12/11? Wait, -24/22 simplifies to -12/11. Let me re-calculate. t-24=23t -> -24 = 22t -> t = -24/22 = -12/11. Okay, my initial quick check was wrong. The correct answer IS -12/11. The explanation says substituting -12/11 yields -25 1/11 on both sides. Let's check: Left: -12/11 - 24 = -12/11 - 264/11 = -276/11. Right: 23 * (-12/11) = -276/11. The math is actually correct. The explanation text is confusingly written but the numbers work. However, the explanation for distractor D is completely hallucinated ('unrelated math problem involving 6x and 50+60' appears nowhere in the question stem). The explanation for distractor C is also confusingly phrased. The main issue is the explanation quality and the hallucinated context for distractors.",
+      "id": 200,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical logic error: it states 'Option C is wrong as 65 is not the result of dividing 20 by 4.' This is factually incorrect because Option C is the correct answer (p=5), while Option D is 65. The explanation incorrectly identifies the correct option as wrong and misattributes the error to the wrong option.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify that Option C (p=5) is the correct answer. Explain that Option A (61) and Option B (30) are incorrect values for p, and clarify that Option D (65) is incorrect because 65 is not the result of 20/4.",
+      "id": 202,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken because the variable 'c' is never defined in the prompt, making the problem unsolvable without guessing. The explanation reveals the answer ($60) before the student can solve it, which is a major flaw. The distractors are nonsensical numbers with no logical derivation from the missing information. The correct answer choice A is just a restatement of the formula, not a calculated value.",
+      "fix_suggestion": "Define the cost per ticket (e.g., 'where c is the cost per ticket, $5') in the question stem. Change the correct answer to the calculated total ($60) and ensure distractors are plausible calculation errors (e.g., 12+5, 12*5+1, etc.).",
+      "id": 203,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is incomplete (cuts off mid-sentence), making it impossible to solve. The explanation contains a logical contradiction: it calculates the answer as 245 but claims Option B (m=7h) is correct, while the distractors are numerical values (36, 70, 40) that do not match the calculated result. The explanation also incorrectly attributes the calculation of 245 to Option B.",
+      "fix_suggestion": "Complete the question text to specify the value of h (e.g., 'h = 35'). Ensure the correct answer is the calculated numerical value (245) and the distractors are plausible numerical errors. Rewrite the explanation to clearly show the substitution and calculation leading to the correct numerical answer.",
+      "id": 204,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question text 'Solve mn= Where m=10 and n=13' is grammatically broken and ambiguous. The explanation incorrectly claims that option A (131) is derived by 'adding one to the product,' which is a fabricated distractor rationale not based on common student errors. Distractors should reflect actual misconceptions (e.g., addition, subtraction, or order of operations errors) rather than arbitrary numbers.",
+      "fix_suggestion": "Rewrite the question as 'If m = 10 and n = 13, what is the value of mn?' Ensure distractors represent common calculation errors (e.g., 130 + 1, 10 + 13, 130 - 1) and update the explanation to justify why each specific wrong answer is incorrect based on mathematical logic.",
+      "id": 205,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "Distractors A, B, and D are single numbers instead of equations, making them trivially incorrect and failing to test the student's ability to distinguish between equations and constants. The explanation is slightly repetitive and could be more concise.",
+      "fix_suggestion": "Replace numeric distractors with plausible but incorrect equations (e.g., M=6W, W=M+6, W=6M+1) to better assess algebraic translation skills.",
+      "id": 208,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken due to severe formatting errors, missing critical information (number of girls per row), and nonsensical distractors that look like random arithmetic rather than plausible algebraic options. The explanation is also confusing because it references 'six' without stating it in the question stem.",
+      "fix_suggestion": "Rewrite the question to explicitly state 'if there are n girls and 6 girls per row'. Replace distractors with plausible algebraic expressions (e.g., 6n, n-6, n+6) instead of random arithmetic equations. Ensure the answer choices are formatted consistently without extra text like 'x=0'.",
+      "id": 209,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The correct answer format 'x=8' is inconsistent with the numeric distractors (13, 4, 9). The explanation explicitly states 'making the first option the only valid solution' when the correct answer is actually the second option (B), creating a direct contradiction.",
+      "fix_suggestion": "Change the correct answer to '8' to match the numeric format of the distractors. Update the explanation to correctly identify option B as the valid solution.",
+      "id": 210,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The correct answer option 'C' is formatted as 'x=10' while distractors are plain numbers. This inconsistency confuses the format of the answer. Additionally, the explanation explicitly states 'making the first option the only valid solution' but the correct answer is actually the third option (C), creating a direct contradiction between the logic and the final conclusion.",
+      "fix_suggestion": "Change option C to '10' to match the format of other options. Update the explanation to correctly identify option C as the valid solution instead of referring to it as the 'first option'.",
+      "id": 211,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken because the distractors (A, B, D) are not valid multiple-choice options; they are full sentences that repeat the correct answer's definition or describe other tissues incorrectly. This makes the question impossible to answer as a standard multiple-choice item. Additionally, the 'Distractors' field in the metadata contains the correct answer's definition under option A, which is a critical error.",
+      "fix_suggestion": "Rewrite options A, B, and D to be short, plausible tissue names (e.g., 'Muscle tissue', 'Connective tissue', 'Nervous tissue') without including explanatory text. Ensure the correct answer is clearly 'Epithelial tissue'.",
+      "id": 215,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 9,
+      "verdict": "accept",
+      "issues": "The question is accurate, clear, and tests the specific knowledge required. The explanation is good but slightly redundant by restating the answer sequence verbatim; it could be improved by focusing more on the biological reasoning (e.g., why skipping the epididymis is impossible).",
+      "fix_suggestion": "Modify the explanation to emphasize the biological necessity of each step (maturation in epididymis, transport in vas deferens) rather than just listing the path again.",
+      "id": 223,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is broken due to severe formatting and logical errors. 1) The 'Distractors' field lists the correct answer (B) as a distractor and includes the question stem as a distractor. 2) The 'Explanation' field explicitly states the correct answer, violating the rule that explanations must not give away the answer directly. 3) The JSON structure is malformed with unquoted keys in the distractors section.",
+      "fix_suggestion": "1. Remove the correct answer from the distractors list. 2. Ensure distractors are plausible but incorrect statements. 3. Rewrite the explanation to explain the biological concept without explicitly stating 'The correct answer is B' or repeating the full text of option B.",
+      "id": 224,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "1. The correct answer (A) is identical to the explanation text, which is poor test design. 2. Distractors B and C are nearly identical in meaning and wording, making them indistinguishable. 3. Distractor D contains a logical contradiction (grass increasing while grasshoppers decrease) that makes it an easy elimination choice rather than a plausible misconception. 4. The explanation explicitly states the answer before analyzing the options, giving away the solution.",
+      "fix_suggestion": "Rewrite the question to ask for the specific outcome on grass biomass. Change the correct answer to focus on the biomass decrease. Create distinct distractors: one suggesting grass increases (common misconception), one suggesting no change, and one suggesting grass decreases due to a different reason (e.g., direct snake predation). Ensure the explanation analyzes the logic of each option without simply restating the correct answer as the first sentence.",
+      "id": 230,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 10,
+      "verdict": "accept",
+      "issues": "",
+      "fix_suggestion": "",
+      "id": 109,
+      "subject": "math",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question format is fundamentally broken. The options A and B are explanatory statements rather than numerical answers, while C and D are the actual answers. This violates standard multiple-choice structure. Furthermore, the explanation is logically flawed: it incorrectly labels Option A as 'correct' (it is a definition, not the answer) and fails to explain why Option C is wrong (it is the mathematical inverse of the correct answer). The distractors are not distinct in type, and the reasoning provided is confusing.",
+      "fix_suggestion": "Rewrite the question so that all four options (A, B, C, D) are numerical values representing hydrogen ion concentrations (e.g., 1x10^-4 M, 1x10^4 M, 4 M, 0.00004 M). Ensure the explanation clearly derives the correct answer using the formula pH = -log[H+] and explicitly explains why the other numerical options are incorrect.",
+      "id": 236,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is fundamentally broken. Options A and D are identical in value and calculation, making the test invalid. The 'Correct Answer' field lists D, but A is also correct. Furthermore, Option C is a definition, not a numerical answer, which is inconsistent with the other options. The explanation is confusing and references a 'None of the above' choice that does not exist in the provided options.",
+      "fix_suggestion": "Rewrite the question to ask for the specific numerical value only. Provide three distinct numerical distractors (e.g., 50%, 0.5%, 500%) and one correct answer (5%). Remove the option that states the formula as a distractor unless the question explicitly asks for the formula.",
+      "id": 237,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question text is incomplete ('ke' cuts off mid-sentence). The options are not parallel in structure (one is a noun phrase, others are full sentences). The explanation reveals the answer by explicitly stating 'The dependent variable is... tomato plant yield' before the student has a chance to deduce it, violating the rule against giving away the answer.",
+      "fix_suggestion": "Complete the sentence ending with 'kept all other conditions constant. What is the dependent variable in this experiment?' Ensure all options are noun phrases (e.g., 'Tomato plant yield', 'Fertilizer type', 'Plant height', 'Soil pH'). Rewrite the explanation to define the concept of a dependent variable without naming the specific answer for this scenario.",
+      "id": 238,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question format is broken. The options (A, B, C, D) contain full sentences and explanations rather than just the muscle type names. This makes the question confusing and violates standard multiple-choice formatting. Additionally, the 'Distractors' field in the metadata is malformed (it contains explanations for the wrong labels), and the explanation repeats the answer text directly without guiding the student's reasoning process effectively.",
+      "fix_suggestion": "Rewrite the question so that the options are simply: A) Cardiac muscle, B) Smooth muscle, C) Skeletal muscle, D) None of the above. Ensure the explanation describes the characteristics of each muscle type to justify why Skeletal muscle is the correct choice without simply restating the option text.",
+      "id": 244,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question is ambiguous because options A and C describe the same correct fact but with different levels of detail. Option A is a more complete and accurate description than Option C. In multiple-choice questions, if one option contains all the information of another plus additional correct details, the shorter option is usually incorrect. This makes the question flawed. Additionally, the explanation for distractor D ('Both A and C') is confusing because it claims 'there is no option C in this specific question context,' which is factually incorrect as Option C exists in the prompt.",
+      "fix_suggestion": "Rewrite the question to ensure only one option is correct. For example, make Option A the correct answer and change Option C to an incorrect statement like 'The left atrium pumps oxygenated blood to the body' or remove the detailed description from Option A and ensure other options are clearly wrong without being subsets of the correct answer.",
+      "id": 247,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The explanation contains severe logical errors and contradictions. It claims Option A is accurate but then states Option B is incorrect for reasons that contradict the text (it says B goes to body without left heart, but B is the correct answer). It also invents non-existent options E and F. The explanation fails to teach the concept and is internally inconsistent.",
+      "fix_suggestion": "Rewrite the explanation to clearly state that Option B is the correct sequence. Explain why Option A is incorrect (it includes unnecessary detail about the vena cava which makes it a distractor in a simplified context, or simply state it is wordy/incorrectly phrased if that was the intent). Remove references to non-existent options E and F. Ensure the logic aligns with the correct answer being B.",
+      "id": 248,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question contains critical structural errors: the correct answer text is duplicated in the options list, the distractor mapping is scrambled (Option A contains the correct answer text), and the explanation explicitly reveals the correct answer before the student has selected it.",
+      "fix_suggestion": "Rewrite the question to have four distinct options (e.g., Red blood cells, White blood cells, Platelets, Plasma). Ensure the correct answer is only listed once. Remove the correct answer text from the distractor definitions. Rewrite the explanation to explain the physiology of clotting without stating 'The correct answer is Platelets'.",
+      "id": 254,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question format is broken. The correct answer is listed separately from the options, and the 'Distractors' field contains the correct answer as a distractor (Option D in the JSON list matches the correct answer text). Additionally, the explanation is circular and redundant, restating the question rather than explaining the mechanism clearly.",
+      "fix_suggestion": "Reformat the question so the correct answer is embedded within the options list (e.g., Option A). Remove the separate 'Correct Answer' line. Ensure the distractors in the JSON are distinct from the correct answer. Rewrite the explanation to focus on the mechanism of exocytosis at the presynaptic terminal without simply repeating the question stem.",
+      "id": 258,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is fundamentally flawed due to severe redundancy and a broken logic in the distractors. Option A and Option C describe the exact same biological fact (endothelial cells with tight junctions), making it impossible to distinguish the 'best' answer. Furthermore, the provided 'Distractors' JSON lists 'D' as 'Both A and C', but the question text for D is 'None of the above', creating a direct contradiction. The explanation also fails to teach the concept clearly because it admits the other options are incorrect only because they are redundant, rather than explaining why the specific phrasing of C is superior to A.",
+      "fix_suggestion": "Rewrite the question to focus on a specific aspect of the BBB that distinguishes the options. For example, ask about the specific type of junction (tight vs. gap) or the specific cell type (endothelial vs. astrocytes). Ensure distractors are factually incorrect or describe different structures (e.g., Gap junctions, Astrocyte foot processes, Pericytes) rather than restating the correct answer with slightly different wording.",
+      "id": 261,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question contains a critical formatting error where the correct answer text is duplicated in option D, making D identical to the correct answer. Additionally, the provided 'Distractors' JSON in the prompt contradicts the actual options listed (Option A is 'None of the above' in the list but defined as the correct answer text in the JSON). The explanation also fails to identify these structural flaws and incorrectly analyzes the redundancy.",
+      "fix_suggestion": "Remove the duplicate text from Option D. Ensure Option D is a distinct distractor (e.g., 'Vagus nerve (CN X)'). Verify that the 'Distractors' JSON matches the actual options A, B, and C provided in the question stem.",
+      "id": 262,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question format is flawed: the correct answer is embedded within option C as a full sentence rather than a simple label, while option D is just the label. This creates ambiguity about whether the student should select the label or the description. Additionally, the provided 'Distractors' JSON in the prompt is malformed and inconsistent with the actual options listed (A, B, C, D).",
+      "fix_suggestion": "Rewrite the options so that each is a concise noun phrase (e.g., A) Thyroid gland, B) Adrenal gland, C) Pituitary gland, D) Pineal gland). Remove the explanatory text from the options and ensure the explanation focuses solely on why the pituitary is the master gland without revealing the answer in the option text.",
+      "id": 263,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question contains a critical logical error: Option D is a correct statement that duplicates the meaning of Option B, yet Option B is marked as the single correct answer. Additionally, the explanation is flawed; it incorrectly claims 'None of the above' is an option (it is not) and falsely states that 'Both A and C' is invalid because C is not distinct from A (C is distinct from A, but the combination is wrong because A is incorrect). The distractors are poorly constructed, and the explanation fails to teach the concept clearly due to these contradictions.",
+      "fix_suggestion": "Remove Option D. Change Option C to a plausible but incorrect distractor (e.g., 'It stimulates the release of insulin'). Ensure the explanation only references the actual options provided (A, B, C) and correctly explains why B is right and A/C are wrong without inventing non-existent options.",
+      "id": 266,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question has a critical logical flaw: Option A is a factually correct and complete description of the hormone's function, while Option B is just the name. The provided explanation incorrectly claims Option A is wrong and Option B is right, which contradicts standard testing principles where the most complete/correct answer should be chosen. Additionally, the distractor mapping in the JSON is scrambled (A is mapped to the correct description, but labeled as a distractor in the explanation logic). The question forces a choice between a definition and a name, creating ambiguity.",
+      "fix_suggestion": "Rewrite the question to ask for the specific name of the hormone, making 'Parathyroid hormone' the only correct choice, and ensure distractors are other hormones (e.g., Calcitonin, Insulin, Glucagon) with clear, distinct mechanisms. Alternatively, if testing mechanism, make the name the distractor and the mechanism the correct answer, but ensure the explanation supports the chosen key without contradiction.",
+      "id": 267,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is logically broken. Option A correctly states the fact, while Option C contains a typo ('nterior') but is intended to be the same fact. Option D claims 'Both A and C' are correct. Since A and C describe the same biological fact (despite the typo in C), D should logically be the correct answer. However, the provided correct answer is C, which contradicts the logic of Option D. Additionally, the explanation is nonsensical, claiming C is a 'false statement' when it is factually true (aside from the typo) and claiming the 'None of the above' choice is invalid when that choice does not exist in the question.",
+      "fix_suggestion": "Remove Option A. Change Option C to 'Anterior pituitary' (fixing the typo). Change Option D to 'Both A and C' (which would now be incorrect since A is gone). Set the correct answer to C. Alternatively, keep A and C as distinct options if they were meant to be different, but currently they are redundant. The simplest fix is to remove A, fix the typo in C, and ensure D is clearly incorrect.",
+      "id": 268,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question is flawed because Option C contains the full definition of the correct answer, making it a 'tell' that reveals the answer before the student selects it. Additionally, the provided JSON metadata for distractors is malformed and inconsistent with the question text (e.g., Option C is labeled 'C' in the text but 'A' in the JSON, and Option D is missing from the JSON). The explanation also inadvertently gives away the answer by repeating the definition found in the flawed option.",
+      "fix_suggestion": "Remove the definition from Option C. Replace Option C with a plausible but incorrect distractor (e.g., 'Skeletal muscle'). Ensure the JSON metadata accurately reflects the four options (A, B, C, D) without internal contradictions.",
+      "id": 271,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "1. Accuracy: The correct answer 'TP' is a typo for 'ATP'. 2. Clarity: The explanation explicitly states 'The correct answer is ATP' which reveals the answer key before the student reads the options, violating the rule against giving away the answer. 3. Quality: Option B is a long paragraph that accidentally contains the correct logic, making it a poor distractor compared to the others.",
+      "fix_suggestion": "1. Change 'TP' to 'ATP' in Option A. 2. Rewrite the explanation to describe the physiological process without explicitly naming the correct option or stating 'The correct answer is...'. 3. Shorten Option B to be a concise distractor (e.g., 'Creatine phosphate') or remove it to avoid confusion with the correct sequence.",
+      "id": 274,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "Distractor B is a full sentence that repeats the definition of the correct answer, making it too obvious and not a plausible distractor. Distractor C is also a full sentence and mixes concepts incorrectly. Distractors should be single terms or short phrases matching the question stem's structure.",
+      "fix_suggestion": "Change distractors to single terms: B) Concentric contraction, C) Isometric contraction, D) Static contraction.",
+      "id": 276,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question format is broken. The correct answer and one distractor are embedded within the question text itself, making it impossible to answer without reading the answer key. Additionally, the provided 'Distractors' JSON in the prompt is malformed (it lists the correct answer as a distractor and uses inconsistent keys). The explanation is circular and fails to teach the concept clearly because the question structure is fundamentally flawed.",
+      "fix_suggestion": "Rewrite the question to present only the stem and four distinct options (A, B, C, D) without revealing the answer in the text. Ensure the distractors are plausible but incorrect physiological processes (e.g., Reabsorption, Secretion, Excretion) and move the detailed definition of filtration to the explanation section only.",
+      "id": 281,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question has a critical formatting error where the correct answer is listed as option D, but the provided 'Distractors' JSON maps the text of option B to key 'A' and option A to key 'B'. This creates a mismatch between the question text and the answer key logic. Additionally, the explanation is slightly repetitive and could be more specific about why proteins/glucose are absent in normal urine.",
+      "fix_suggestion": "1. Reorder the options so the correct answer is Option A. 2. Update the 'Distractors' JSON to correctly map the text of the incorrect options to keys B, C, and D. 3. Refine the explanation to explicitly state that proteins, glucose, and amino acids are reabsorbed by the kidneys and thus not found in normal urine.",
+      "id": 283,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question is fundamentally broken due to severe formatting and logic errors. 1) The 'Distractors' field contains a logical contradiction: it lists 'A' and 'B' as options, but then defines 'C' as 'Both A and C', creating an infinite loop and making the option list invalid. 2) The 'Explanation' explicitly reveals the correct answer ('The correct answer is that neither...') before the student has a chance to think, violating standard exam design principles. 3) The distractors are poorly constructed; Option A is a confusing mix of true facts (universal recipient) and false claims (presence of antibodies), while Option B is a vague 'None of the above' which is rarely a good distractor in science questions. 4) The JSON structure provided in the prompt is malformed and cannot be parsed as a valid question object.",
+      "fix_suggestion": "Rewrite the question to have four distinct, plausible multiple-choice options (A, B, C, D) without self-referential logic errors. Ensure the explanation describes the biological reasoning for the correct answer without explicitly stating 'The correct answer is X' or giving away the solution. Remove the 'None of the above' option and replace it with a specific incorrect biological statement (e.g., 'Only anti-A antibodies').",
+      "id": 285,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "1. The explanation contains a critical factual error: it claims the RhoGAM option is wrong because it describes a 'treatment strategy' rather than a cause. RhoGAM is actually the standard prevention method, making the explanation's reasoning for rejecting option C incorrect. 2. The explanation incorrectly states that maternal anti-Rh antibodies are 'not present initially to cross,' which is confusing; the issue is that they are not present in the mother until sensitization occurs, but the phrasing is poor. 3. The distractors are not properly formatted in the JSON (they are strings instead of objects with explanations), and the mapping between the letter and the text in the 'Distractors' field is scrambled compared to the question text.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify that Option C is a true statement (RhoGAM prevents the condition) and therefore is not the answer to 'when it occurs.' Clarify that the condition occurs due to sensitization (Option A), not because of the presence of antibodies at conception. Fix the JSON distractor format to match the question options exactly.",
+      "id": 289,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question structure is broken. Option B is a full sentence explaining the concept rather than a plausible distractor choice. The 'Distractors' field in the metadata contradicts the question text (listing 'Both A and C' as a distractor, but the question text shows 'None of the above' as C). The explanation explicitly reveals the correct answer in the first sentence, violating the rule against giving away the answer. The difficulty level is inconsistent with the flawed construction.",
+      "fix_suggestion": "Rewrite Option B to be a plausible but incorrect antigen name (e.g., 'RhC antigen' or 'RhE antigen'). Change Option C to a different incorrect antigen. Remove the 'Both A and C' option. Rewrite the explanation to explain the concept without stating 'The correct answer is A' or defining the answer directly in the first clause.",
+      "id": 287,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question asks for a specific type of tissue, but Option A is a full sentence that repeats the definition found in the explanation, making it a valid answer choice that confuses the student. Option B is just the noun phrase. This inconsistency in format between the correct answer and the distractors is poor design. Additionally, the explanation is circular and fails to clearly distinguish why A is incorrect despite containing the correct information.",
+      "fix_suggestion": "Rewrite Option A to be a plausible but incorrect distractor (e.g., 'Muscular tissue') or change the question to ask for the definition, ensuring all options are consistent in format (either all noun phrases or all full sentences).",
+      "id": 291,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question has a critical formatting error where the correct answer text is embedded in option D. The explanation is logically flawed, incorrectly claiming 'Option C, None of the above' is incorrect when C is the correct answer. The distractors are not distinct (A and D are identical in content). The explanation reveals the answer directly.",
+      "fix_suggestion": "Remove the answer text from option D. Rewrite option D to be a plausible but incorrect distractor (e.g., 'Stratified squamous epithelium'). Rewrite the explanation to explain why simple squamous is correct without mentioning the specific text of the other options or revealing the answer prematurely.",
+      "id": 294,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question asks for a classification ('which type'), but the correct answer (C) is a category label while distractors A and B are descriptive sentences. This creates a mismatch in answer format. Additionally, the explanation explicitly states 'Options suggesting other classifications are incorrect,' which directly reveals that A and B are wrong without requiring the student to deduce the answer, violating the principle of not giving away the solution.",
+      "fix_suggestion": "Rewrite the question to ask for the specific classification term (e.g., 'Cartilage is classified as which type of connective tissue?') and ensure all options are single-word or short-phrase classifications (e.g., A) Connective, B) Supportive, C) Fluid, D) Epithelial) to maintain parallel structure and force the student to identify the correct category without sentence-based clues.",
+      "id": 295,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The explanation contains a critical logical error: it states 'Option D is invalid since epithelial tissue is the clear answer,' which contradicts the premise that D is the correct answer. Additionally, the distractors are not distinct (A and D both refer to the correct answer), and the explanation explicitly reveals the correct answer in the analysis of distractors, violating the rule against giving away the answer.",
+      "fix_suggestion": "Rewrite the question to have four distinct options where only one is the correct tissue type. In the explanation, explain why the correct answer is right and why each specific distractor is wrong without explicitly stating 'Option D is the answer' or revealing the correct choice in the analysis of incorrect options.",
+      "id": 296,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains factual errors and logical flaws. It incorrectly states that Option A is wrong for not mentioning antibody production (it is a true characteristic). It incorrectly claims Option B is wrong for not noting temporary protection (the definition is correct). It incorrectly calls Option C 'invalid' instead of identifying it as the reverse of the correct answer. The explanation fails to teach the concept clearly.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify that Option B is the accurate definition. Explain that Option A is incomplete (true but not the defining difference), Option C is the exact opposite of the truth, and Option D is also true but incomplete regarding the mechanism of action.",
+      "id": 298,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question contains critical structural errors: 1) The correct answer is listed as 'A)' but the explanation claims 'Option A is incorrect', creating a direct contradiction. 2) The distractors list is malformed; it includes the full text of option B as a distractor label, and the labels in the JSON do not match the actual options (A, B, C, D). 3) The explanation logic is inverted and nonsensical.",
+      "fix_suggestion": "Rewrite the question to clearly identify the correct option without self-contradiction. Ensure the 'Distractors' JSON maps correctly to the non-answer options (B, C, D) and remove the full text of option B from the distractor list. Fix the explanation to correctly identify A as the right answer and explain why B, C, and D are wrong.",
+      "id": 300,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical error by claiming 'None of the above' is an option, which does not exist in the question. Additionally, the distractor mapping in the JSON is inconsistent with the question text (Option A is 'Both A and C', but the explanation treats 'A' as IgA). The explanation also fails to clearly explain why IgM is less abundant in the blood compared to IgG.",
+      "fix_suggestion": "Remove the reference to 'None of the above' from the explanation. Correct the explanation to explicitly state that IgM is the first antibody produced in a primary response and is less abundant than IgG. Ensure the distractor list in the JSON matches the actual options provided in the question stem.",
+      "id": 301,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The explanation contains a critical logical error stating 'Option C is incorrect' when C is the correct answer. Additionally, the explanation fails to clearly distinguish why A and D are inferior choices compared to C, as A and D are factually true statements but do not represent the *primary* difference as precisely as C. The explanation also gives away the answer too directly.",
+      "fix_suggestion": "Rewrite the explanation to explicitly state that while options A and D describe true characteristics of eukaryotes, option C is the best answer because it directly contrasts the defining feature (the nucleus) between both cell types, which is the standard definition of the primary difference. Remove the erroneous claim that C is incorrect.",
+      "id": 305,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The explanation contains severe logical errors and factual inaccuracies. It incorrectly labels the correct answer (B) as 'incorrect' and falsely claims Option A is wrong despite being the correct definition of mitosis. It also misidentifies the labels for the distractors in the explanation text versus the JSON data. The explanation fails to teach the concept and actively confuses the student.",
+      "fix_suggestion": "Rewrite the explanation to correctly identify B (46) as the answer. Explain that mitosis maintains the chromosome number (46 -> 46). Clarify that A describes the process correctly but is not the numerical answer requested, and C (23) describes meiosis, not mitosis. Ensure the explanation matches the correct answer key.",
+      "id": 311,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 4,
+      "verdict": "revise",
+      "issues": "The question contains a critical formatting error: the correct answer (B) is identical to distractor A in the provided JSON data, creating ambiguity. Additionally, the explanation explicitly states 'The correct answer is hydrogen bonds...' which directly reveals the answer before the student reads the options, violating best practices for exam questions.",
+      "fix_suggestion": "1. Swap the text of option A and option B in the question stem so the correct answer is B but the text matches the intended correct concept. 2. Ensure the JSON 'Distractors' object maps letters to the wrong answers (A, C, D) correctly. 3. Rewrite the explanation to explain the concept without explicitly stating 'The correct answer is...'.",
+      "id": 313,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question contains critical logical errors and factual inaccuracies. 1) The correct answer (B) lists 'TP' instead of 'ATP', which is a major terminology error. 2) The explanation is contradictory and confusing; it claims Option B 'details the function... instead of listing them as outputs' while simultaneously stating B is the correct answer listing the products. 3) The distractor mapping in the JSON is scrambled (A and C are swapped compared to the question text). 4) Option C in the question text is a description of the process, not a list of products, making the 'Both A and C' option logically invalid for a 'products' question.",
+      "fix_suggestion": "Correct 'TP' to 'ATP' in the correct answer. Rewrite the explanation to clearly state that ATP, NADPH, and O2 are the products, and explain why glucose (A) is a product of the light-independent reactions, not the light-dependent ones. Fix the JSON distractor mapping to match the question text.",
+      "id": 320,
+      "subject": "science",
+      "retry_of": true
+    },
+    {
+      "score": 2,
+      "verdict": "rewrite",
+      "issues": "The question format is broken. Options B and D are full sentences describing the process rather than distinct distractor terms like Option C. This makes the question ambiguous and confusing. Additionally, the explanation is flawed: it claims Option A 'describes the mechanism but not the process name' when Option A IS the process name, and it incorrectly states Option C 'is incorrect as the process exists' without explaining why it is the wrong answer for this specific definition.",
+      "fix_suggestion": "Rewrite the question so all options are single terms or short phrases. For example: 'The process by which nitrogen is converted from atmospheric N2 to a usable form is called: A) Nitrogen fixation B) Nitrification C) Denitrification D) Ammonification'. Ensure the explanation clearly defines why the correct answer is right and why the others are wrong.",
+      "id": 328,
+      "subject": "science",
+      "retry_of": true
+    }
+  ]
+}

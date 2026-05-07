@@ -1,0 +1,752 @@
+[
+  {
+    "id": 657,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Select the sentence with correct colon usage.\n\nA. The recipe requires the following ingredients: flour, sugar, and eggs.\nB. The recipe requires: flour, sugar, and eggs.\nC. The ingredients for the recipe are: flour, sugar, and eggs.\nD. The recipe requires the following ingredients, flour, sugar, and eggs.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly uses a colon to introduce a list that directly follows the introductory phrase \"the following ingredients.\" This structure clearly signals that what comes next are specific items related to the preceding clause. Option B is incorrect because it places a colon immediately after the verb \"requires,\" which fails to provide a complete introductory thought before the list. Option C is wrong since the colon appears after the verb \"are,\" breaking the grammatical rule that requires an independent clause before the colon. Option D incorrectly uses a comma instead of a colon to separate the introductory phrase from the list of ingredients.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 658,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Which sentence correctly uses a semicolon?\n\nA. I have lived in Miami; and Atlanta.\nB. Some people prefer cats; others prefer dogs.\nC. The meeting is at 3; PM.\nD. Although it rained; we went hiking.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B correctly joins two independent clauses with a semicolon because both \"Some people prefer cats\" and \"others prefer dogs\" can stand alone as complete sentences. Option A is incorrect because a semicolon cannot connect an independent clause to a dependent phrase starting with \"and.\" Option C misuses the punctuation by placing a semicolon before the time abbreviation instead of a colon. Option D fails because a semicolon cannot separate a dependent clause beginning with \"Although\" from its main clause. This question tests the specific rule that semicolons link only two complete thoughts without conjunctions.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 659,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Choose the correctly punctuated sentence.\n\nA. The directions are as follows: turn left, go two miles, then turn right.\nB. The directions are as follows, turn left, go two miles, then turn right.\nC. The directions are as follows turn left, go two miles, then turn right.\nD. The directions are: as follows turn left, go two miles, then turn right.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because it properly uses a colon to introduce a list of specific directions following the phrase \"are as follows.\" This punctuation rule requires a colon when a complete independent clause precedes a list or explanation. Option B is incorrect because it uses a comma instead of a colon, which fails to clearly separate the introductory clause from the subsequent list. Option C is wrong due to the missing colon between \"follows\" and \"turn,\" creating a run-on sentence that lacks necessary punctuation. Option D is flawed because it awkwardly combines \"are\" and \"as follows\" with a colon, resulting in a redundant and grammatically confused structure that does not follow standard conventions.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 660,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Select the sentence that correctly uses a semicolon with items containing commas.\n\nA. On our trip, we visited Paris, France; Rome, Italy; and Madrid, Spain.\nB. On our trip, we visited Paris France, Rome Italy, and Madrid Spain.\nC. On our trip we visited; Paris, France; Rome, Italy; and Madrid, Spain.\nD. On our trip, we visited Paris; France, Rome; Italy, and Madrid; Spain.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly places semicolons between list items that already contain commas, clearly separating \"Paris, France,\" \"Rome, Italy,\" and \"Madrid, Spain.\" This punctuation prevents confusion by acting as a stronger divider than a comma alone. Option B fails because it omits commas within the city and country pairs, making the list ambiguous and grammatically incorrect. Option C incorrectly inserts a semicolon after the introductory clause, which breaks the flow before the list even begins. Option D misuses semicolons by splitting the city and country pairs incorrectly, disrupting the logical grouping of the locations.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 661,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the sentence with correct subject-verb agreement.\n\nA. The list of medications were reviewed by the pharmacist.\nB. The list of medications was reviewed by the pharmacist.\nC. The list of medications are reviewed by the pharmacist.\nD. The list of medications be reviewed by the pharmacist.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the singular subject \"list\" requires the singular verb \"was,\" while the plural \"medications\" acts as a modifier. Option A uses the plural verb \"were,\" which incorrectly agrees with the plural noun \"medications\" instead of the singular subject. Option C fails similarly by pairing the singular subject with the plural verb \"are,\" creating a disagreement. Finally, Option D is grammatically flawed because the verb \"be\" lacks the necessary tense or auxiliary support to function correctly in this passive construction.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 662,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Select the sentence with correct subject-verb agreement.\n\nA. Each of the nurses have completed their certification.\nB. Each of the nurses has completed their certification.\nC. Each of the nurses are completing their certification.\nD. Each of the nurses were completing their certification.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the singular subject \"Each\" requires the singular verb \"has,\" while the plural noun \"nurses\" acts as the object of the preposition \"of.\" Option A is wrong since it pairs the singular subject with the plural verb \"have.\" Option C fails because \"are\" is a plural verb that does not agree with the singular \"Each.\" Finally, Option D is incorrect as the past tense plural verb \"were\" cannot follow the singular subject. This question tests your ability to identify that \"each\" always takes a singular verb regardless of the following noun.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 663,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the correct verb to complete the sentence: The attending physician, along with two residents, _____ rounds every morning.\n\nA. make\nB. makes\nC. are making\nD. were making",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is B because the subject \"physician\" is singular, and the phrase \"along with two residents\" does not change the verb number. Even though multiple people are involved, the main subject remains one person, so the verb must agree with the singular \"physician\" rather than the plural residents. Option A is incorrect because \"make\" is plural and fails to match the singular subject. Options C and D are wrong because they use continuous past or present tenses that do not fit the simple present habitual action described in the sentence. Therefore, only \"makes\" properly aligns the verb with the singular subject in this context.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 664,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence demonstrates correct subject-verb agreement?\n\nA. The data suggests a correlation between diet and health outcomes.\nB. The data suggest a correlation between diet and health outcomes.\nC. The data suggesting a correlation between diet and health outcomes.\nD. The data have suggest a correlation between diet and health outcomes.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct answer is B because the subject \"data\" is treated as a plural noun in this context, requiring the plural verb \"suggest\" to maintain agreement. Option A is incorrect because it uses the singular verb \"suggests,\" which fails to match the plural subject \"data.\" Option C is flawed because it lacks a main verb entirely, creating a sentence fragment rather than a complete thought. Option D is wrong because it combines the plural auxiliary \"have\" with the base form \"suggest\" instead of the past participle \"suggested,\" breaking the verb tense structure. This question tests your ability to recognize that \"data\" functions as a plural entity in standard English grammar.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 665,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Select the sentence with correct subject-verb agreement.\n\nA. Neither the patient nor the family members was informed of the diagnosis.\nB. Neither the patient nor the family members were informed of the diagnosis.\nC. Neither the patient nor the family members has been informed of the diagnosis.\nD. Neither the patient nor the family members is informed of the diagnosis.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the verb must agree with the closest subject, which is the plural phrase \"family members.\" In sentences using \"neither...nor,\" the verb follows the subject nearest to it, making the plural verb \"were\" the only grammatically valid choice here. Option A incorrectly uses the singular \"was\" to match the first subject instead of the second. Options C and D are also wrong because they use the singular verbs \"has been\" and \"is,\" which fail to match the plural noun \"members.\" Therefore, only sentence B maintains proper subject-verb agreement throughout.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 666,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence that uses verb tenses correctly.\n\nA. The patient had already been discharged when the lab results arrived.\nB. The patient has already been discharged when the lab results arrived.\nC. The patient was already been discharged when the lab results arrived.\nD. The patient is already discharged when the lab results arrived.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because it properly uses the past perfect continuous tense to show an action completed before another past event. The phrase \"had already been discharged\" correctly precedes \"arrived,\" establishing the proper timeline. Option B is wrong because \"has\" indicates present perfect tense, which conflicts with the past tense \"arrived.\" Option C fails due to the grammatical error \"was already been,\" mixing past simple and past perfect incorrectly. Option D is incorrect because \"is\" creates a present tense mismatch with the past context of \"arrived.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 667,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Select the sentence with correct verb tense usage.\n\nA. The nurse gived the patient his medication.\nB. The nurse gave the patient his medication.\nC. The nurse given the patient his medication.\nD. The nurse had gave the patient his medication.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because \"gave\" is the proper simple past tense form of the irregular verb \"give,\" which accurately describes a completed action. Option A is incorrect since \"gived\" is not a valid English word; the past tense never adds \"-ed\" to this verb. Option C fails because \"given\" is a past participle that requires an auxiliary verb like \"has\" or \"had\" to function grammatically in a sentence. Option D is wrong because it mixes the past perfect tense structure with the simple past form \"gave,\" whereas it should use \"given\" after \"had.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 668,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Which sentence maintains consistent verb tense?\n\nA. The doctor examined the patient and then writes a prescription.\nB. The doctor examines the patient and then wrote a prescription.\nC. The doctor examined the patient and then wrote a prescription.\nD. The doctor had examined the patient and then writes a prescription.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because both verbs, \"examined\" and \"wrote,\" consistently use the simple past tense to describe completed actions. Option A fails because it mixes the past tense \"examined\" with the present tense \"writes,\" creating a grammatical error. Option B is incorrect as it shifts from present tense \"examines\" to past tense \"wrote,\" disrupting the timeline. Option D is wrong because it combines the past perfect \"had examined\" with the present tense \"writes,\" which does not maintain a consistent narrative flow.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 669,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with correct verb tense.\n\nA. By next year, the hospital will have implemented the new protocol.\nB. By next year, the hospital will implemented the new protocol.\nC. By next year, the hospital has implemented the new protocol.\nD. By next year, the hospital will have implement the new protocol.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because it properly uses the future perfect tense with \"will have implemented\" to describe an action completed before a future time. The phrase \"By next year\" signals this specific tense, requiring the past participle \"implemented\" after the auxiliary verbs. Option B is incorrect because it mixes \"will\" with the past tense \"implemented,\" which creates a grammatical error. Option C fails because \"has implemented\" is present perfect tense, which does not align with the future timeframe indicated by \"By next year.\" Option D is wrong because it uses the base form \"implement\" instead of the required past participle \"implemented\" after \"will have.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 670,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the sentence with correct pronoun usage.\n\nA. The supervisor gave the assignment to myself.\nB. The supervisor gave the assignment to me.\nC. The supervisor gave the assignment to I.\nD. The supervisor gave the assignment to mineself.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the preposition \"to\" requires the objective case pronoun \"me,\" making the sentence grammatically sound. Option A is wrong since \"myself\" is a reflexive pronoun that only works when the subject and object are the same person, which is not true here. Option C fails because \"I\" is a subjective pronoun and cannot function as the object of a preposition. Finally, Option D is incorrect because \"mineself\" is not a valid English word, rendering the entire sentence nonsensical.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 671,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the correct pronoun to complete the sentence: _____ completed the patient assessment first?\n\nA. Who\nB. Whom\nC. Whose\nD. Which",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is A, Who, because it functions as the subject of the verb completed in this interrogative sentence. Since the pronoun performs the action of completing the assessment, it requires the subjective case rather than an object form. Option B, Whom, is incorrect because it serves as an object and would be used if the pronoun received the action, such as in Who did you see? Options C, Whose, and D, Which, are wrong because Whose indicates possession while Which refers to things or specific selections, neither of which fits the context of asking about a person performing an action.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 672,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Which sentence uses pronouns correctly?\n\nA. Everyone should bring their own stethoscope to the lab.\nB. Everyone should bring his or her own stethoscope to the lab.\nC. Everyone should bring they're own stethoscope to the lab.\nD. Both A and B are acceptable in modern usage.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Option D is correct because modern grammar accepts both singular \"they\" and \"his or her\" to avoid gendered language when referring to \"everyone.\" Option A is acceptable as \"their\" functions as a singular they pronoun, while Option B is also valid though slightly more formal. Option C is incorrect because \"they're\" is a contraction for \"they are,\" which does not fit the sentence structure requiring a possessive pronoun. Since both A and B follow current style guides, D accurately reflects that multiple forms are acceptable today.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 673,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the sentence with correct pronoun-antecedent agreement.\n\nA. Each student must submit their assignment by Friday.\nB. Each student must submit his or her assignment by Friday.\nC. Each student must submit there assignment by Friday.\nD. Both A and B are correct.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Option D is correct because both sentences A and B demonstrate proper pronoun-antecedent agreement where \"Each student\" is singular and matches with \"their\" or \"his or her.\" Sentence A uses \"their\" as a widely accepted singular they, while sentence B explicitly uses \"his or her\" to match the singular subject. Option C is incorrect because \"there\" is a location word that cannot function as a possessive pronoun for the assignment. Since both A and B follow grammatical rules for agreement, selecting D is the only accurate choice for this question.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 674,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the sentence that avoids ambiguous pronoun reference.\n\nA. The nurse told the patient that she needed to rest.\nB. The nurse told the patient that the patient needed to rest.\nC. The nurse told the patient to rest.\nD. Both B and C correct the ambiguity.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Option A fails because the pronoun \"she\" could refer to either the nurse or the patient, creating unclear meaning. Option B removes the pronoun entirely by repeating \"the patient,\" which eliminates any doubt about who must rest. Option C also avoids ambiguity by using an infinitive phrase instead of a pronoun, clearly stating the nurse's instruction. Since both Option B and Option C successfully resolve the confusion present in Option A, Option D is the only choice that accurately identifies these two improvements. This question tests your ability to recognize and fix unclear pronoun references in medical communication.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 675,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Identify whether the following sentence is in active or passive voice: 'The medication was administered by the nurse.'\n\nA. Active voice\nB. Passive voice\nC. Both active and passive\nD. Neither active nor passive",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence uses passive voice because the subject \"medication\" receives the action rather than performing it. You can identify this by the \"was administered\" verb phrase, which indicates the action happened to the subject. Option A is incorrect because the subject does not act upon the object. Option C is wrong since the sentence structure only allows for one voice type, not both simultaneously. Option D is false because every sentence must be either active or passive. Therefore, the sentence clearly fits the definition of passive voice where the doer follows the verb.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 676,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Which version is most appropriate for a formal lab report?\n\nA. We measured the patient's blood pressure.\nB. The patient's blood pressure was measured.\nC. You measure the patient's blood pressure.\nD. Someone measured the patient's blood pressure.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the best choice because formal lab reports rely on the passive voice to emphasize the action rather than the person performing it, which maintains objectivity. The phrase \"was measured\" correctly removes the researcher from the sentence, adhering to scientific standards where the experiment takes precedence over the experimenter. In contrast, Option A uses the active voice with \"We,\" which is too personal for formal documentation. Option C incorrectly addresses the reader directly with \"You,\" creating an informal tone, while Option D introduces the vague agent \"Someone,\" which lacks the precision required in scientific writing. Therefore, only the passive construction in Option B fits the formal context of a lab report.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 677,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Convert the following passive sentence to active voice: 'The policy was revised by the committee.'\n\nA. The committee revised the policy.\nB. The policy revised the committee.\nC. The committee was revised by the policy.\nD. Revised the policy, the committee did.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly transforms the passive sentence into active voice by making the original doer, the committee, the subject performing the action on the policy. This structure follows the standard active voice formula where the subject acts directly on the object without needing the \"by\" phrase. Option B is incorrect because it reverses the roles, implying the policy itself performed the revision. Option C remains in passive voice and falsely suggests the policy was the thing being revised. Option D is grammatically flawed and awkward, failing to create a clear, standard active sentence structure.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 678,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Identify the sentence with a misplaced modifier.\n\nA. The nurse carefully administered the medication to the patient.\nB. Walking down the hall, the chart was dropped by the intern.\nC. The physician reviewed the test results thoroughly.\nD. The student quickly completed the assignment.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B contains a misplaced modifier because the phrase \"Walking down the hall\" incorrectly modifies \"the chart,\" suggesting the chart was walking, whereas the intern was actually walking. The other options feature adverbs like \"carefully,\" \"thoroughly,\" and \"quickly\" that properly describe how the actions were performed without confusing the subject. In contrast, sentences A, C, and D clearly link the modifiers to their intended subjects, making them grammatically sound. This question tests your ability to ensure descriptive phrases are placed immediately next to the words they modify to avoid ambiguity.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 679,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Choose the sentence that correctly places the modifier.\n\nA. The nurse almost checked every patient on the floor.\nB. The nurse checked almost every patient on the floor.\nC. Almost the nurse checked every patient on the floor.\nD. The nurse checked every patient on the floor almost.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B correctly places the modifier \"almost\" immediately before the noun phrase \"every patient,\" clearly indicating that nearly all patients were checked. In contrast, Option A creates ambiguity by placing \"almost\" before \"checked,\" which could mistakenly suggest the nurse hesitated rather than checking many people. Option C is grammatically incorrect because \"Almost\" cannot modify the noun \"nurse\" in this context, while Option D incorrectly positions the adverb at the very end of the sentence, disrupting the natural flow and clarity of the statement. Proper modifier placement ensures the reader understands exactly what part of the action or subject is being qualified without confusion.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 680,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Which sentence contains a dangling modifier?\n\nA. After reviewing the chart, the doctor made a diagnosis.\nB. After reviewing the chart, a diagnosis was made.\nC. After she reviewed the chart, the doctor made a diagnosis.\nD. The doctor reviewed the chart before making a diagnosis.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because the phrase \"After reviewing the chart\" modifies \"a diagnosis,\" which cannot perform the action of reviewing. In contrast, Option A works because the doctor clearly performed the review. Option C avoids the error by explicitly stating \"she reviewed the chart,\" linking the modifier to a person. Option D is also correct since the doctor is the subject who reviewed the chart before the diagnosis. A dangling modifier occurs when the word it describes is missing or incorrect, making Option B the only flawed sentence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 681,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Select the best revision of this sentence: 'The patient was referred to a specialist with severe symptoms.'\n\nA. The patient with severe symptoms was referred to a specialist.\nB. With severe symptoms, the patient was referred to a specialist.\nC. The patient was referred with severe symptoms to a specialist.\nD. Both A and B are acceptable revisions.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Options A and B both successfully restructure the original sentence to place the modifying phrase \"with severe symptoms\" directly next to \"the patient,\" eliminating the misplaced modifier that incorrectly suggested the specialist had the symptoms. In option A, the phrase immediately follows the subject, while option B uses a standard introductory phrase to achieve the same clarity. Option C is incorrect because it places the modifier between \"referred\" and \"to,\" which awkwardly suggests the referral itself had severe symptoms rather than the patient. Since both A and B fix the grammatical error effectively without altering the original meaning, option D is the best choice as it acknowledges that multiple valid revisions exist.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 682,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Choose the sentence with correct parallel structure.\n\nA. The job requires a degree, experience, and to be certified.\nB. The job requires a degree, experience, and certification.\nC. The job requires a degree, having experience, and certification.\nD. The job requires a degree, experienced, and certification.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it maintains parallel structure by listing three nouns: degree, experience, and certification. The other options fail this requirement by mixing parts of speech. Option A incorrectly adds the infinitive phrase \"to be certified\" alongside two nouns. Option C uses the gerund phrase \"having experience\" which breaks the noun pattern. Option D mixes the noun \"degree\" with the adjective \"experienced\" instead of the noun \"experience.\" Consistent grammatical forms ensure the sentence flows logically and clearly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 683,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Select the sentence that maintains parallel structure.\n\nA. The nurse was skilled, compassionate, and had experience.\nB. The nurse was skilled, compassionate, and experienced.\nC. The nurse was skilled, showed compassion, and experienced.\nD. The nurse was skilled, compassion, and experienced.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it lists three adjectives\u2014skilled, compassionate, and experienced\u2014that all describe the nurse's qualities using the same grammatical form. This consistency creates a balanced and clear sentence structure. Option A fails because it mixes two adjectives with a verb phrase, breaking the parallel pattern. Option C is incorrect since it combines an adjective with a verb phrase and another adjective, creating uneven grammar. Option D is wrong because it replaces an adjective with a noun, disrupting the required adjective list.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 684,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Which sentence uses parallel structure correctly?\n\nA. The instructor told us to read the chapter, to complete the worksheet, and that we should study for the exam.\nB. The instructor told us to read the chapter, complete the worksheet, and study for the exam.\nC. The instructor told us to read the chapter, completing the worksheet, and studying for the exam.\nD. The instructor told us reading the chapter, complete the worksheet, and study for the exam.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it maintains parallel structure by using three infinitive verbs: to read, complete, and study. In contrast, Option A fails because it mixes an infinitive phrase with a dependent clause starting with \"that.\" Option C is incorrect since it shifts from infinitives to gerunds ending in \"-ing,\" breaking the consistent pattern. Finally, Option D is flawed because it begins with a gerund phrase \"reading\" instead of matching the infinitive form used in the other items. This question tests your ability to keep grammatical forms consistent within a list.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 685,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Choose the sentence with correct parallel structure in a comparison.\n\nA. Reading the textbook is more effective than to watch the lecture.\nB. Reading the textbook is more effective than watching the lecture.\nC. Reading the textbook is more effective than watched the lecture.\nD. To read the textbook is more effective than watching the lecture.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it maintains parallel structure by comparing the gerund \"Reading\" with the gerund \"watching.\" In comparisons, the elements being compared must share the same grammatical form to ensure clarity and correctness. Option A is wrong because it compares the gerund \"Reading\" with the infinitive phrase \"to watch,\" which breaks the parallel rule. Option C fails because it compares the gerund \"Reading\" with the past tense verb \"watched,\" creating a grammatical mismatch. Option D is incorrect since it compares the infinitive phrase \"To read\" with the gerund \"watching,\" failing to align the structures.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 686,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Identify the sentence fragment.\n\nA. The nurse checked the patient's vital signs.\nB. After the nurse checked the patient's vital signs.\nC. The patient's vital signs were checked by the nurse.\nD. Checking the patient's vital signs was the nurse's first task.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is a fragment because it begins with the subordinating conjunction \"After,\" creating a dependent clause that lacks a main independent clause to form a complete thought. Options A and C are complete sentences featuring independent subjects and verbs, such as \"checked\" and \"were checked,\" which express full ideas. Option D is also a complete sentence where the gerund phrase \"Checking the patient's vital signs\" functions as the subject paired with the verb \"was.\" Since a fragment cannot stand alone as a sentence, only the incomplete structure in Option B fits the criteria.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 687,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Which sentence is a run-on?\n\nA. The patient arrived late, the doctor still saw him.\nB. Although the patient arrived late, the doctor still saw him.\nC. The patient arrived late, but the doctor still saw him.\nD. The patient arrived late; the doctor still saw him.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is a run-on because it joins two independent clauses with only a comma, creating a comma splice. Options B, C, and D are correct because they use a dependent clause, a coordinating conjunction, or a semicolon to properly connect the ideas. Specifically, B starts with \"Although,\" C uses \"but,\" and D employs a semicolon, all of which fix the grammatical error found in A. This question tests your ability to identify faulty sentence structures within the provided choices.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 688,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Select the best way to correct this comma splice: 'The blood pressure was elevated, the nurse documented it in the chart.'\n\nA. The blood pressure was elevated; and the nurse documented it in the chart.\nB. The blood pressure was elevated, the nurse documented it in the chart.\nC. The blood pressure was elevated; the nurse documented it in the chart.\nD. The blood pressure was elevated the nurse documented it in the chart.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C correctly fixes the comma splice by replacing the comma with a semicolon, which properly joins two independent clauses without a conjunction. The original sentence contains two complete thoughts that need stronger separation than a comma allows. Option A is incorrect because it uses a semicolon followed by the unnecessary word \"and,\" creating a grammatical error. Option B repeats the original mistake by keeping the comma between the two independent clauses. Option D fails entirely by removing the punctuation needed to separate the clauses, resulting in a run-on sentence. Therefore, only the semicolon alone in Option C maintains the correct relationship between the ideas.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 689,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Which option best combines these sentences: 'The medication was effective. It caused some side effects.'\n\nA. The medication was effective, but it caused some side effects.\nB. The medication was effective it caused some side effects.\nC. The medication was effective, it caused some side effects.\nD. Because the medication was effective, it caused some side effects.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly joins the independent clauses with a comma and the contrasting conjunction \"but,\" which accurately reflects the shift from effectiveness to negative side effects. Option B creates a run-on sentence by missing the necessary comma before the second clause, making the structure grammatically incorrect. Option C also forms a run-on error known as a comma splice because it uses only a comma to connect two complete thoughts without a coordinating conjunction. Option D changes the original meaning by implying causality with \"because,\" suggesting the side effects resulted from the medication being effective, which is not stated in the source sentences.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 690,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Identify the type of error in this sentence: 'Because the patient was experiencing chest pain, the nurse called a code blue, she then began CPR.'\n\nA. Sentence fragment\nB. Comma splice\nC. Missing subject\nD. Subject-verb agreement error",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The sentence contains a comma splice because it joins two independent clauses with only a comma instead of a conjunction or semicolon. The first clause, \"Because the patient was experiencing chest pain, the nurse called a code blue,\" stands alone as a complete thought, and the second part, \"she then began CPR,\" is also a complete sentence that cannot be attached merely by a comma. Option A is incorrect because both parts of the sentence have subjects and verbs, so neither is a fragment. Option C is wrong since the subject \"she\" is clearly present in the second clause. Option D is invalid because the verbs \"called\" and \"began\" correctly agree with their respective subjects \"nurse\" and \"she.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 691,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage.\n\nA. The nurse purchased stethoscopes, masks, and gloves for the clinic.\nB. The nurse purchased stethoscopes, masks and, gloves for the clinic.\nC. The nurse purchased, stethoscopes masks and gloves for the clinic.\nD. The nurse purchased stethoscopes, masks, and, gloves for the clinic.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A correctly uses commas to separate items in a list of three, known as the Oxford comma, which clarifies that stethoscopes, masks, and gloves are distinct items. Option B is incorrect because it places a comma before \"and\" while omitting the comma before \"gloves,\" breaking the consistent list structure. Option C fails entirely by inserting a comma after \"purchased\" and missing commas between the listed medical supplies, creating confusing phrasing. Option D is wrong because it adds an unnecessary second comma after \"and,\" resulting in an irregular and grammatically flawed sequence. This question tests your ability to apply standard punctuation rules for listing multiple nouns clearly and accurately.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 692,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Which sentence correctly uses commas with an introductory phrase?\n\nA. Before the surgery the patient signed a consent form.\nB. Before the surgery, the patient signed a consent form.\nC. Before, the surgery the patient signed a consent form.\nD. Before the surgery, patient signed a consent form.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B correctly places a comma after the introductory phrase \"Before the surgery\" to separate it from the main clause. This punctuation rule ensures the reader understands where the introductory thought ends and the main sentence begins. Option A is incorrect because it omits the necessary comma, creating a run-on feel between the phrase and the subject. Option C misplaces the comma before \"the surgery,\" which incorrectly interrupts the introductory phrase itself. Finally, Option D is wrong because it lacks the article \"the\" before \"patient,\" making the sentence grammatically incomplete in addition to missing the comma.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 693,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Select the sentence with correct comma usage around a nonrestrictive element.\n\nA. The medication Lipitor is used to treat high cholesterol.\nB. The medication, Lipitor, is used to treat high cholesterol.\nC. The medication Lipitor, is used to treat high cholesterol.\nD. Lipitor the medication, is used to treat high cholesterol.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B correctly places commas around \"Lipitor\" because it is a nonrestrictive appositive that adds extra information about the medication without limiting its meaning. Since \"the medication\" already specifies the subject, the drug name is nonessential and requires commas on both sides. Option A lacks necessary punctuation, making the appositive restrictive and implying there are other medications being treated. Option C incorrectly places a comma after \"Lipitor\" while omitting one before it, which breaks the grammatical rule for surrounding nonrestrictive elements. Option D fails to include a comma before \"the medication,\" leaving the introductory phrase improperly punctuated.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 694,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence with correct comma usage.\n\nA. The patient, who had been waiting for three hours was finally seen by the doctor.\nB. The patient who had been waiting for three hours, was finally seen by the doctor.\nC. The patient, who had been waiting for three hours, was finally seen by the doctor.\nD. The patient who had been waiting, for three hours was finally seen by the doctor.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because it properly uses commas to set off the nonessential clause \"who had been waiting for three hours,\" which adds extra information about the patient without defining which specific patient is meant. The commas appear both before and after this phrase, ensuring the main sentence structure remains clear and grammatically sound. Option A is incorrect because it omits the closing comma after \"hours,\" leaving the sentence improperly punctuated. Option B is wrong as it places a comma after \"hours\" but misses the opening one before \"who,\" which disrupts the flow of the nonessential clause. Option D fails because it incorrectly inserts a comma within the prepositional phrase \"for three hours,\" breaking the continuity of that specific time expression.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 695,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Choose the sentence with correct semicolon usage.\n\nA. The patient was stable; and the family was relieved.\nB. The patient was stable, the family was relieved.\nC. The patient was stable; the family was relieved.\nD. The patient was stable: the family was relieved.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because a semicolon properly joins two independent clauses without a conjunction, linking the patient's stability to the family's relief. Option A is wrong because a semicolon should not be followed by the coordinating conjunction \"and.\" Option B fails entirely as it lacks any punctuation between the two complete sentences, creating a run-on error. Finally, Option D uses a colon incorrectly since a colon introduces lists or explanations rather than connecting two equal independent clauses.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 696,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Which sentence correctly uses a colon?\n\nA. The nurse needed: a stethoscope, a thermometer, and a blood pressure cuff.\nB. The nurse needed the following: a stethoscope, a thermometer, and a blood pressure cuff.\nC. The nurse needed: a stethoscope a thermometer and a blood pressure cuff.\nD. The nurse needed the following, a stethoscope, a thermometer, and a blood pressure cuff.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because a colon properly introduces a list that follows an independent clause, specifically after the phrase \"the following.\" In contrast, Option A and C are incorrect because they place a colon immediately after the verb \"needed,\" which creates a sentence fragment rather than a complete thought before the list. Option D is wrong because it uses a comma instead of a colon to introduce the list, violating standard punctuation rules for this structure. This question tests your ability to identify when a colon correctly separates a complete sentence from the items it introduces.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 697,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Select the sentence with correct punctuation.\n\nA. The surgery was successful; however, the recovery will take several weeks.\nB. The surgery was successful, however, the recovery will take several weeks.\nC. The surgery was successful; however the recovery will take several weeks.\nD. The surgery was successful: however, the recovery will take several weeks.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because it properly uses a semicolon before the conjunctive adverb \"however\" to join two independent clauses, followed by a comma. Option B is incorrect because a comma alone cannot connect two complete sentences before \"however.\" Option C fails because it omits the necessary comma after \"however,\" which is required to separate the adverb from the following clause. Option D is wrong since a colon does not function correctly to introduce a contrasting clause in this context. This specific punctuation rule ensures clarity when linking related but contrasting ideas in formal writing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 698,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Choose the sentence with correct apostrophe usage.\n\nA. The patients room was on the third floor.\nB. The patient's room was on the third floor.\nC. The patients' room's was on the third floor.\nD. The patients rooms was on the third floor.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it uses the possessive apostrophe to show that the room belongs to a single patient. The apostrophe after the 's' in \"patient's\" correctly indicates singular possession. Option A is wrong because it lacks the apostrophe entirely, failing to show ownership. Option C is incorrect as it adds unnecessary apostrophes that create a confusing double possessive structure. Option D is also wrong because it omits the apostrophe and incorrectly pluralizes \"rooms\" without indicating possession.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 699,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Which sentence correctly uses 'it's' or 'its'?\n\nA. The hospital announced it's new policy on visitor hours.\nB. The hospital announced its new policy on visitor hours.\nC. The hospital announced its' new policy on visitor hours.\nD. The hospital announced it's' new policy on visitor hours.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because \"its\" is the possessive form indicating the hospital owns the policy, which fits the sentence context perfectly. Option A is wrong since \"it's\" is a contraction for \"it is,\" creating the grammatically incorrect phrase \"it is new policy.\" Option C and D are incorrect because \"its'\" and \"it's'\" are not valid words in standard English, as possessive pronouns never take an apostrophe. This question tests your ability to distinguish between the possessive pronoun and the contraction for \"it is\" within a single sentence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 700,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Select the sentence with correct apostrophe usage for a plural possessive.\n\nA. The nurses schedule was posted on the bulletin board.\nB. The nurse's schedule was posted on the bulletin board.\nC. The nurses' schedule was posted on the bulletin board.\nD. The nurses's schedule was posted on the bulletin board.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is correct because it uses an apostrophe after the plural noun \"nurses\" to show possession, which is the standard rule for plural words ending in s. Option A is incorrect as it lacks an apostrophe entirely, failing to indicate that the schedule belongs to the nurses. Option B is wrong because it places the apostrophe before the s, which denotes a singular possessive rather than a plural one. Option D is invalid since it adds an extra s after the apostrophe, creating a grammatical error for a plural possessive form.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 701,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct word to complete the sentence: The nurse asked the patient to describe _____ symptoms.\n\nA. there\nB. their\nC. they're\nD. they",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is B, \"their,\" because it functions as a possessive pronoun modifying the noun \"symptoms.\" Option A, \"there,\" is incorrect as it refers to a specific place rather than ownership. Option C, \"they're,\" is wrong because it is a contraction for \"they are,\" which does not fit the grammatical structure. Option D, \"they,\" is an incorrect subject pronoun that cannot show possession before a noun. Selecting \"their\" ensures the sentence clearly indicates the symptoms belong to the patient.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 702,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Select the sentence with the correct word choice.\n\nA. Your going to need to sign the consent form.\nB. You're going to need to sign the consent form.\nC. Youre going to need to sign the consent form.\nD. You're' going to need to sign the consent form.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it properly uses the contraction \"You're,\" which combines \"you\" and \"are\" to fit the sentence structure. Option A is wrong because it separates the words with a space, creating a grammatical error instead of a contraction. Option C fails by omitting the apostrophe entirely, which is required to show the missing letters in a contraction. Option D is incorrect because it adds an unnecessary apostrophe after the word, which does not exist in standard English grammar. This question tests your ability to distinguish between valid contractions and common punctuation mistakes. Choosing B ensures the sentence follows standard written English conventions accurately.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 703,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Which sentence uses 'affect' or 'effect' correctly?\n\nA. The new policy will not effect patient care.\nB. The new policy will not affect patient care.\nC. The new policy will not been affect patient care.\nD. The new policy will not effecting patient care.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because \"affect\" functions as a verb meaning to influence, which fits the sentence stating the policy will influence patient care. Option A is wrong since \"effect\" is typically a noun, making the sentence grammatically incorrect when used as a verb. Option C fails due to the awkward phrasing \"will not been affect,\" which mixes verb tenses and forms improperly. Option D is incorrect because \"effecting\" is a present participle that does not fit after the auxiliary verb \"will not\" in this context. The key distinction here is remembering that \"affect\" acts as the action of changing something, while \"effect\" usually refers to the result of that change.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 704,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct sentence.\n\nA. Whom should I contact about the referral?\nB. Who should I contact about the referral?\nC. Whose should I contact about the referral?\nD. Who's should I contact about the referral?",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because \"whom\" functions as the object of the verb \"contact,\" making it the grammatically proper choice for this sentence. In contrast, Option B uses \"who,\" which serves as a subject and is incorrect here since the person is receiving the action. Option C is wrong because \"whose\" indicates possession and does not fit the context of identifying a person to contact. Finally, Option D is invalid because \"who's\" is a contraction for \"who is,\" which creates a nonsensical phrase in this structure.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 705,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Select the sentence with correct word usage.\n\nA. The patient's condition is better then it was yesterday.\nB. The patient's condition is better than it was yesterday.\nC. The patient's condition is better that it was yesterday.\nD. The patient's condition is better then' it was yesterday.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is correct because it properly uses \"than\" to compare the patient's current condition with yesterday's state. The word \"than\" is required for comparisons, whereas Option A incorrectly uses \"then,\" which indicates time. Option C fails by using \"that,\" a word used for introducing clauses rather than making comparisons. Option D is wrong because it adds an unnecessary apostrophe to \"then,\" which is never needed in this context. This question tests your ability to distinguish between homophones and grammatical structures.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 706,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Which sentence uses the correct word?\n\nA. The hospital will accept all insurance plans except Medicare.\nB. The hospital will except all insurance plans accept Medicare.\nC. The hospital will accept all insurance plans accept Medicare.\nD. The hospital will except all insurance plans except Medicare.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Option A is correct because it properly uses \"accept\" to mean receiving insurance plans and \"except\" to mean excluding Medicare. Option B is wrong since it swaps these words, using \"except\" for receiving plans and \"accept\" for exclusion. Option C fails by repeating the word \"accept\" twice, creating a grammatically incorrect sentence structure. Option D is incorrect because it uses \"except\" for receiving plans and \"accept\" for excluding them, reversing their true meanings. This question tests your ability to distinguish between similar-sounding verbs based on their specific definitions within the sentence context.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

@@ -1,0 +1,295 @@
+[
+  {
+    "id": 919,
+    "verdict": "PASS"
+  },
+  {
+    "id": 920,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires a simple unit conversion (1.5L → 1500mL) and a single division (1500÷10=150). Two trivial steps, not complex reasoning."
+    ]
+  },
+  {
+    "id": 921,
+    "verdict": "PASS"
+  },
+  {
+    "id": 922,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'easy' but requires knowing the cylinder volume formula, squaring the radius (3²=9), and performing two multiplications (3.14×9×10). This is multi-step, not easy."
+    ]
+  },
+  {
+    "id": 923,
+    "verdict": "PASS"
+  },
+  {
+    "id": 924,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'easy' but requires substituting into a two-step formula (multiply by 9/5, then add 32), producing 39.5×1.8+32=103.1. Multi-step calculation, not easy."
+    ]
+  },
+  {
+    "id": 925,
+    "verdict": "PASS"
+  },
+  {
+    "id": 926,
+    "verdict": "PASS"
+  },
+  {
+    "id": 927,
+    "verdict": "PASS"
+  },
+  {
+    "id": 928,
+    "verdict": "PASS"
+  },
+  {
+    "id": 929,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires a single subtraction (31−22=9). This is simple recall of a difference, not complex reasoning."
+    ]
+  },
+  {
+    "id": 930,
+    "verdict": "PASS"
+  },
+  {
+    "id": 931,
+    "verdict": "PASS"
+  },
+  {
+    "id": 932,
+    "verdict": "PASS"
+  },
+  {
+    "id": 933,
+    "verdict": "PASS"
+  },
+  {
+    "id": 934,
+    "verdict": "PASS"
+  },
+  {
+    "id": 935,
+    "verdict": "PASS"
+  },
+  {
+    "id": 936,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation calculates July=$38K and August=$41K, summing to $79K, but the correct answer is B ($78K). The explanation does not arrive at the answer it marks correct.",
+      "Rule 8: The explanation states the combined total is $79,000, but the correct answer choice says $78,000. Either the calculation or the answer key is factually wrong."
+    ]
+  },
+  {
+    "id": 937,
+    "verdict": "PASS"
+  },
+  {
+    "id": 938,
+    "verdict": "PASS"
+  },
+  {
+    "id": 939,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1615,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires substituting two given values directly into a provided formula: (65×2)÷100. This is a single-step plug-and-chug, not hard."
+    ]
+  },
+  {
+    "id": 1616,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires identifying a proportional expression (250 × (w/5)) from clearly stated information. Single cognitive step of recognition, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1617,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but simplifying 2(50)+100=200 is trivial single-step arithmetic. Not hard by any measure."
+    ]
+  },
+  {
+    "id": 1618,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires dividing 24 by 8 to get 3 doses, then multiplying 45×3. Two simple arithmetic steps, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1619,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1620,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires recognizing that a 10% discount means subtracting 0.10×450 from 450. This is simple recall of a basic percentage concept."
+    ]
+  },
+  {
+    "id": 1621,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires a single division (300÷75=4). This is a trivial single-step calculation."
+    ]
+  },
+  {
+    "id": 1622,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires simple multiplication and addition: (50×2)+(10×1)=110. Two trivial arithmetic operations, not hard."
+    ]
+  },
+  {
+    "id": 1623,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation correctly derives 2w+10 and identifies it as the answer, but then states 'options C and D represent common errors' — option C IS 2w+10, the correct answer. The explanation contradicts itself.",
+      "Rule 7: Marked 'hard' but translating 'twice w plus 10' into 2w+10 is simple single-step algebraic translation.",
+      "Rule 8: The explanation labels the correct option (C) as a 'common error,' which is factually wrong."
+    ]
+  },
+  {
+    "id": 1624,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1625,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1626,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: The explanation justifies option B by adding extra reasoning (multiplying the unit count by 5 mL) that is not described in the option text itself. Option B says 'divide by 25 mg/mL' but 50÷25=2, not 10 mL.",
+      "Rule 7: Marked 'hard' but the actual calculation is a simple proportion (50/25×5=10 mL). Straightforward two-step arithmetic.",
+      "Rule 8: Option B references '25 mg/mL' as a concentration, but the actual concentration is 25 mg per 5 mL = 5 mg/mL. This is a factual error in the answer choice."
+    ]
+  },
+  {
+    "id": 1627,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1628,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires a single division (0.75÷0.25=3). Trivial single-step calculation."
+    ]
+  },
+  {
+    "id": 1629,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but converting 0.25 g to mg is a single multiplication by 1000 (0.25×1000=250). This is basic metric recall, single-step."
+    ]
+  },
+  {
+    "id": 1630,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation states 'multiply 12 by 30 to get 360, then divide by 150' but 360÷150=2.4, not 24. The explanation does not arrive at the stated correct answer of 24 mg.",
+      "Rule 7: Marked 'hard' but is simple plug-and-chug substitution into a given formula. Single-step calculation.",
+      "Rule 8: The correct answer is marked as 24 mg, but (12×30)÷150=2.4, not 24. Clear arithmetic/factual error."
+    ]
+  },
+  {
+    "id": 1631,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation correctly calculates $12+$6=$18 but then states 'Option A is correct' (A=$12) and 'Option D is wrong' (D=$18, the correct answer). The explanation directly contradicts the answer key.",
+      "Rule 7: Marked 'hard' but adding $12+$6=$18 is a single addition. Trivially easy.",
+      "Rule 8: The explanation labels Option A ($12) as correct and Option D ($18) as wrong, which is factually incorrect — D is the correct answer."
+    ]
+  },
+  {
+    "id": 1632,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but forming (1/2)×(120/10) from clearly stated proportional information is a straightforward two-step recognition, not complex reasoning."
+    ]
+  },
+  {
+    "id": 1633,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1634,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires multiplying 250×3=750. Single multiplication step, not hard."
+    ]
+  },
+  {
+    "id": 1635,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires a single division (250÷0.5=500). Trivial single-step calculation."
+    ]
+  },
+  {
+    "id": 1636,
+    "verdict": "PASS"
+  },
+  {
+    "id": 1637,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but continuing an arithmetic sequence (+50 each step) requires only adding 50 twice to get 450. Simple single-step pattern continuation."
+    ]
+  },
+  {
+    "id": 1638,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but scaling a ratio (2g per 10mL → 4× for 40mL = 8g) is simple proportional reasoning, one multiplication."
+    ]
+  },
+  {
+    "id": 1639,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but only requires a single multiplication (250×3=750 mg). Trivial single-step calculation."
+    ]
+  },
+  {
+    "id": 1640,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but adding three numbers (125+175+250=550) is basic single-step addition."
+    ]
+  },
+  {
+    "id": 1641,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but converting 0.25L to 250mL and adding 375 is two simple steps: multiply and add. Not complex reasoning."
+    ]
+  },
+  {
+    "id": 1642,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but converting 1g=1000mg then finding 500mg is half of 1000mg, so 5mL, is simple two-step proportional reasoning."
+    ]
+  },
+  {
+    "id": 1643,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but this is essentially the same question as 1642 — convert 500mg to 0.5g, then take half of 10mL = 5mL. Simple two-step calculation, not hard."
+    ]
+  }
+]

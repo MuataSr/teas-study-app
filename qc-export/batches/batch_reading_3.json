@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1216,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Climate change is fundamentally altering weather patterns across the globe. Rising global temperatures are increasing the frequency and intensity of extreme weather events. For example, warmer oceans provide more energy for hurricanes, making them more destructive. Similarly, altered precipitation patterns are leading to prolonged droughts in some regions and severe flooding in others.\n\nQuestion: Which of the following best describes the text structure used to explain the impact of climate change?\n\nA) Problem and solution\nB) Chronological order\nD) Compare and contrast\n\nA) Problem and solution\nB) Chronological order\nC) Option A is wrong as the text never proposes a solution to climate change, only describes its effects\nD) Compare and contrast",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Problem and solution",
+      "B) Chronological order",
+      "D) Compare and contrast"
+    ],
+    "explanation": "Option C is right because the passage explicitly links rising temperatures to increased hurricane destructiveness and altered precipitation to droughts or floods, showing clear cause-and-effect relationships. Option A is wrong as the text never proposes a solution to climate change, only describes its effects. Option B fails because the events are not presented in a strict time sequence but rather as simultaneous global phenomena. Option D is incorrect since the text does not compare two subjects or contrast opposing ideas; it focuses on single outcomes resulting from a single cause.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1217,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The Roaring Twenties were characterized by economic prosperity and cultural exuberance. Flappers defied traditional gender roles, and jazz music filled the dance halls. Yet, beneath this veneer of prosperity lay deep economic inequality and agricultural struggles. The decade's opulence was largely confined to urban centers, leaving rural populations behind.\n\nQuestion: In this passage, what does the word 'veneer' most nearly mean?\n\nA) A solid structural foundation\nB) An economic theory\nC) A type of agricultural tool\n\nA) A solid structural foundation\nB) An economic theory\nC) A type of agricultural tool\nD) Option A is incorrect because the text emphasizes what was hidden beneath the surface, not a solid foundation",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) A solid structural foundation",
+      "B) An economic theory",
+      "C) A type of agricultural tool"
+    ],
+    "explanation": "The passage contrasts the visible \"economic prosperity\" of the 1920s with hidden \"deep economic inequality,\" showing that the opulence was merely a facade. The word 'veneer' appears in this context to describe the thin layer of prosperity that concealed the underlying struggles, directly supporting option D, a superficial appearance. Option A is incorrect because the text emphasizes what was hidden beneath the surface, not a solid foundation. Option B is wrong as no economic theories are discussed, and option C fails because no agricultural tools are mentioned despite the reference to rural struggles.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1218,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The implementation of the new welfare policy was nothing short of a disaster. It left vulnerable families without essential resources and created bureaucratic nightmares for social workers. The politicians who championed it clearly had no understanding of the realities of poverty. Their ineptitude caused real harm to the very people they claimed to help.\n\nQuestion: What is the author's tone in this passage?\n\nB) Objective\nC) Reassuring\nD) Ambivalent\n\nA)  to condemn the politicians. These strong negative adjectives reveal deep anger and disappointment rather than neutrality or calm observation. The passage explicitly states the politicians had \nB) Objective\nC) Reassuring\nD) Ambivalent",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Objective",
+      "C) Reassuring",
+      "D) Ambivalent"
+    ],
+    "explanation": "The author adopts an indignant tone by using harsh, emotionally charged language like \"disaster,\" \"ineptitude,\" and \"real harm\" to condemn the politicians. These strong negative adjectives reveal deep anger and disappointment rather than neutrality or calm observation. The passage explicitly states the politicians had \"no understanding\" and caused \"harm,\" which fuels the author's frustration with their actions.\n\nOption B is wrong because the text expresses strong disapproval instead of remaining neutral or factual. Option C is incorrect since there is no reassurance or comfort offered to the reader about the policy's outcome. Option D fails because the author is consistently critical throughout, showing no hesitation or mixed feelings about the politicians' failure.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1219,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The assertion that standardized testing accurately reflects a student's intelligence is highly debatable. These tests measure a narrow set of skills, favoring those who excel at rote memorization. They fail to account for creativity, emotional intelligence, or practical problem-solving abilities. Relying on such metrics provides an incomplete and distorted picture of a student's true capabilities.\n\nQuestion: What is the author's primary purpose in this passage?\n\nA) To inform readers about the history of standardized testing\nC) To provide tips for improving standardized test scores\nD) To compare different types of standardized tests\n\nA) To inform readers about the history of standardized testing\nB) The author explicitly argues that standardized testing fails to accurately reflect intelligence by listing specific limitations like ignoring creativity and emotional intelligence.\nC) To provide tips for improving standardized test scores\nD) To compare different types of standardized tests",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To inform readers about the history of standardized testing",
+      "C) To provide tips for improving standardized test scores",
+      "D) To compare different types of standardized tests"
+    ],
+    "explanation": "The author explicitly argues that standardized testing fails to accurately reflect intelligence by listing specific limitations like ignoring creativity and emotional intelligence. This direct criticism supports the purpose of challenging the tests' validity as sole measures of student capability.\n\nOption A is incorrect because the passage never mentions historical context or the origins of these exams. Option C is wrong since no advice or strategies for score improvement are offered. Option D is inaccurate because the text does not compare different test types but rather critiques the general concept. Therefore, the primary goal is to refute the idea that these tests truly measure intelligence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1220,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The advent of electronic health records (EHRs) has revolutionized data storage in healthcare, but it has also introduced new vulnerabilities. Cyberattacks on hospital databases can compromise sensitive patient information, leading to privacy breaches. To mitigate these risks, institutions must implement robust cybersecurity measures and staff training. Balancing accessibility with security remains an ongoing challenge.\n\nQuestion: Which of the following describes the organizational structure of the passage?\n\nA) Chronological sequence of EHR development\nB) Compare and contrast of different EHR systems\nD) Cause and effect of cyberattacks on patient health\n\nA) Chronological sequence of EHR development\nB) Compare and contrast of different EHR systems\nC) The text explicitly states that while EHRs revolutionize storage, they introduce risks, then immediately suggests implementing robust measures to mitigate these specific threats\nD) Cause and effect of cyberattacks on patient health",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Chronological sequence of EHR development",
+      "B) Compare and contrast of different EHR systems",
+      "D) Cause and effect of cyberattacks on patient health"
+    ],
+    "explanation": "Option C correctly identifies the passage's structure by highlighting the problem of EHR vulnerabilities and the proposed solution of cybersecurity measures and training. The text explicitly states that while EHRs revolutionize storage, they introduce risks, then immediately suggests implementing robust measures to mitigate these specific threats. Option A is incorrect because the passage discusses current challenges, not a timeline of development. Option B fails as there is no comparison between different EHR systems or their features. Finally, Option D is wrong because the passage focuses on data security and privacy breaches, not the direct medical causes or effects of cyberattacks on patient health.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1221,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Botanists classify plants based on their physical characteristics and reproductive structures. Flowering plants, known as angiosperms, produce seeds within an enclosed ovary. Non-flowering plants, like gymnosperms, have exposed seeds, often found in cones. This fundamental distinction helps scientists understand plant evolution.\n\nQuestion: What is the author's purpose in this passage?\n\nA) To entertain with a story about plants\nB) To persuade gardeners to plant angiosperms\nC) To argue against plant classification\n\nA) To entertain with a story about plants\nB) To persuade gardeners to plant angiosperms\nC) To argue against plant classification\nD) The author's primary goal is to educate readers on the scientific method of categorizing plants, specifically distinguishing between angiosperms and gymnosperms based on seed structure.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) To entertain with a story about plants",
+      "B) To persuade gardeners to plant angiosperms",
+      "C) To argue against plant classification"
+    ],
+    "explanation": "The author's primary goal is to educate readers on the scientific method of categorizing plants, specifically distinguishing between angiosperms and gymnosperms based on seed structure. The passage objectively presents facts about reproductive characteristics to explain this classification system, fulfilling an informational purpose without emotional engagement or debate. Option A is incorrect because the text lacks a narrative arc or storytelling elements intended for entertainment. Option B is wrong as there is no call to action or recommendation for gardeners to choose specific plants. Option C fails because the text supports classification rather than arguing against its validity or existence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1222,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: The pioneers heading west in the 1800s faced unimaginable hardships. Disease, starvation, and harsh weather claimed thousands of lives along the Oregon Trail. Despite these terrible obstacles, the promise of fertile land and a fresh start drove them forward. Their resilience shaped the expansion of the United States.\n\nQuestion: From which point of view is this passage narrated?\n\nB) First-person singular\nC) Second-person\nD) Third-person limited\n\nA)  voice. Option C is incorrect as the text does not address the reader directly with \nB) First-person singular\nC) Second-person\nD) Third-person limited",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) First-person singular",
+      "C) Second-person",
+      "D) Third-person limited"
+    ],
+    "explanation": "The passage uses third-person pronouns like \"they\" and \"them\" to describe the pioneers, establishing a third-person perspective. It details the thoughts and feelings of the entire group regarding their hardships and hopes, which indicates an omniscient narrator who knows all characters' internal states. Option B is wrong because there is no singular \"I\" voice. Option C is incorrect as the text does not address the reader directly with \"you.\" Option D is wrong because the narrator does not focus on just one specific character's limited perspective.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1223,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: Social stratification refers to a society's categorization of people into socioeconomic strata. In open systems, mobility between strata is possible through achievement, whereas closed systems enforce rigid, inherited statuses. The caste system in historical India is a prime example of a closed system. One's caste dictated occupation, marriage, and social interaction, with no prospect of upward mobility.\n\nQuestion: In the context of the passage, what does the word 'strata' most nearly mean?\n\nA) Geological rock layers\nC) Political parties\nD) Cultural traditions\n\nA) Geological rock layers\nB) Option A is incorrect because geological rock layers are unrelated to human social organization or the text's context\nC) Political parties\nD) Cultural traditions",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Geological rock layers",
+      "C) Political parties",
+      "D) Cultural traditions"
+    ],
+    "explanation": "The passage defines social stratification as categorizing people into socioeconomic groups, directly linking 'strata' to these ranked social layers. Option B fits this definition perfectly as it describes hierarchical levels within a society. Option A is incorrect because geological rock layers are unrelated to human social organization or the text's context. Option C fails because political parties represent groups with shared goals, not fixed socioeconomic rankings. Option D is wrong since cultural traditions encompass customs and beliefs rather than the structural categorization of people described here.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1224,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: The campus library has extended its hours during final exams. It will now be open from 7:00 AM to 2:00 AM, giving students more time to study. Free coffee and snacks will be provided in the lobby after 10:00 PM. Librarians ask that students keep noise levels to a minimum on the upper floors.\n\nQuestion: What can be inferred about student behavior during finals week from this passage?\n\nA) Students usually study in the mornings only.\nB) Students prefer to study at home rather than the library.\nD) Students do not need the library's resources during finals.\n\nA) Students usually study in the mornings only.\nB) Students prefer to study at home rather than the library.\nC) Options A, B, and D are wrong because the text mentions late hours, not mornings only, and offers no evidence about home preference or lack of need\nD) Students do not need the library's resources during finals.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Students usually study in the mornings only.",
+      "B) Students prefer to study at home rather than the library.",
+      "D) Students do not need the library's resources during finals."
+    ],
+    "explanation": "Option C is right because the extended hours until 2:00 AM and late-night snacks imply students need that time. Options A, B, and D are wrong because the text mentions late hours, not mornings only, and offers no evidence about home preference or lack of need. The library's late availability directly suggests students study late.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1225,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: A nation's GDP growth of 3.2% is classified as moderate expansion. Economists recommend that during such periods, governments maintain current fiscal policies rather than making major changes. If growth exceeds 5%, however, central banks may raise interest rates to prevent overheating.\n\nBased on the passage, what would likely happen if GDP growth reached 5.5%?\n\nA) The government would cut all taxes immediately.\nB) GDP growth would automatically decrease without action.\nC) Economists would recommend eliminating fiscal policy entirely.\n\nA) The government would cut all taxes immediately.\nB) GDP growth would automatically decrease without action.\nC) Economists would recommend eliminating fiscal policy entirely.\nD) 5% scenario",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The government would cut all taxes immediately.",
+      "B) GDP growth would automatically decrease without action.",
+      "C) Economists would recommend eliminating fiscal policy entirely."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that if GDP growth exceeds 5%, central banks may raise interest rates to prevent overheating, which directly applies to the 5.5% scenario. Options A, B, and C are incorrect as they misinterpret the text; the passage only mentions maintaining current fiscal policies during moderate expansion, not cutting taxes or eliminating them entirely. Furthermore, the text provides no evidence that GDP growth would automatically decrease without intervention, nor does it suggest economists would recommend removing fiscal policies.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1226,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: The periodic table organizes elements by increasing atomic number. Elements in the same group (vertical column) share similar chemical properties. For instance, the noble gases in Group 18 are all highly unreactive. This organization allows chemists to predict how different elements will behave in reactions.\n\nQuestion: If a new element is discovered and placed in Group 18, what inference can be made about its reactivity?\n\nB) It is likely to be highly reactive.\nC) It will only react with water.\nD) It cannot be placed on the periodic table.\n\nA) The passage explicitly states that elements in the same vertical column share similar chemical properties and uses Group 18 as an example where noble gases are highly unreactive.\nB) It is likely to be highly reactive.\nC) It will only react with water.\nD) It cannot be placed on the periodic table.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) It is likely to be highly reactive.",
+      "C) It will only react with water.",
+      "D) It cannot be placed on the periodic table."
+    ],
+    "explanation": "The passage explicitly states that elements in the same vertical column share similar chemical properties and uses Group 18 as an example where noble gases are highly unreactive. Therefore, inferring that a new element in this group will also be highly unreactive directly applies this rule. Option B is incorrect because it contradicts the text's claim about Group 18 elements. Option C is too specific and unsupported, as the passage does not mention water reactions. Option D is wrong because the text confirms the periodic table organizes elements by atomic number, allowing placement for any new discovery.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1227,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: The invention of the printing press by Johannes Gutenberg revolutionized Europe. Before its creation, books were copied by hand, making them rare and expensive. The printing press allowed for the mass production of texts, drastically lowering costs. This democratization of information fueled the Renaissance and the Protestant Reformation.\n\nQuestion: What conclusion can be drawn about the impact of the printing press?\n\nA) It decreased the literacy rate in Europe.\nC) It made handwritten books more valuable.\nD) It slowed the spread of new ideas.\n\nA) It decreased the literacy rate in Europe.\nB) The text links the mass production of texts directly to these historical shifts\nC) It made handwritten books more valuable.\nD) It slowed the spread of new ideas.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It decreased the literacy rate in Europe.",
+      "C) It made handwritten books more valuable.",
+      "D) It slowed the spread of new ideas."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that the printing press fueled the Renaissance and the Protestant Reformation, which are major cultural and religious movements. The text links the mass production of texts directly to these historical shifts. Option A is wrong as the passage implies increased access to books, which would typically raise literacy rather than decrease it. Option C contradicts the text, which notes that the press made books cheaper, not more valuable. Option D is incorrect because the ability to mass-produce texts and democratize information clearly accelerated, not slowed, the spread of new ideas.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1228,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: Urbanization brings significant economic opportunities, drawing people from rural areas to cities. However, rapid population growth in urban centers often outpaces infrastructure development. This leads to overcrowded housing, traffic congestion, and strained public services. Consequently, city planners must balance economic growth with sustainable development.\n\nQuestion: Which of the following is a logical inference based on the passage?\n\nA) Urbanization rarely causes problems for city residents.\nB) Rural areas have better infrastructure than cities.\nD) Economic opportunities are only found in rural areas.\n\nA) Urbanization rarely causes problems for city residents.\nB) Rural areas have better infrastructure than cities.\nC) The text states that when population growth outpaces infrastructure, these specific problems arise, supporting the inference that lack of management leads to negative effects\nD) Economic opportunities are only found in rural areas.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Urbanization rarely causes problems for city residents.",
+      "B) Rural areas have better infrastructure than cities.",
+      "D) Economic opportunities are only found in rural areas."
+    ],
+    "explanation": "Option C is right because the passage explicitly links rapid, unmanaged growth to negative outcomes like overcrowded housing and strained services, which directly lowers quality of life. The text states that when population growth outpaces infrastructure, these specific problems arise, supporting the inference that lack of management leads to negative effects.\n\nOption A is wrong because the passage lists severe issues like traffic congestion and overcrowding, proving that urbanization frequently causes problems rather than rarely doing so. Option B is incorrect since the text only compares urban growth to infrastructure development without making any claims about the relative quality of infrastructure in rural areas. Option D is wrong because the passage clearly states that economic opportunities draw people to cities, contradicting the idea that they are only found in rural areas.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1229,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: A recent study found that students who take notes by hand perform better on conceptual questions than those who type notes on a laptop. Laptop users tend to transcribe lectures verbatim, processing the information less deeply. Handwriters, forced to synthesize information quickly, engage more cognitive resources. Therefore, the method of note-taking directly influences learning outcomes.\n\nQuestion: What is a valid conclusion derived from the passage?\n\nA) Laptops should be banned from all classrooms.\nB) Verbatim transcription improves memory retention.\nC) Handwriting is faster than typing on a laptop.\n\nA) Laptops should be banned from all classrooms.\nB) Verbatim transcription improves memory retention.\nC) Handwriting is faster than typing on a laptop.\nD) This directly supports the conclusion that synthesis enhances understanding",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Laptops should be banned from all classrooms.",
+      "B) Verbatim transcription improves memory retention.",
+      "C) Handwriting is faster than typing on a laptop."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that handwriters engage more cognitive resources by synthesizing information quickly, which leads to better performance on conceptual questions compared to laptop users. This directly supports the conclusion that synthesis enhances understanding. Option A is wrong as the text discusses learning outcomes, not policy bans on devices. Option B contradicts the passage, which notes laptop users process information less deeply when transcribing verbatim. Option C is incorrect because the passage never compares the speed of handwriting versus typing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1230,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Acupuncture, a traditional Chinese medicine technique, involves inserting thin needles into specific points on the body. Proponents claim it stimulates the nervous system to relieve pain and promote healing. Passage 2: A meta-analysis of clinical trials found that while acupuncture provides some pain relief, its effectiveness is often no better than a placebo. Researchers suggest the therapeutic benefit may come from the patient's expectation of relief rather than the needles themselves.\n\nQuestion: How do the two passages compare in their evaluation of acupuncture?\n\nB) Passage 1 and Passage 2 completely agree on the mechanism of acupuncture.\nC) Passage 2 confirms the traditional explanation presented in Passage 1.\nD) Passage 1 relies on clinical data, whereas Passage 2 relies on cultural history.\n\nA) Option B is wrong since Passage 1 offers no mechanism while Passage 2 suggests benefits come from \"expectation\" rather than needles\nB) Passage 1 and Passage 2 completely agree on the mechanism of acupuncture.\nC) Passage 2 confirms the traditional explanation presented in Passage 1.\nD) Passage 1 relies on clinical data, whereas Passage 2 relies on cultural history.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Passage 1 and Passage 2 completely agree on the mechanism of acupuncture.",
+      "C) Passage 2 confirms the traditional explanation presented in Passage 1.",
+      "D) Passage 1 relies on clinical data, whereas Passage 2 relies on cultural history."
+    ],
+    "explanation": "Option A is correct because Passage 1 relies on \"proponents claim\" without data, whereas Passage 2 cites a \"meta-analysis\" and notes effectiveness is \"no better than a placebo,\" showing scientific skepticism. Option B is wrong since Passage 1 offers no mechanism while Passage 2 suggests benefits come from \"expectation\" rather than needles. Option C is incorrect because Passage 2 explicitly contradicts the traditional explanation by attributing effects to the placebo effect. Option D fails because Passage 1 lacks clinical data and Passage 2 does not rely on cultural history but on research trials.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1231,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: The depletion of the ozone layer allows more ultraviolet (UV) radiation to reach the Earth's surface. Increased UV radiation is directly linked to higher rates of skin cancer and cataracts in humans. It also harms phytoplankton, the base of the marine food web. Therefore, international treaties limiting ozone-depleting substances are crucial for protecting both human and ecological health.\n\nQuestion: Which of the following evaluates the argument made in the passage?\n\nA) The argument is weak because it focuses on human health rather than the environment.\nC) The argument is weak because treaties are rarely effective.\nD) The argument is strong because phytoplankton are unaffected by UV radiation.\n\nA) The argument is weak because it focuses on human health rather than the environment.\nB) This evidence supports the conclusion that international treaties are necessary for protecting both human and ecological health\nC) The argument is weak because treaties are rarely effective.\nD) The argument is strong because phytoplankton are unaffected by UV radiation.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The argument is weak because it focuses on human health rather than the environment.",
+      "C) The argument is weak because treaties are rarely effective.",
+      "D) The argument is strong because phytoplankton are unaffected by UV radiation."
+    ],
+    "explanation": "Option B is correct because the passage logically links the cause of ozone depletion to specific, verifiable consequences like skin cancer, cataracts, and phytoplankton harm, establishing a clear causal chain. This evidence supports the conclusion that international treaties are necessary for protecting both human and ecological health. Option A is incorrect as the text explicitly states the argument covers both human health and ecological health, making the claim that it focuses only on humans false. Option C is wrong because the passage presents treaties as crucial without discussing their historical effectiveness or frequency of failure. Option D is incorrect since the passage directly contradicts this by stating that increased UV radiation harms phytoplankton, the base of the marine food web.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1232,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: The Apollo program was a triumph of American engineering and determination, achieving the seemingly impossible goal of landing a man on the moon. It showcased the superiority of the US space program during the Cold War. Passage 2: While the Apollo missions yielded technological advancements, they were primarily a propaganda tool used to assert geopolitical dominance. The billions spent could have been used to address pressing domestic issues like poverty.\n\nQuestion: How does Passage 2 contrast with Passage 1 regarding the Apollo program?\n\nA) Passage 2 views it as an unmitigated success, whereas Passage 1 sees it as a failure.\nB) Passage 2 emphasizes its technological benefits, whereas Passage 1 focuses on its political use.\nD) Passage 2 believes it solved domestic issues, whereas Passage 1 thinks it caused poverty.\n\nA) Passage 2 views it as an unmitigated success, whereas Passage 1 sees it as a failure.\nB) Passage 2 emphasizes its technological benefits, whereas Passage 1 focuses on its political use.\nC) Passage 1 celebrates the Apollo program as a glorious triumph of engineering and a showcase of American superiority, framing it as a noble achievement.\nD) Passage 2 believes it solved domestic issues, whereas Passage 1 thinks it caused poverty.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Passage 2 views it as an unmitigated success, whereas Passage 1 sees it as a failure.",
+      "B) Passage 2 emphasizes its technological benefits, whereas Passage 1 focuses on its political use.",
+      "D) Passage 2 believes it solved domestic issues, whereas Passage 1 thinks it caused poverty."
+    ],
+    "explanation": "Passage 1 celebrates the Apollo program as a glorious triumph of engineering and a showcase of American superiority, framing it as a noble achievement. In contrast, Passage 2 offers a critical perspective by arguing the missions were primarily a propaganda tool that diverted billions from pressing domestic issues like poverty. Option A is incorrect because Passage 2 does not view the program as a success; it highlights the opportunity cost of the spending. Option B is wrong since Passage 1 mentions technological advancements implicitly through engineering, while Passage 2 explicitly calls it a propaganda tool rather than focusing on benefits. Option D is false because Passage 2 suggests funds were *not* used for domestic issues, whereas Passage 1 makes no mention of causing poverty.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1233,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: The 'nature versus nurture' debate centers on whether human behavior is determined by genetics or environment. Most contemporary psychologists reject this binary, recognizing that both factors interact dynamically. Genetic predispositions can influence a person's range of behaviors, but environmental conditions determine where within that range the individual falls. Thus, understanding behavior requires examining the interplay of biological and social influences.\n\nQuestion: What conclusion does the author draw about the nature versus nurture debate?\n\nA) Nature is ultimately more important than nurture.\nB) The debate is irrelevant to modern psychology.\nC) Environment dictates a person's genetic predispositions.\n\nA) Nature is ultimately more important than nurture.\nB) The debate is irrelevant to modern psychology.\nC) Environment dictates a person's genetic predispositions.\nD) The text further explains that while genetics set a range, environmental conditions decide where an individual falls within it, confirming the interplay of both factors",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Nature is ultimately more important than nurture.",
+      "B) The debate is irrelevant to modern psychology.",
+      "C) Environment dictates a person's genetic predispositions."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that contemporary psychologists reject a binary view and recognize that both genetics and environment interact dynamically to determine behavior. The text further explains that while genetics set a range, environmental conditions decide where an individual falls within it, confirming the interplay of both factors. Option A is wrong as the author argues against a binary choice, implying neither is ultimately more important. Option B is incorrect since the passage focuses on how modern psychologists understand the debate, showing it is highly relevant. Finally, Option C is false because the text says environment determines behavior within a genetic range, not that it changes the genetic predispositions themselves.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1234,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: The rising cost of college tuition has outpaced inflation for decades. As a result, students are forced to take on unprecedented levels of debt, which can delay milestones like buying a home or starting a family. Some economists argue that forgiving student debt would stimulate the economy, while others warn it could trigger inflation and unfairly benefit high earners. The complexity of the issue makes simple solutions elusive.\n\nQuestion: Which of the following evaluates the strength of the argument in the passage?\n\nB) The argument is weak because it fails to mention the exact inflation rate.\nC) The argument is strong because it advocates for total student loan forgiveness.\nD) The argument is weak because it suggests tuition costs are decreasing.\n\nA) By acknowledging both potential economic stimulation and risks like inflation, the text avoids oversimplification\nB) The argument is weak because it fails to mention the exact inflation rate.\nC) The argument is strong because it advocates for total student loan forgiveness.\nD) The argument is weak because it suggests tuition costs are decreasing.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The argument is weak because it fails to mention the exact inflation rate.",
+      "C) The argument is strong because it advocates for total student loan forgiveness.",
+      "D) The argument is weak because it suggests tuition costs are decreasing."
+    ],
+    "explanation": "Option A is correct because the passage explicitly presents two opposing economic viewpoints regarding debt forgiveness, demonstrating a balanced approach to a complex topic. By acknowledging both potential economic stimulation and risks like inflation, the text avoids oversimplification. Options B and D are incorrect because the passage never mentions specific inflation rates or claims tuition costs are decreasing; it states the opposite, that costs have outpaced inflation for decades. Option C is wrong as the text merely reports differing opinions without advocating for total forgiveness itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1235,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: Vaccines expose the immune system to a weakened or inactive part of a pathogen, prompting the body to develop immunity without causing the disease. Herd immunity occurs when a high percentage of the population is vaccinated, protecting those who cannot be vaccinated, such as newborns. When vaccination rates drop, herd immunity breaks down, leading to outbreaks of preventable diseases.\n\nQuestion: What can be inferred about communities with low vaccination rates?\n\nA) They have stronger individual immune systems.\nC) They achieve herd immunity through natural exposure.\nD) They do not rely on vaccines to protect newborns.\n\nA) They have stronger individual immune systems.\nB) Option A is incorrect because the passage explains vaccines prompt immunity, not that low rates strengthen individual systems\nC) They achieve herd immunity through natural exposure.\nD) They do not rely on vaccines to protect newborns.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) They have stronger individual immune systems.",
+      "C) They achieve herd immunity through natural exposure.",
+      "D) They do not rely on vaccines to protect newborns."
+    ],
+    "explanation": "The passage states that when vaccination rates drop, herd immunity breaks down, directly leading to outbreaks of preventable diseases. Therefore, communities with low vaccination rates face this specific risk, making option B the logical inference based on the text. Option A is incorrect because the passage explains vaccines prompt immunity, not that low rates strengthen individual systems. Option C is wrong since the text notes herd immunity requires high vaccination percentages, not natural exposure. Finally, option D is false because the passage explicitly mentions newborns are protected by herd immunity, which relies on vaccines.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1236,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: Deforestation in the Amazon rainforest reduces the region's capacity to absorb carbon dioxide, exacerbating global warming. Furthermore, the loss of habitat threatens millions of plant and animal species with extinction. Indigenous communities who depend on the forest for their livelihoods are also displaced. The destruction of this ecosystem has far-reaching, interconnected consequences.\n\nQuestion: Which statement best synthesizes the inferences drawn from the passage?\n\nA) Deforestation is primarily a local issue with minimal global impact.\nB) The main consequence of deforestation is economic growth.\nD) Indigenous communities are the sole cause of Amazon deforestation.\n\nA) Deforestation is primarily a local issue with minimal global impact.\nB) The main consequence of deforestation is economic growth.\nC) Option A is wrong because the text explicitly states deforestation exacerbates global warming, contradicting the claim of minimal global impact\nD) Indigenous communities are the sole cause of Amazon deforestation.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Deforestation is primarily a local issue with minimal global impact.",
+      "B) The main consequence of deforestation is economic growth.",
+      "D) Indigenous communities are the sole cause of Amazon deforestation."
+    ],
+    "explanation": "Option C correctly synthesizes the passage by linking deforestation to environmental harm like reduced carbon absorption, biological threats such as species extinction, and social issues like community displacement, illustrating a chain reaction. Option A is wrong because the text explicitly states deforestation exacerbates global warming, contradicting the claim of minimal global impact. Option B fails because the passage lists environmental and social consequences, never mentioning economic growth as a result. Option D is incorrect since the text describes communities as victims of displacement rather than identifying them as the sole cause of destruction.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1237,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: During the Great Depression, unemployment reached 25% in the United States. Banks failed, and many families lost their life savings. In response, President Franklin D. Roosevelt implemented the New Deal, a series of programs designed to provide relief, recovery, and reform. These programs aimed to stabilize the economy and prevent future depressions.\n\nQuestion: What inference can be made about the New Deal from the passage?\n\nD) It was a series of programs designed to provide relief, recovery, and reform during the Great Depression.\nA) It was implemented before the Great Depression.\nB) It had no effect on the unemployment rate.\nC) It was opposed by President Roosevelt.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) It was implemented before the Great Depression.",
+      "B) It had no effect on the unemployment rate.",
+      "C) It was opposed by President Roosevelt."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states the New Deal was a series of programs designed to provide relief, recovery, and reform to stabilize the economy and prevent future depressions, indicating a comprehensive approach to the crisis. Option A is incorrect since the text places the New Deal as a response to the Great Depression, which occurred after unemployment hit 25%. Option B is wrong because the passage implies the programs aimed to stabilize the economy, contradicting the idea that they had no effect on unemployment. Option C is false as the text shows Roosevelt implemented these programs in response to the economic failures, demonstrating support rather than opposition.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1238,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage: Research indicates that children who attend preschool are more likely to graduate high school and attend college. Early childhood education fosters cognitive and social skills that form a foundation for lifelong learning. However, access to quality preschool programs remains limited for low-income families. Expanding these programs could reduce educational disparities.\n\nQuestion: What conclusion is supported by the passage?\n\nB) High school graduation rates are unaffected by early childhood education.\nC) Low-income families generally prefer not to send children to preschool.\nD) Preschool is the only factor determining college attendance.\n\nA) The text states that early education fosters skills forming a foundation for lifelong learning, directly supporting this conclusion\nB) High school graduation rates are unaffected by early childhood education.\nC) Low-income families generally prefer not to send children to preschool.\nD) Preschool is the only factor determining college attendance.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) High school graduation rates are unaffected by early childhood education.",
+      "C) Low-income families generally prefer not to send children to preschool.",
+      "D) Preschool is the only factor determining college attendance."
+    ],
+    "explanation": "Option A is correct because the passage explicitly links preschool attendance to higher high school graduation and college attendance, demonstrating long-term academic benefits. The text states that early education fosters skills forming a foundation for lifelong learning, directly supporting this conclusion. Option B is incorrect as the passage claims children attending preschool are more likely to graduate high school, contradicting the claim of no effect. Option C is wrong because the text mentions limited access for low-income families but never discusses their preferences regarding preschool enrollment. Finally, Option D is false since the passage lists multiple factors like cognitive and social skills, not preschool as the sole determinant for college attendance.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1239,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage 1: Remote work offers employees flexibility, eliminating commutes and increasing overall job satisfaction. Companies also benefit from reduced overhead costs associated with maintaining office spaces. Passage 2: The shift to remote work has eroded company culture and hindered spontaneous collaboration. Additionally, it blurs the boundary between professional and personal life, leading to employee burnout.\n\nQuestion: Which of the following best synthesizes the two passages?\n\nA) Remote work is universally detrimental to both employees and employers.\nC) The financial benefits of remote work outweigh any social or psychological drawbacks.\nD) Companies should mandate a full return to the office to prevent burnout.\n\nA) Remote work is universally detrimental to both employees and employers.\nB) This balance reflects the distinct advantages and significant challenges presented in the text\nC) The financial benefits of remote work outweigh any social or psychological drawbacks.\nD) Companies should mandate a full return to the office to prevent burnout.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Remote work is universally detrimental to both employees and employers.",
+      "C) The financial benefits of remote work outweigh any social or psychological drawbacks.",
+      "D) Companies should mandate a full return to the office to prevent burnout."
+    ],
+    "explanation": "Option B correctly synthesizes the passages by acknowledging that Passage 1 highlights flexibility and cost savings while Passage 2 details culture erosion and burnout. This balance reflects the distinct advantages and significant challenges presented in the text. Option A is wrong because Passage 1 explicitly states benefits like increased job satisfaction, contradicting the claim that remote work is universally detrimental. Option C fails because Passage 2 lists severe psychological drawbacks like burnout, which cannot be dismissed as outweighed by financial gains. Option D is incorrect as neither passage advocates for mandating a return to the office; Passage 1 only notes company benefits without suggesting policy changes.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1240,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Recycling is one of the most effective ways to reduce waste in communities. Cities provide separate bins for paper, plastic, and glass. Residents who sort their materials help divert tons of waste from landfills each year. However, contamination from improperly sorted items can cause entire batches to be rejected.\n\nWhat is the main idea?\n\nB) Cities have eliminated landfills entirely.\nC) Only plastic can be recycled.\nD) Residents are required by law to recycle.\n\nA) The passage explicitly states recycling is effective for reducing waste and notes that contamination from improperly sorted items causes batches to be rejected\nB) Cities have eliminated landfills entirely.\nC) Only plastic can be recycled.\nD) Residents are required by law to recycle.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Cities have eliminated landfills entirely.",
+      "C) Only plastic can be recycled.",
+      "D) Residents are required by law to recycle."
+    ],
+    "explanation": "Option A correctly identifies that recycling reduces waste while emphasizing the necessity of proper sorting to avoid rejection. The passage explicitly states recycling is effective for reducing waste and notes that contamination from improperly sorted items causes batches to be rejected. Option B is incorrect because the text mentions diverting waste from landfills, not eliminating them entirely. Option C is wrong since the passage lists paper, plastic, and glass as recyclable materials, not just plastic. Option D is inaccurate because the text says residents help divert waste rather than stating they are required by law to do so.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1241,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The human respiratory system includes the nose, pharynx, larynx, trachea, bronchi, and lungs. Its primary function is to deliver oxygen to the bloodstream and remove carbon dioxide through the process of gas exchange in the alveoli. During inhalation, the diaphragm contracts and the chest cavity expands, allowing air to enter the lungs. Exhalation occurs when the diaphragm relaxes, forcing air out. Which detail from the passage best supports the function of the respiratory system?\n\nA) The diaphragm contracts during inhalation and relaxes during exhalation.\nC) The respiratory system includes the nose, pharynx, and larynx.\nD) Air enters the lungs when the chest cavity expands.\n\nA) The diaphragm contracts during inhalation and relaxes during exhalation.\nB) The other options describe mechanical processes or anatomical lists without addressing the core purpose\nC) The respiratory system includes the nose, pharynx, and larynx.\nD) Air enters the lungs when the chest cavity expands.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The diaphragm contracts during inhalation and relaxes during exhalation.",
+      "C) The respiratory system includes the nose, pharynx, and larynx.",
+      "D) Air enters the lungs when the chest cavity expands."
+    ],
+    "explanation": "Option B directly states the system's primary function of delivering oxygen and removing carbon dioxide, which matches the passage's explicit definition. The other options describe mechanical processes or anatomical lists without addressing the core purpose. Option A focuses on muscle movement during breathing rather than the resulting gas exchange. Option C merely lists parts of the system without explaining their role in oxygenation. Option D describes the physical mechanism of inhalation but fails to mention the actual transfer of gases to the bloodstream. Therefore, only B answers the specific question about function.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1242,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Declaration of Independence, adopted on July 4, 1776, announced the thirteen American colonies' separation from Great Britain. Drafted primarily by Thomas Jefferson, the document outlined philosophical justifications for independence, including the idea that all people possess unalienable rights to life, liberty, and the pursuit of happiness. It also listed grievances against King George III to demonstrate why separation was necessary. What is the primary purpose of this passage?\n\nA) To argue that Thomas Jefferson was the most important Founding Father.\nB) To compare the Declaration of Independence with other revolutionary documents.\nD) To explain the legal process by which colonies can declare independence today.\n\nA) To argue that Thomas Jefferson was the most important Founding Father.\nB) To compare the Declaration of Independence with other revolutionary documents.\nC) A is wrong\u2014the passage mentions Jefferson as the primary drafter but never argues he was the most important Founder\nD) To explain the legal process by which colonies can declare independence today.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) To argue that Thomas Jefferson was the most important Founding Father.",
+      "B) To compare the Declaration of Independence with other revolutionary documents.",
+      "D) To explain the legal process by which colonies can declare independence today."
+    ],
+    "explanation": "The passage provides an objective overview: when the Declaration was adopted, who drafted it, its philosophical content (unalienable rights), and its practical purpose (listing grievances against King George III). Option C describes this informational purpose. A is wrong\u2014the passage mentions Jefferson as the primary drafter but never argues he was the most important Founder. B is incorrect; no other revolutionary documents are mentioned or compared. D is unsupported\u2014the passage describes a historical event, not a legal process for modern use.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1243,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Solar panels convert sunlight directly into electricity using photovoltaic cells. When sunlight hits the panels, electrons are knocked loose and flow through a circuit, generating power. This process produces no emissions during operation. Excess energy can be stored in batteries for use at night.\n\nWhat is the main idea?\n\nA) Solar panels only work during thunderstorms.\nC) Fossil fuels are cheaper than all alternatives.\nD) Photovoltaic cells require fuel to function.\n\nA) Solar panels only work during thunderstorms.\nB) The text explicitly states this process generates power and produces no emissions during operation, directly supporting the \"clean electricity\" description\nC) Fossil fuels are cheaper than all alternatives.\nD) Photovoltaic cells require fuel to function.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Solar panels only work during thunderstorms.",
+      "C) Fossil fuels are cheaper than all alternatives.",
+      "D) Photovoltaic cells require fuel to function."
+    ],
+    "explanation": "Option B correctly identifies the main idea by summarizing the passage's core claim that solar panels convert sunlight into electricity without emissions. The text explicitly states this process generates power and produces no emissions during operation, directly supporting the \"clean electricity\" description. Option A is incorrect because the passage mentions sunlight, not thunderstorms, implying panels work whenever sun is present. Option C is wrong as the text never compares costs or mentions fossil fuels at all. Finally, Option D is false since the passage notes electrons flow when sunlight hits the panels, meaning no fuel is required.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1244,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "In democratic societies, civic engagement includes voting, serving on juries, participating in community organizations, and staying informed about public issues. These activities help ensure that government remains responsive to citizens' needs and that diverse perspectives are considered in decision-making. When citizens disengage, policies may reflect only the interests of the most vocal or powerful groups. What is the main idea of this passage?\n\nB) Voting is the only civic duty that matters in a democracy.\nC) Government officials should make decisions without public input.\nD) Community organizations are more important than voting.\n\nA) Option B is wrong because the text lists multiple activities beyond just voting, not just one\nB) Voting is the only civic duty that matters in a democracy.\nC) Government officials should make decisions without public input.\nD) Community organizations are more important than voting.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Voting is the only civic duty that matters in a democracy.",
+      "C) Government officials should make decisions without public input.",
+      "D) Community organizations are more important than voting."
+    ],
+    "explanation": "The passage defines civic engagement as activities like voting and staying informed that ensure government remains responsive to citizens' needs. Option A correctly identifies this main idea by linking engagement to a responsive government. Option B is wrong because the text lists multiple activities beyond just voting, not just one. Option C contradicts the passage, which explicitly states diverse perspectives must be considered in decision-making. Option D is incorrect since the text presents all listed activities as equally important components of engagement.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1245,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The water cycle describes the continuous movement of water on, above, and below Earth's surface. Key processes include evaporation, condensation, precipitation, infiltration, and runoff. Solar energy drives evaporation from oceans and lakes, while gravity pulls precipitation back to the ground. This cycle is essential for distributing freshwater and supporting ecosystems worldwide. Which of the following is explicitly stated as a driver of evaporation in the water cycle?\n\nA) Wind currents\nC) Ocean tides\nD) Human activity\n\nA) Wind currents\nB) Options A, C, and D are incorrect because wind currents, ocean tides, and human activity are never mentioned in the provided description of the water cycle's mechanisms\nC) Ocean tides\nD) Human activity",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Wind currents",
+      "C) Ocean tides",
+      "D) Human activity"
+    ],
+    "explanation": "The passage explicitly states that \"Solar energy drives evaporation from oceans and lakes,\" making option B the only choice directly supported by the text. Options A, C, and D are incorrect because wind currents, ocean tides, and human activity are never mentioned in the provided description of the water cycle's mechanisms. The text focuses solely on solar energy for evaporation and gravity for precipitation, leaving all other potential drivers unverified by the author. Therefore, only the option referencing solar energy aligns with the specific evidence given in the paragraph.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1246,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Teachers play a critical role in student advocacy by ensuring that learners' needs, abilities, and backgrounds are respected. They adapt lessons for different learning styles, communicate concerns to parents, and connect struggling students with school counselors. Effective advocacy requires both patience and collaboration.\n\nAccording to the passage, what role do teachers play?\n\nB) Setting school district budgets.\nC) Prescribing learning medications.\nD) Designing school building architecture.\n\nA) It further details this role through actions like adapting lessons for different learning styles and connecting struggling students with counselors\nB) Setting school district budgets.\nC) Prescribing learning medications.\nD) Designing school building architecture.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Setting school district budgets.",
+      "C) Prescribing learning medications.",
+      "D) Designing school building architecture."
+    ],
+    "explanation": "The passage explicitly states that teachers advocate by ensuring learners' needs, abilities, and backgrounds are respected, which directly supports option A. It further details this role through actions like adapting lessons for different learning styles and connecting struggling students with counselors. Options B, C, and D are incorrect because the text never mentions budgets, medications, or architecture. These distractors describe administrative, medical, and construction tasks unrelated to the described advocacy duties. Therefore, only the first option aligns with the specific responsibilities listed in the text.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1247,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Industrial Revolution, beginning in the late 18th century, transformed economies from agrarian to industrial through innovations like the steam engine, mechanized textile production, and railroad expansion. While it increased productivity and urbanization, it also led to challenging working conditions, child labor, and environmental pollution. Reform movements eventually emerged to address these social issues. What is the main idea of this passage?\n\nB) Steam engines were the most important invention of the 18th century.\nC) Urbanization solved most problems caused by industrialization.\nD) Child labor was eliminated immediately after the Industrial Revolution began.\n\nA) The text explicitly links these transformations, stating that while productivity rose, challenging conditions emerged, which reform movements later addressed\nB) Steam engines were the most important invention of the 18th century.\nC) Urbanization solved most problems caused by industrialization.\nD) Child labor was eliminated immediately after the Industrial Revolution began.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Steam engines were the most important invention of the 18th century.",
+      "C) Urbanization solved most problems caused by industrialization.",
+      "D) Child labor was eliminated immediately after the Industrial Revolution began."
+    ],
+    "explanation": "Option A correctly identifies the main idea by synthesizing the passage's dual focus on economic shifts like mechanization and the resulting social issues such as child labor and pollution. The text explicitly links these transformations, stating that while productivity rose, challenging conditions emerged, which reform movements later addressed. Option B is incorrect because the passage lists several innovations, not steam engines as the sole most important invention. Option C is wrong since the text notes urbanization occurred alongside problems, not as a solution to them. Finally, Option D contradicts the passage, which states child labor was a challenge that existed during the era, not one eliminated immediately.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1248,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. Using chlorophyll in chloroplasts, these organisms absorb sunlight and combine carbon dioxide and water to produce glucose and oxygen. This process forms the foundation of most food chains and replenishes atmospheric oxygen. Which detail best supports the importance of photosynthesis to ecosystems?\n\nA) Chlorophyll gives plants their green color.\nC) Glucose is a simple sugar used for energy storage.\nD) Bacteria can perform photosynthesis without chloroplasts.\n\nA) Chlorophyll gives plants their green color.\nB) The passage confirms this by saying, \"This process forms the foundation of most food chains and replenishes atmospheric oxygen,\" making it the strongest support for its importance\nC) Glucose is a simple sugar used for energy storage.\nD) Bacteria can perform photosynthesis without chloroplasts.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Chlorophyll gives plants their green color.",
+      "C) Glucose is a simple sugar used for energy storage.",
+      "D) Bacteria can perform photosynthesis without chloroplasts."
+    ],
+    "explanation": "Option B directly answers the prompt by explicitly stating that photosynthesis forms the foundation of most food chains and replenishes atmospheric oxygen, which are critical ecosystem functions. The passage confirms this by saying, \"This process forms the foundation of most food chains and replenishes atmospheric oxygen,\" making it the strongest support for its importance. Option A focuses only on plant color, which is irrelevant to ecosystem stability. Option C describes glucose's role in energy storage but ignores the broader impact on food webs and air quality. Option D mentions bacteria's ability to photosynthesize without chloroplasts, a factual detail that does not address why the process matters to ecosystems.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1249,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Effective clinical documentation in nursing requires accuracy, timeliness, and objectivity. Nurses must record patient assessments, interventions, and outcomes using standardized terminology to ensure continuity of care and legal protection. Poor documentation can lead to medical errors, miscommunication among providers, or liability issues. What is the main idea of this passage?\n\nA) Nurses should use personal shorthand to document quickly.\nB) Legal protection is the only reason for thorough documentation.\nC) Patient assessments are more important than recording interventions.\n\nA) Nurses should use personal shorthand to document quickly.\nB) Legal protection is the only reason for thorough documentation.\nC) Patient assessments are more important than recording interventions.\nD) The text explicitly links poor documentation to medical errors and liability, confirming that precise recording is vital for safe nursing practice",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Nurses should use personal shorthand to document quickly.",
+      "B) Legal protection is the only reason for thorough documentation.",
+      "C) Patient assessments are more important than recording interventions."
+    ],
+    "explanation": "Option D correctly identifies that accurate, timely, and objective documentation ensures continuity of care and provides legal protection, directly matching the passage's emphasis on safety and legal necessity. The text explicitly links poor documentation to medical errors and liability, confirming that precise recording is vital for safe nursing practice.\n\nOption A is incorrect because the passage advocates for standardized terminology to ensure clarity, whereas personal shorthand risks miscommunication and violates the requirement for objectivity. Option B is wrong since the text lists multiple critical reasons for documentation, including continuity of care and error prevention, not just legal protection. Finally, Option C is false because the passage states nurses must record assessments, interventions, and outcomes equally to maintain a complete medical record.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1250,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Bill of Rights comprises the first ten amendments to the U.S. Constitution and guarantees fundamental individual liberties such as freedom of speech, religion, and the press; the right to bear arms; protection against unreasonable searches; and the right to a fair trial. These amendments were added in 1791 to address concerns that the original Constitution did not sufficiently protect citizens from government overreach. Which of the following is explicitly listed as a protection in the Bill of Rights according to the passage?\n\nB) The right to vote regardless of gender\nC) Protection against excessive taxation\nD) The requirement for public education\n\nA) This directly matches the text's description of protected rights\nB) The right to vote regardless of gender\nC) Protection against excessive taxation\nD) The requirement for public education",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The right to vote regardless of gender",
+      "C) Protection against excessive taxation",
+      "D) The requirement for public education"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that the Bill of Rights guarantees fundamental liberties including freedom of speech, religion, and the press. This directly matches the text's description of protected rights. Option B is incorrect as the passage never mentions voting rights or gender restrictions. Option C is wrong because excessive taxation is not listed among the specific protections detailed in the provided text. Option D is also incorrect since the passage does not reference public education requirements. The text only lists speech, religion, press, arms, search protections, and fair trials.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1251,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Blood pressure is the force exerted by circulating blood against artery walls, measured as systolic over diastolic pressure. Hypertension, or high blood pressure, often has no symptoms but increases the risk of heart disease, stroke, and kidney damage. Lifestyle modifications like reducing sodium intake, exercising regularly, and managing stress can help control blood pressure. What is the primary purpose of this passage?\n\nA) To argue that medication is the only effective treatment for hypertension.\nB) To compare blood pressure measurement techniques used in different countries.\nD) To explain how the heart pumps blood through the circulatory system.\n\nA) To argue that medication is the only effective treatment for hypertension.\nB) To compare blood pressure measurement techniques used in different countries.\nC) This directly aligns with the text's informational goal of educating readers on these specific topics\nD) To explain how the heart pumps blood through the circulatory system.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) To argue that medication is the only effective treatment for hypertension.",
+      "B) To compare blood pressure measurement techniques used in different countries.",
+      "D) To explain how the heart pumps blood through the circulatory system."
+    ],
+    "explanation": "Option C is correct because the passage explicitly defines blood pressure, lists hypertension risks like heart disease, and details management strategies such as diet and exercise. This directly aligns with the text's informational goal of educating readers on these specific topics. Option A is wrong as the passage never mentions medication or claims it is the only treatment, focusing instead on lifestyle changes. Option B is incorrect since no comparison of measurement techniques across different countries appears in the text. Option D is also wrong because while the heart is implied, the passage does not explain the pumping mechanism itself. The text strictly focuses on health risks and control methods rather than physiological mechanics.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1252,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "In academic writing, a thesis statement presents the central argument or claim of an essay and guides the organization of supporting evidence. It should be specific, debatable, and typically appear in the introduction. A strong thesis helps readers understand the writer's purpose and anticipate the structure of the argument. What is the main idea of this passage?\n\nA) Thesis statements should always be placed in the conclusion of an essay.\nC) All academic essays must have exactly three supporting paragraphs.\nD) Thesis statements are only necessary for persuasive writing.\n\nA) Thesis statements should always be placed in the conclusion of an essay.\nB) It states the statement must be specific and debatable to help readers understand the writer's purpose, directly supporting the claim in B\nC) All academic essays must have exactly three supporting paragraphs.\nD) Thesis statements are only necessary for persuasive writing.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Thesis statements should always be placed in the conclusion of an essay.",
+      "C) All academic essays must have exactly three supporting paragraphs.",
+      "D) Thesis statements are only necessary for persuasive writing."
+    ],
+    "explanation": "The passage explicitly defines a thesis statement as presenting a central argument that guides organization and appears in the introduction, making option B the only accurate summary. It states the statement must be specific and debatable to help readers understand the writer's purpose, directly supporting the claim in B. Option A is incorrect because the text specifies the thesis typically appears in the introduction, not the conclusion. Option C is wrong as the passage never mentions a requirement for exactly three supporting paragraphs. Finally, option D is invalid since the text discusses general academic writing without limiting thesis statements to only persuasive genres.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1253,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The human digestive system breaks down food into nutrients that the body can absorb and use for energy, growth, and repair. Mechanical digestion begins in the mouth with chewing, while chemical digestion involves enzymes in saliva, stomach acid, and intestinal secretions. Nutrients are primarily absorbed in the small intestine, and waste products are eliminated through the large intestine. Which detail from the passage best supports the role of the small intestine?\n\nA) Mechanical digestion begins with chewing in the mouth.\nB) Stomach acid helps break down proteins.\nC) Waste is eliminated through the large intestine.\n\nA) Mechanical digestion begins with chewing in the mouth.\nB) Stomach acid helps break down proteins.\nC) Waste is eliminated through the large intestine.\nD) This sentence provides the specific evidence needed to answer the question about the small intestine's role",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Mechanical digestion begins with chewing in the mouth.",
+      "B) Stomach acid helps break down proteins.",
+      "C) Waste is eliminated through the large intestine."
+    ],
+    "explanation": "Option D directly states that nutrients are primarily absorbed in the small intestine, which explicitly defines its main function regarding nutrient uptake. This sentence provides the specific evidence needed to answer the question about the small intestine's role. Option A describes mechanical digestion in the mouth, which is irrelevant to the small intestine's absorption function. Option B mentions stomach acid breaking down proteins, a process occurring in the stomach, not the small intestine. Option C discusses waste elimination in the large intestine, which is a different organ with a distinct purpose from nutrient absorption.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1254,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Evidence-based practice in nursing integrates the best current research, clinical expertise, and patient preferences to guide healthcare decisions. This approach improves patient outcomes by ensuring that interventions are grounded in scientific evidence rather than tradition alone. Nurses must critically appraise research studies and collaborate with patients to implement appropriate care plans. What is the primary focus of this passage?\n\nB) Why traditional nursing methods should be abandoned completely.\nC) How to conduct original research studies in clinical settings.\nD) The history of nursing education reforms.\n\nA) It emphasizes that interventions must be grounded in scientific evidence rather than tradition alone, which clarifies that the text does not advocate abandoning traditional methods entirely, making option B incorrect\nB) Why traditional nursing methods should be abandoned completely.\nC) How to conduct original research studies in clinical settings.\nD) The history of nursing education reforms.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Why traditional nursing methods should be abandoned completely.",
+      "C) How to conduct original research studies in clinical settings.",
+      "D) The history of nursing education reforms."
+    ],
+    "explanation": "The passage explicitly states that evidence-based practice integrates current research, clinical expertise, and patient preferences to guide healthcare decisions, directly supporting option A as the primary focus. It emphasizes that interventions must be grounded in scientific evidence rather than tradition alone, which clarifies that the text does not advocate abandoning traditional methods entirely, making option B incorrect. Furthermore, the text discusses appraising existing studies to implement care plans, not how to conduct original research, so option C is wrong. Finally, there is no mention of historical timelines or education reforms, rendering option D irrelevant to the passage's content.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1255,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Civil Rights Movement of the 1950s and 1960s sought to end racial segregation and discrimination against African Americans through nonviolent protest, legal challenges, and legislative advocacy. Key events included the Montgomery Bus Boycott, the March on Washington, and the passage of the Civil Rights Act of 1964 and Voting Rights Act of 1965. These efforts significantly advanced legal equality, though social and economic disparities persist. What is the main idea of this passage?\n\nA) Nonviolent protest was the only effective strategy used during the Civil Rights Movement.\nB) The Voting Rights Act of 1965 completely eliminated racial discrimination in the United States.\nD) The Montgomery Bus Boycott was less important than the March on Washington.\n\nA) Nonviolent protest was the only effective strategy used during the Civil Rights Movement.\nB) The Voting Rights Act of 1965 completely eliminated racial discrimination in the United States.\nC) The passage explicitly lists legal victories like the Civil Rights Act and Voting Rights Act, directly supporting the claim of major legal successes alongside the lingering challenges mentioned in the final sentence\nD) The Montgomery Bus Boycott was less important than the March on Washington.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Nonviolent protest was the only effective strategy used during the Civil Rights Movement.",
+      "B) The Voting Rights Act of 1965 completely eliminated racial discrimination in the United States.",
+      "D) The Montgomery Bus Boycott was less important than the March on Washington."
+    ],
+    "explanation": "Option C correctly identifies the passage's main idea by synthesizing the text's statement that the movement advanced legal equality while noting that social and economic disparities persist. The passage explicitly lists legal victories like the Civil Rights Act and Voting Rights Act, directly supporting the claim of major legal successes alongside the lingering challenges mentioned in the final sentence. Option A is incorrect because the text lists multiple strategies including legal challenges and legislative advocacy, not just nonviolent protest. Option B is wrong since the passage states disparities persist, contradicting the claim that discrimination was completely eliminated. Option D is unsupported as the text presents all key events as significant without comparing their relative importance.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1256,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Infection control protocols in healthcare settings include standard precautions such as hand hygiene, use of personal protective equipment (PPE), safe injection practices, and proper handling of contaminated materials. These measures protect both patients and healthcare workers from exposure to pathogens. Adherence to protocols is monitored through audits, training, and quality improvement initiatives. Which of the following is explicitly identified as a standard precaution in the passage?\n\nA) Isolating all patients upon admission\nC) Administering antibiotics prophylactically\nD) Limiting visitor hours to reduce exposure\n\nA) Isolating all patients upon admission\nB) Option A is incorrect because isolating patients is never mentioned, and Option C is wrong as the text does not discuss antibiotic administration\nC) Administering antibiotics prophylactically\nD) Limiting visitor hours to reduce exposure",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Isolating all patients upon admission",
+      "C) Administering antibiotics prophylactically",
+      "D) Limiting visitor hours to reduce exposure"
+    ],
+    "explanation": "The passage explicitly lists standard precautions, including hand hygiene, use of personal protective equipment (PPE), safe injection practices, and proper handling of contaminated materials. Option B is correct because it directly matches the text's specific mention of PPE as a protective measure. Option A is incorrect because isolating patients is never mentioned, and Option C is wrong as the text does not discuss antibiotic administration. Option D is also wrong because visitor hours are not listed among the standard precautions described in the excerpt.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1257,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A city planning campaign encourages neighborhoods to plant trees along streets to reduce urban heat. The campaign uses bold colors on posters, short slogans like 'Shade Our Streets,' and before-and-after photos of planted blocks. Materials are distributed at community centers and libraries.\n\nWhich strategy does the campaign use to persuade the audience?\n\nA) Statistical data and peer-reviewed research.\nC) Legal mandates and policy citations.\nD) Complex technical diagrams of tree biology.\n\nA) Statistical data and peer-reviewed research.\nB) The campaign relies on visual appeal and emotional messaging by using bold colors, short slogans, and before-and-after photos to evoke a sense of community pride and immediate benefit.\nC) Legal mandates and policy citations.\nD) Complex technical diagrams of tree biology.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Statistical data and peer-reviewed research.",
+      "C) Legal mandates and policy citations.",
+      "D) Complex technical diagrams of tree biology."
+    ],
+    "explanation": "The campaign relies on visual appeal and emotional messaging by using bold colors, short slogans, and before-and-after photos to evoke a sense of community pride and immediate benefit. These elements directly support the correct choice by focusing on imagery and feeling rather than abstract facts. Option A is incorrect because the text mentions no statistics or research citations. Option C fails as there are no legal mandates or policy citations listed in the materials. Option D is wrong since the description explicitly avoids complex technical diagrams, instead choosing accessible photos.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1258,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The detective's careful examination of the subtle evidence \u2014 a partially smudged fingerprint and a faint chemical residue \u2014 led to an unexpected breakthrough in a case that had stumped investigators for months.\"\n\nIn this passage, the word 'subtle' most nearly means:\n\nA) Loud and attention-grabbing.\nB) Large and easily visible.\nD) Completely invisible to the human eye.\n\nA) Loud and attention-grabbing.\nB) Large and easily visible.\nC) These items require careful examination rather than casual observation, fitting the definition of something not obvious or difficult to notice\nD) Completely invisible to the human eye.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Loud and attention-grabbing.",
+      "B) Large and easily visible.",
+      "D) Completely invisible to the human eye."
+    ],
+    "explanation": "Option C is correct because the passage describes \"subtle\" evidence like a smudged fingerprint and faint residue, which are inherently hard to spot and not immediately apparent. These items require careful examination rather than casual observation, fitting the definition of something not obvious or difficult to notice. The context of an \"unexpected breakthrough\" further implies the evidence was previously overlooked due to its subtlety.\n\nOption A is wrong because loud and attention-grabbing items would stand out immediately, contradicting the need for a \"careful examination\" mentioned in the text. Option B is incorrect since large and easily visible evidence would not require such meticulous scrutiny or lead to an unexpected discovery. Option D is wrong because completely invisible items could not be found or examined at all, whereas the passage states the detective successfully analyzed the residue.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1259,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A textbook chapter on cellular biology begins with an overview of cell theory, then describes prokaryotic and eukaryotic cell structures, followed by explanations of cellular processes like metabolism and division. Each section builds on the previous one, moving from foundational concepts to complex functions. What text structure does this passage describe?\n\nA) Compare and contrast\nC) Problem and solution\nD) Cause and effect\n\nA) Compare and contrast\nB) This step-by-step buildup from cell theory to specific processes defines a sequential structure\nC) Problem and solution\nD) Cause and effect",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Compare and contrast",
+      "C) Problem and solution",
+      "D) Cause and effect"
+    ],
+    "explanation": "Option B is correct because the passage explicitly states the text moves from foundational concepts to complex functions, indicating a clear chronological progression. This step-by-step buildup from cell theory to specific processes defines a sequential structure. Option A is incorrect as there is no mention of comparing two different subjects or contrasting features. Option C fails because the text does not present a problem followed by a proposed solution. Option D is wrong since the passage describes a progression of topics rather than explaining how one event causes another.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1260,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "An editorial argues that schools should start later to align with adolescents' natural sleep cycles. The author cites research on teen brain development and quotes sleep experts, while acknowledging concerns about bus schedules and after-school activities. The tone is persuasive but balanced. What is the author's point of view in this passage?\n\nA) Strongly opposed to any changes in school scheduling.\nB) Indifferent to the debate about adolescent sleep patterns.\nC) Convinced that bus logistics should override health considerations.\n\nA) Strongly opposed to any changes in school scheduling.\nB) Indifferent to the debate about adolescent sleep patterns.\nC) Convinced that bus logistics should override health considerations.\nD) This balance shows support for the health argument without ignoring real-world constraints",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Strongly opposed to any changes in school scheduling.",
+      "B) Indifferent to the debate about adolescent sleep patterns.",
+      "C) Convinced that bus logistics should override health considerations."
+    ],
+    "explanation": "Option D is right because the passage explicitly states the author argues for later starts to match teen sleep cycles while noting practical issues like bus schedules. This balance shows support for the health argument without ignoring real-world constraints. Options A, B, and C are wrong because the author actively supports the change, cares deeply about the debate, and never suggests bus logistics should override health concerns. The text focuses on aligning school times with brain development, proving the author is convinced by the science.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1261,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Passage: \"The historian's meticulous research uncovered previously overlooked primary sources that reshaped understanding of the event. Her attention to detail was evident in every footnote and citation.\"\n\nIn this passage, the word 'meticulous' most nearly means:\n\nB) Quick and careless.\nC) Creative and imaginative.\nD) Outdated and irrelevant.\n\nA) Options B, C, and D are wrong because the text shows careful attention, not carelessness or creativity, and the sources are new, not outdated\nB) Quick and careless.\nC) Creative and imaginative.\nD) Outdated and irrelevant.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Quick and careless.",
+      "C) Creative and imaginative.",
+      "D) Outdated and irrelevant."
+    ],
+    "explanation": "Option A is right because the passage links meticulous research to overlooked sources and precise footnotes, proving extreme care. Options B, C, and D are wrong because the text shows careful attention, not carelessness or creativity, and the sources are new, not outdated. The evidence of reshaped understanding confirms precision rather than irrelevance.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1262,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A voter information guide about ballot measures uses short sentences, bullet points, and simple language. It includes a glossary of political terms and an FAQ section. The guide is available in both English and Spanish.\n\nWhy does the author use this format?\n\nA) To persuade readers to vote a specific way.\nC) To present original academic research findings.\nD) To argue against the ballot measures.\n\nA) To persuade readers to vote a specific way.\nB) The author chose this format to ensure the content reaches diverse readers by prioritizing clarity and simplicity.\nC) To present original academic research findings.\nD) To argue against the ballot measures.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To persuade readers to vote a specific way.",
+      "C) To present original academic research findings.",
+      "D) To argue against the ballot measures."
+    ],
+    "explanation": "The author chose this format to ensure the content reaches diverse readers by prioritizing clarity and simplicity. Short sentences and simple language lower barriers to understanding, while the glossary and FAQ address specific vocabulary and common questions. This inclusive design, combined with bilingual availability, directly supports making information accessible to a wide audience regardless of literacy level or language preference. Option A is incorrect because the guide lacks persuasive rhetoric or emotional appeals targeting a specific voting choice. Option C fails because the text contains no citations, data analysis, or original research typical of academic studies. Option D is wrong as the guide remains neutral and informative rather than taking a stance against any specific measure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1263,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "An article about climate change begins with a vivid description of a glacier calving into the ocean, then presents scientific data on rising global temperatures, followed by discussions of policy responses and individual actions. The author shifts from emotional imagery to factual analysis to practical recommendations. What is the author's purpose in structuring the article this way?\n\nA) To confuse readers by mixing different writing styles.\nC) To prioritize personal anecdotes over scientific evidence.\nD) To avoid discussing controversial policy solutions.\n\nA) To confuse readers by mixing different writing styles.\nB) Option A is wrong since the text shows a clear progression from emotion to logic, not a confusing mix of styles that hinders understanding\nC) To prioritize personal anecdotes over scientific evidence.\nD) To avoid discussing controversial policy solutions.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To confuse readers by mixing different writing styles.",
+      "C) To prioritize personal anecdotes over scientific evidence.",
+      "D) To avoid discussing controversial policy solutions."
+    ],
+    "explanation": "Option B is right because the passage explicitly describes a shift from vivid, emotional imagery of a calving glacier to factual data and practical recommendations, demonstrating a strategy to hook readers before presenting a logical argument. Option A is wrong since the text shows a clear progression from emotion to logic, not a confusing mix of styles that hinders understanding. Option C is incorrect because the author prioritizes scientific data on rising temperatures rather than focusing on personal anecdotes. Option D is wrong as the article actively discusses policy responses and individual actions, directly addressing controversial solutions rather than avoiding them.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1264,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "In the sentence, 'The community's resilient response to the natural disaster demonstrated remarkable solidarity and resourcefulness,' the word 'resilient' most nearly means:\n\nA) Fragile and easily overwhelmed\nB) Indifferent and passive\nC) Aggressive and confrontational\n\nA) Fragile and easily overwhelmed\nB) Indifferent and passive\nC) Aggressive and confrontational\nD) The context implies strength and adaptation rather than weakness",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Fragile and easily overwhelmed",
+      "B) Indifferent and passive",
+      "C) Aggressive and confrontational"
+    ],
+    "explanation": "Option D is correct because the sentence describes a community showing \"remarkable solidarity and resourcefulness\" after a disaster, which aligns perfectly with the definition of being able to recover quickly from difficulties. The context implies strength and adaptation rather than weakness. Option A is wrong because \"fragile\" suggests breaking easily, which contradicts the positive traits of solidarity and resourcefulness mentioned. Option B is incorrect as \"indifferent\" implies a lack of care, whereas the community actively demonstrated unity. Finally, Option C is wrong because \"aggressive\" denotes hostility, which has no relation to the peaceful cooperation shown during the recovery.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1265,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "A scientific report on vaccine efficacy uses a formal, objective tone, passive voice ('participants were administered'), and precise terminology ('seroconversion,' 'confidence intervals'). The authors avoid emotional language and emphasize methodology and statistical analysis. What is the effect of this authorial style?\n\nB) It makes the report more entertaining for general audiences.\nC) It hides limitations in the study design.\nD) It persuades readers through emotional appeals.\n\nA) This style ensures readers focus on statistical data and methodology rather than emotional reactions\nB) It makes the report more entertaining for general audiences.\nC) It hides limitations in the study design.\nD) It persuades readers through emotional appeals.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) It makes the report more entertaining for general audiences.",
+      "C) It hides limitations in the study design.",
+      "D) It persuades readers through emotional appeals."
+    ],
+    "explanation": "Option A is correct because the formal, objective tone and precise terminology like 'seroconversion' directly establish scientific credibility by prioritizing empirical evidence over subjective opinion. This style ensures readers focus on statistical data and methodology rather than emotional reactions. Option B is incorrect because the dry, technical language lacks narrative flair or engaging storytelling, making it unsuitable for entertaining general audiences. Option C is wrong since the report explicitly emphasizes methodology and statistical analysis, which actually highlights rigor rather than hiding design limitations. Option D fails because the text avoids emotional appeals entirely, relying instead on logical argumentation and data to persuade the reader.",
+    "difficulty": "hard",
+    "status": "active"
+  }
+]

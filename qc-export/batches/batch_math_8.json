@@ -1,0 +1,752 @@
+[
+  {
+    "id": 919,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A circular rug has a radius of 2 meters. What is the approximate circumference of the rug? (Use \\(\\pi\\) \u2248 3.14).\nA) 6.28 m\nB) 12.56 m\nC) 25.12 m\nD) 4 m",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 6.28 m",
+      "C) 25.12 m",
+      "D) 4 m"
+    ],
+    "explanation": "The circumference formula is C = 2\\(\\pi\\)r. Substituting r = 2 and \\(\\pi\\) = 3.14 gives C = 2 * 3.14 * 2 = 12.56 m, which matches option B. Option A is half the correct value, likely from forgetting to multiply by 2. Option C is the area (\\(\\pi\\)r\u00b2), not the circumference. Option D is just the radius, ignoring the formula entirely.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 920,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient is prescribed 1.5 Liters of IV fluid to be infused over 10 hours. How many milliliters per hour should the IV pump be set to?\nA) 15 mL/hr\nB) 150 mL/hr\nC) 1,500 mL/hr\nD) 15,000 mL/hr",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 15 mL/hr",
+      "C) 1,500 mL/hr",
+      "D) 15,000 mL/hr"
+    ],
+    "explanation": "To find the hourly rate, convert 1.5 Liters to 1,500 milliliters, then divide by 10 hours to get 150 mL/hr. Option B matches this calculation exactly. Option A is too low because it divides 150 by 10 again. Option C is incorrect as it uses the total volume without dividing by time. Option D is wrong because it multiplies the volume by 10 instead of dividing.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 921,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A garden is shaped like a rectangle with a length of 12 feet and a width of 8 feet. If fencing costs \\$5 per foot, how much will it cost to fence the perimeter?\nA) \\$40\nB) \\$100\nC) \\$200\nD) \\$480",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) \\$40",
+      "B) \\$100",
+      "D) \\$480"
+    ],
+    "explanation": "The perimeter of the rectangular garden is calculated by adding twice the length and twice the width, resulting in 40 feet. Multiplying this total by the fencing cost of \\$5 per foot yields exactly \\$200, which matches option C. Option A is incorrect because it likely divides the cost by the area instead of the perimeter. Option B is wrong as it appears to use only the width in the calculation. Option D is incorrect because it multiplies the cost by the length alone without accounting for the full boundary.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 922,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A cylindrical tank has a radius of 3 feet and a height of 10 feet. What is the approximate volume? (Use \\(\\pi\\) \u2248 3.14).\nA) 94.2 cubic ft\nB) 282.6 cubic ft\nC) 90 cubic ft\nD) 30 cubic ft",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 94.2 cubic ft",
+      "C) 90 cubic ft",
+      "D) 30 cubic ft"
+    ],
+    "explanation": "The volume of a cylinder is calculated using the formula V = \\(\\pi\\)r\u00b2h. Substituting the given values, we get V \u2248 3.14 \u00d7 (3)\u00b2 \u00d7 10, which equals 3.14 \u00d7 9 \u00d7 10 = 282.6 cubic feet. This matches option B, making it the correct choice. Option A is incorrect because it likely results from forgetting to square the radius. Option C is wrong as it appears to use an incorrect multiplication factor. Option D is also incorrect, possibly stemming from a calculation error involving the height.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 923,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A room measures 15 feet by 20 feet. Carpet costs \\$12 per square yard. How much will it cost to carpet the room? (1 square yard = 9 square feet).\nA) \\$400\nB) \\$600\nC) \\$3,600\nD) \\$4,000",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) \\$600",
+      "C) \\$3,600",
+      "D) \\$4,000"
+    ],
+    "explanation": "To find the cost, first calculate the room area in square feet (15 ft \u00d7 20 ft = 300 sq ft), then convert to square yards by dividing by 9 (300 \u00f7 9 \u2248 33.33 sq yd). Multiply this by the price per square yard (\\$12) to get approximately \\$400. Option A matches this result. Option B is incorrect because it likely assumes a different conversion factor. Option C is wrong as it multiplies square feet directly by the yard price without converting units. Option D is incorrect because it fails to divide the total area by 9 before multiplying by the cost.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 924,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A client has a temperature of 39.5\u00b0C. The standard conversion formula is F = (C \u00d7 \\(\\frac{9}{5}\\)) + 32. What is the temperature in Fahrenheit?\nA) 101.1\u00b0F\nB) 102.1\u00b0F\nC) 103.1\u00b0F\nD) 104.1\u00b0F",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 101.1\u00b0F",
+      "B) 102.1\u00b0F",
+      "D) 104.1\u00b0F"
+    ],
+    "explanation": "To find the Fahrenheit temperature, substitute 39.5 for C in the formula F = (39.5 \u00d7 \\(\\frac{9}{5}\\)) + 32, which equals 103.1\u00b0F. Option C matches this exact calculation. Option A is incorrect because it results from using 38.5\u00b0C instead of 39.5\u00b0C. Option B is wrong as it stems from using 39.0\u00b0C in the equation. Option D is incorrect because it arises from using 40.0\u00b0C rather than the given 39.5\u00b0C.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 925,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A map scale indicates that 1 inch represents 50 miles. If the distance between two cities on the map is 3.5 inches, what is the actual distance in kilometers? (1 mile \u2248 1.6 km).\nA) 175 km\nB) 280 km\nC) 300 km\nD) 350 km",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 175 km",
+      "C) 300 km",
+      "D) 350 km"
+    ],
+    "explanation": "To find the distance, multiply 3.5 inches by 50 miles per inch to get 175 miles, then convert to kilometers using 1.6 km per mile, resulting in 280 km. Option B matches this calculation. Option A is incorrect because it uses only the mile value without converting to kilometers. Option C is wrong as it likely adds instead of multiplying or uses an incorrect conversion factor. Option D is incorrect because it might double the mile value or misapply the scale ratio entirely.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 926,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A sphere has a diameter of 12 inches. What is the surface area of the sphere? (Use \\(\\pi\\) \u2248 3.14). Surface Area = 4\\(\\pi\\)r\u00b2.\nA) 452.16 sq in\nB) 144 sq in\nC) 1,808.64 sq in\nD) 150.72 sq in",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 144 sq in",
+      "C) 1,808.64 sq in",
+      "D) 150.72 sq in"
+    ],
+    "explanation": "The surface area formula is 4\\(\\pi\\)r\u00b2, where the radius is half the diameter, so r = 6 inches. Plugging in the values gives 4 \u00d7 3.14 \u00d7 36, which equals 452.16 square inches, matching option A. Option B is the area of a circle with radius 6, missing the factor of 4. Option C incorrectly uses the diameter squared instead of the radius squared. Option D calculates the volume of a sphere with radius 6, not the surface area.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 927,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A patient requires 3 mg of a drug per kg of body weight. The patient weighs 220 lbs. How many grams of the drug are required? (1 kg \u2248 2.2 lbs).\nA) 0.3 grams\nB) 30 grams\nC) 300 grams\nD) 3,000 grams",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 30 grams",
+      "C) 300 grams",
+      "D) 3,000 grams"
+    ],
+    "explanation": "First, convert 220 lbs to kg by dividing by 2.2, yielding 100 kg. Multiply 100 kg by the dosage of 3 mg/kg to get 300 mg. Finally, convert 300 mg to grams by dividing by 1,000, resulting in 0.3 grams, which matches option A. Option B is wrong because it ignores the unit conversion from mg to g. Option C is incorrect as it treats the final value as grams instead of mg. Option D is wrong because it multiplies by 1,000 instead of dividing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 928,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A composite shape is made of a rectangle (10 cm by 5 cm) and a triangle on top with a base of 10 cm and height of 4 cm. What is the total area?\nA) 50 sq cm\nB) 70 sq cm\nC) 90 sq cm\nD) 20 sq cm",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 50 sq cm",
+      "C) 90 sq cm",
+      "D) 20 sq cm"
+    ],
+    "explanation": "The total area is found by adding the rectangle's area (10 \u00d7 5 = 50) and the triangle's area (\u00bd \u00d7 10 \u00d7 4 = 20), which equals 70 sq cm. Option B correctly states this sum. Option A only includes the rectangle's area, ignoring the triangle. Option C adds the areas but doubles the triangle's calculation error. Option D mistakenly subtracts the triangle from the rectangle instead of adding them together.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 929,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A bar graph shows the number of patients seen by a clinic each day for a week. On Monday, 24 patients were seen; Tuesday, 31; Wednesday, 27; Thursday, 22; Friday, 29. How many more patients were seen on Tuesday than on Thursday?\nA) 9\nB) 7\nC) 5\nD) 12",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) 7",
+      "C) 5",
+      "D) 12"
+    ],
+    "explanation": "To find the difference between Tuesday and Thursday, subtract Thursday's count of 22 from Tuesday's count of 31, which equals 9. Option A is correct because it matches this calculation. Option B is wrong as 7 results from an incorrect subtraction. Option C is wrong because 5 does not represent the difference between 31 and 22. Option D is wrong since 12 is far too high for the gap between these two days.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 930,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A pie chart represents monthly expenses: Rent 35%, Food 25%, Utilities 20%, Transportation 15%, Other 5%. If total monthly expenses are \\$2,400, how much is spent on Food?\nA) \\$480\nB) \\$600\nC) \\$840\nD) \\$360",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) \\$480",
+      "C) \\$840",
+      "D) \\$360"
+    ],
+    "explanation": "To find the Food expense, multiply the total \\$2,400 by the 25% Food portion, which equals \\$600. Option B is correct because it matches this calculation. Option A is wrong as it uses 20% for Utilities instead of 25%. Option C is incorrect because it applies 35% for Rent to the total. Option D is wrong since it divides the total by 6.5 rather than multiplying by the percentage.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 931,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows the number of books read by 5 students: Alice: 8, Ben: 5, Cara: 12, Dan: 7, Eve: 6. What is the median number of books read?\nA) 5\nB) 6\nC) 7\nD) 8",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 5",
+      "B) 6",
+      "D) 8"
+    ],
+    "explanation": "To find the median, order the values: 5, 6, 7, 8, 12. The middle number is 7. Option A is 5, which is the minimum value, not the middle. Option B is 6, the second lowest number, and Option D is 8, the second highest. Since there are five data points, the third value in the sorted list is the correct median.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 932,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph shows a car's distance from home over time. At 1 hour, the car is 40 miles away; at 3 hours, it is 120 miles away. Assuming constant speed, how far will the car be from home at 5 hours?\nA) 160 miles\nB) 180 miles\nC) 200 miles\nD) 220 miles",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 160 miles",
+      "B) 180 miles",
+      "D) 220 miles"
+    ],
+    "explanation": "The car travels 80 miles in 2 hours, so at a constant speed of 40 mph, it covers 200 miles in 5 hours. Option C is correct because 40 mph multiplied by 5 hours equals 200 miles. Options A, B, and D are wrong as they do not reflect the linear distance calculation based on the given speed. This math problem requires finding the total distance at 5 hours using the constant rate derived from the 1-hour and 3-hour data points.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 933,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A scatter plot shows study hours (x-axis) vs. test scores (y-axis) for 6 students. The points are: (1,60), (2,65), (3,70), (4,75), (5,80), (6,85). Based on the trend, what score is predicted for 7 hours of study?\nA) 88\nB) 90\nC) 92\nD) 95",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 88",
+      "C) 92",
+      "D) 95"
+    ],
+    "explanation": "The scatter plot reveals a consistent linear trend where test scores increase by exactly 5 points for every additional hour of study. Since the score for 6 hours is 85, applying this same rate of change predicts a score of 90 for 7 hours. Option A is incorrect because 88 does not follow the established +5 pattern, while C and D are wrong as they overestimate the prediction. Therefore, B is the only choice that accurately extends the observed data trend.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 934,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A double-bar graph compares male and female attendance at a workshop over 4 days. Day 1: M=12, F=18; Day 2: M=15, F=14; Day 3: M=10, F=20; Day 4: M=18, F=16. Which day had the greatest difference in attendance between genders?\nA) Day 1\nB) Day 2\nC) Day 3\nD) Day 4",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Day 1",
+      "B) Day 2",
+      "D) Day 4"
+    ],
+    "explanation": "To find the greatest difference, subtract female from male attendance for each day: Day 1 is 6, Day 2 is 1, Day 3 is 10, and Day 4 is 2. Option C, Day 3, yields the largest gap of 10, making it the correct choice. Options A, B, and D are incorrect because their differences of 6, 1, and 2 are all smaller than 10. This calculation confirms Day 3 had the most significant disparity in workshop attendance between genders.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 935,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A histogram shows the distribution of exam scores (0\u2013100) in intervals of 10. The frequencies are: 60\u201369: 5, 70\u201379: 12, 80\u201389: 18, 90\u2013100: 10. How many students scored 80 or higher?\nA) 18\nB) 28\nC) 30\nD) 38",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 18",
+      "C) 30",
+      "D) 38"
+    ],
+    "explanation": "To find students scoring 80 or higher, add the frequencies for the 80\u201389 interval (18) and the 90\u2013100 interval (10), which equals 28. Option A is incorrect because it only counts the 80\u201389 group, ignoring those in the 90\u2013100 range. Option C is wrong as it mistakenly sums all four intervals, including scores below 80. Option D is incorrect because it adds the frequencies for 70\u201379 and 90\u2013100 instead of the required higher groups.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 936,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table lists monthly sales (in thousands) for a store: Jan=\\$22, Feb=\\$25, Mar=\\$28, Apr=\\$30, May=\\$33, Jun=\\$35. If the trend continues, what is the projected total sales for July and August combined?\nA) \\$76,000\nB) \\$78,000\nC) \\$80,000\nD) \\$82,000",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) \\$76,000",
+      "C) \\$80,000",
+      "D) \\$82,000"
+    ],
+    "explanation": "The sales increase by \\$3,000 monthly, so July and August totals are \\$38,000 and \\$41,000, summing to \\$79,000. Option B is the closest valid projection based on the trend. Option A underestimates the growth, while C and D overestimate it. The question asks for combined July and August sales, not a single month.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 937,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A circle graph shows budget allocation: Salaries 35%, Supplies 20%, Marketing 15%, Maintenance 10%, Training 20%. If the total budget is \\$120,000, how much more is spent on salaries than on training?\nA) \\$12,000\nB) \\$18,000\nC) \\$24,000\nD) \\$30,000",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) \\$12,000",
+      "C) \\$24,000",
+      "D) \\$30,000"
+    ],
+    "explanation": "To find the difference, subtract the training percentage (20%) from the salaries percentage (35%) to get 15%. Multiplying 15% of the \\$120,000 total budget yields \\$18,000, which matches option B. Option A is incorrect because it likely results from subtracting the percentages first without applying the total correctly or using a wrong base. Option C is wrong as it might double the calculated difference or use an incorrect percentage sum. Option D is incorrect because it could stem from adding the two amounts instead of finding the difference.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 938,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A line graph shows the population of a town (in thousands) over 5 years: Year 1: 12, Year 2: 14, Year 3: 17, Year 4: 21, Year 5: 26. What was the approximate percent increase from Year 1 to Year 5?\nA) 108%\nB) 117%\nC) 125%\nD) 150%",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 108%",
+      "C) 125%",
+      "D) 150%"
+    ],
+    "explanation": "To find the percent increase from Year 1 (12) to Year 5 (26), subtract the initial value from the final value to get the difference of 14, then divide by the initial value (\\(\\frac{14}{12}\\) \u2248 1.167) and multiply by 100 for roughly 117%. Option B matches this calculation exactly. Option A is incorrect because it likely results from dividing 14 by 13 instead of 12. Option C is wrong as it assumes a difference of 15 rather than 14. Option D is incorrect because it uses a base of 10 instead of the actual Year 1 population of 12.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 939,
+    "subject": "math",
+    "topic": "Data Interpretation",
+    "question_text": "A table shows the number of apples sold per day: Mon=15, Tue=20, Wed=18, Thu=22, Fri=25. What is the average number of apples sold per day?\nA) 18\nB) 19\nC) 20\nD) 21",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 18",
+      "B) 19",
+      "D) 21"
+    ],
+    "explanation": "To find the average, sum the daily sales (15+20+18+22+25=100) and divide by the five days, yielding exactly 20. Option C is correct because \\(\\frac{100}{5}\\) equals 20. Options A, B, and D are incorrect as they do not match the calculated mean of 20. This math problem requires simple arithmetic to determine the average daily sales figure.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1615,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is administering medication based on weight. The formula for the dose is: Total Dose = (Patient Weight in kg \u00d7 Dose Factor) \u00f7 100. If a patient weighs 65 kg and the dose factor is 2, which algebraic expression represents the total dose?\nA) 65 \u00d7 2 \u00d7 100\nB) (65 \u00d7 2) \u00f7 100\nC) (65 + 2) \u00f7 100\nD) 65 \u00d7 2 - 100",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "65 \u00d7 2 \u00d7 100",
+      "(65 + 2) \u00f7 100",
+      "65 \u00d7 2 - 100"
+    ],
+    "explanation": "The correct expression substitutes the given values (65 kg and 2) directly into the provided formula, resulting in (65 \u00d7 2) \u00f7 100. The other options incorrectly apply multiplication instead of division or perform addition/subtraction instead of the required multiplication and division steps.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1616,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the medication dosage for a child. The doctor orders 250 mg of a drug for every 5 kg of the child's body weight. If the child weighs 15 kg, which algebraic expression correctly represents the total dosage in milligrams? (Let x represent the dosage in mg and w represent the weight in kg.)\nA) 250 * (w / 5)\nB) 250 + (w / 5)\nC) 250 / (w / 5)\nD) 250 * w",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "250 * w",
+      "250 / (w / 5)",
+      "250 + (w / 5)"
+    ],
+    "explanation": "The dosage is calculated by multiplying the rate (250 mg per 5 kg) by the patient's weight (w). Since the rate is defined per 5 kg, the weight must be divided by 5 first before multiplying by 250 to get the correct total. This ensures the calculation scales correctly for any weight.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1617,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "A nurse is calculating the total dosage for a patient. The order is for 2 tablets of medication X (50 mg each) and 1 tablet of medication Y (100 mg). If the total weight is represented by the expression 2(50) + 100, what is the simplified value?\nA) 200\nB) 600\nC) 300\nD) 150",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "150",
+      "300",
+      "600"
+    ],
+    "explanation": "The expression 2(50) + 100 simplifies to 200 because 2 times 50 equals 100, and adding 100 results in 200. The value 150 is incorrect as it ignores the second 100 from the multiplication. The value 300 is wrong because it adds an extra 100 instead of multiplying. Finally, 600 is incorrect as it multiplies both terms by 100 rather than following the order of operations.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1618,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse needs to calculate the total cost of a medication that costs \\$45 per dose and is administered every 8 hours for a 24-hour shift. Which algebraic expression represents the total cost for the shift?\nA) 45 \u00d7 3\nB) 45 \u00f7 3\nC) 45 \u00d7 8\nD) 45 + 3",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "45 + 3",
+      "45 \u00d7 8",
+      "45 \u00f7 3"
+    ],
+    "explanation": "There are three 8-hour periods in a 24-hour shift, so the dose must be administered 3 times. Multiplying the cost per dose (\\$45) by the number of administrations (3) gives the total cost. The other options represent incorrect operations for this scenario.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1619,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the daily fluid requirement for a pediatric patient using the formula: 100 mL/kg for the first 10 kg, plus 50 mL/kg for each additional kilogram. If the patient weighs 22 kg, which algebraic expression correctly represents the total daily fluid requirement (in mL)?\nA) 150x\nB) 100(10) + 50(22)\nC) 1000 + 50x\nD) 1000 + 50(x - 10)",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "1000 + 50x",
+      "150x",
+      "100(10) + 50(22)"
+    ],
+    "explanation": "The correct expression accounts for the fixed 1000 mL for the first 10 kg and adds 50 mL for every kilogram exceeding 10, represented as (x - 10). The other options fail to distinguish between the base weight and the additional weight or incorrectly apply the rate to the total weight.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1620,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse needs to calculate the total cost of a new medical device that costs \\$450. If the hospital applies a 10% discount to the original price, which algebraic expression correctly represents the final price the hospital will pay?\nA) 450 * 0.10\nB) 450 + 0.10(450)\nC) 450 - 0.10(450)\nD) 450 - 10",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "450 + 0.10(450)",
+      "450 - 10",
+      "450 * 0.10"
+    ],
+    "explanation": "The question asks for the algebraic expression representing a 10% discount on \\$450. The correct option, 450 - 0.10(450), subtracts the calculated discount amount from the original price. This matches the scenario where the hospital pays the reduced cost. The wrong option 450 + 0.10(450) incorrectly adds the discount instead of subtracting it. Another error, 450 - 10, fails to convert the percentage to a decimal before calculating the value. Finally, 450 * 0.10 only computes the discount amount rather than the final price the hospital pays.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1621,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the dosage for a new medication. The prescription states: \"Take 300 mg every 8 hours.\" If the medication comes in 75 mg tablets, how many tablets should the nurse administer in one dose? (Hint: Let t = number of tablets)\nA) 2 tablets\nB) 3 tablets\nC) 4 tablets\nD) 5 tablets",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "3 tablets",
+      "2 tablets",
+      "5 tablets"
+    ],
+    "explanation": "To find the tablets per dose, divide the 300 mg prescription by the 75 mg tablet strength, which equals exactly 4 tablets. The option for 3 tablets is incorrect because 3 times 75 mg only provides 225 mg, falling short of the required 300 mg. Choosing 2 tablets is wrong as it yields just 150 mg, and 5 tablets would overdose the patient with 375 mg. Therefore, only 4 tablets correctly match the calculated dosage.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1622,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse needs to calculate the total number of syringes required for a hospital wing. There are 50 patients who each receive 2 syringes per shift, and 10 visitors who each receive 1 syringe per shift. How many syringes are needed in total for one shift?\nA) 50 syringes\nB) 60 syringes\nC) 110 syringes\nD) 100 syringes",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "60 syringes",
+      "100 syringes",
+      "50 syringes"
+    ],
+    "explanation": "The correct calculation is (50 patients \u00d7 2 syringes) + (10 visitors \u00d7 1 syringe) = 100 + 10 = 110 syringes. The wrong answers likely result from forgetting the visitors' contribution, miscounting the patients, or incorrectly multiplying the visitor count.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1623,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is preparing a medication that requires a specific amount based on the patient's weight. If the dosage is defined as 'twice the patient's weight in kilograms plus 10 units,' and the patient weighs 60 kg, which algebraic expression correctly represents the total dosage?\nA) 2w - 10\nB) \\(w^2\\) + 10\nC) 2w + 10\nD) 2(w + 10)",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "2(w + 10)",
+      "2w - 10",
+      "\\(w^2\\) + 10"
+    ],
+    "explanation": "The phrase 'twice the patient's weight' translates to 2 times w (2w), and 'plus 10 units' adds 10 to the expression, resulting in 2w + 10. Option B is incorrect because the addition happens outside the multiplication, and options C and D represent common errors of adding inside parentheses or squaring the variable.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1624,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the cost of a medication that costs \\$15 per unit. If the nurse needs to purchase x units, which algebraic expression represents the total cost?\nA) x / 15\nB) 15 - x\nC) 15x\nD) 15 + x",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "15 + x",
+      "x / 15",
+      "15 - x"
+    ],
+    "explanation": "The total cost is found by multiplying the price per unit (\\$15) by the number of units (x), resulting in the expression 15x. The other options represent addition, division, or subtraction, which do not correctly calculate total cost based on the given scenario.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1625,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is preparing a medication that must be administered in a dose of 0.25 mg. The available vial has a concentration of 5 mg per 10 mL. Which algebraic expression correctly represents the volume (in mL) the nurse should draw up from the vial?\nA) 0.25 * \\(\\frac{5}{10}\\)\nB) 10 * \\(\\frac{5}{0.25}\\)\nC) 0.25 * 10\nD) 0.25 * (\\(\\frac{10}{5}\\))",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "0.25 * \\(\\frac{5}{10}\\)",
+      "10 * \\(\\frac{5}{0.25}\\)",
+      "0.25 * 10"
+    ],
+    "explanation": "The expression 0.25 * (\\(\\frac{10}{5}\\)) correctly sets up a proportion where the desired dose (0.25 mg) is multiplied by the ratio of total volume to total concentration (10 mL / 5 mg). The other options result in mathematically incorrect values for the required volume.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1626,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "A nurse needs to calculate the total medication dosage for a patient receiving a specific antibiotic. The prescription states 50 mg should be administered, but the available concentration is 25 mg per 5 mL. Using the distributive property, which of the following calculations correctly determines the total volume in milliliters?\nA) 50 + 50 = 100, then divide by 50 mg/mL\nB) 25 + 25 = 50, then divide by 25 mg/mL\nC) 25 + 25 = 50, then multiply by 25 mg/mL\nD) 25 + 25 = 50, then add 5 mL to the result",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "25 + 25 = 50, then multiply by 25 mg/mL",
+      "50 + 50 = 100, then divide by 50 mg/mL",
+      "25 + 25 = 50, then add 5 mL to the result"
+    ],
+    "explanation": "The distributive property allows breaking down the division into simpler steps: dividing the dose by the concentration per unit. Here, dividing 50 mg by 25 mg/mL is equivalent to finding how many 25 mg units are in 50 mg (which is 2), and then multiplying that count by the volume per unit (5 mL), resulting in 10 mL. The correct answer simplifies this logic to the final volume calculation. The other options incorrectly apply multiplication or addition where division or unit conversion is required.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1627,
+    "subject": "math",
+    "topic": "Properties of number and operations",
+    "question_text": "A nurse is calculating the total volume of medication to administer to a patient who needs 250 mL of an antibiotic and 375 mL of a fluid supplement. Which property of addition allows the nurse to calculate the total volume as 375 + 250 instead of 250 + 375 without changing the result?\nA) The associative property\nB) The identity property\nC) The commutative property\nD) The distributive property",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The associative property",
+      "The distributive property",
+      "The identity property"
+    ],
+    "explanation": "The commutative property of addition states that the order in which numbers are added does not affect the sum (a + b = b + a). In this scenario, swapping the order of the two volumes to add 375 first instead of 250 first yields the same total, which is the definition of this property.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1628,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A patient is prescribed 0.75 mg of a medication. If the available tablets are scored and contain \\(\\frac{1}{4}\\) mg each, how many tablets should the nurse administer?\nA) 2.25 tablets\nB) 6 tablets\nC) \\(\\frac{3}{4}\\) tablet\nD) 3 tablets",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "2.25 tablets",
+      "\\(\\frac{3}{4}\\) tablet",
+      "6 tablets"
+    ],
+    "explanation": "To find the number of tablets, divide the prescribed dose (0.75 mg) by the tablet strength (0.25 mg), resulting in exactly 3 tablets. The option 2.25 tablets is incorrect because it multiplies the dose by the strength instead of dividing. Choosing \\(\\frac{3}{4}\\) tablet is wrong as it confuses the dose value with the count. Finally, 6 tablets is incorrect because it doubles the required amount.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1629,
+    "subject": "math",
+    "topic": "Number sense",
+    "question_text": "A nurse is preparing a medication solution and needs to convert 0.25 grams into milligrams. How many milligrams are in 0.25 grams?\nA) 25 mg\nB) 2500 mg\nC) 2.5 mg\nD) 250 mg",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "25 mg",
+      "2.5 mg",
+      "2500 mg"
+    ],
+    "explanation": "To convert 0.25 grams to milligrams, multiply by 1000 since there are 1000 mg in 1 g, yielding 250 mg. The option 25 mg is wrong because it divides by 10 instead of multiplying by 1000. The choice 2.5 mg is incorrect as it divides by 100, and 2500 mg is wrong because it multiplies by 10000. Only 250 mg accurately reflects the unit conversion required for the nurse's medication solution.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1630,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "A nurse is calculating the medication dosage for a child using the formula: (Weight in kg \u00d7 30 mg) \u00f7 150. If the child weighs 12 kg, what is the final dosage in milligrams? (Apply the order of operations carefully).\nA) 36 mg\nB) 48 mg\nC) 18 mg\nD) 24 mg",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "48 mg",
+      "18 mg",
+      "36 mg"
+    ],
+    "explanation": "The correct answer is 24 mg because you first multiply the weight (12 kg) by 30 to get 360, and then divide by 150. Common mistakes include adding instead of multiplying, or dividing the weight by 150 before multiplying by 30, which yields incorrect results.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1631,
+    "subject": "math",
+    "topic": "Variables, expressions, and operations",
+    "question_text": "A nurse is preparing a solution by mixing 3 ounces of medication powder with 12 ounces of liquid. If the cost of the powder is \\$12 and the cost of the liquid is \\$6, what is the total cost of this specific mixture in dollars?\nA) \\$12\nB) \\$30\nC) \\$9\nD) \\$18",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "\\$30",
+      "\\$9",
+      "\\$12"
+    ],
+    "explanation": "The total cost is simply the sum of the individual prices: \\$12 for the powder plus \\$6 for the liquid equals \\$18. Option A is correct because it adds these two values directly without considering the volume ratios. Option B is wrong as it likely multiplies the costs by the volume numbers, creating an inflated total. Option C is incorrect because it divides the costs, which has no logical basis for finding a total sum. Option D is wrong since it only lists the powder's price, ignoring the liquid's contribution entirely.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1632,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is calculating the dosage for a new medication. The prescription states: 'Give \\(\\frac{1}{2}\\) teaspoon of the drug for every 10 pounds of body weight.' If the patient weighs 120 pounds, which algebraic expression correctly represents the total amount of medication in teaspoons the nurse should administer?\nA) (\\(\\frac{1}{2}\\)) * (\\(\\frac{120}{10}\\))\nB) (\\(\\frac{1}{2}\\)) * 120\nC) (\\(\\frac{120}{10}\\)) * 2\nD) 120 / (\\(\\frac{1}{2}\\) * 10)",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "(\\(\\frac{1}{2}\\)) * 120",
+      "(\\(\\frac{120}{10}\\)) * 2",
+      "120 / (\\(\\frac{1}{2}\\) * 10)"
+    ],
+    "explanation": "The correct expression multiplies the dosage per unit weight (\\(\\frac{1}{2}\\) teaspoon) by the patient's weight in pounds (120) divided by the unit interval (10 pounds). The other options fail to properly chain the division by 10 with the multiplication by the dosage rate.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1633,
+    "subject": "math",
+    "topic": "Algebraic representations",
+    "question_text": "A nurse is administering a medication that requires a dose of 50 mg. If the available concentration is 250 mg per 5 mL, which of the following algebraic expressions correctly represents the volume (in mL) to be administered if 'x' represents the volume and 'c' represents the concentration (mg/mL)?\nA) x = (50 * 5) / 250\nB) x = 50 / (\\(\\frac{250}{5}\\))\nC) x = \\(\\frac{50}{250}\\)\nD) x = (50 + 5) / 250",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "x = \\(\\frac{50}{250}\\)",
+      "x = (50 + 5) / 250",
+      "x = 50 / (\\(\\frac{250}{5}\\))"
+    ],
+    "explanation": "The correct expression derives from the proportion: (Volume / Total Volume) = (Desired Dose / Total Concentration). To find x, you multiply the desired dose by the volume of the stock solution (50 * 5) and divide by the total concentration (250). The other options fail to correctly apply the cross-multiplication method for solving proportions.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1634,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "A nurse needs to calculate the total dosage of a medication for 3 patients. Each patient requires 250 mg of the drug, and the total amount dispensed must not exceed 1200 mg. Which inequality represents the total dosage (x) if the nurse dispenses the medication to these 3 patients?\nA) x \u2264 750\nB) x = 1200\nC) x \u2265 750\nD) x \u2264 1200",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "x \u2265 750",
+      "x \u2264 1200",
+      "x = 1200"
+    ],
+    "explanation": "The total dosage is calculated by multiplying the dosage per patient (250 mg) by the number of patients (3), resulting in 750 mg. Since the question asks for the specific total amount dispensed to these three patients, the correct value is 750, which corresponds to the choice representing that specific sum. The other options reflect common errors such as confusing the upper limit of the supply with the actual calculated dose or setting up an inequality where a specific value is expected.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1635,
+    "subject": "math",
+    "topic": "Equations and inequalities",
+    "question_text": "A nurse is preparing a medication that requires a concentration of 0.5 mg/mL. If the nurse has a vial containing 250 mg of the medication, how many milliliters of solution are needed to provide the exact amount required?\nA) 500 mL\nB) 250 mL\nC) 125 mL\nD) 50 mL",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "125 mL",
+      "250 mL",
+      "50 mL"
+    ],
+    "explanation": "To find the volume, divide the total mass (250 mg) by the desired concentration (0.5 mg/mL), which results in 500 mL. The answer 125 mL is incorrect because it assumes a direct division by 2 without considering the concentration ratio, and 250 mL incorrectly equates mass to volume.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1636,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is reviewing a pattern of daily fluid intake for a patient over 5 days: Day 1: 1200 mL, Day 2: 1400 mL, Day 3: 1600 mL, Day 4: 1800 mL. If this arithmetic sequence continues, how much fluid will the patient consume on Day 6?\nA) 2200 mL\nB) 2400 mL\nC) 2000 mL\nD) 2100 mL",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "2400 mL",
+      "2000 mL",
+      "2100 mL"
+    ],
+    "explanation": "The pattern shows an arithmetic sequence with a common difference of 200 mL (each day increases by 200 mL). Starting from Day 4 (1800 mL), adding 200 mL for Day 5 results in 2000 mL, and adding another 200 mL for Day 6 results in 2200 mL. The answer 2400 mL represents a jump of 400 mL, while 2000 mL and 2100 mL result from miscalculating the step size or missing a day.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1637,
+    "subject": "math",
+    "topic": "Patterns, relationships, and functions",
+    "question_text": "A nurse is tracking the daily intake of fluids (in milliliters) for a patient over 5 days. The data is as follows: Day 1 = 200 ml, Day 2 = 250 ml, Day 3 = 300 ml, Day 4 = 350 ml. If this pattern continues, how much fluid will the patient intake on Day 6?\nA) 500 ml\nB) 400 ml\nC) 450 ml\nD) 375 ml",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "400 ml",
+      "500 ml",
+      "375 ml"
+    ],
+    "explanation": "The pattern shows a constant increase of 50 ml each day, so Day 5 is 400 ml and Day 6 is 450 ml. Option A (400 ml) is Day 5, Option B (500 ml) adds 100 ml incorrectly, and Option D (375 ml) breaks the trend. The math confirms 450 ml as the only valid continuation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1638,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A recipe for a specific medication calls for 2 grams of powder to be mixed with 10 milliliters of water. If a patient needs a total of 40 milliliters of the prepared mixture, how many grams of powder are required?\nA) 10 grams\nB) 4 grams\nC) 8 grams\nD) 20 grams",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "4 grams",
+      "10 grams",
+      "20 grams"
+    ],
+    "explanation": "The original ratio of powder to water is 2 grams per 10 mL. Since the total mixture must be 40 mL, which is 4 times the original volume (10 mL \u00d7 4 = 40 mL), the amount of powder must also be multiplied by 4 (2 grams \u00d7 4 = 8 grams). The other options result from incorrect scaling factors or confusing the ratio components.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1639,
+    "subject": "math",
+    "topic": "Ratios and proportional reasoning",
+    "question_text": "A medication label states that 250 mg of the drug is contained in every 5 mL of solution. How many milligrams of the drug are present in a 15 mL dose?\nA) 25 mg\nB) 125 mg\nC) 750 mg\nD) 375 mg",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "25 mg",
+      "375 mg",
+      "125 mg"
+    ],
+    "explanation": "To find the amount of drug in 15 mL, you can set up a proportion where 250 mg corresponds to 5 mL, and x corresponds to 15 mL. Since 15 mL is three times the volume of 5 mL, you multiply the dosage by three (250 mg \u00d7 3 = 750 mg). The other options likely result from calculation errors such as division or misplacing decimals.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1640,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A nurse needs to calculate the total volume of IV fluid a patient received over 8 hours. The patient received 125 mL of saline in the first hour, 175 mL in the second hour, and 250 mL in the third hour. What is the total volume of fluid administered?\nA) 450 mL\nB) 650 mL\nC) 350 mL\nD) 550 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "350 mL",
+      "450 mL",
+      "650 mL"
+    ],
+    "explanation": "To find the total volume, add the amounts from the first three hours: 125 mL plus 175 mL plus 250 mL equals 550 mL. This matches the correct answer because it sums all administered fluid. The 350 mL and 450 mL options are too low, likely missing the third hour's 250 mL. The 650 mL option is too high, perhaps adding an extra 100 mL incorrectly.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1641,
+    "subject": "math",
+    "topic": "Number Operations",
+    "question_text": "A nurse needs to calculate the total volume of medication administered to a patient who received 0.25 liters of saline in the morning and 375 milliliters in the afternoon. What is the total volume in milliliters?\nA) 325 mL\nB) 600 mL\nC) 625 mL\nD) 650 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "600 mL",
+      "650 mL",
+      "325 mL"
+    ],
+    "explanation": "First, convert 0.25 liters to milliliters by multiplying by 1,000, which equals 250 mL. Then, add the morning dose (250 mL) to the afternoon dose (375 mL) to get a total of 625 mL. The other options result from common errors such as incorrect conversion or arithmetic mistakes.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1642,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A nurse needs to administer a medication that requires a dosage of 500 mg. The available vial is labeled with a concentration of 1 gram per 10 milliliters. How many milliliters should the nurse administer? (1 gram = 1000 mg)\nA) 2 mL\nB) 10 mL\nC) 5 mL\nD) 50 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "2 mL",
+      "50 mL",
+      "10 mL"
+    ],
+    "explanation": "The correct answer is 5 mL because the nurse must first convert grams to milligrams (1 g = 1000 mg), then set up a ratio: 1000 mg is in 10 mL, so 500 mg is in half that volume, which is 5 mL. The other options represent common calculation errors, such as dividing by 2 instead of 10 or misplacing the decimal point.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1643,
+    "subject": "math",
+    "topic": "Measurement",
+    "question_text": "A nurse needs to administer a medication dose of 500 mg to a patient. The available supply of the medication is labeled as 1 gram per 10 mL. How many milliliters of the medication should the nurse administer? (1 gram = 1000 mg)\nA) 15 mL\nB) 25 mL\nC) 10 mL\nD) 5 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "10 mL",
+      "15 mL",
+      "25 mL"
+    ],
+    "explanation": "First, convert the ordered dose from milligrams to grams: 500 mg equals 0.5 grams. Since the concentration is 1 gram in 10 mL, 0.5 grams will be in half that volume, which is 5 mL. The distractors likely stem from misplacing the decimal point or failing to convert units correctly.",
+    "difficulty": "hard",
+    "status": "active"
+  }
+]

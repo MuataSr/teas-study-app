@@ -1,0 +1,315 @@
+[
+  {
+    "id": 2022,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only straightforward arithmetic (5×4 + 3×6 = 38). This is two multiplications and one addition — medium at most."
+    ]
+  },
+  {
+    "id": 2023,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation mislabels options. Says 'Option A (x - 10)' but Option A is 10 + x. Says 'Option B (10 + x)' but Option B is 10 - x — the correct answer. Explanation effectively calls the correct answer option wrong."
+    ]
+  },
+  {
+    "id": 2024,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A matches this structure perfectly' but Option A is 3x - 2, not 2 + 3x. Says 'Option B is incorrect' but Option B is 2 + 3x — the correct answer. Explanation calls the correct answer wrong.",
+      "Rule 7: Marked 'hard' but only requires identifying the correct algebraic expression from a word problem — medium at most."
+    ]
+  },
+  {
+    "id": 2025,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only simple recall of the Commutative Property name. Single-step identification with no calculation."
+    ]
+  },
+  {
+    "id": 2026,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2027,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation mislabels all options. Says 'Option A (1/4)' but Option A is 7/10. Says 'Option B (3/10)' but Option B is 3/4 (the correct answer). Option labels are completely scrambled.",
+      "Rule 7: Marked 'hard' but converting 0.75 to 3/4 is simple recall — easy level."
+    ]
+  },
+  {
+    "id": 2028,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2029,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation is an AI artifact containing internal reasoning and multiple self-corrections. It says 'The correct answer should be 1.5 g' contradicting the answer key of 2.0 g. Contains scratch-pad text about rewriting the question.",
+      "Rule 8: Factual error — 500 mg every 8 hours for 24 hours yields 3 doses × 500 mg = 1500 mg = 1.5 g, not 2.0 g. The correct answer B (2.0 g) is wrong; the correct answer should be A (1.5 g)."
+    ]
+  },
+  {
+    "id": 2030,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only two steps: 500 × 0.25 = 125, then 125 + 100 = 225. Medium at most."
+    ]
+  },
+  {
+    "id": 2031,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation mislabels options. Says 'Option A (2 liters)' but Option A is 0.5 liters. Says 'Option B (3 liters)' but Option B is 1 liter (the correct answer). Option-to-content mapping is wrong.",
+      "Rule 7: Marked 'hard' but requires only halving a proportion (6:2 → 3:1). Single-step reasoning."
+    ]
+  },
+  {
+    "id": 2032,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2033,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only identifying a +3 pattern and extending it two steps. Medium at most."
+    ]
+  },
+  {
+    "id": 2034,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A (3x + 4) fails' but Option A is 5x + 6. Says 'Option B (5x + 6) is wrong' but Option B is 5x + 4 — the correct answer. Explanation calls the correct answer wrong.",
+      "Rule 7: Marked 'hard' but adding two binomials (3x + 5) + (2x - 1) is single-step algebra — medium at most."
+    ]
+  },
+  {
+    "id": 2035,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2036,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A (2x - 5) matches this logic perfectly' but Option A is 5x - 2. Option D is 2x - 5 (the correct answer). Explanation endorses wrong option letter. Also Options A and C are identical (both 5x - 2), creating a structural flaw."
+    ]
+  },
+  {
+    "id": 2037,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option C omits the final addition step' but Option C is 5(20) + 10 = 110 — the correct answer. Explanation calls the correct answer wrong. It means to describe Option B but mislabels it as C.",
+      "Rule 7: Marked 'hard' but requires only evaluating 5×20 + 10 = 110. Simple substitution and arithmetic."
+    ]
+  },
+  {
+    "id": 2038,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2039,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2040,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2041,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only dividing 120 by 2. Trivially easy single-step calculation."
+    ]
+  },
+  {
+    "id": 2042,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'smallest whole number greater than 5 is 7' which is false (it's 6). Says 'Option C correct' but answer key says B. Says 'Option B (6) works mathematically but 7 is the minimum' — contradictory since 6 > 5.",
+      "Rule 7: Marked 'hard' but solving 3x + 5 > 20 and identifying the minimum integer is a two-step inequality — medium.",
+      "Rule 8: Factual error — the smallest whole number satisfying x > 5 is 6, not 7. 3(6) + 5 = 23 > 20. Correct answer should be C (6), not B (7)."
+    ]
+  },
+  {
+    "id": 2043,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A is right because it matches this exact result' but Option A is x < 5, not x > 5. Option D is x > 5 (the correct answer). Explanation says the correct answer (D) 'is incorrect since the inequality direction must stay greater than' — self-contradictory.",
+      "Rule 8: Explanation states 'dividing 15 by 3 does not give 5' which is factually false — 15/3 = 5 exactly."
+    ]
+  },
+  {
+    "id": 2044,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2045,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation is an AI artifact containing internal self-correction. It correctly calculates 5 × 4 = 20 mg, then says 'the correct answer should be 20 mg' contradicting the answer key of 40 mg. Contains raw reasoning text like 'Wait, re-reading:' and 'Let me recalculate.'",
+      "Rule 7: Marked 'hard' but requires only dividing 24 by 6 and multiplying by 5 — two simple steps.",
+      "Rule 8: Factual error — 5 mg every 6 hours = 4 doses/day. 4 × 5 = 20 mg, not 40 mg. The correct answer is A (20 mg), not C (40 mg)."
+    ]
+  },
+  {
+    "id": 2046,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only subtracting 2.5 from 10 (10 - 2.5 = 7.5). Trivially easy single-step subtraction."
+    ]
+  },
+  {
+    "id": 2047,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only adding three numbers (500 + 250 + 750 = 1500) and dividing by 1000. Medium at most."
+    ]
+  },
+  {
+    "id": 2048,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only dividing 500 by 250 (500/250 = 2). Trivially easy single-step division."
+    ]
+  },
+  {
+    "id": 2049,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only multiplying 2.5 by 1000 (2.5 × 1000 = 2500). Trivially easy single-step multiplication."
+    ]
+  },
+  {
+    "id": 2050,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only ordering 3 numbers and picking the middle one. Trivially easy."
+    ]
+  },
+  {
+    "id": 2051,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2052,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2053,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A is right because the temperature rises by exactly 0.4 degrees each hour' but Option A is 'A constant sequence.' Option D is 'linear sequence' (the correct answer). Explanation says 'Option D is false as exponential growth would involve multiplying' — calling the correct answer wrong.",
+      "Rule 7: Marked 'hard' but requires only identifying a constant rate of change as linear — simple recall."
+    ]
+  },
+  {
+    "id": 2054,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A (2 + 3 + 50 + 25) fails' but Option A is 50 + 25 + 2 + 3. Says 'Option B (2(50) + 3(25) + 100) incorrectly adds an extra 100 mg' but Option B is 2(50) + 3(25) — the correct answer. Explanation calls the correct answer wrong.",
+      "Rule 7: Marked 'hard' but requires only identifying the correct expression for a word problem — medium at most."
+    ]
+  },
+  {
+    "id": 2055,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation correctly calculates 6w = 6(10) = 60 mg and says 'The correct answer is D) 60 mg,' contradicting the answer key which says C (50 mg).",
+      "Rule 7: Marked 'hard' but requires only combining like terms (3w + 5w - 2w = 6w) and substituting — medium at most.",
+      "Rule 8: Factual error — 3(10) + 5(10) - 2(10) = 30 + 50 - 20 = 60 mg, not 50 mg. The answer C (50 mg) is incorrect; the correct answer is D (60 mg)."
+    ]
+  },
+  {
+    "id": 2056,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A matches this logic perfectly' but Option A is 3x - 5, not 3x + 5. Says 'Option D subtracts five instead of adding it' but Option D is 3x + 5 — the correct answer. Explanation calls the correct answer wrong.",
+      "Rule 7: Marked 'hard' but translating 'three times the weight plus five' to 3x + 5 is simple single-step translation."
+    ]
+  },
+  {
+    "id": 2057,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but translating '5 milligrams per kilogram plus a fixed 20 milligrams' to 5x + 20 is simple single-step translation."
+    ]
+  },
+  {
+    "id": 2058,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only identifying the Distributive Property from an example. Simple recall."
+    ]
+  },
+  {
+    "id": 2059,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2060,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only multiplying 0.5 by 1000 (0.5 × 1000 = 500). Trivially easy single-step multiplication."
+    ]
+  },
+  {
+    "id": 2061,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only multiplying 0.75 by 1000 (0.75 × 1000 = 750). Trivially easy single-step multiplication."
+    ]
+  },
+  {
+    "id": 2062,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2063,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A (6.0 mL) matches this calculation exactly' but Option A is 5.0 mL, not 6.0 mL. Option C is 6.0 mL (the correct answer). Explanation also mislabels Options B, C, and D with wrong values."
+    ]
+  },
+  {
+    "id": 2064,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7: Marked 'hard' but requires only multiplying 10 by 5 (10 × 5 = 50). Trivially easy single-step multiplication."
+    ]
+  },
+  {
+    "id": 2065,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A (1.5 mL) is half the needed dose' but Option A is 3.0 mL (the correct answer). Option D is 1.5 mL. Option labels are mismatched.",
+      "Rule 7: Marked 'hard' but setting up a basic proportion (500/2 = 750/x) is medium at most."
+    ]
+  },
+  {
+    "id": 2066,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A is correct because 500 times 3 equals 1500' but Option A is 1250 mg. Option D is 1500 mg (the correct answer). Explanation also says 'Option D is wrong because 2000 exceeds the total' but Option D is 1500, not 2000. Calls the correct answer wrong.",
+      "Rule 7: Marked 'hard' but requires only multiplying 500 by 3 (500 × 3 = 1500). Trivially easy single-step multiplication."
+    ]
+  },
+  {
+    "id": 2067,
+    "verdict": "PASS"
+  },
+  {
+    "id": 2068,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 3: Explanation says 'Option A is wrong because 15 only appears once' but Option A is 12.8, not 15. Says 'Option B is incorrect as 18 also appears just once' but Option B is 12 (the correct answer). Calls the correct answer wrong.",
+      "Rule 8: Explanation states 'the number 12 appears four times' but in the data (12, 15, 12, 18, 12) the number 12 appears three times, not four."
+    ]
+  },
+  {
+    "id": 2071,
+    "verdict": "PASS"
+  }
+]

@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# DB artifacts (user progress — not KB data)
+data/user_progress.db
+data/user_progress.db.bak
+data/questions.db
+
+# Development scripts and artifacts
+*_fix*.py
+*_retry*.py
+*_qc*.py
+*_test*.py
+*_pass*.py
+*_phase*.py
+build_*.py
+convert_*.py
+analyze_*.py
+vet_*.py
+screenshot.py
+_screenshot.py
+test_*.py
+launch_qc2.sh
+
+# HTML dev files
+math_quiz*.html
+canvas_demo.html
+mathjax_test.html
+
+# Logs and temp
+*.log
+*.log.jsonl
+*.bak
+
+# Textbooks (too large for git — 1GB+)
+textbooks/
+
+# Large media
+*.mp4
+static/screenshots/
+
+# Design mockups
+design/
+
+# IDE
+.vscode/

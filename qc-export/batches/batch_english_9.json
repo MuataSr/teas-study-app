@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1923,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Identify the sentence with correct subject-verb agreement.\n\nA. Each of the patients in the clinical trial have been notified.\nB. Every one of the participants were required to sign a waiver.\nC. Each of the students in the graduating class has submitted their application.\nD. Every one of the samples was tested for contamination.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "The words \"each\" and \"every one\" are always singular subjects and require singular verbs. Option D correctly uses the singular verb \"was\" with \"every one.\" Options A and B incorrectly use plural verbs (\"have,\" \"were\") with singular subjects. Option C correctly uses the singular verb \"has\" but then pairs it with the plural pronoun \"their,\" making it inconsistent. In formal writing, a singular subject should pair with a singular pronoun.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1924,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Choose the sentence with correct pronoun usage.\n\nA. Him and me went to the conference together.\nB. He and I went to the conference together.\nC. Him and I went to the conference together.\nD. Me and him went to the conference together.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Compound subjects require subject pronouns, not object pronouns. When pronouns are joined by \"and\" to form a compound subject, each pronoun must be in the subjective case. Option B correctly uses \"He and I\" as subject pronouns. Options A, C, and D all use the object pronoun \"me\" and/or \"him\" in the subject position, which is grammatically incorrect.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1925,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the sentence with correct pronoun-antecedent agreement.\n\nA. Every student must bring their own calculator.\nB. Every student must bring his or her own calculator.\nC. Every student must bring their calculator.\nD. Every student must bring our own calculator.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "In formal academic writing, singular antecedents require singular pronouns. \"Every student\" is singular, so the pronoun must also be singular. Option B correctly uses \"his or her\" to maintain singular agreement. While \"their\" (options A and C) has become common in everyday usage, formal TEAS-level writing still requires singular pronoun agreement with singular antecedents. Option D incorrectly uses \"our,\" which refers to a completely different group.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1926,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Which sentence uses the correct pronoun case?\n\nA. The supervisor gave the assignment to Sarah and I.\nB. The supervisor gave the assignment to Sarah and myself.\nC. The supervisor gave the assignment to Sarah and me.\nD. The supervisor gave the assignment to myself and Sarah.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "After a preposition like \"to,\" pronouns must be in the objective case. \"Me\" is the objective form of \"I.\" Option C correctly uses \"me\" as the object of the preposition \"to.\" Option A incorrectly uses the subject pronoun \"I\" after a preposition. Option B incorrectly uses the reflexive pronoun \"myself,\" which should only be used when the subject and object refer to the same person (e.g., \"I did it myself\"). Option D has the same reflexive pronoun error and also changes the order unnecessarily.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1927,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with the correct verb tense.\n\nA. She has went to the store already.\nB. She has gone to the store already.\nC. She had go to the store already.\nD. She have gone to the store already.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The present perfect tense is formed with \"has\" or \"have\" plus the past participle of the verb. The past participle of \"go\" is \"gone,\" not \"went\" (which is the simple past form). Option B correctly uses \"has gone.\" Option A incorrectly uses \"went\" instead of the past participle. Option C incorrectly uses \"had go\" mixing past perfect auxiliary with base form. Option D incorrectly uses \"have\" instead of \"has\" with the singular subject \"She.\"",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1928,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Select the sentence with the correct verb tense.\n\nA. By the time the surgeon arrived, the patient had already been prepped.\nB. By the time the surgeon arrived, the patient already has been prepped.\nC. By the time the surgeon arrived, the patient already was prepped.\nD. By the time the surgeon arrived, the patient had already being prepped.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The past perfect tense (\"had\" + past participle) describes an action completed before another past action. Since the prepping happened before the surgeon arrived (both past events), the past perfect \"had already been prepped\" is correct. Option B incorrectly uses present perfect \"has been\" for a past-time context. Option C uses simple past \"was prepped\" which doesn't clearly establish the sequence of events. Option D incorrectly uses \"being\" instead of the past participle \"been.\"",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1929,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Which sentence uses the correct verb tense and form?\n\nA. The researchers will have been studying the effects for three years by next December.\nB. The researchers will have studying the effects for three years by next December.\nC. The researchers will being studying the effects for three years by next December.\nD. The researchers will had been studying the effects for three years by next December.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The future perfect progressive tense describes an ongoing action that will be completed by a specific future time. It is formed with \"will have been\" + present participle (-ing). Option A correctly uses this structure: \"will have been studying.\" Option B omits \"been\" from the auxiliary chain. Option C incorrectly uses \"will being,\" which is not a valid tense construction. Option D incorrectly mixes future \"will\" with past perfect \"had been,\" which is contradictory.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1930,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Choose the sentence that uses commas correctly.\n\nA. The tall, dark, handsome man entered the room.\nB. The tall dark handsome man entered the room.\nC. The tall, dark handsome, man entered the room.\nD. The, tall dark, handsome man entered the room.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "When three or more adjectives of equal importance modify the same noun, they should be separated by commas. This is called the \"coordinate adjectives\" rule. Option A correctly places commas between all three adjectives: \"tall, dark, handsome.\" Option B omits all commas between the coordinate adjectives. Option C incorrectly places a comma after the last adjective before the noun. Option D incorrectly places commas before the first and after the second adjective.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1931,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Select the sentence with correct comma usage.\n\nA. The patient, who had a history of diabetes was admitted for observation.\nB. The patient who had a history of diabetes, was admitted for observation.\nC. The patient who had a history of diabetes was admitted for observation.\nD. The patient, who had a history of diabetes, was admitted for observation.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A",
+      "C",
+      "B"
+    ],
+    "explanation": "Nonrestrictive (nonessential) clauses provide extra information and must be set off by commas on both sides. A restrictive (essential) clause, which limits the meaning of the noun it modifies, should not have commas. In this context, if the clause adds extra information about a specific patient, it is nonrestrictive and needs both commas. Option D correctly places commas on both sides of the nonrestrictive clause. Option A is missing the second comma. Option B has the comma in the wrong position. Option C has no commas, treating it as restrictive.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1932,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Which sentence demonstrates correct comma usage with introductory elements?\n\nA. After reviewing the lab results the physician ordered additional tests.\nB. After reviewing the lab results, the physician ordered additional tests.\nC. After, reviewing the lab results, the physician ordered additional tests.\nD. After reviewing the lab results the physician, ordered additional tests.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "An introductory dependent clause should be followed by a comma before the main independent clause begins. Option B correctly places a single comma after the introductory clause \"After reviewing the lab results\" to separate it from the main clause. Option A omits the necessary comma after the introductory element. Option C incorrectly places a comma after \"After\" which breaks up the prepositional phrase. Option D incorrectly places a comma between the subject \"physician\" and the verb \"ordered.\"",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1933,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Identify the sentence written in active voice.\n\nA. The medication was administered by the nurse.\nB. The nurse administered the medication.\nC. The medication has been administered.\nD. The patients were examined by the doctor.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "In active voice, the subject of the sentence performs the action. In passive voice, the subject receives the action. Option B uses active voice because the subject \"nurse\" performs the action \"administered\" on the object \"medication.\" Options A, C, and D are all in passive voice because the subjects (\"medication,\" \"medication,\" \"patients\") receive the action rather than performing it.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1934,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Choose the sentence that correctly converts the passive sentence to active voice.\n\nPassive: The experiment was conducted by the research team.\n\nA. The experiment conducted the research team.\nB. The research team was conducting the experiment.\nC. The research team conducted the experiment.\nD. Conducted by the research team, the experiment was done.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "To convert from passive to active voice, move the object of the preposition \"by\" (the doer of the action) to the subject position, and make the original subject the object. The verb should also be changed to match the new subject. Option C correctly places \"research team\" as the subject performing the action \"conducted\" on the object \"experiment.\" Option A incorrectly makes the experiment the doer. Option B changes to past progressive tense unnecessarily. Option D remains in passive voice.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1935,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Which sentence best uses active voice while maintaining the same meaning?\n\nPassive: The new policy was implemented by the hospital administration to improve patient outcomes.\n\nA. The hospital administration implementing the new policy to improve patient outcomes.\nB. To improve patient outcomes, the hospital administration implemented the new policy.\nC. The new policy implemented the hospital administration.\nD. Implementation of the new policy was done by the hospital administration.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B correctly converts to active voice by making \"hospital administration\" the subject performing \"implemented\" on the object \"new policy,\" while preserving the purpose clause. Option A is a fragment because it uses a participle \"implementing\" instead of a finite verb. Option C incorrectly makes the policy the doer of the action. Option D remains in passive voice with \"was done by.\" Active voice is generally preferred for clarity and directness.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1936,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the correct word to complete the sentence.\n\nThe nurse noticed that the patient's breathing had ____ significantly since the last check.\n\nA. effected\nB. affected\nC. effectedly\nD. affectted",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Affect\" is a verb meaning to influence or produce a change in something. \"Effect\" is typically a noun meaning the result of a change. In this sentence, we need a verb (past tense) to describe what happened to the breathing. Option B correctly uses \"affected\" as the past tense verb. Option A uses \"effected\" which means to bring about or accomplish, not to influence. Option C is not a real word. Option D is a misspelling.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1937,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Select the sentence with the correct word usage.\n\nA. The principle reason for the policy change was patient safety.\nB. The principal reason for the policy change was patient safety.\nC. The principal reason for the policy change was patient principal.\nD. The principle of the matter was that patient safety was principal.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Principal\" as an adjective means most important or primary. \"Principle\" is a noun meaning a fundamental truth, rule, or belief. In this sentence, we need the adjective form meaning \"main\" or \"primary\" reason. Option B correctly uses \"principal\" as an adjective modifying \"reason.\" Option A incorrectly uses the noun \"principle\" where the adjective \"principal\" is needed. Option C redundantly uses \"principal\" twice. Option D mixes the two words in a confusing way.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1938,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Choose the sentence that uses \"complement\" and \"compliment\" correctly.\n\nA. The doctor paid her a nice complement about her complement skills.\nB. The nurse received a compliment on how well her skills complement the team.\nC. The compliment of the treatment plan complemented the patient.\nD. The team's complement was complimented by the new hire.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Complement\" means to complete, enhance, or make something perfect (or a thing that completes something). \"Compliment\" means an expression of praise or admiration. Option B correctly uses both words: \"compliment\" as praise for the nurse, and \"complement\" meaning her skills enhance the team. Option A uses \"complement\" (to complete) where \"compliment\" (praise) is needed in both instances. Option C confuses the meanings. Option D uses both words incorrectly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1939,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Choose the sentence that uses a semicolon correctly.\n\nA. The patient was discharged; because she had recovered fully.\nB. The patient was discharged; she had recovered fully.\nC. The patient; was discharged because she had recovered fully.\nD. The patient was discharged she; had recovered fully.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A semicolon is used to join two closely related independent clauses without a coordinating conjunction. Each clause on either side of the semicolon must be a complete sentence that can stand alone. Option B correctly joins two independent clauses with a semicolon. Option A incorrectly places a semicolon before a dependent clause (\"because she had recovered fully\" cannot stand alone). Option C incorrectly separates a subject from its verb. Option D incorrectly splits the second clause.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1940,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Select the sentence with correct colon usage.\n\nA. The symptoms included: fever, chills, and fatigue.\nB. The patient presented with three symptoms: fever, chills, and fatigue.\nC. The patient: presented with three symptoms of fever, chills, and fatigue.\nD. Three symptoms the patient presented with: were fever, chills, and fatigue.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A colon is used after an independent clause to introduce a list, explanation, or quotation. The clause before the colon must be a complete sentence that can stand on its own. Option B correctly uses a colon after the complete independent clause to introduce the list of symptoms. Option A incorrectly places a colon after a verb (\"included\") without a complete independent clause before it. Option C incorrectly separates the subject from its verb. Option D places the colon after a prepositional phrase, not an independent clause.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1941,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Which sentence uses the semicolon and conjunctive adverb correctly?\n\nA. The lab results were inconclusive; however the physician decided to proceed with treatment.\nB. The lab results were inconclusive; however, the physician decided to proceed with treatment.\nC. The lab results were inconclusive, however; the physician decided to proceed with treatment.\nD. The lab results were inconclusive; However, the physician decided to proceed with treatment.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "When a conjunctive adverb (like \"however,\" \"therefore,\" \"moreover\") follows a semicolon, it should be followed by a comma. This creates the pattern: independent clause + semicolon + conjunctive adverb + comma + independent clause. Option B correctly follows this pattern. Option A is missing the comma after \"however.\" Option C incorrectly places the semicolon after \"however.\" Option D incorrectly capitalizes \"however\" (only the first word after a semicolon should be capitalized if it is a proper noun).",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1942,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Identify the sentence without a misplaced modifier.\n\nA. Walking through the park, the flowers smelled beautiful.\nB. Walking through the park, I noticed the flowers smelled beautiful.\nC. The flowers smelled beautiful walking through the park.\nD. Beautifully smelling, the flowers were walked through the park.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A modifier should be placed as close as possible to the word it modifies. A misplaced modifier creates ambiguity about what is being described. Option B correctly places the modifier \"Walking through the park\" next to \"I,\" the person who is actually walking. Option A implies the flowers were walking. Option C ambiguously suggests the flowers were walking. Option D nonsensically suggests the flowers were doing the walking and modifies the sentence structure incorrectly.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1943,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Choose the sentence with correct modifier placement.\n\nA. The chef only added salt to the soup.\nB. The chef added only salt to the soup.\nC. Only the chef added salt to the soup.\nD. The chef added salt only to the soup.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The placement of \"only\" changes the meaning of the sentence. Option B means salt was the sole ingredient added (nothing else was added). This is the most likely intended meaning in a cooking context. Option A means the chef did nothing else besides adding salt (didn't stir, taste, etc.). Option C means no one besides the chef added salt. Option D means salt was added to the soup and nothing else (not to other dishes). The correct placement depends on intent, and in most cooking contexts, option B conveys the standard meaning.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1944,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Select the sentence that corrects the dangling modifier.\n\nA. Having studied all night, the exam was difficult.\nB. Having studied all night, I found the exam difficult.\nC. The exam was difficult, having studied all night.\nD. Having studied all night, difficulty was found in the exam.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A dangling modifier has no logical subject to modify \u2014 the subject of the main clause does not perform the action in the modifying phrase. In the modifying phrase \"Having studied all night,\" someone studied, but in options A, C, and D, the subject of the main clause is \"the exam\" or \"difficulty,\" neither of which can study. Option B correctly provides \"I\" as the subject who both studied and found the exam difficult, logically connecting the modifier to the subject.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1945,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Choose the sentence with correct parallel structure.\n\nA. She likes hiking, swimming, and to ride bikes.\nB. She likes hiking, swimming, and riding bikes.\nC. She likes to hike, swimming, and riding bikes.\nD. She likes hiking, to swim, and ride bikes.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Parallel structure means using the same grammatical form for items in a list or series. When listing activities after a verb, each item should be in the same form (all gerunds or all infinitives). Option B correctly uses the gerund form (-ing) for all three activities: \"hiking, swimming, and riding.\" Options A, C, and D all mix gerunds (-ing) with infinitives (to + verb), breaking parallel structure and creating an awkward sentence rhythm.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1946,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Select the sentence with correct parallel structure.\n\nA. The study revealed that the drug was effective, safe, and it was affordable.\nB. The study revealed that the drug was effective, safe, and affordable.\nC. The study revealed that the drug was effective, safely, and affordable.\nD. The study revealed that the drug was effectiveness, safe, and affordable.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "In a series of adjectives following a linking verb, all items should be in the same grammatical form. Option B correctly uses three parallel adjectives: \"effective, safe, and affordable.\" Option A breaks parallelism by adding \"it was\" before the third item. Option C incorrectly uses the adverb \"safely\" instead of the adjective \"safe.\" Option D incorrectly uses the noun \"effectiveness\" instead of the adjective \"effective.\"",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1947,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Which sentence demonstrates correct parallel structure with correlative conjunctions?\n\nA. The researcher not only designed the experiment but also conducted it.\nB. The researcher not only designed the experiment but also conducting it.\nC. The researcher not only designing the experiment but also conducted it.\nD. Not only the researcher designed the experiment but also she conducted it.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Correlative conjunctions (not only...but also, either...or, neither...nor) require parallel grammatical forms after each conjunction. Option A correctly pairs the past tense verb \"designed\" with \"conducted\" \u2014 both are simple past verbs. Option B pairs a past tense verb with a present participle, breaking parallelism. Option C pairs a present participle with a past tense verb. Option D shifts the subject position, making the structure unbalanced (a full clause after \"not only\" vs. a clause after \"but also\").",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1948,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Choose the sentence with correct apostrophe usage.\n\nA. The nurse's station is on the second floor.\nB. The nurses station is on the second floor.\nC. The nurse's' station is on the second floor.\nD. The nurses' station is on the second floor.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "An apostrophe before the \"s\" indicates singular possession (one nurse owns the station). An apostrophe after the \"s\" indicates plural possession (multiple nurses own the station). Option A correctly uses the singular possessive \"nurse's\" since a station typically belongs to one nurse or is a singular concept. Option B has no apostrophe and is incorrect for showing possession. Option C incorrectly uses two apostrophes. Option D uses the plural possessive, which would imply the station belongs to multiple nurses.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1949,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Select the sentence with correct apostrophe usage.\n\nA. Its' important to monitor the patient's vital signs.\nB. Its important to monitor the patient's vital signs.\nC. It's important to monitor the patient's vital signs.\nD. It's important to monitor the patients' vital signs.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "\"It's\" is a contraction of \"it is\" or \"it has.\" \"Its\" (no apostrophe) is the possessive pronoun. Additionally, \"patient's\" (singular possessive) indicates one patient's vital signs, while \"patients'\" (plural possessive) would indicate multiple patients' vital signs. Option C correctly uses \"It's\" as a contraction of \"it is\" and \"patient's\" for singular possession. Option A uses the nonexistent form \"Its'.\" Option B omits the apostrophe in the contraction. Option D uses the plural possessive which changes the meaning.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1950,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Which sentence uses apostrophes correctly?\n\nA. The Jones's went to the store, but the Smiths' stayed home.\nB. The Joneses went to the store, but the Smiths stayed home.\nC. The Joneses' went to the store, but the Smiths stayed home.\nD. The Jones' went to the store, but the Smith's stayed home.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Pluralizing proper nouns ending in \"s\" requires adding \"-es\" (Joneses). When showing possession for such names, add only an apostrophe at the end (the Joneses' house). When a name is simply plural (no possession), no apostrophe is needed. Option B correctly uses \"Joneses\" (plural, no possession) and \"Smiths\" (plural, no possession). Option A incorrectly adds possessive apostrophes to both. Option C incorrectly adds a possessive apostrophe to the non-possessive plural. Option D incorrectly uses an apostrophe for the simple plural \"Smiths.\"",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1951,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Choose the most appropriate sentence for formal academic writing.\n\nA. The researcher found out that the results were really good.\nB. The researcher discovered that the results were significant.\nC. The researcher figured out that the results were awesome.\nD. The researcher got that the results were pretty neat.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Formal academic writing requires precise, professional language without colloquialisms, slang, or vague intensifiers. Option B uses formal vocabulary (\"discovered\" instead of \"found out,\" \"significant\" instead of \"really good\"). Options A, C, and D all use informal language: \"found out\" and \"really good\" in A, \"figured out\" and \"awesome\" in C, and \"got\" and \"pretty neat\" in D are all too casual for academic or professional writing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1952,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Select the sentence most appropriate for a professional healthcare document.\n\nA. The doc said the patient needs to take their meds on time.\nB. The physician indicated that the patient should adhere to the prescribed medication schedule.\nC. The doctor mentioned that the patient's gotta take their pills.\nD. The physician said the patient should remember to take their medicine.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Professional healthcare documents require formal, precise terminology. Option B uses appropriate professional language: \"physician\" (formal title), \"indicated\" (precise verb), \"adhere to\" (formal phrasing), and \"prescribed medication schedule\" (technical specificity). Option A uses informal abbreviations (\"doc,\" \"meds\"). Option C uses colloquial language (\"gotta\"). Option D is better than A and C but still uses casual phrasing (\"said,\" \"remember to take their medicine\") rather than precise clinical language.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1953,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Which sentence is written in the most appropriate register for a research abstract?\n\nA. A bunch of patients got better after they took the new drug, which is super exciting.\nB. The new drug demonstrated significant efficacy, with a substantial proportion of patients showing marked clinical improvement.\nC. The new drug worked really well and lots of patients got much better after taking it.\nD. Patients showed improvement after taking the drug, which was a really great outcome for the study.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Research abstracts require the most formal academic register, using precise technical language, objective tone, and specific terminology. Option B exemplifies this with phrases like \"demonstrated significant efficacy,\" \"substantial proportion,\" and \"marked clinical improvement.\" Option A uses informal quantifiers (\"a bunch\") and informal intensifiers (\"super exciting\"). Option C uses casual language (\"worked really well,\" \"lots of\"). Option D uses vague intensifiers (\"really great\") that lack precision appropriate for research.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1954,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Choose the best topic sentence for a paragraph about the benefits of regular exercise.\n\nA. Running is fun and people like it.\nB. Regular exercise provides numerous physical and mental health benefits.\nC. I exercise every day and feel great.\nD. Exercise has been around for a long time.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A good topic sentence introduces the main idea of a paragraph broadly and specifically enough to guide the reader. It should be neither too narrow nor too vague. Option B clearly states the paragraph's main idea \u2014 that exercise has multiple physical and mental benefits \u2014 and sets up supporting sentences that would detail those specific benefits. Option A is too narrow (only about running). Option C is a personal anecdote, not a general topic sentence. Option D is too vague and doesn't suggest what the paragraph will discuss.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1955,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Select the sentence that would best serve as a concluding sentence for a paragraph about water conservation.\n\nA. There are many ways to conserve water.\nB. Plants need water to survive.\nC. By adopting these water-saving practices, individuals can significantly reduce their daily water consumption.\nD. The first step in water conservation is fixing leaky faucets.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "A concluding sentence should summarize the paragraph's main idea and provide a sense of closure. It often restates the topic in a new way or provides a final thought about the topic. Option C effectively concludes by summarizing the paragraph's key point (adopting conservation practices) and providing the result (reduced water consumption). Option A is too general and could be a topic sentence. Option B introduces a new topic not covered. Option D introduces a new idea rather than concluding.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1956,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Which sentence contains a transition that BEST shows cause and effect?\n\nA. The patient experienced a severe allergic reaction; consequently, the medication was immediately discontinued.\nB. The patient experienced a severe allergic reaction; meanwhile, the medication was continued.\nC. The patient experienced a severe allergic reaction; similarly, the medication was effective.\nD. The patient experienced a severe allergic reaction; furthermore, the medication was prescribed.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Transition words signal the logical relationship between ideas. \"Consequently\" indicates a cause-and-effect relationship \u2014 one event happened as a result of another. Option A correctly uses \"consequently\" to show that discontinuing the medication was the result (effect) of the allergic reaction (cause). Option B uses \"meanwhile\" which shows simultaneity, not causation. Option C uses \"similarly\" which shows comparison, which is illogical here. Option D uses \"furthermore\" which shows addition, not cause and effect.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1957,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Choose the sentence that functions as a strong thesis statement for an essay.\n\nA. This essay will talk about nutrition.\nB. A balanced diet rich in fruits, vegetables, and whole grains is essential for maintaining optimal health and preventing chronic diseases.\nC. Nutrition is important for everyone.\nD. People should eat better because it's good for them.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A strong thesis statement presents a clear, specific, arguable claim that guides the entire essay. Option B is a strong thesis because it is specific (names what a balanced diet includes), makes a clear claim (essential for health and disease prevention), and gives the reader a roadmap for what the essay will cover. Option A is too vague and doesn't state a position. Option C is a broad, unarguable fact. Option D is too informal and lacks specificity about what \"eat better\" means.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1958,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Select the sentence that is the most effective thesis statement.\n\nA. Social media has both good and bad effects on teenagers.\nB. While social media can foster meaningful connections among teenagers, excessive use is linked to increased anxiety, decreased academic performance, and disrupted sleep patterns.\nC. Teenagers use social media a lot and it affects them.\nD. Social media is bad for teenagers because of many reasons.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "An effective thesis statement should be specific, arguable, and provide a clear direction for the essay. Option B is strong because it acknowledges a counterpoint (\"can foster meaningful connections\"), presents a clear argument (excessive use causes specific problems), and lists the specific effects that will be discussed in the essay body. Option A is too vague (\"good and bad effects\"). Option C is too informal and general. Option D states an opinion without specific supporting points.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1959,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Which sentence would be the strongest thesis for an argumentative essay about renewable energy?\n\nA. Renewable energy is the future.\nB. Although the initial investment in renewable energy infrastructure is substantial, the long-term economic benefits, environmental sustainability, and energy independence make it a necessary transition for global stability.\nC. Solar and wind power are better than fossil fuels.\nD. We should switch to renewable energy because fossil fuels cause pollution.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A strong argumentative thesis must present a clear position, acknowledge complexity, and outline the scope of the argument. Option B does this by acknowledging the counterargument (high initial investment), stating a clear position (transition is necessary), and providing three specific supporting points (economic benefits, environmental sustainability, energy independence). Option A is a clich\u00e9 without substance. Option C is too simplistic and doesn't acknowledge complexity. Option D states a valid point but is too basic for an academic essay.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1960,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Select the sentence where the word \"running\" functions as a verb.\n\nA. Running is excellent cardiovascular exercise.\nB. The running water cooled the engine.\nC. She has been running every morning.\nD. The running of the business was efficient.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "\"Running\" can function as different parts of speech depending on its role in the sentence. In option C, \"running\" is part of the verb phrase \"has been running\" (present perfect progressive tense), so it functions as a verb. In option A, \"running\" is a gerund (verb form ending in -ing that functions as a noun \u2014 it is the subject of the sentence). In option B, \"running\" is a present participle functioning as an adjective modifying \"water.\" In option D, \"running\" is a gerund functioning as a noun.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1961,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Which sentence uses the word \"fast\" as an adverb?\n\nA. The fast car won the race.\nB. The cheetah runs fast.\nC. The fast is the most important meal of the day.\nD. We observed a fast in the religious ceremony.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "An adverb modifies a verb, adjective, or another adverb. In option B, \"fast\" modifies the verb \"runs\" by describing how the cheetah runs, so it functions as an adverb. In option A, \"fast\" modifies the noun \"car\" and functions as an adjective. In option C, \"fast\" (meaning to abstain from eating) is used as a noun. In option D, \"fast\" is used as a noun referring to the period of not eating. The word \"fast\" is unusual because its adverb and adjective forms are identical.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1962,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Choose the sentence that is written most clearly.\n\nA. The thing that the doctor said about the thing with the patient was confusing.\nB. The doctor's explanation of the patient's condition was confusing.\nC. What the doctor said about what was going on with the patient was confusing.\nD. The confusing thing was said by the doctor about the patient.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Clear writing uses specific nouns and precise verbs rather than vague words like \"thing,\" \"what,\" and \"stuff.\" Option B replaces vague language with specific terms: \"explanation\" instead of \"thing said,\" and \"condition\" instead of \"thing with.\" Options A, C, and D all use vague, repetitive language that makes the sentence unclear and wordy. Option B also uses fewer words while conveying more precise meaning.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1963,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Select the sentence that best eliminates wordiness.\n\nA. Due to the fact that the patient had a history of heart disease, extra precautions were taken.\nB. Because the patient had a history of heart disease, extra precautions were taken.\nC. The reason why extra precautions were taken was because the patient had a history of heart disease.\nD. Extra precautions were taken due to the fact of the patient's history of heart disease.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Concise writing eliminates unnecessary words while preserving meaning. \"Due to the fact that\" is a wordy phrase that can be replaced with the single word \"because.\" Option B is the most concise version, using \"Because\" instead of the wordy phrase. Option A uses the full wordy phrase. Option C uses both \"the reason why\" and \"because,\" creating redundancy. Option D uses the wordy phrase in a different position. All convey the same information, but B does so most efficiently.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1964,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Which revision best fixes the run-on sentence?\n\nOriginal: The patient arrived at the emergency room the triage nurse assessed her condition she was immediately taken to a treatment room.\n\nA. The patient arrived at the emergency room, the triage nurse assessed her condition, she was immediately taken to a treatment room.\nB. When the patient arrived at the emergency room, the triage nurse assessed her condition and she was immediately taken to a treatment room.\nC. The patient arrived at the emergency room and the triage nurse assessed her condition and she was immediately taken to a treatment room.\nD. The patient arrived at the emergency room the triage nurse assessed her condition, she was immediately taken to a treatment room.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "A run-on sentence occurs when two or more independent clauses are joined without proper punctuation or conjunctions. The original has three independent clauses run together. Option B fixes this by converting the first clause into a dependent clause with \"When\" and joining the remaining two with \"and,\" creating a grammatically correct complex-compound structure. Option A merely adds commas (a comma splice). Option C overuses \"and\" creating a compound sentence that lacks proper pacing. Option D still contains a run-on between the first two clauses.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1965,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which piece of evidence best supports the claim that regular exercise improves mental health?\n\nA. Many people enjoy exercising.\nB. A 2020 study published in the Journal of Clinical Psychiatry found that adults who exercised 30 minutes daily reported a 40% reduction in anxiety symptoms.\nC. Exercise has been popular for many years.\nD. Some doctors recommend exercise.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Strong supporting evidence is specific, credible, and directly relevant to the claim. Option B provides the strongest evidence because it includes specific data (40% reduction in anxiety), identifies the source (Journal of Clinical Psychiatry, 2020), specifies the sample and method (adults exercising 30 minutes daily), and directly supports the claim about mental health. Options A, C, and D are vague, unsupported opinions without specific data or credible sources.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1966,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Choose the sentence that provides the most relevant supporting evidence.\n\nClaim: School uniforms reduce bullying.\n\nA. School uniforms come in many different styles.\nB. According to a 2018 study by the National Association of Elementary School Principals, schools with uniform policies reported a 75% decrease in bullying incidents within two years.\nC. Some students like wearing uniforms.\nD. Uniforms are required in many countries around the world.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Effective supporting evidence must directly address the specific claim being made. The claim is about uniforms reducing bullying, so the evidence must connect uniforms to bullying reduction. Option B directly supports this with quantified data from a credible source. Options A, C, and D are about uniforms but none addresses bullying \u2014 they discuss styles, student preferences, and global adoption, which are irrelevant to the claim about bullying reduction.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1967,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which evidence would best strengthen an argument that renewable energy should replace fossil fuels?\n\nA. Solar panels look nice on rooftops.\nB. The International Energy Agency reported in 2023 that transitioning to renewables could prevent 4.5 million premature deaths annually from air pollution while creating 14 million new jobs.\nC. Some people have installed solar panels on their homes.\nD. Fossil fuels have been used for hundreds of years.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Strong argumentative evidence addresses both the benefits of the proposed change and the drawbacks of the current situation, using specific data from credible sources. Option B provides comprehensive evidence: a credible source (IEA), specific benefits (preventing deaths, creating jobs), quantified data (4.5 million lives, 14 million jobs), and addresses both health and economic arguments. Options A and C are anecdotal. Option D is a fact about fossil fuels that doesn't support the argument for change.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1968,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Read the sentence and determine the meaning of the word \"diverse.\"\n\nThe hospital serves a diverse population, including patients from over 30 different countries.\n\nA. Wealthy\nB. Varied or different\nC. Small in number\nD. Local",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Context clues help determine word meaning. The phrase \"including patients from over 30 different countries\" provides the context that helps define \"diverse.\" Since the patients come from many different countries, \"diverse\" in this context means varied or different. Option A (wealthy) is not supported by the context. Option C (small) contradicts the large number mentioned. Option D (local) contradicts the international origin of the patients.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1969,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Read the sentence and determine the meaning of \"mitigate.\"\n\nThe hospital implemented new safety protocols to mitigate the risk of infection.\n\nA. Eliminate completely\nB. Increase\nC. Reduce or lessen\nD. Study",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "In context, \"mitigate\" means to make something less severe or reduce its impact. Safety protocols are measures designed to reduce risk, not eliminate it entirely. Option C correctly identifies this meaning. Option A is incorrect because \"mitigate\" means to lessen, not completely eliminate. Option B is the opposite of the intended meaning. Option D is unrelated \u2014 \"mitigate\" is about reducing negative effects, not studying them.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1970,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "Read the sentence and determine the meaning of \"ubiquitous.\"\n\nSmartphones have become ubiquitous in modern society, with over 85% of adults owning one.\n\nA. Expensive\nB. Found everywhere\nC. Rare and unusual\nD. Outdated",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Ubiquitous\" means present, appearing, or found everywhere. The context clue \"over 85% of adults owning one\" supports this meaning \u2014 if that many people have something, it is indeed found everywhere in society. Option A (expensive) contradicts widespread ownership. Option C (rare) is the opposite of ubiquitous. Option D (outdated) contradicts the modern context of the sentence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1971,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the sentence with correct pronoun usage.\n\nA. Between you and I, the test was extremely difficult.\nB. Between you and me, the test was extremely difficult.\nC. Between you and myself, the test was extremely difficult.\nD. Between me and you, the test was extremely difficult.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "After a preposition (\"between\"), pronouns must be in the objective case. \"Me\" is the objective form of \"I.\" Option B correctly uses \"you and me\" after the preposition \"between.\" Option A incorrectly uses the subject pronoun \"I.\" Option C incorrectly uses the reflexive pronoun \"myself,\" which should only be used when the subject and object are the same person. Option D reverses the conventional word order (polite usage places \"you\" before \"me\") though it is technically grammatical.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1972,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Choose the sentence with the correct verb form.\n\nA. The data suggests that the treatment is effective.\nB. The data suggest that the treatment is effective.\nC. The data suggesting that the treatment is effective.\nD. The data have suggested that the treatment is effective.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "\"Data\" is the plural form of \"datum\" in formal scientific writing, so it takes a plural verb. Option B correctly uses the plural verb \"suggest.\" Option A incorrectly uses the singular verb \"suggests.\" Option C uses a participle (\"suggesting\") that creates a grammatically incomplete sentence. Option D uses the plural verb \"have suggested\" which is grammatically correct for past tense, but in the present-tense context of the sentence, the simple present \"suggest\" is more appropriate.",
+    "difficulty": "hard",
+    "status": "active"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1416,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "When a person is chronically sleep-deprived, their cognitive abilities degrade significantly. They experience slower reaction times, impaired judgment, and reduced attention span. Over time, chronic sleep deprivation can even lead to structural changes in the brain, particularly in areas associated with memory and learning.\nWhat can be logically inferred from this passage?\n\nA) Taking a single nap can permanently reverse all structural brain changes caused by sleep deprivation.\nB) People who sleep eight hours a night never experience impaired judgment.\nD) Sleep deprivation only affects physical reaction times and has no impact on mental processes.\n\nA) Taking a single nap can permanently reverse all structural brain changes caused by sleep deprivation.\nB) People who sleep eight hours a night never experience impaired judgment.\nC) Option A is wrong as the text mentions structural changes occur over time but never claims a single nap can reverse them\nD) Sleep deprivation only affects physical reaction times and has no impact on mental processes.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Taking a single nap can permanently reverse all structural brain changes caused by sleep deprivation.",
+      "B) People who sleep eight hours a night never experience impaired judgment.",
+      "D) Sleep deprivation only affects physical reaction times and has no impact on mental processes."
+    ],
+    "explanation": "Option C is right because the passage states chronic sleep deprivation causes reduced attention and structural brain changes in memory areas, implying a student staying up all night would suffer these specific deficits. Option A is wrong as the text mentions structural changes occur over time but never claims a single nap can reverse them. Option B is incorrect because the passage explicitly lists impaired judgment as a symptom of sleep deprivation, regardless of duration. Option D is false since the text clearly states cognitive abilities degrade and lists mental impacts like impaired judgment alongside physical reaction times.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1417,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: Telehealth services have revolutionized healthcare by allowing patients in rural areas to consult with specialists without traveling long distances.\nPassage B: While telehealth improves access, it lacks the physical examination component that is often crucial for accurate diagnoses. A doctor cannot listen to a patient's lungs or palpate an abdomen through a screen.\nHow does Passage B relate to Passage A?\n\nA) It completely agrees with the conclusions made in Passage A.\nB) It provides an unrelated fact about rural healthcare.\nC) It offers a step-by-step guide on how to use telehealth.\n\nA) It completely agrees with the conclusions made in Passage A.\nB) It provides an unrelated fact about rural healthcare.\nC) It offers a step-by-step guide on how to use telehealth.\nD) Option A is incorrect because Passage B explicitly disagrees with the idea that telehealth is perfect for all diagnoses",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) It completely agrees with the conclusions made in Passage A.",
+      "B) It provides an unrelated fact about rural healthcare.",
+      "C) It offers a step-by-step guide on how to use telehealth."
+    ],
+    "explanation": "Passage B directly challenges the positive claims of Passage A by introducing a significant limitation regarding physical examinations. While Passage A highlights the convenience of telehealth for rural patients, Passage B argues that this method lacks crucial diagnostic tools like listening to lungs or palpating an abdomen. This contrast makes option D the only valid choice as it identifies the text as a counterargument to the initial benefits. Option A is incorrect because Passage B explicitly disagrees with the idea that telehealth is perfect for all diagnoses. Option B fails because the text specifically discusses telehealth's limitations, not unrelated rural healthcare facts. Finally, option C is wrong since the passage offers no instructions or steps on how to utilize the technology.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1418,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A study found that hospitals implementing strict checklists for surgical procedures saw a 30% reduction in post-operative infections. However, critics argue that checklists create a false sense of security and that the reduction in infections is actually due to improved sterilization techniques implemented at the same time.\nWhich of the following best evaluates the strength of the critics' argument?\n\nB) It is weak because it proves that checklists are dangerous for patients.\nC) It is strong because it shows that infections dropped by exactly 30 percent.\nD) It is weak because it fails to provide any alternative explanation for the data.\n\nA) This directly addresses the study's limitation by offering an alternative cause for the infection drop\nB) It is weak because it proves that checklists are dangerous for patients.\nC) It is strong because it shows that infections dropped by exactly 30 percent.\nD) It is weak because it fails to provide any alternative explanation for the data.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) It is weak because it proves that checklists are dangerous for patients.",
+      "C) It is strong because it shows that infections dropped by exactly 30 percent.",
+      "D) It is weak because it fails to provide any alternative explanation for the data."
+    ],
+    "explanation": "Option A is right because the critics introduce sterilization techniques as a confounding variable, suggesting the checklist effect might be coincidental. This directly addresses the study's limitation by offering an alternative cause for the infection drop. Option B is wrong because the passage never claims checklists are dangerous, only that they might create a false sense of security. Option C is incorrect since the 30% figure supports the study, not the critics' alternative explanation about sterilization. Option D is wrong because the critics do provide an alternative explanation, making their argument strong rather than weak.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1419,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The introduction of the polio vaccine in the 1950s led to a dramatic decline in cases of the disease. Today, polio is nearly eradicated globally, with only a few isolated cases remaining in countries with unstable healthcare infrastructure.\nWhat conclusion can be drawn from this information?\n\nA) Polio was never a serious threat to global public health.\nC) Countries with stable healthcare infrastructure do not need to administer the polio vaccine.\nD) The decline of polio was entirely due to natural changes in the virus's DNA.\n\nA) Polio was never a serious threat to global public health.\nB) This evidence directly supports the conclusion that widespread vaccination campaigns effectively reduce and eliminate infectious diseases\nC) Countries with stable healthcare infrastructure do not need to administer the polio vaccine.\nD) The decline of polio was entirely due to natural changes in the virus's DNA.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Polio was never a serious threat to global public health.",
+      "C) Countries with stable healthcare infrastructure do not need to administer the polio vaccine.",
+      "D) The decline of polio was entirely due to natural changes in the virus's DNA."
+    ],
+    "explanation": "Option B is correct because the passage explicitly links the 1950s vaccine introduction to a dramatic decline and notes that polio is nearly eradicated globally today. This evidence directly supports the conclusion that widespread vaccination campaigns effectively reduce and eliminate infectious diseases. Option A is wrong because the text describes a \"dramatic decline,\" implying the disease was previously a significant threat, not that it was never serious. Option C is incorrect since the passage states only unstable infrastructure countries have remaining cases, suggesting stable nations do not need the vaccine only if they already have eradication, which contradicts the need for global vigilance. Option D is wrong because the text attributes the decline solely to the vaccine, not natural changes in the virus's DNA.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1420,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: The use of social media has been linked to increased rates of anxiety and depression among teenagers. The constant exposure to curated, idealized lives creates unrealistic expectations.\nPassage B: Social media provides teenagers with valuable support networks, allowing them to connect with peers who share similar struggles, which can actually decrease feelings of isolation.\nWhat is a valid synthesis of these two passages?\n\nA) Social media is entirely beneficial for teenagers and should be encouraged.\nB) Social media has no measurable impact on the mental health of adolescents.\nD) Teenagers should be completely banned from using all social media platforms.\n\nA) Social media is entirely beneficial for teenagers and should be encouraged.\nB) Social media has no measurable impact on the mental health of adolescents.\nC) This balance reflects the nuanced reality presented in both texts rather than taking an extreme stance\nD) Teenagers should be completely banned from using all social media platforms.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Social media is entirely beneficial for teenagers and should be encouraged.",
+      "B) Social media has no measurable impact on the mental health of adolescents.",
+      "D) Teenagers should be completely banned from using all social media platforms."
+    ],
+    "explanation": "Option C correctly synthesizes the passages by acknowledging that social media simultaneously causes anxiety through unrealistic expectations while offering vital support networks against isolation. This balance reflects the nuanced reality presented in both texts rather than taking an extreme stance. Option A is wrong because it ignores Passage A's clear link between social media and increased depression. Option B is incorrect as both passages explicitly describe measurable impacts on mental health, contradicting the claim of no effect. Finally, Option D is invalid because neither passage suggests a total ban; Passage B highlights the benefits of connection that would be lost.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1421,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "An anthropologist argues that the ancient ruin was used as a ceremonial site because it contains a large stone altar and is positioned to align perfectly with the sun during the summer solstice. A rival archaeologist counters that the site was simply a residential dwelling, pointing out that the 'altar' is a standard kitchen table and the solar alignment is coincidental.\nWhich statement best evaluates the anthropologist's argument?\n\nA) It is irrefutable because the summer solstice alignment cannot be a coincidence.\nB) It is weak because ancient people did not understand solar alignments.\nC) It is supported by the fact that no residential tools were ever found at the site.\n\nA) It is irrefutable because the summer solstice alignment cannot be a coincidence.\nB) It is weak because ancient people did not understand solar alignments.\nC) It is supported by the fact that no residential tools were ever found at the site.\nD) This directly addresses the core conflict where one view relies on symbolic meaning and the other on functional utility",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) It is irrefutable because the summer solstice alignment cannot be a coincidence.",
+      "B) It is weak because ancient people did not understand solar alignments.",
+      "C) It is supported by the fact that no residential tools were ever found at the site."
+    ],
+    "explanation": "Option D correctly identifies that the anthropologist's claim depends on interpreting physical features while the rival archaeologist offers practical, mundane explanations like a kitchen table and coincidental alignment. This directly addresses the core conflict where one view relies on symbolic meaning and the other on functional utility. Option A is wrong because the passage explicitly states the rival archaeologist argues the alignment is coincidental, proving it is not irrefutable. Option B is incorrect as the text never mentions ancient people's understanding of the sun, making this an unsupported assumption. Finally, Option C fails because the passage provides no evidence regarding the absence of residential tools, rendering this statement irrelevant to the debate.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1422,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Climate change is causing ocean temperatures to rise, which leads to coral bleaching. When water is too warm, corals expel the algae living in their tissues, causing them to turn completely white. If temperatures do not return to normal quickly, the coral will starve and die, destroying the marine ecosystems that rely on the reefs for survival.\nWhat can be inferred about coral reefs based on this passage?\n\nB) Coral reefs can easily adapt to warmer waters by changing their color permanently.\nC) The algae living in coral tissues are the primary cause of ocean warming.\nD) Coral bleaching only affects the appearance of the coral and has no impact on other marine life.\n\nA) Option B is wrong as the text describes a fatal outcome for corals under heat, not an ability to permanently change color or adapt\nB) Coral reefs can easily adapt to warmer waters by changing their color permanently.\nC) The algae living in coral tissues are the primary cause of ocean warming.\nD) Coral bleaching only affects the appearance of the coral and has no impact on other marine life.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Coral reefs can easily adapt to warmer waters by changing their color permanently.",
+      "C) The algae living in coral tissues are the primary cause of ocean warming.",
+      "D) Coral bleaching only affects the appearance of the coral and has no impact on other marine life."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that rising temperatures cause bleaching, leading to starvation and death if warmth persists, proving extreme sensitivity. Option B is wrong as the text describes a fatal outcome for corals under heat, not an ability to permanently change color or adapt. Option C is incorrect since the passage identifies warming water as the cause of bleaching, not algae as the cause of warming. Option D is wrong because the text clearly links bleaching to the destruction of marine ecosystems, proving it has a major impact beyond appearance.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1423,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: Proponents of a four-day workweek argue that it increases employee productivity and reduces burnout, as workers are more rested and focused during their hours on the job.\nPassage B: Opponents claim that a four-day workweek hurts business profitability, as companies cannot maintain the same level of customer service and output with fewer hours.\nWhich of the following conclusions is supported by both passages?\n\nA) A four-day workweek is the best solution for all modern businesses.\nC) Employees do not care about how many days a week they are required to work.\nD) A four-day workweek has absolutely no effect on a company's bottom line.\n\nA) A four-day workweek is the best solution for all modern businesses.\nB) Passage A highlights increased productivity and reduced burnout, while Passage B warns of reduced profitability and customer service\nC) Employees do not care about how many days a week they are required to work.\nD) A four-day workweek has absolutely no effect on a company's bottom line.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) A four-day workweek is the best solution for all modern businesses.",
+      "C) Employees do not care about how many days a week they are required to work.",
+      "D) A four-day workweek has absolutely no effect on a company's bottom line."
+    ],
+    "explanation": "Option B correctly synthesizes the core tension between the two passages, which discuss the trade-off between employee well-being and business operational demands. Passage A highlights increased productivity and reduced burnout, while Passage B warns of reduced profitability and customer service. Together, they illustrate that implementing this schedule requires balancing human needs with corporate requirements, making B the only valid conclusion supported by both texts.\n\nOption A is incorrect because neither passage claims the four-day week is the best solution for all businesses; Passage B explicitly argues against its universal success due to potential drops in output. Option C is wrong because Passage A states workers are more focused, implying they care about their schedule, and no text suggests employees are indifferent to work hours. Option D is false because Passage B directly contradicts this by stating that companies cannot maintain profitability and output with fewer hours, proving a clear effect on the bottom line.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1424,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A researcher claims that a new herbal supplement drastically reduces the duration of the common cold. However, the study was funded entirely by the company that manufactures the supplement, and the sample size consisted of only 10 participants who were all related to the company's CEO.\nWhat is the major flaw in this argument?\n\nA) The study is flawless because it proves the supplement works on family members.\nB) The major flaw is that the common cold is not a serious enough illness to study.\nD) The argument is weak because herbal supplements are always dangerous.\n\nA) The study is flawless because it proves the supplement works on family members.\nB) The major flaw is that the common cold is not a serious enough illness to study.\nC) Furthermore, the sample consisted solely of ten relatives of the CEO, making the group non-representative of the general population and invalidating broader conclusions\nD) The argument is weak because herbal supplements are always dangerous.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The study is flawless because it proves the supplement works on family members.",
+      "B) The major flaw is that the common cold is not a serious enough illness to study.",
+      "D) The argument is weak because herbal supplements are always dangerous."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states the study was funded by the manufacturer, creating a conflict of interest that introduces extreme bias. Furthermore, the sample consisted solely of ten relatives of the CEO, making the group non-representative of the general population and invalidating broader conclusions. Option A is wrong because the text clearly indicates the sample is biased and unrepresentative, proving the study is not flawless. Option B is incorrect as the severity of the illness is irrelevant to the study's methodological flaws regarding bias and sampling. Option D is wrong because the passage provides no evidence regarding the safety or danger of herbal supplements.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1425,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "During the Cold War, the United States and the Soviet Union engaged in a massive arms race, stockpiling thousands of nuclear weapons. The concept of Mutually Assured Destruction (MAD) posited that neither side would launch a first strike because the retaliation would result in the complete annihilation of both nations. Paradoxically, this shared threat of total destruction maintained a fragile peace.\nWhat conclusion does the author draw about the arms race?\n\nD) The threat of total destruction prevented either side from launching a first strike, maintaining a fragile peace.\nA) The arms race inevitably led to a devastating nuclear war between the two nations.\nB) The United States won the Cold War by building more weapons than the Soviet Union.\nC) The concept of Mutually Assured Destruction was a failed theory that increased global tension.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The arms race inevitably led to a devastating nuclear war between the two nations.",
+      "B) The United States won the Cold War by building more weapons than the Soviet Union.",
+      "C) The concept of Mutually Assured Destruction was a failed theory that increased global tension."
+    ],
+    "explanation": "The author explicitly states that the shared threat of total destruction maintained a fragile peace, directly supporting the conclusion that the weapon buildup prevented war due to catastrophic consequences. This logic confirms option D, which highlights that the fear of annihilation stopped either side from launching a first strike. Option A is incorrect because the passage describes a state of peace maintained by deterrence, not an inevitable war. Option B is wrong as the text never mentions a winner or a specific arms count, focusing instead on the strategic theory of MAD. Finally, option C contradicts the passage by claiming the theory failed and increased tension, whereas the text argues it successfully preserved peace despite the danger.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1426,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: Bilingual education programs, which teach students in both their native language and English, have been shown to help students maintain their cultural identity while learning a new language.\nPassage B: English immersion programs, which teach students entirely in English, result in faster acquisition of the English language, allowing students to integrate more quickly into mainstream classrooms.\nIf a school district's primary goal is to help non-native speakers integrate into standard classrooms as rapidly as possible, which approach does the evidence support?\n\nB) Bilingual education, because Passage A states it helps with cultural identity.\nC) Neither approach, because both passages agree the students will fail.\nD) A combination of both, though neither passage provides evidence for combining them.\n\nA) The other options fail to address this specific outcome\nB) Bilingual education, because Passage A states it helps with cultural identity.\nC) Neither approach, because both passages agree the students will fail.\nD) A combination of both, though neither passage provides evidence for combining them.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Bilingual education, because Passage A states it helps with cultural identity.",
+      "C) Neither approach, because both passages agree the students will fail.",
+      "D) A combination of both, though neither passage provides evidence for combining them."
+    ],
+    "explanation": "Option A is correct because Passage B explicitly states that English immersion programs lead to faster acquisition of the language, directly supporting the district's goal of rapid integration. The other options fail to address this specific outcome. Option B is incorrect because Passage A focuses on maintaining cultural identity, not speed of integration. Option C is wrong since neither passage claims students will fail, and Option D is invalid because no evidence exists regarding combining the two approaches. Therefore, only English immersion aligns with the stated objective based on the provided text.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1427,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The overprescription of opioids in the late 1990s and early 2000s was largely driven by pharmaceutical companies assuring doctors that the drugs were not addictive. As addiction rates skyrocketed, it became clear that these claims were not only false but deliberately misleading. The resulting opioid crisis has caused hundreds of thousands of overdose deaths.\nWhat can be logically inferred from this passage?\n\nA) Doctors willingly ignored the addictive nature of opioids to make more money.\nC) The opioid crisis was caused by patients demanding addictive drugs against doctors' advice.\nD) Pharmaceutical companies have stopped manufacturing all pain medications.\n\nA) Doctors willingly ignored the addictive nature of opioids to make more money.\nB) Options A, C, and D are incorrect because the text never mentions doctors ignoring facts for profit, patients demanding drugs, or companies stopping all manufacturing; these ideas are unsupported by the provided evidence\nC) The opioid crisis was caused by patients demanding addictive drugs against doctors' advice.\nD) Pharmaceutical companies have stopped manufacturing all pain medications.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Doctors willingly ignored the addictive nature of opioids to make more money.",
+      "C) The opioid crisis was caused by patients demanding addictive drugs against doctors' advice.",
+      "D) Pharmaceutical companies have stopped manufacturing all pain medications."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that pharmaceutical companies assured doctors the drugs were not addictive, which was later proven false and deliberately misleading, implying the doctors were deceived. Options A, C, and D are incorrect because the text never mentions doctors ignoring facts for profit, patients demanding drugs, or companies stopping all manufacturing; these ideas are unsupported by the provided evidence. The passage focuses solely on the false assurances given to medical professionals leading to the crisis. Therefore, only the inference that doctors were misled aligns directly with the text's description of misleading claims.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1428,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A columnist argues that raising the minimum wage will eliminate poverty. She points out that in cities where the minimum wage was raised to \\$15 an hour, workers reported feeling less financial stress. However, she ignores data showing that many small businesses in those same cities reduced their workforce or closed entirely, leading to higher overall unemployment.\nWhat is the primary weakness in the columnist's argument?\n\nA) She relies entirely on emotional appeals rather than statistical data.\nB) Her argument is too strong because raising the minimum wage has never been tried before.\nD) She incorrectly states that small businesses are immune to changes in the minimum wage.\n\nA) She relies entirely on emotional appeals rather than statistical data.\nB) Her argument is too strong because raising the minimum wage has never been tried before.\nC) The primary flaw is that the columnist overlooks significant negative economic consequences like job losses, which directly contradict her claim that poverty will be eliminated.\nD) She incorrectly states that small businesses are immune to changes in the minimum wage.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) She relies entirely on emotional appeals rather than statistical data.",
+      "B) Her argument is too strong because raising the minimum wage has never been tried before.",
+      "D) She incorrectly states that small businesses are immune to changes in the minimum wage."
+    ],
+    "explanation": "The primary flaw is that the columnist overlooks significant negative economic consequences like job losses, which directly contradict her claim that poverty will be eliminated. While she cites worker feelings of reduced stress, she ignores data showing businesses reduced workforces or closed, leading to higher overall unemployment. Option A is wrong because she uses specific data points about stress and business closures, not just emotion. Option B is incorrect since the argument relies on existing city data, not untested theories. Option D is wrong because the text explicitly states businesses did change, so she did not claim they were immune.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1429,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: The use of plastic water bottles creates massive amounts of non-biodegradable waste, clogging landfills and polluting oceans.\nPassage B: Banning plastic water bottles disproportionately affects low-income communities and disaster victims who rely on them for safe, immediate access to drinking water.\nBased on the passages, what is the most likely outcome of an outright ban on plastic water bottles?\n\nA) It would be universally celebrated as a perfect solution to ocean pollution.\nB) It would have no impact on the environment because people would just use glass.\nC) It would solve the issues of both landfill waste and low-income water access.\n\nA) It would be universally celebrated as a perfect solution to ocean pollution.\nB) It would have no impact on the environment because people would just use glass.\nC) It would solve the issues of both landfill waste and low-income water access.\nD) Passage A confirms environmental benefits by stating plastic clogs landfills and pollutes oceans, while Passage B highlights the humanitarian cost for low-income communities and disaster victims who need immediate water access",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) It would be universally celebrated as a perfect solution to ocean pollution.",
+      "B) It would have no impact on the environment because people would just use glass.",
+      "C) It would solve the issues of both landfill waste and low-income water access."
+    ],
+    "explanation": "Option D correctly synthesizes the conflicting information from both passages. Passage A confirms environmental benefits by stating plastic clogs landfills and pollutes oceans, while Passage B highlights the humanitarian cost for low-income communities and disaster victims who need immediate water access. This dual outcome perfectly matches the choice regarding environmental gains versus human challenges. Option A is wrong because Passage B explicitly states the ban disproportionately affects vulnerable groups, meaning it cannot be universally celebrated as a perfect solution. Option B is incorrect because neither passage suggests people would switch to glass; in fact, Passage B implies the ban creates a crisis for those relying on plastic. Option C fails because the passages show the ban causes harm to water access, meaning it cannot solve the issue of low-income water availability.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1430,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The human body maintains a core temperature of around 98.6\u00b0F (37\u00b0C) through a process called thermoregulation. When the body gets too hot, blood vessels dilate and sweat is produced to cool the skin. When the body gets too cold, blood vessels constrict and muscles shiver to generate heat.\nBased on the passage, what can be inferred about a person whose body cannot shiver?\n\nA) They would be immune to all temperature changes in their environment.\nC) They would sweat excessively to compensate for the lack of shivering.\nD) They would automatically dilate their blood vessels to stay warm.\n\nA) They would be immune to all temperature changes in their environment.\nB) Without this mechanism, a person would struggle to produce warmth in freezing conditions, directly matching the inference\nC) They would sweat excessively to compensate for the lack of shivering.\nD) They would automatically dilate their blood vessels to stay warm.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) They would be immune to all temperature changes in their environment.",
+      "C) They would sweat excessively to compensate for the lack of shivering.",
+      "D) They would automatically dilate their blood vessels to stay warm."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that shivering occurs when the body gets too cold to generate heat. Without this mechanism, a person would struggle to produce warmth in freezing conditions, directly matching the inference. Option A is wrong as the text only discusses specific responses to heat and cold, not immunity to all changes. Option C is incorrect because sweating cools the body, which would be dangerous in freezing temperatures rather than compensating for heat loss. Option D is wrong since the passage notes blood vessels constrict to stay warm, not dilate, making the opposite of the described physiological response.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1431,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "A health blogger claims that drinking lemon water first thing in the morning cures digestive issues. As evidence, she cites a personal anecdote about her own improved digestion and quotes two anonymous followers who agree. She provides no peer-reviewed studies or clinical trials to back up her claim.\nWhy is the blogger's argument weak?\n\nA) It is weak because lemon water is proven to be dangerous to consume.\nB) It is strong because it includes testimony from multiple sources.\nD) It is weak because digestive issues cannot be treated by any means.\n\nA) It is weak because lemon water is proven to be dangerous to consume.\nB) It is strong because it includes testimony from multiple sources.\nC) The blogger's argument fails because it depends entirely on personal anecdotes and anonymous testimonials rather than peer-reviewed studies or clinical trials.\nD) It is weak because digestive issues cannot be treated by any means.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) It is weak because lemon water is proven to be dangerous to consume.",
+      "B) It is strong because it includes testimony from multiple sources.",
+      "D) It is weak because digestive issues cannot be treated by any means."
+    ],
+    "explanation": "The blogger's argument fails because it depends entirely on personal anecdotes and anonymous testimonials rather than peer-reviewed studies or clinical trials. This lack of rigorous scientific validation makes the claim unreliable for establishing a medical cure. Option A is incorrect because the passage never states that lemon water is dangerous, only that the evidence is insufficient. Option B is wrong since testimony from multiple sources, even if anonymous, does not constitute strong evidence without scientific backing. Option D is incorrect because the text does not suggest digestive issues cannot be treated by any means, only that this specific claim is unsupported.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1432,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: The invention of the printing press by Johannes Gutenberg around 1440 democratized information. Books became cheaper and more widely available, leading to a massive increase in literacy rates across Europe.\nPassage B: The printing press also facilitated the rapid spread of propaganda and misinformation. False accounts of historical events and hateful pamphlets could be printed and distributed to the masses just as easily as truthful texts.\nWhat is a valid conclusion drawn from considering both passages together?\n\nB) The printing press was strictly a negative invention that caused more harm than good.\nC) Gutenberg intentionally invented the press to spread propaganda across Europe.\nD) Literacy rates did not actually change after the invention of the printing press.\n\nA) Option B is incorrect because Passage A explicitly states that books became cheaper and literacy rates rose, contradicting the claim that the invention was strictly negative\nB) The printing press was strictly a negative invention that caused more harm than good.\nC) Gutenberg intentionally invented the press to spread propaganda across Europe.\nD) Literacy rates did not actually change after the invention of the printing press.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The printing press was strictly a negative invention that caused more harm than good.",
+      "C) Gutenberg intentionally invented the press to spread propaganda across Europe.",
+      "D) Literacy rates did not actually change after the invention of the printing press."
+    ],
+    "explanation": "Option A is correct because Passage A highlights the positive increase in literacy, while Passage B details the negative spread of misinformation, proving that the printing press carries both beneficial and harmful societal outcomes. Option B is incorrect because Passage A explicitly states that books became cheaper and literacy rates rose, contradicting the claim that the invention was strictly negative. Option C is wrong as neither passage mentions Gutenberg's personal intent; Passage A only notes the invention occurred around 1440 without specifying motives. Option D is false because Passage A clearly states that literacy rates experienced a massive increase, directly refuting the statement that they did not change.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1433,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Nurses often experience 'compassion fatigue' after prolonged exposure to the suffering of patients. Symptoms include emotional numbness, detachment, and a decreased sense of personal accomplishment. Unlike burnout, which develops gradually due to workplace stress, compassion fatigue is specifically tied to the emotional toll of caring for traumatized or ill individuals.\nWhat can be inferred about a nurse suffering from compassion fatigue?\n\nA) They will immediately quit their job and leave the nursing profession entirely.\nC) They are only experiencing normal, healthy workplace stress that will resolve on its own.\nD) They have likely never cared for a traumatized or severely ill patient.\n\nA) They will immediately quit their job and leave the nursing profession entirely.\nB) The text states that these symptoms include a lack of emotional engagement, making it logical that connection becomes difficult\nC) They are only experiencing normal, healthy workplace stress that will resolve on its own.\nD) They have likely never cared for a traumatized or severely ill patient.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) They will immediately quit their job and leave the nursing profession entirely.",
+      "C) They are only experiencing normal, healthy workplace stress that will resolve on its own.",
+      "D) They have likely never cared for a traumatized or severely ill patient."
+    ],
+    "explanation": "Option B is correct because the passage explicitly links compassion fatigue symptoms to emotional numbness and detachment, directly supporting the inference that nurses struggle to connect with patients. The text states that these symptoms include a lack of emotional engagement, making it logical that connection becomes difficult. Option A is wrong as the passage describes symptoms like numbness but never mentions quitting or leaving the profession entirely. Option C is incorrect because the text distinguishes compassion fatigue from normal stress, noting it is specifically tied to the emotional toll of caring for the ill rather than being a healthy, self-resolving state. Option D is wrong since the passage defines compassion fatigue as resulting from prolonged exposure to suffering, implying the nurse has already cared for traumatized individuals, not that they have never done so.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1434,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "Passage A: Standardized testing provides an objective, quantifiable way to measure student achievement across different schools and demographics. It removes teacher bias from the evaluation process.\nPassage B: Standardized testing forces teachers to 'teach to the test,' narrowing the curriculum and eliminating time for arts, critical thinking, and project-based learning.\nIf a school board wants to implement a completely unbiased evaluation system but also prioritize a broad curriculum, what problem does the evidence present?\n\nA) There is no problem, as both passages agree that standardized testing achieves both goals.\nB) The problem is that teacher bias is impossible to measure without a broad curriculum.\nC) The evidence shows that a broad curriculum naturally leads to unbiased student evaluations.\n\nA) There is no problem, as both passages agree that standardized testing achieves both goals.\nB) The problem is that teacher bias is impossible to measure without a broad curriculum.\nC) The evidence shows that a broad curriculum naturally leads to unbiased student evaluations.\nD) Option C fails because the text shows a broad curriculum is actively harmed by testing rather than naturally resulting from it",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) There is no problem, as both passages agree that standardized testing achieves both goals.",
+      "B) The problem is that teacher bias is impossible to measure without a broad curriculum.",
+      "C) The evidence shows that a broad curriculum naturally leads to unbiased student evaluations."
+    ],
+    "explanation": "The passage presents a direct conflict where standardized testing ensures objectivity but simultaneously forces a narrow curriculum, creating an inherent paradox for the board. Passage A states testing removes bias, while Passage B explicitly notes it eliminates time for arts and critical thinking, making the two goals mutually exclusive. Option A is wrong because the passages contradict each other regarding curriculum breadth, and Option B is incorrect since bias measurement is not the issue discussed. Option C fails because the text shows a broad curriculum is actively harmed by testing rather than naturally resulting from it. Therefore, the board cannot simultaneously achieve unbiased evaluation and a broad curriculum without compromising one of the core objectives.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1435,
+    "subject": "reading",
+    "topic": "Integration of Knowledge & Ideas",
+    "question_text": "The concept of 'herd immunity' occurs when a high percentage of a population becomes immune to an infectious disease, making its spread unlikely. This provides indirect protection to individuals who are not immune, such as infants or those with compromised immune systems. However, if vaccination rates drop below a certain threshold, the protection collapses, and outbreaks can occur.\nWhat conclusion can be drawn from this passage?\n\nA) Infants and immunocompromised individuals do not need to worry about infectious diseases.\nB) Herd immunity is a myth that has been disproven by modern science.\nD) If a disease outbreak occurs, it means the disease has mutated into a stronger form.\n\nA) Infants and immunocompromised individuals do not need to worry about infectious diseases.\nB) Herd immunity is a myth that has been disproven by modern science.\nC) This directly supports the conclusion that maintaining high rates is vital for the community's vulnerable members\nD) If a disease outbreak occurs, it means the disease has mutated into a stronger form.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Infants and immunocompromised individuals do not need to worry about infectious diseases.",
+      "B) Herd immunity is a myth that has been disproven by modern science.",
+      "D) If a disease outbreak occurs, it means the disease has mutated into a stronger form."
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that herd immunity protects individuals who are not immune, such as infants or those with compromised systems, and notes that protection collapses if vaccination rates drop. This directly supports the conclusion that maintaining high rates is vital for the community's vulnerable members. Option A is wrong because the text lists infants and immunocompromised people as those receiving indirect protection, implying they are at risk without it. Option B is incorrect since the passage describes herd immunity as a functional concept that prevents disease spread, not a myth. Option D is unsupported because the text attributes outbreaks to falling vaccination rates below a threshold, not to the disease mutating into a stronger form.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1436,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Nurses frequently encounter patients with hypertension, a condition characterized by consistently elevated blood pressure. Lifestyle modifications, including reduced sodium intake and regular aerobic exercise, are typically recommended as first-line interventions. When these measures prove insufficient, pharmacological treatments such as ACE inhibitors or diuretics may be prescribed. Consistent monitoring is essential to prevent long-term cardiovascular complications.\n\nQuestion: What is the main idea of the passage?\n\nB) ACE inhibitors are the most effective treatment for all patients with high blood pressure.\nC) Aerobic exercise alone can permanently cure hypertension in most adults.\nD) Sodium intake has minimal impact on cardiovascular health compared to genetic factors.\n\nA) The other options misrepresent the text by making unsupported claims\nB) ACE inhibitors are the most effective treatment for all patients with high blood pressure.\nC) Aerobic exercise alone can permanently cure hypertension in most adults.\nD) Sodium intake has minimal impact on cardiovascular health compared to genetic factors.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) ACE inhibitors are the most effective treatment for all patients with high blood pressure.",
+      "C) Aerobic exercise alone can permanently cure hypertension in most adults.",
+      "D) Sodium intake has minimal impact on cardiovascular health compared to genetic factors."
+    ],
+    "explanation": "Option A correctly captures the passage's holistic approach to hypertension, as the text explicitly links lifestyle modifications, pharmacological treatments like ACE inhibitors, and consistent monitoring as essential components. The other options misrepresent the text by making unsupported claims. Option B is incorrect because the passage states medications are used when lifestyle changes fail, not as the sole or universally most effective treatment. Option C is wrong since the text implies these measures are insufficient for many, contradicting the idea of a permanent cure for most adults. Finally, Option D is false because the passage highlights reduced sodium intake as a key first-line intervention, directly refuting the claim that it has minimal impact compared to genetics.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1437,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The discovery of penicillin by Alexander Fleming in 1928 revolutionized modern medicine. Before antibiotics, minor infections frequently led to severe illness or death. Fleming observed that a mold contaminating his petri dishes inhibited bacterial growth, leading to the isolation of penicillin. Mass production during World War II saved countless soldiers from wound infections.\n\nQuestion: Which detail best supports the idea that penicillin had a major historical impact?\n\nA) Fleming observed that a mold contaminating his petri dishes inhibited bacterial growth.\nC) Minor infections frequently led to severe illness before the 1920s.\nD) Penicillin was isolated from a naturally occurring mold species.\n\nA) Fleming observed that a mold contaminating his petri dishes inhibited bacterial growth.\nB) Option A describes the initial scientific observation of mold inhibiting bacteria, which explains the mechanism but lacks evidence of broad historical consequence\nC) Minor infections frequently led to severe illness before the 1920s.\nD) Penicillin was isolated from a naturally occurring mold species.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Fleming observed that a mold contaminating his petri dishes inhibited bacterial growth.",
+      "C) Minor infections frequently led to severe illness before the 1920s.",
+      "D) Penicillin was isolated from a naturally occurring mold species."
+    ],
+    "explanation": "Option B directly supports the claim by detailing the massive scale of penicillin's real-world application, specifically saving countless soldiers during World War II, which demonstrates a profound historical impact beyond laboratory discovery. Option A describes the initial scientific observation of mold inhibiting bacteria, which explains the mechanism but lacks evidence of broad historical consequence. Option C establishes the pre-antibiotic context of high infection mortality, providing necessary background but not the specific evidence of penicillin's own major impact. Option D notes the natural origin of the substance, which is a biological fact but does not illustrate the significant historical changes brought about by its use.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1438,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Urban heat islands occur when cities replace natural land cover with dense concentrations of pavement, buildings, and other surfaces that absorb and retain heat. This effect increases energy costs, elevates air pollution levels, and compromises human health during summer months. Planting urban trees and installing reflective roofing materials can mitigate these temperature spikes. City planners increasingly prioritize green infrastructure to combat rising metropolitan temperatures.\n\nQuestion: Which statement best summarizes the passage?\n\nA) City planners are responsible for all rising temperatures in metropolitan areas worldwide.\nB) Pavement and buildings are necessary for modern urban development despite their environmental costs.\nD) Summer months are universally more dangerous for city residents than for rural populations.\n\nA) City planners are responsible for all rising temperatures in metropolitan areas worldwide.\nB) Pavement and buildings are necessary for modern urban development despite their environmental costs.\nC) Option A is incorrect because the text states cities replace natural land cover, not that planners are responsible for all global temperatures\nD) Summer months are universally more dangerous for city residents than for rural populations.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) City planners are responsible for all rising temperatures in metropolitan areas worldwide.",
+      "B) Pavement and buildings are necessary for modern urban development despite their environmental costs.",
+      "D) Summer months are universally more dangerous for city residents than for rural populations."
+    ],
+    "explanation": "Option C accurately captures the passage's main points regarding heat islands, health risks, and mitigation strategies like green infrastructure and reflective roofs. Option A is incorrect because the text states cities replace natural land cover, not that planners are responsible for all global temperatures. Option B misrepresents the text by claiming pavement is necessary, whereas the passage only describes it as a cause of heat islands without mentioning necessity. Option D is wrong because the passage discusses summer dangers in cities but never compares them to rural populations.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1439,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The human microbiome consists of trillions of microorganisms living on and inside the body. Recent research indicates that gut bacteria play a crucial role in regulating immune responses and metabolizing nutrients. Disruptions to this microbial balance, often caused by excessive antibiotic use, have been linked to autoimmune disorders and metabolic diseases. Scientists are now exploring fecal microbiota transplants as a potential therapeutic intervention.\n\nQuestion: According to the passage, what is a documented consequence of disrupting the gut microbiome?\n\nA) Complete elimination of harmful pathogens from the digestive tract\nB) Immediate improvement in nutrient absorption and energy levels\nC) Reduced effectiveness of fecal microbiota transplant procedures\n\nA) Complete elimination of harmful pathogens from the digestive tract\nB) Immediate improvement in nutrient absorption and energy levels\nC) Reduced effectiveness of fecal microbiota transplant procedures\nD) The other options fail to match the text",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Complete elimination of harmful pathogens from the digestive tract",
+      "B) Immediate improvement in nutrient absorption and energy levels",
+      "C) Reduced effectiveness of fecal microbiota transplant procedures"
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that disruptions to microbial balance are linked to autoimmune disorders and metabolic diseases. The other options fail to match the text. Option A is wrong as the passage mentions disruptions cause disease, not pathogen elimination. Option B is incorrect because the text associates disruption with negative health outcomes, not improved nutrient absorption. Option C is wrong since the passage discusses the transplant as a potential cure, not a procedure reduced in effectiveness by disruption.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1440,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Vaccines work by introducing a harmless component of a pathogen to the immune system. This exposure trains white blood cells to recognize and neutralize the actual virus or bacteria if encountered later. Herd immunity occurs when a sufficient percentage of a population becomes immune, thereby protecting vulnerable individuals who cannot be vaccinated. Public health campaigns rely on high vaccination rates to prevent outbreaks of preventable diseases.\n\nQuestion: What is the primary purpose of herd immunity as described in the passage?\n\nB) To eliminate the need for booster shots in adult populations\nC) To replace traditional antibiotic treatments for bacterial infections\nD) To guarantee that no one in a community will ever contract a virus\n\nA) The text directly links high vaccination rates to safeguarding those unable to receive vaccines\nB) To eliminate the need for booster shots in adult populations\nC) To replace traditional antibiotic treatments for bacterial infections\nD) To guarantee that no one in a community will ever contract a virus",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) To eliminate the need for booster shots in adult populations",
+      "C) To replace traditional antibiotic treatments for bacterial infections",
+      "D) To guarantee that no one in a community will ever contract a virus"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that herd immunity protects vulnerable individuals who cannot be vaccinated when a sufficient percentage of the population becomes immune. The text directly links high vaccination rates to safeguarding those unable to receive vaccines. Option B is wrong as the passage mentions nothing about booster shots or adult populations. Option C is incorrect since the text discusses vaccines and pathogens, never mentioning antibiotic treatments. Option D is wrong because the passage says herd immunity prevents outbreaks, not that it guarantees no one will ever contract a virus.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1441,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Industrial Revolution fundamentally altered labor structures across Europe and North America. Artisans who previously crafted goods by hand were gradually replaced by factory workers operating mechanized equipment. This shift increased production efficiency but also led to overcrowded urban centers and hazardous working conditions. Labor unions eventually emerged to advocate for safer environments and reasonable working hours.\n\nQuestion: Which detail explains why labor unions formed during this period?\n\nA) Artisans wanted to preserve traditional handcrafting techniques for future generations.\nC) Mechanized equipment required specialized engineering degrees that most workers lacked.\nD) European governments mandated the creation of worker advocacy groups to boost productivity.\n\nA) Artisans wanted to preserve traditional handcrafting techniques for future generations.\nB) Option A is incorrect as the text mentions artisans were replaced by factory workers, not that they organized to preserve techniques\nC) Mechanized equipment required specialized engineering degrees that most workers lacked.\nD) European governments mandated the creation of worker advocacy groups to boost productivity.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Artisans wanted to preserve traditional handcrafting techniques for future generations.",
+      "C) Mechanized equipment required specialized engineering degrees that most workers lacked.",
+      "D) European governments mandated the creation of worker advocacy groups to boost productivity."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that the shift to factory work led to \"hazardous working conditions\" and \"overcrowded urban centers,\" directly prompting the emergence of labor unions to advocate for safer environments. Option A is incorrect as the text mentions artisans were replaced by factory workers, not that they organized to preserve techniques. Option C is wrong because the passage discusses efficiency and conditions, never mentioning a lack of engineering degrees as a reason for unionization. Option D is incorrect since the text attributes union formation to worker advocacy, not government mandates.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1442,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Cognitive behavioral therapy (CBT) is a widely used psychological treatment that addresses maladaptive thought patterns. Patients learn to identify distorted thinking, challenge irrational beliefs, and develop healthier coping strategies. Clinical trials consistently demonstrate CBT's effectiveness for anxiety, depression, and post-traumatic stress disorder. Unlike some long-term psychoanalytic approaches, CBT is typically structured and time-limited.\n\nQuestion: What distinguishes CBT from some other therapeutic approaches according to the passage?\n\nA) It relies exclusively on medication to alter brain chemistry.\nB) It focuses primarily on childhood experiences and dream analysis.\nD) It requires patients to undergo daily hypnosis sessions.\n\nA) It relies exclusively on medication to alter brain chemistry.\nB) It focuses primarily on childhood experiences and dream analysis.\nC) \" This specific comparison highlights the therapy's defined framework and duration as its unique feature\nD) It requires patients to undergo daily hypnosis sessions.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) It relies exclusively on medication to alter brain chemistry.",
+      "B) It focuses primarily on childhood experiences and dream analysis.",
+      "D) It requires patients to undergo daily hypnosis sessions."
+    ],
+    "explanation": "The passage explicitly states that CBT is \"typically structured and time-limited,\" directly supporting option C by contrasting it with \"some long-term psychoanalytic approaches.\" This specific comparison highlights the therapy's defined framework and duration as its unique feature. Option A is incorrect because the text mentions psychological treatment and thought patterns, never referencing medication or brain chemistry. Option B is wrong since the passage discusses identifying distorted thinking and coping strategies, not childhood experiences or dream analysis. Finally, option D is invalid as the text makes no mention of hypnosis or daily sessions, focusing instead on challenging irrational beliefs.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1443,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Plate tectonics theory explains the movement of Earth's lithospheric plates over the asthenosphere. Convergent boundaries occur when plates collide, often forming mountain ranges or triggering subduction zones that cause volcanic activity. Divergent boundaries involve plates pulling apart, creating new crust as magma rises to the surface. Transform boundaries feature plates sliding horizontally past one another, frequently generating earthquakes.\n\nQuestion: Based on the passage, which geological event is most directly associated with transform boundaries?\n\nA) Formation of extensive mountain ranges\nB) Creation of new crust through rising magma\nC) Development of subduction zones and volcanoes\n\nA) Formation of extensive mountain ranges\nB) Creation of new crust through rising magma\nC) Development of subduction zones and volcanoes\nD) The other options describe different boundary types: Option A refers to convergent boundaries forming mountains, Option B describes divergent boundaries creating new crust, and Option C mentions subduction zones found at convergent boundaries",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Formation of extensive mountain ranges",
+      "B) Creation of new crust through rising magma",
+      "C) Development of subduction zones and volcanoes"
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that transform boundaries feature plates sliding past one another, frequently generating earthquakes. The other options describe different boundary types: Option A refers to convergent boundaries forming mountains, Option B describes divergent boundaries creating new crust, and Option C mentions subduction zones found at convergent boundaries. Therefore, only Option D matches the specific geological event linked to transform boundaries in the text.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1444,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Proper hand hygiene remains one of the most effective methods for preventing healthcare-associated infections. Alcohol-based sanitizers rapidly reduce microbial counts on skin when hands are not visibly soiled. However, soap and water are required when dealing with spore-forming pathogens like Clostridioides difficile. Compliance protocols are strictly enforced in clinical settings to protect both patients and staff.\n\nQuestion: When must healthcare workers use soap and water instead of alcohol-based sanitizers?\n\nB) Whenever they enter a patient's room for routine vital sign checks\nC) Only during surgical procedures that require sterile glove application\nD) When alcohol-based sanitizers are temporarily out of stock\n\nA) Option B is incorrect as the text does not mention routine vital sign checks as a trigger for soap and water use\nB) Whenever they enter a patient's room for routine vital sign checks\nC) Only during surgical procedures that require sterile glove application\nD) When alcohol-based sanitizers are temporarily out of stock",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Whenever they enter a patient's room for routine vital sign checks",
+      "C) Only during surgical procedures that require sterile glove application",
+      "D) When alcohol-based sanitizers are temporarily out of stock"
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that soap and water are required specifically when dealing with spore-forming pathogens like Clostridioides difficile, whereas sanitizers only work on non-soiled hands. Option B is incorrect as the text does not mention routine vital sign checks as a trigger for soap and water use. Option C is wrong because the passage focuses on pathogen types rather than surgical procedures or glove application requirements. Option D is incorrect since the text never suggests running out of sanitizer mandates a switch to soap and water.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1445,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Great Depression triggered widespread economic collapse across the United States during the 1930s. Bank failures erased personal savings, while unemployment rates soared above twenty-five percent. President Franklin D. Roosevelt responded with the New Deal, a series of programs designed to provide relief, recovery, and reform. These initiatives fundamentally expanded the federal government's role in economic stabilization.\n\nQuestion: What was the primary goal of the New Deal programs mentioned in the passage?\n\nA) To privatize banking institutions and reduce government spending\nC) To encourage international trade agreements with European nations\nD) To eliminate unemployment benefits and promote self-reliance\n\nA) To privatize banking institutions and reduce government spending\nB) This directly matches the option's description of providing those three goals alongside increased federal involvement\nC) To encourage international trade agreements with European nations\nD) To eliminate unemployment benefits and promote self-reliance",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To privatize banking institutions and reduce government spending",
+      "C) To encourage international trade agreements with European nations",
+      "D) To eliminate unemployment benefits and promote self-reliance"
+    ],
+    "explanation": "Option B is correct because the passage explicitly states the New Deal was designed to provide relief, recovery, and reform while expanding the federal government's role in economic stabilization. This directly matches the option's description of providing those three goals alongside increased federal involvement. Option A is wrong as the text describes bank failures and government expansion, not privatization or reduced spending. Option C is incorrect because the passage focuses solely on domestic programs and does not mention international trade agreements with Europe. Option D contradicts the text by suggesting the elimination of benefits, whereas the passage clearly indicates the programs were designed to provide relief and recovery.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1446,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Osteoporosis is a condition characterized by decreased bone density and increased fracture risk. Postmenopausal women are particularly vulnerable due to declining estrogen levels, which normally help maintain bone mass. Calcium and vitamin D supplementation, combined with weight-bearing exercise, can slow bone loss. Dual-energy X-ray absorptiometry (DEXA) scans are routinely used to diagnose and monitor disease progression.\n\nQuestion: Which factor makes postmenopausal women more susceptible to osteoporosis?\n\nA) Increased calcium absorption in the digestive tract\nB) Higher participation in weight-bearing exercise routines\nD) Routine use of DEXA scans that weaken bone tissue over time\n\nA) Increased calcium absorption in the digestive tract\nB) Higher participation in weight-bearing exercise routines\nC) Option A is incorrect because the text notes estrogen decline causes bone loss, not increased calcium absorption\nD) Routine use of DEXA scans that weaken bone tissue over time",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Increased calcium absorption in the digestive tract",
+      "B) Higher participation in weight-bearing exercise routines",
+      "D) Routine use of DEXA scans that weaken bone tissue over time"
+    ],
+    "explanation": "The passage explicitly states that postmenopausal women face increased fracture risk due to declining estrogen levels, which normally help maintain bone mass. This directly supports option C as the specific factor increasing susceptibility. Option A is incorrect because the text notes estrogen decline causes bone loss, not increased calcium absorption. Option B is wrong since the passage suggests exercise slows bone loss rather than causing susceptibility. Finally, option D is false because DEXA scans are diagnostic tools for monitoring disease, not factors that weaken bone tissue over time.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1447,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The printing press, invented by Johannes Gutenberg in the mid-fifteenth century, dramatically lowered the cost of book production. Previously, manuscripts were painstakingly copied by hand, limiting literacy to wealthy elites and clergy. Mass-produced texts facilitated the rapid spread of scientific ideas, religious reforms, and political philosophies. Historians widely regard this invention as a catalyst for the European Renaissance and Enlightenment.\n\nQuestion: What can be inferred about pre-Gutenberg society from the passage?\n\nA) Scientific ideas spread more rapidly than religious reforms among common citizens.\nB) Literacy rates were uniformly high across all social classes due to public education.\nC) Clergy members actively discouraged the use of handwritten manuscripts.\n\nA) Scientific ideas spread more rapidly than religious reforms among common citizens.\nB) Literacy rates were uniformly high across all social classes due to public education.\nC) Clergy members actively discouraged the use of handwritten manuscripts.\nD) This directly supports the inference that access was restricted by both expense and labor",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Scientific ideas spread more rapidly than religious reforms among common citizens.",
+      "B) Literacy rates were uniformly high across all social classes due to public education.",
+      "C) Clergy members actively discouraged the use of handwritten manuscripts."
+    ],
+    "explanation": "Option D is correct because the passage explicitly states that manuscripts were painstakingly copied by hand, which limited literacy to wealthy elites and clergy due to high costs. This directly supports the inference that access was restricted by both expense and labor. Option A is incorrect as the text lists scientific ideas, religious reforms, and political philosophies spreading together without comparing their speed among citizens. Option B is wrong because the passage claims literacy was limited to specific groups, contradicting the idea of uniform high rates across all classes. Option C is false since the text mentions clergy were the ones who benefited from limited access, not that they actively discouraged manuscripts.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1448,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Triage protocols in emergency departments prioritize patients based on clinical urgency rather than arrival time. A person experiencing chest pain or severe respiratory distress will be seen before someone with a minor laceration. This system ensures that limited medical resources are allocated to those facing life-threatening conditions. Nurses continuously reassess waiting patients to detect any deterioration in status.\n\nQuestion: What is the main idea of the passage?\n\nB) Patients with minor injuries should avoid visiting emergency departments entirely.\nC) Arrival time is the most important factor in determining treatment order.\nD) Nurses are responsible for diagnosing all conditions before a physician arrives.\n\nA) The text explicitly states that protocols prioritize based on clinical urgency rather than arrival time, ensuring limited resources reach those with life-threatening conditions like chest pain\nB) Patients with minor injuries should avoid visiting emergency departments entirely.\nC) Arrival time is the most important factor in determining treatment order.\nD) Nurses are responsible for diagnosing all conditions before a physician arrives.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Patients with minor injuries should avoid visiting emergency departments entirely.",
+      "C) Arrival time is the most important factor in determining treatment order.",
+      "D) Nurses are responsible for diagnosing all conditions before a physician arrives."
+    ],
+    "explanation": "Option A correctly identifies the passage's central theme regarding urgency-based triage and resource allocation for critical patients. The text explicitly states that protocols prioritize based on clinical urgency rather than arrival time, ensuring limited resources reach those with life-threatening conditions like chest pain. In contrast, Option B is incorrect because the passage never suggests avoiding the ER; it simply describes prioritization rules. Option C contradicts the text which clearly says arrival time is not the primary factor. Finally, Option D is wrong as the passage only mentions nurses reassessing status, not diagnosing conditions before physicians.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1449,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Renewable energy sources like wind and solar power generate electricity without emitting greenhouse gases. However, their intermittent nature requires reliable energy storage solutions to maintain grid stability during low-production periods. Lithium-ion batteries currently dominate the market, though researchers are investigating flow batteries and compressed air systems for large-scale applications. Transitioning to a fully sustainable grid depends on overcoming these storage limitations.\n\nQuestion: Which detail explains why energy storage is critical for renewable sources?\n\nA) Lithium-ion batteries are too expensive for residential homeowners to purchase.\nC) Greenhouse gas emissions increase significantly during nighttime hours.\nD) Compressed air systems have completely replaced traditional battery technologies.\n\nA) Lithium-ion batteries are too expensive for residential homeowners to purchase.\nB) This directly links the variability of these sources to the necessity of energy storage solutions\nC) Greenhouse gas emissions increase significantly during nighttime hours.\nD) Compressed air systems have completely replaced traditional battery technologies.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Lithium-ion batteries are too expensive for residential homeowners to purchase.",
+      "C) Greenhouse gas emissions increase significantly during nighttime hours.",
+      "D) Compressed air systems have completely replaced traditional battery technologies."
+    ],
+    "explanation": "Option B is correct because the passage explicitly states that the intermittent nature of wind and solar power requires storage to maintain grid stability during low-production periods. This directly links the variability of these sources to the necessity of energy storage solutions. Option A is incorrect as the text never mentions the cost of lithium-ion batteries for homeowners. Option C is wrong because the passage claims renewable sources do not emit greenhouse gases, contradicting the claim of nighttime emissions. Finally, Option D is false since the text indicates researchers are investigating compressed air systems, not that they have replaced traditional batteries.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1450,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The circulatory system transports oxygen, nutrients, and hormones to cells while removing metabolic waste products. The heart functions as a dual pump, sending deoxygenated blood to the lungs and oxygenated blood to systemic tissues. Arteries carry blood away from the heart, whereas veins return it under lower pressure. Capillaries facilitate the actual exchange of substances between blood and surrounding tissues.\n\nQuestion: What is the primary function of capillaries according to the passage?\n\nA) Pumping deoxygenated blood directly to the lungs for oxygenation\nB) Returning blood to the heart under high pressure conditions\nD) Transporting hormones exclusively to the endocrine glands\n\nA) Pumping deoxygenated blood directly to the lungs for oxygenation\nB) Returning blood to the heart under high pressure conditions\nC) This directly matches the function described in the text regarding the circulatory system's role in moving materials\nD) Transporting hormones exclusively to the endocrine glands",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Pumping deoxygenated blood directly to the lungs for oxygenation",
+      "B) Returning blood to the heart under high pressure conditions",
+      "D) Transporting hormones exclusively to the endocrine glands"
+    ],
+    "explanation": "Option C is correct because the passage explicitly states that capillaries facilitate the actual exchange of substances between blood and surrounding tissues. This directly matches the function described in the text regarding the circulatory system's role in moving materials. Option A is wrong as the text assigns pumping deoxygenated blood to the lungs to the heart, not capillaries. Option B is incorrect since veins return blood to the heart under lower pressure, not high pressure. Option D is wrong because the passage notes arteries transport hormones, not capillaries exclusively to endocrine glands.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1451,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "The Treaty of Versailles formally ended World War I but imposed severe reparations and territorial losses on Germany. Many historians argue that these punitive measures fostered economic instability and national resentment. This environment enabled extremist political movements to gain traction during the 1920s and 1930s. Consequently, the treaty is often viewed as a contributing factor to the outbreak of World War II.\n\nQuestion: What is the passage's central claim about the Treaty of Versailles?\n\nA) It successfully established lasting peace throughout continental Europe.\nB) It primarily benefited Germany by rebuilding its industrial infrastructure.\nC) It had no measurable impact on twentieth-century geopolitical developments.\n\nA) It successfully established lasting peace throughout continental Europe.\nB) It primarily benefited Germany by rebuilding its industrial infrastructure.\nC) It had no measurable impact on twentieth-century geopolitical developments.\nD) The passage explicitly states that severe reparations and territorial losses fostered economic instability and resentment, which enabled extremist movements to rise.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) It successfully established lasting peace throughout continental Europe.",
+      "B) It primarily benefited Germany by rebuilding its industrial infrastructure.",
+      "C) It had no measurable impact on twentieth-century geopolitical developments."
+    ],
+    "explanation": "The passage explicitly states that severe reparations and territorial losses fostered economic instability and resentment, which enabled extremist movements to rise. This directly supports the claim that the treaty's harsh terms created conditions leading to World War II. Option A is wrong because the text notes the treaty failed to prevent future conflict, contradicting the idea of lasting peace. Option B is incorrect as the text describes Germany suffering losses, not benefiting from infrastructure rebuilding. Option C is false since the passage argues the treaty significantly impacted geopolitical developments by contributing to a second global war.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1452,
+    "subject": "reading",
+    "topic": "Key Ideas & Details",
+    "question_text": "Aseptic technique is a fundamental practice in clinical settings designed to prevent pathogen transmission. It involves sterilizing equipment, wearing appropriate personal protective equipment, and maintaining a clean field during procedures. Breaches in aseptic protocol can introduce bacteria into surgical sites or intravenous lines, leading to severe infections. Strict adherence protects immunocompromised patients who are highly vulnerable to opportunistic microbes.\n\nQuestion: Why is aseptic technique especially important for immunocompromised patients?\n\nB) They require higher doses of anesthesia during surgical procedures.\nC) They cannot wear personal protective equipment due to respiratory issues.\nD) They heal faster when exposed to controlled bacterial environments.\n\nA) \" This directly links their condition to the risk of infection from specific bacteria that others might ignore\nB) They require higher doses of anesthesia during surgical procedures.\nC) They cannot wear personal protective equipment due to respiratory issues.\nD) They heal faster when exposed to controlled bacterial environments.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) They require higher doses of anesthesia during surgical procedures.",
+      "C) They cannot wear personal protective equipment due to respiratory issues.",
+      "D) They heal faster when exposed to controlled bacterial environments."
+    ],
+    "explanation": "Option A is correct because the passage explicitly states that strict adherence protects immunocompromised patients who are \"highly vulnerable to opportunistic microbes.\" This directly links their condition to the risk of infection from specific bacteria that others might ignore. Option B is wrong as the text never mentions anesthesia dosage requirements for these patients, making this an unrelated assumption. Option C is incorrect since the passage lists wearing PPE as a general requirement for all procedures, implying immunocompromised patients can and should wear it. Finally, Option D is false because the text warns that breaches lead to severe infections, contradicting the idea that controlled bacteria speed up healing.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1453,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The author notes that while telemedicine expands access to care, it cannot fully replace hands-on physical examinations. Remote consultations lack the tactile feedback necessary for detecting subtle abdominal masses or irregular heart murmurs. Nevertheless, virtual visits remain invaluable for routine follow-ups and mental health counseling. Healthcare systems must balance technological convenience with clinical thoroughness.\n\nQuestion: What is the author's primary purpose in this passage?\n\nA) To argue that telemedicine should be banned in all primary care settings\nC) To persuade readers that physical examinations are completely obsolete\nD) To describe the technical specifications of virtual consultation software\n\nA) To argue that telemedicine should be banned in all primary care settings\nB) Option A is incorrect because the text advocates for balancing technology with thoroughness, not banning it\nC) To persuade readers that physical examinations are completely obsolete\nD) To describe the technical specifications of virtual consultation software",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To argue that telemedicine should be banned in all primary care settings",
+      "C) To persuade readers that physical examinations are completely obsolete",
+      "D) To describe the technical specifications of virtual consultation software"
+    ],
+    "explanation": "The author aims to present a balanced view by acknowledging telemedicine's expanded access while highlighting its inability to replace hands-on exams for detecting subtle issues like abdominal masses. Option B captures this nuanced stance perfectly. Option A is incorrect because the text advocates for balancing technology with thoroughness, not banning it. Option C is wrong as the passage explicitly states physical exams remain necessary for specific tasks, contradicting the claim of obsolescence. Option D fails because the text discusses clinical utility and limitations, not the technical specifications of the software itself.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1454,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The relentless march of antibiotic resistance looms over modern medicine like a gathering storm. Pathogens evolve with alarming speed, rendering once-miraculous drugs utterly useless. Without immediate stewardship and innovative research, we risk returning to a pre-antibiotic era where minor scratches could prove fatal. The medical community must act decisively before the window of opportunity slams shut.\n\nQuestion: Which word best describes the tone of the passage?\n\nA) Detached and objective\nB) Humorous and lighthearted\nD) Nostalgic and reflective\n\nA) Detached and objective\nB) Humorous and lighthearted\nC) The passage warns of returning to a fatal pre-antibiotic era, demanding urgent medical intervention before it is too late\nD) Nostalgic and reflective",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Detached and objective",
+      "B) Humorous and lighthearted",
+      "D) Nostalgic and reflective"
+    ],
+    "explanation": "Option C captures the tone because words like \"relentless,\" \"alarming speed,\" and \"slams shut\" create a sense of immediate crisis requiring decisive action. The passage warns of returning to a fatal pre-antibiotic era, demanding urgent medical intervention before it is too late. Option A is wrong because the text uses strong emotional language rather than neutral observation. Option B fails since there is no humor or lightness in the serious warnings about death and disease. Option D is incorrect because the author focuses on future threats, not a reflective appreciation of the past.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1455,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "First, the nurse verifies the patient's identity using two identifiers. Next, the medication label is checked against the physician's order for accuracy. Then, the correct dosage is prepared using sterile technique. Finally, the medication is administered while monitoring for immediate adverse reactions. This sequential process minimizes errors and ensures patient safety during drug delivery.\n\nQuestion: What text structure does the author primarily use in this passage?\n\nA) Cause and effect\nB) Compare and contrast\nC) Problem and solution\n\nA) Cause and effect\nB) Compare and contrast\nC) Problem and solution\nD) The passage describes a step-by-step procedure for administering medication, starting with verifying identity and ending with monitoring reactions.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Cause and effect",
+      "B) Compare and contrast",
+      "C) Problem and solution"
+    ],
+    "explanation": "The passage describes a step-by-step procedure for administering medication, starting with verifying identity and ending with monitoring reactions. This clear order of events defines a sequential or process structure. Option A is incorrect because the text does not explain why one thing happens based on another cause. Option B fails as there is no comparison between two different subjects or ideas. Option C is wrong since the passage does not present a problem followed by a specific solution. The primary focus is strictly on the chronological steps of the nursing process.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1456,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The term 'triage' originates from the French verb trier, meaning to sort or select. In emergency medicine, it refers to the rapid assessment and categorization of patients based on injury severity. Military medics first utilized this system during the Napoleonic Wars to prioritize wounded soldiers. Today, triage protocols are standardized across civilian hospitals worldwide.\n\nQuestion: As used in the passage, what does 'triage' most nearly mean?\n\nB) Administering intravenous antibiotics\nC) Performing surgical wound closure\nD) Documenting patient medical histories\n\nA) The text further notes its purpose is to \"prioritize wounded soldiers,\" confirming the sorting mechanism\nB) Administering intravenous antibiotics\nC) Performing surgical wound closure\nD) Documenting patient medical histories",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Administering intravenous antibiotics",
+      "C) Performing surgical wound closure",
+      "D) Documenting patient medical histories"
+    ],
+    "explanation": "Option A is correct because the passage explicitly defines triage as the \"rapid assessment and categorization of patients based on injury severity,\" which directly describes sorting by clinical urgency. The text further notes its purpose is to \"prioritize wounded soldiers,\" confirming the sorting mechanism. Option B is wrong as the passage never mentions administering antibiotics, focusing instead on assessment and categorization. Option C is incorrect because surgical wound closure is a treatment, not the sorting process described in the text. Option D is wrong since documenting histories is a separate administrative task, whereas the passage defines triage as prioritizing patients by injury level.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1457,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Many policymakers champion standardized testing as an objective measure of student achievement. Critics, however, argue that these exams disproportionately disadvantage low-income students and fail to capture creative or critical thinking skills. Furthermore, teaching to the test often narrows curriculum breadth and stifles classroom innovation. A more holistic evaluation system would better serve diverse learner populations.\n\nQuestion: What is the author's point of view regarding standardized testing?\n\nA) Strongly supportive, believing tests ensure equal opportunity for all students\nC) Completely neutral, presenting both sides without any personal stance\nD) Dismissive, arguing that all forms of student assessment should be eliminated\n\nA) Strongly supportive, believing tests ensure equal opportunity for all students\nB) The author explicitly critiques standardized testing by stating critics argue it disadvantages low-income students and ignores creative skills, while advocating for a holistic system instead.\nC) Completely neutral, presenting both sides without any personal stance\nD) Dismissive, arguing that all forms of student assessment should be eliminated",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Strongly supportive, believing tests ensure equal opportunity for all students",
+      "C) Completely neutral, presenting both sides without any personal stance",
+      "D) Dismissive, arguing that all forms of student assessment should be eliminated"
+    ],
+    "explanation": "The author explicitly critiques standardized testing by stating critics argue it disadvantages low-income students and ignores creative skills, while advocating for a holistic system instead. This evidence confirms the author is skeptical and favors alternative methods. Option A is wrong because the text opposes the idea that tests ensure equal opportunity. Option C is incorrect as the author clearly sides with the holistic approach rather than remaining neutral. Option D is wrong since the author does not argue for eliminating all assessment, only traditional exams.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1458,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The hippocampus plays a vital role in memory consolidation and spatial navigation. Chronic stress elevates cortisol levels, which can physically shrink hippocampal neurons over time. This structural degradation impairs learning capacity and emotional regulation. Conversely, mindfulness practices and adequate sleep have been shown to promote neurogenesis in this region.\n\nQuestion: Which phrase best captures the meaning of 'neurogenesis' as used in the passage?\n\nA) The destruction of damaged brain tissue\nB) The transmission of electrical signals between synapses\nD) The accumulation of stress hormones in the bloodstream\n\nA) The destruction of damaged brain tissue\nB) The transmission of electrical signals between synapses\nC) Since the text describes stress causing neurons to shrink and new practices aiding the region, neurogenesis must refer to the creation or growth of new nerve cells\nD) The accumulation of stress hormones in the bloodstream",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) The destruction of damaged brain tissue",
+      "B) The transmission of electrical signals between synapses",
+      "D) The accumulation of stress hormones in the bloodstream"
+    ],
+    "explanation": "Option C is correct because the passage explicitly links mindfulness and sleep to promoting neurogenesis in the hippocampus, contrasting this with stress-induced structural degradation. Since the text describes stress causing neurons to shrink and new practices aiding the region, neurogenesis must refer to the creation or growth of new nerve cells. Option A is wrong because the passage mentions destruction only in the context of stress shrinking existing neurons, not as a separate process called neurogenesis. Option B is incorrect as the text never discusses signal transmission between synapses. Option D fails because the passage attributes hormone accumulation to chronic stress, not to the specific term neurogenesis.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1459,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Some administrators claim that mandatory overtime is necessary to address nursing shortages. This perspective conveniently ignores the well-documented link between extended shifts and medical errors. Exhausted clinicians experience slower reaction times, impaired judgment, and decreased empathy. Prioritizing staff well-being through adequate hiring is not a luxury; it is a patient safety imperative.\n\nQuestion: What is the author's primary purpose in this passage?\n\nA) To explain the financial benefits of extended nursing shifts\nB) To describe the historical origins of hospital staffing models\nC) To provide a neutral overview of healthcare labor shortages\n\nA) To explain the financial benefits of extended nursing shifts\nB) To describe the historical origins of hospital staffing models\nC) To provide a neutral overview of healthcare labor shortages\nD) This directly supports the argument against extended shifts",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) To explain the financial benefits of extended nursing shifts",
+      "B) To describe the historical origins of hospital staffing models",
+      "C) To provide a neutral overview of healthcare labor shortages"
+    ],
+    "explanation": "Option D is correct because the author explicitly links mandatory overtime to negative outcomes like slower reaction times and medical errors, framing adequate hiring as a patient safety imperative rather than a luxury. This directly supports the argument against extended shifts. Option A is wrong as the passage never mentions financial benefits or costs. Option B is incorrect since there is no historical context regarding staffing model origins discussed in the text. Option C fails because the author takes a clear stance against mandatory overtime rather than providing a neutral overview of the shortage issue.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1460,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The water cycle continuously redistributes moisture across the planet. Evaporation lifts liquid water into the atmosphere, where it cools and condenses into clouds. Precipitation then returns moisture to the surface as rain, snow, or hail. Finally, runoff and infiltration channel water back into oceans, lakes, and aquifers, restarting the process.\n\nQuestion: What text structure organizes this passage?\n\nB) Compare and contrast\nC) Cause and effect\nD) Problem and solution\n\nA) The passage uses sequential and cyclical structure because it clearly outlines the steps of the water cycle in a repeating order.\nB) Compare and contrast\nC) Cause and effect\nD) Problem and solution",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Compare and contrast",
+      "C) Cause and effect",
+      "D) Problem and solution"
+    ],
+    "explanation": "The passage uses sequential and cyclical structure because it clearly outlines the steps of the water cycle in a repeating order. Words like \"continuously,\" \"then,\" and \"finally\" signal a step-by-step progression from evaporation to precipitation and back to the oceans. This specific arrangement demonstrates a process that restarts itself, fitting the definition of a cyclical sequence rather than a linear list.\n\nOption B is incorrect because the text does not highlight similarities or differences between two subjects. Option C fails as there is no primary cause leading to a specific effect; instead, the steps are natural parts of a continuous loop. Option D is wrong because the passage describes a natural phenomenon, not a problem requiring a specific solution or remedy.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1461,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The phrase 'benign neglect' appears contradictory at first glance. In historical policy contexts, it describes a deliberate decision to withhold intervention, allowing a situation to develop without interference. Proponents argue that noninterference prevents unintended consequences, while opponents view it as abandonment of vulnerable populations. The term remains highly contested in urban planning and public health debates.\n\nQuestion: As used in the passage, what does 'benign neglect' most nearly mean?\n\nA) Active medical treatment for minor illnesses\nC) Accidental oversight due to administrative incompetence\nD) Compassionate care provided to marginalized communities\n\nA) Active medical treatment for minor illnesses\nB) The text contrasts this with abandonment, highlighting that proponents view it as a strategic choice rather than simple failure\nC) Accidental oversight due to administrative incompetence\nD) Compassionate care provided to marginalized communities",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Active medical treatment for minor illnesses",
+      "C) Accidental oversight due to administrative incompetence",
+      "D) Compassionate care provided to marginalized communities"
+    ],
+    "explanation": "Option B is correct because the passage explicitly defines 'benign neglect' as a deliberate decision to withhold intervention to prevent unintended consequences, aligning perfectly with the idea of nonintervention justified by avoiding worse outcomes. The text contrasts this with abandonment, highlighting that proponents view it as a strategic choice rather than simple failure.\n\nOption A is wrong because the passage describes withholding treatment, not providing active medical care, and mentions urban planning and public health debates rather than minor illnesses. Option C is incorrect since the text specifies a deliberate policy choice, whereas administrative incompetence implies an accidental or negligent error. Option D fails because the passage states opponents view the term as abandonment, meaning it does not represent compassionate care for marginalized groups.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1462,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Electronic health records (EHRs) were designed to streamline documentation and improve care coordination. In practice, however, many clinicians report spending excessive time navigating cumbersome interfaces. This administrative burden contributes significantly to professional burnout and reduces face-to-face patient interaction. Software developers must prioritize intuitive design to align technology with clinical workflows.\n\nQuestion: What is the author's tone toward current EHR systems?\n\nA) Enthusiastic and uncritical\nB) Indifferent and detached\nD) Hostile and dismissive\n\nA) Enthusiastic and uncritical\nB) Indifferent and detached\nC) cumbersome interfaces,\nD) Hostile and dismissive",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Enthusiastic and uncritical",
+      "B) Indifferent and detached",
+      "D) Hostile and dismissive"
+    ],
+    "explanation": "The author adopts a critical yet constructive tone by acknowledging the intended benefits of EHRs while sharply noting their current failure to streamline workflows. The passage explicitly states that clinicians face \"excessive time\" and \"cumbersome interfaces,\" which directly supports the critical assessment of existing systems. However, the text concludes by suggesting that developers \"must prioritize intuitive design,\" offering a clear path for improvement rather than simply condemning the technology. This balance of identifying serious flaws and proposing a solution aligns perfectly with a critical but constructive approach.\n\nOption A is incorrect because the author does not express enthusiasm; instead, they highlight negative outcomes like burnout and reduced patient interaction. Option B fails because the author actively engages with the problem, arguing for specific changes rather than remaining detached. Option D is wrong since the tone is not hostile; the suggestion for better design implies a desire to fix the issue, not dismiss it entirely.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1463,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The concept of 'carrying capacity' refers to the maximum population size an environment can sustain indefinitely. When a species exceeds this threshold, resource depletion triggers competition, disease, or migration. Ecologists monitor carrying capacity to predict wildlife population fluctuations and manage conservation efforts. Human activity frequently alters these natural limits through habitat destruction and pollution.\n\nQuestion: Which word best replaces 'threshold' as used in the passage?\n\nA) Beginning\nB) Advantage\nC) Mystery\n\nA) Beginning\nB) Advantage\nC) Mystery\nD) The text explicitly states that exceeding this threshold leads to negative consequences like resource depletion, confirming it acts as a restrictive boundary rather than a starting point or unknown factor",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Beginning",
+      "B) Advantage",
+      "C) Mystery"
+    ],
+    "explanation": "Option D, Limit, is the best replacement because the passage defines carrying capacity as the maximum population size an environment can sustain, which is synonymous with a boundary or limit. The text explicitly states that exceeding this threshold leads to negative consequences like resource depletion, confirming it acts as a restrictive boundary rather than a starting point or unknown factor. Option A, Beginning, is incorrect because a threshold in this context represents a maximum point, not the start of a process. Option B, Advantage, is wrong since crossing the threshold causes problems, not benefits, contradicting the definition of a limit. Finally, Option C, Mystery, is inaccurate because the passage clearly explains the concept, showing the threshold is a known ecological factor, not an enigma.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1464,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "The author begins by defining sepsis as a life-threatening systemic response to infection. The text then outlines early warning signs, including fever, tachycardia, and altered mental status. Next, it details the physiological cascade that leads to organ failure. The passage concludes by emphasizing rapid antibiotic administration and fluid resuscitation as critical interventions.\n\nQuestion: What text structure does this passage describe?\n\nB) Compare and contrast of two different diseases\nC) Problem and solution focusing on hospital funding\nD) Cause and effect analyzing medical insurance policies\n\nA) This matches the definition of a definition followed by sequential progression\nB) Compare and contrast of two different diseases\nC) Problem and solution focusing on hospital funding\nD) Cause and effect analyzing medical insurance policies",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Compare and contrast of two different diseases",
+      "C) Problem and solution focusing on hospital funding",
+      "D) Cause and effect analyzing medical insurance policies"
+    ],
+    "explanation": "Option A is correct because the passage explicitly starts by defining sepsis, then moves chronologically through warning signs, physiological cascades, and finally specific treatments like antibiotics. This matches the definition of a definition followed by sequential progression. Option B is wrong as the text discusses only one disease, sepsis, rather than comparing two different illnesses. Option C is incorrect because funding issues are never mentioned; the focus remains strictly on clinical symptoms and medical interventions. Option D fails because the passage analyzes the biological cause of organ failure and treatment methods, not medical insurance policies or financial problems.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1465,
+    "subject": "reading",
+    "topic": "Craft & Structure",
+    "question_text": "Advocates of universal healthcare argue that medical access should be a fundamental right, not a privilege tied to employment. They point to nations with single-payer systems that achieve better life expectancy and lower per capita costs. Opponents counter that government-run models stifle innovation and create excessive wait times. The debate ultimately hinges on competing values: equity versus market efficiency.\n\nQuestion: What is the author's primary purpose in this passage?\n\nA) To persuade readers that single-payer systems are universally superior\nC) To criticize employers for providing inadequate insurance coverage\nD) To explain the technical mechanics of medical billing software\n\nA) To persuade readers that single-payer systems are universally superior\nB) The author neutrally outlines both advocates and opponents of universal healthcare without endorsing one side, fulfilling the purpose of presenting opposing viewpoints.\nC) To criticize employers for providing inadequate insurance coverage\nD) To explain the technical mechanics of medical billing software",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) To persuade readers that single-payer systems are universally superior",
+      "C) To criticize employers for providing inadequate insurance coverage",
+      "D) To explain the technical mechanics of medical billing software"
+    ],
+    "explanation": "The author neutrally outlines both advocates and opponents of universal healthcare without endorsing one side, fulfilling the purpose of presenting opposing viewpoints. Option A is incorrect because the text merely reports arguments rather than asserting single-payer systems are universally superior. Option C is wrong as employers are never mentioned or criticized regarding insurance coverage. Option D fails because the passage discusses policy values like equity and efficiency, not the technical mechanics of billing software.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

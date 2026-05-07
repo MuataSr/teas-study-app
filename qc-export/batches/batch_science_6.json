@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1102,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse dilutes a 10 mg/mL medication to 2 mg/mL for infusion. What volume of diluent must be added to 1 mL of stock solution?\nA) 1 mL\nB) 2 mL\nC) 5 mL\nD) 4 mL",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) 1 mL",
+      "B) 2 mL",
+      "C) 5 mL"
+    ],
+    "explanation": "To solve this, calculate the total volume needed: 1 mL of stock at 10 mg/mL contains 10 mg. To get 2 mg/mL, you need 5 mL total (10 mg \u00f7 2 mg/mL). Since you already have 1 mL of stock, add 4 mL of diluent (5 mL total - 1 mL stock). Option D is correct because it matches this calculation. Option A is wrong as 1 mL added yields only 2 mL total (5 mg/mL). Option B is incorrect because 2 mL added makes 3 mL total (3.33 mg/mL). Option C is wrong since 5 mL added creates 6 mL total (1.67 mg/mL), not the target concentration.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1103,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A patient receives N-acetylcysteine for acetaminophen overdose. This antidote works by replenishing glutathione, which neutralizes toxic metabolites via which reaction type?\nA) Acid-base neutralization\nB) Oxidation-reduction\nC) Precipitation\nD) Hydrolysis",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Acid-base neutralization",
+      "C) Precipitation",
+      "D) Hydrolysis"
+    ],
+    "explanation": "The antidote N-acetylcysteine restores glutathione, which neutralizes the toxic metabolite NAPQI through an oxidation-reduction reaction. This process involves electron transfer to detoxify the compound, making option B the only scientifically accurate choice. Acid-base neutralization (A) relies on proton exchange, while precipitation (C) forms solids, and hydrolysis (D) breaks bonds with water; none describe this specific electron transfer mechanism.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1104,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "When converting a lab value of 140 mmol/L sodium to mEq/L, the nurse recognizes the values are equal because:\nA) Sodium has a valence of 1\nB) Millimoles always equal milliequivalents\nC) The conversion factor is 2\nD) Laboratory standards use interchangeable units",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Millimoles always equal milliequivalents",
+      "C) The conversion factor is 2",
+      "D) Laboratory standards use interchangeable units"
+    ],
+    "explanation": "The nurse recognizes the values are equal because sodium has a valence of 1, making millimoles and milliequivalents numerically identical for this ion. Option B is incorrect since millimoles do not always equal milliequivalents; this only happens when valence is 1. Option C is wrong because the conversion factor is 1, not 2, and Option D fails as lab units are not universally interchangeable without calculation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1105,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse programs an infusion pump requiring mL/hr but has a dose in mcg/kg/min. Which metric conversion skill is most critical for this calculation?\nA) Temperature conversion\nB) Mass-to-volume concentration conversion\nC) Time unit conversion (min to hr)\nD) Both B and C",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Temperature conversion",
+      "B) Mass-to-volume concentration conversion",
+      "C) Time unit conversion (min to hr)"
+    ],
+    "explanation": "The critical skill is converting mass-to-volume concentration and time units, not temperature. Option B handles the mcg to mL ratio while C adjusts minutes to hours for the rate. Since D combines both B and C, it is the only complete solution for this infusion pump calculation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1106,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A patient receives fat-soluble vitamins with enteral feeding. Why are these vitamins administered with lipids rather than aqueous solutions?\nA) Lipids increase vitamin molecular weight\nB) 'Like dissolves like': nonpolar vitamins dissolve in nonpolar lipids\nC) Lipids protect vitamins from stomach acid\nD) Aqueous solutions degrade vitamins faster",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Lipids increase vitamin molecular weight",
+      "C) Lipids protect vitamins from stomach acid",
+      "D) Aqueous solutions degrade vitamins faster"
+    ],
+    "explanation": "The question asks why fat-soluble vitamins are given with lipids. Option B is correct because the principle \"like dissolves like\" means nonpolar vitamins dissolve in nonpolar lipids. Option A is wrong since lipids do not increase vitamin molecular weight. Option C is incorrect because stomach acid protection is not the primary reason for lipid co-administration. Option D is false because aqueous solutions do not necessarily degrade these vitamins faster.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1107,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse understands that drug-receptor binding affinity is influenced by electronegativity. Which periodic trend explains why fluorine-containing drugs often have high binding affinity?\nA) Atomic radius increases down a group\nB) Metallic character increases left to right\nC) Ionization energy decreases down a group\nD) Electronegativity increases across a period",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Atomic radius increases down a group",
+      "B) Metallic character increases left to right",
+      "C) Ionization energy decreases down a group"
+    ],
+    "explanation": "The correct answer is D because electronegativity increases across a period, allowing fluorine to form strong bonds with receptors. Option A is wrong since atomic radius decreases down a group, not increases. Option B is incorrect as metallic character decreases left to right, contrary to the trend. Option C is false because ionization energy increases down a group, not decreases. Fluorine's high electronegativity explains its strong binding affinity in drugs.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1108,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A patient with metabolic acidosis has low bicarbonate. The nurse anticipates respiratory compensation via hyperventilation to decrease which component of the buffer equation?\nA) Carbonic acid concentration\nB) Bicarbonate concentration\nC) pH directly\nD) Hemoglobin affinity",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) Bicarbonate concentration",
+      "C) pH directly",
+      "D) Hemoglobin affinity"
+    ],
+    "explanation": "The nurse anticipates hyperventilation to blow off CO2, which lowers carbonic acid concentration per the buffer equation. This shift helps restore pH balance by reducing the acidic component driving the metabolic acidosis. Option B is wrong because bicarbonate is already low and cannot be decreased further to help. Option C is incorrect since pH is the result being managed, not the component directly altered by breathing. Option D is invalid because hemoglobin affinity does not change via respiratory compensation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1109,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "When formulating total parenteral nutrition (TPN), a nurse considers osmolarity. Which colligative property is most critical to prevent phlebitis in peripheral IV administration?\nA) Vapor pressure lowering\nB) Boiling point elevation\nC) Osmotic pressure\nD) Freezing point depression",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Vapor pressure lowering",
+      "B) Boiling point elevation",
+      "D) Freezing point depression"
+    ],
+    "explanation": "The critical property is osmotic pressure because it directly determines the fluid's ability to draw water from cells, which causes phlebitis if too high. Vapor pressure lowering, boiling point elevation, and freezing point depression are irrelevant to blood vessel irritation in peripheral IVs. High osmolarity creates excessive osmotic pressure, damaging veins during administration.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1110,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nurse administers a drug metabolized by CYP450 enzymes. At high doses, metabolism plateaus. This saturation kinetics follows which principle?\nA) Law of mass action\nB) Henry's law\nC) Le Chatelier's principle\nD) Michaelis-Menten kinetics",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Law of mass action",
+      "B) Henry's law",
+      "C) Le Chatelier's principle"
+    ],
+    "explanation": "The question describes drug saturation where metabolism plateaus at high doses, a hallmark of Michaelis-Menten kinetics. This principle states that enzyme reaction rates increase with substrate concentration until reaching a maximum velocity (Vmax) when all enzymes are saturated. Option A, the Law of mass action, deals with equilibrium concentrations rather than enzyme saturation limits. Option B, Henry's law, relates gas solubility to partial pressure, which is irrelevant here. Option C, Le Chatelier's principle, predicts equilibrium shifts but does not define the specific plateau behavior of enzyme kinetics. Thus, D is the only principle explaining the observed metabolic saturation.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1111,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "After myocardial infarction, reperfusion therapy can cause oxidative injury. Which chemical process generates damaging free radicals during this phase?\nA) Hydrolysis of ATP\nB) Denaturation of membrane proteins\nC) Precipitation of calcium salts\nD) Reduction of oxygen to superoxide",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Hydrolysis of ATP",
+      "B) Denaturation of membrane proteins",
+      "C) Precipitation of calcium salts"
+    ],
+    "explanation": "The question asks about free radical generation after myocardial infarction. Option D is correct because the reduction of oxygen to superoxide directly creates a damaging free radical during reperfusion therapy. Options A, B, and C are incorrect because hydrolysis of ATP, denaturation of membrane proteins, and precipitation of calcium salts do not generate free radicals. These processes involve energy release, structural damage, or mineral deposition but lack the electron transfer needed to form reactive oxygen species. Thus, only the chemical reduction of oxygen fits the mechanism of oxidative injury described.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1112,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A patient with lead poisoning receives EDTA chelation therapy. How does EDTA facilitate lead removal?\nA) Oxidizes lead to a soluble form\nB) Blocks lead absorption in the gut\nC) Precipitates lead as insoluble salts\nD) Forms water-soluble coordination complexes with lead ions",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Oxidizes lead to a soluble form",
+      "B) Blocks lead absorption in the gut",
+      "C) Precipitates lead as insoluble salts"
+    ],
+    "explanation": "EDTA removes lead by forming water-soluble coordination complexes with lead ions, allowing renal excretion. Option A is wrong because EDTA does not oxidize lead, and B is incorrect as it acts systemically rather than blocking gut absorption. Option C fails because the complexes are soluble, not insoluble precipitates. This mechanism facilitates safe lead elimination via urine.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1113,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "A nuclear medicine scan uses technetium-99m with a 6-hour half-life. If a dose is 20 mCi at 8 AM, what activity remains at 2 PM?\nA) 2.5 mCi\nB) 5 mCi\nC) 10 mCi\nD) 15 mCi",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 2.5 mCi",
+      "B) 5 mCi",
+      "D) 15 mCi"
+    ],
+    "explanation": "The time elapsed from 8 AM to 2 PM is exactly 6 hours, which equals one half-life of technetium-99m. Starting with 20 mCi, the activity drops by half after this period, leaving 10 mCi. Option C correctly states this remaining amount. Option A is too low as it represents three half-lives, Option B is incorrect because it assumes two half-lives, and Option D is wrong as it implies less than one half-life passed.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1114,
+    "subject": "science",
+    "topic": "Chemistry",
+    "question_text": "When selecting a urinary catheter material, a nurse considers biocompatibility. Which polymer property minimizes tissue irritation and biofilm formation?\nA) High crystallinity\nB) Hydrophobic surface\nC) Low protein adsorption\nD) High tensile strength",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) High crystallinity",
+      "B) Hydrophobic surface",
+      "D) High tensile strength"
+    ],
+    "explanation": "Option C is right because low protein adsorption directly reduces tissue irritation and biofilm formation, as proteins act as a scaffold for bacteria. Option A is wrong since high crystallinity often increases brittleness and potential tissue damage. Option B is incorrect because a hydrophobic surface can promote protein adsorption and bacterial adhesion. Option D is wrong as tensile strength relates to mechanical durability, not biocompatibility or biofilm prevention.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1115,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse assesses a patient, identifies a problem, plans interventions, implements care, and evaluates outcomes. This process mirrors which scientific framework?\nA) Hypothesis testing only\nB) Scientific method\nC) Statistical analysis\nD) Peer review process",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Hypothesis testing only",
+      "C) Statistical analysis",
+      "D) Peer review process"
+    ],
+    "explanation": "The described nursing cycle mirrors the scientific method, which involves observation, hypothesis, experimentation, and conclusion. Option A is incorrect because hypothesis testing is just one step, not the full framework. Option C fails as statistical analysis is a tool for data interpretation, not the overall process. Option D is wrong since peer review evaluates research quality after completion, unlike the active cycle described. Thus, B is the only accurate choice.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1116,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "In a study testing a new wound dressing, researchers change only the dressing type while keeping other care constant. The dressing type is the:\nA) Dependent variable\nB) Controlled variable\nC) Independent variable\nD) Confounding variable",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Dependent variable",
+      "B) Controlled variable",
+      "D) Confounding variable"
+    ],
+    "explanation": "In this study, the dressing type is the independent variable because researchers deliberately change it to observe its effect. The dependent variable would be the wound healing outcome, while controlled variables are the constant care factors. A confounding variable is an uncontrolled factor that could skew results, which is not the case here. Therefore, option C is correct as it represents the manipulated factor in the experiment.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1117,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse reviews a table showing post-operative pain scores decreasing over 24 hours after analgesic administration. What conclusion is most directly supported?\nA) The analgesic caused the pain reduction\nB) Pain scores trended downward temporally with medication\nC) All patients responded equally to treatment\nD) Non-pharmacological methods were ineffective",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) The analgesic caused the pain reduction",
+      "C) All patients responded equally to treatment",
+      "D) Non-pharmacological methods were ineffective"
+    ],
+    "explanation": "The table shows pain scores decreasing over 24 hours after medication, directly supporting option B that the trend is temporal with the drug. Option A is wrong because the table lacks a control group to prove causation. Option C is incorrect as the data does not show individual patient responses or equality. Option D is unsupported since the table only tracks analgesic effects, not non-pharmacological methods.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1118,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "After implementing turning schedules for pressure injury prevention, a nurse notes fewer new injuries. Which reasoning step connects the intervention to the outcome?\nA) Forming a hypothesis\nB) Drawing a conclusion\nC) Identifying variables\nD) Collecting raw data",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Forming a hypothesis",
+      "C) Identifying variables",
+      "D) Collecting raw data"
+    ],
+    "explanation": "Option B, Drawing a conclusion, is right because the nurse observes the outcome (fewer injuries) after the intervention and logically connects them to form a final judgment. This step synthesizes the data to answer the research question. Option A, Forming a hypothesis, is wrong as it occurs before the study begins, predicting outcomes rather than confirming them. Option C, Identifying variables, is incorrect because it involves defining the intervention and outcome, not linking them post-observation. Option D, Collecting raw data, is wrong since it refers to gathering numbers like injury counts, not interpreting their relationship. The question asks for the reasoning step that bridges the gap between action and result.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1119,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nurse predicts that elevating a patient's legs will reduce edema. This prediction is best described as a:\nA) Theory\nB) Law\nC) Hypothesis\nD) Conclusion",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Theory",
+      "B) Law",
+      "D) Conclusion"
+    ],
+    "explanation": "A nurse's prediction about leg elevation reducing edema is a hypothesis because it is a testable statement guiding an experiment. Unlike a theory or law, which explain broad natural phenomena, this specific claim awaits verification through observation. A conclusion would only come after testing, so this initial prediction fits the definition of a hypothesis best.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1120,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "When evaluating a new fall prevention protocol, why is a control group important?\nA) It ensures all patients receive the new protocol\nB) It provides a comparison to isolate the protocol's effect\nC) It eliminates the need for statistical analysis\nD) It guarantees patient safety",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It ensures all patients receive the new protocol",
+      "C) It eliminates the need for statistical analysis",
+      "D) It guarantees patient safety"
+    ],
+    "explanation": "A control group is vital because it offers a baseline to compare against the experimental group, allowing researchers to isolate the specific effect of the new fall prevention protocol. Without this comparison, it would be impossible to determine if observed improvements were due to the protocol or other factors like natural recovery. Option A is incorrect because a control group specifically receives the standard care, not the new protocol. Option C is wrong since statistical analysis remains necessary to validate the comparison data. Option D is inaccurate because a control group does not guarantee safety; it simply enables valid scientific evaluation of the intervention's efficacy.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1121,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A case report describes successful use of a novel dressing for a complex wound. What is a key limitation of this evidence type for changing practice?\nA) It provides detailed patient history\nB) It lacks a control group and generalizability\nC) It is too expensive to replicate\nD) It uses qualitative data only",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It provides detailed patient history",
+      "C) It is too expensive to replicate",
+      "D) It uses qualitative data only"
+    ],
+    "explanation": "The case report lacks a control group, preventing comparison to standard care and limiting generalizability to other settings. Option A is incorrect because detailed history does not validate efficacy without controls. Option C is wrong as cost is not a primary evidence limitation for practice change. Option D is false since case reports often include quantitative measurements alongside qualitative data.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1122,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "When measuring patient satisfaction with care, a nurse uses a 1-10 rating scale. This approach collects which type of data?\nA) Qualitative data\nB) Quantitative data\nC) Anecdotal evidence\nD) Ethnographic data",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Qualitative data",
+      "C) Anecdotal evidence",
+      "D) Ethnographic data"
+    ],
+    "explanation": "The question asks about data types from a 1-10 rating scale. Option B is correct because quantitative data consists of numerical values that can be measured and analyzed statistically, which fits the numeric scale used. Option A is wrong since qualitative data involves descriptive, non-numerical information like patient feelings or stories. Option C is incorrect because anecdotal evidence refers to isolated personal accounts rather than a standardized measurement system. Option D is wrong as ethnographic data comes from studying cultural groups in their natural settings, not individual satisfaction scores.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1123,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "In a study linking nurse staffing ratios to patient falls, researchers fail to account for patient acuity. Patient acuity is a potential:\nA) Independent variable\nB) Dependent variable\nC) Confounding variable\nD) Control variable",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Independent variable",
+      "B) Dependent variable",
+      "D) Control variable"
+    ],
+    "explanation": "Patient acuity acts as a confounding variable because it influences both the outcome and the study's primary factor. Option A is wrong since acuity is not the variable being manipulated by researchers. Option B fails because acuity does not represent the patient falls being measured. Option D is incorrect as acuity is not held constant to control the experiment. This study design flaw shows how unmeasured factors distort results.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1124,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A quality improvement project recruits participants from one hospital unit. What type of bias might limit the findings' applicability to other settings?\nA) Measurement bias\nB) Selection bias\nC) Recall bias\nD) Publication bias",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Measurement bias",
+      "C) Recall bias",
+      "D) Publication bias"
+    ],
+    "explanation": "Selection bias occurs when the study sample is not representative of the target population, limiting generalizability. Since participants are recruited from only one hospital unit, the findings may not apply to other settings. Measurement bias involves errors in data collection, while recall bias stems from imperfect memory, and publication bias relates to selective reporting of results.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1125,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A nursing study reports p=0.03 for reduced infection rates with a new protocol. The nurse should interpret this as:\nA) There's a 3% probability the result occurred by chance if no true effect exists\nB) The protocol definitely works\nC) The effect size is large and clinically important\nD) The study has no limitations",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) The protocol definitely works",
+      "C) The effect size is large and clinically important",
+      "D) The study has no limitations"
+    ],
+    "explanation": "The question asks how to interpret p=0.03 in a nursing study. Option A is correct because a p-value of 0.03 means there is a 3% chance the result occurred by chance if no true effect exists. Option B is wrong because p=0.03 does not prove the protocol definitely works, only that it is statistically significant. Option C is incorrect since p-values do not measure effect size or clinical importance. Option D is false because all studies have limitations, and this p-value does not indicate any specific lack thereof.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1126,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "Data shows hospitals with higher RN education levels have better patient outcomes. Before concluding causation, a nurse should consider:\nA) Whether education directly causes better care\nB) Patient preferences for educated nurses\nC) The cost of nursing degrees\nD) If other factors (resources, staffing) explain the association",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Whether education directly causes better care",
+      "B) Patient preferences for educated nurses",
+      "C) The cost of nursing degrees"
+    ],
+    "explanation": "The question asks what a nurse should consider before concluding causation from data linking RN education to better outcomes. Option D is correct because it identifies confounding variables like resources and staffing that could explain the association without direct causation. Options A, B, and C are incorrect as they focus on direct causation, patient preferences, and costs, which do not address potential alternative explanations for the observed data pattern.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1127,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A line graph displays average pain scores hourly after surgery. The nurse notes scores drop sharply at hour 2. What is the most appropriate initial interpretation?\nA) The analgesic given at hour 1.5 was effective\nB) Pain naturally decreases after surgery\nC) The graph is mislabeled\nD) The timing suggests a possible intervention effect needing further study",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The analgesic given at hour 1.5 was effective",
+      "B) Pain naturally decreases after surgery",
+      "C) The graph is mislabeled"
+    ],
+    "explanation": "Option D is right because the sharp drop at hour 2 implies a specific intervention rather than a general trend, requiring further study. Option A is wrong since the analgesic was given at hour 1.5, which does not align with the hour 2 data point. Option B is incorrect because natural pain decrease is gradual, not a sharp drop at a specific hour. Option C is false as there is no evidence in the graph to suggest mislabeling.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1128,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "When validating a new pain assessment tool, researchers ensure it measures pain and not anxiety. This addresses which measurement property?\nA) Reliability\nB) Content validity\nC) Inter-rater reliability\nD) Test-retest reliability",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Reliability",
+      "C) Inter-rater reliability",
+      "D) Test-retest reliability"
+    ],
+    "explanation": "This question asks about measurement properties when validating a pain tool to ensure it measures pain and not anxiety. The correct answer is B) Content validity because it confirms the tool covers the intended subject matter without irrelevant constructs like anxiety. Option A) Reliability is incorrect as it refers to consistency of results over time, not the specific content measured. Options C) Inter-rater reliability and D) Test-retest reliability are also wrong since they both measure consistency between different raters or across time, not the validity of the content itself.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1129,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "Two nurses independently stage the same pressure injury and agree on the classification. This demonstrates:\nA) Content validity\nB) Inter-rater reliability\nC) Internal consistency\nD) Construct validity",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Content validity",
+      "C) Internal consistency",
+      "D) Construct validity"
+    ],
+    "explanation": "The scenario where two nurses independently agree on a pressure injury classification demonstrates inter-rater reliability, as it measures consistency between different observers. Option A, content validity, is incorrect because it assesses whether a test covers the full domain of a subject, not observer agreement. Option C, internal consistency, is wrong since it evaluates if items within a single test correlate, rather than comparing ratings across people. Option D, construct validity, is inaccurate because it determines if a test truly measures an abstract concept, not the reliability of specific ratings. Therefore, the agreement between independent raters specifically confirms inter-rater reliability.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1130,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "In evidence-based practice, a randomized controlled trial (RCT) is valued because it:\nA) Always proves causation\nB) Minimizes bias through random assignment and control groups\nC) Is inexpensive and quick to conduct\nD) Uses only qualitative data",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) Always proves causation",
+      "C) Is inexpensive and quick to conduct",
+      "D) Uses only qualitative data"
+    ],
+    "explanation": "The RCT minimizes bias via random assignment and control groups, making option B the right choice. Option A is wrong because an RCT does not always prove causation without specific conditions. Option C is incorrect as RCTs are often expensive and time-consuming. Option D is false since RCTs rely on quantitative data, not just qualitative insights.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1131,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "When obtaining consent for research with cognitively impaired patients, which ethical principle is paramount?\nA) Justice\nB) Beneficence\nC) Respect for autonomy via surrogate decision-makers\nD) Veracity",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) Justice",
+      "B) Beneficence",
+      "D) Veracity"
+    ],
+    "explanation": "The question asks about the key ethical principle when researching cognitively impaired patients. Option C is correct because these patients cannot exercise their own autonomy, so respecting it requires using surrogate decision-makers to act on their behalf. Option A, Justice, is wrong as it focuses on fair distribution of research burdens rather than individual consent. Option B, Beneficence, is incorrect because it emphasizes doing good and minimizing harm, which is secondary to respecting the patient's voice. Option D, Veracity, is wrong since it deals with truth-telling, not the authority to make decisions for the impaired.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1132,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A study on a new sepsis protocol reports 80% power to detect a 10% mortality reduction. What does this power value indicate?\nA) 80% chance the protocol works\nB) 80% probability of detecting a true 10% effect if it exists\nC) 20% risk of type I error\nD) The effect size is clinically unimportant",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) 80% chance the protocol works",
+      "C) 20% risk of type I error",
+      "D) The effect size is clinically unimportant"
+    ],
+    "explanation": "The power value of 80% indicates an 80% probability of correctly detecting a true 10% effect if it actually exists, making option B the correct interpretation of statistical power. Option A is incorrect because power does not measure the overall chance that a protocol works, but rather the likelihood of finding a specific effect. Option C is wrong as it confuses power with Type I error risk, which is determined by the significance level, not power. Option D is false because power relates to statistical detection, not the clinical importance of the effect size itself.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1133,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A regression analysis identifies age, comorbidities, and staffing as predictors of patient falls. What advantage does this multivariate approach offer?\nA) It isolates each variable's effect while controlling for others\nB) It simplifies data collection\nC) It eliminates the need for randomization\nD) It proves causation for each predictor",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) It simplifies data collection",
+      "C) It eliminates the need for randomization",
+      "D) It proves causation for each predictor"
+    ],
+    "explanation": "This multivariate regression isolates each predictor's effect while controlling for others, unlike simpler models. Option B is wrong because regression does not simplify data collection. Option C is incorrect as randomization remains essential for study design. Option D fails because regression identifies associations, not definitive causation.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1134,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "When critically appraising a meta-analysis on pressure injury prevention, a nurse should prioritize evaluating:\nA) The number of included studies\nB) The authors' affiliations\nC) The journal's impact factor\nD) The homogeneity of study populations and interventions",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) The number of included studies",
+      "B) The authors' affiliations",
+      "C) The journal's impact factor"
+    ],
+    "explanation": "Evaluating the homogeneity of study populations and interventions is crucial because it directly impacts the validity and applicability of the meta-analysis findings. If studies vary too much in their methods or subjects, combining them can lead to misleading conclusions about pressure injury prevention. Options A, B, and C are less relevant as the number of studies does not guarantee quality, while author affiliations and journal impact factors do not reflect the actual scientific rigor of the research included.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1135,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A hospital adopts an evidence-based fall prevention bundle, but unit-level adoption varies. Which translational research barrier does this illustrate?\nA) Lack of evidence\nB) Inadequate statistical power\nC) Poor study design\nD) Contextual factors affecting implementation",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "A) Lack of evidence",
+      "B) Inadequate statistical power",
+      "C) Poor study design"
+    ],
+    "explanation": "The scenario highlights how unit-level adoption varies despite a proven bundle, pointing to contextual factors affecting implementation as the barrier. Option D is correct because real-world settings like different hospital units create unique challenges that hinder consistent application of evidence. Options A, B, and C are incorrect since the bundle is evidence-based, the issue isn't statistical power, and the study design isn't the primary problem here.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1136,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A prophylactic anticoagulant reduces DVT risk from 10% to 5%. The number needed to treat (NNT) is:\nA) 5\nB) 10\nC) 20\nD) 50",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A) 5",
+      "B) 10",
+      "D) 50"
+    ],
+    "explanation": "The number needed to treat (NNT) is calculated as the reciprocal of the absolute risk reduction (ARR). Here, the ARR is the difference between the control risk (10%) and the treatment risk (5%), which equals 5% or 0.05. Dividing 1 by 0.05 yields 20, making option C the correct answer. Options A, B, and D are incorrect because they represent the risks themselves or miscalculated values rather than the reciprocal of the risk difference.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1137,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "In a study measuring blood pressure with a cuff, inconsistent calibration introduces error. This primarily threatens which aspect of data quality?\nA) External validity\nB) Measurement validity\nC) Statistical power\nD) Generalizability",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) External validity",
+      "C) Statistical power",
+      "D) Generalizability"
+    ],
+    "explanation": "The inconsistent cuff calibration directly compromises measurement validity because it introduces systematic error into the data collection process. Option A, external validity, concerns whether results apply to other settings, which calibration does not primarily affect. Option C, statistical power, relates to detecting true effects, whereas this issue distorts the actual measurements themselves. Option D, generalizability, is similar to external validity and is not the main threat here. Thus, the flawed calibration specifically undermines the accuracy of the blood pressure readings obtained.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1138,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A longitudinal study on nurse burnout loses 30% of participants over 2 years. How might this attrition affect validity?\nA) It increases statistical power\nB) It may bias results if dropouts differ systematically from completers\nC) It improves generalizability\nD) It eliminates confounding",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A) It increases statistical power",
+      "C) It improves generalizability",
+      "D) It eliminates confounding"
+    ],
+    "explanation": "Attrition reduces sample size, lowering statistical power rather than increasing it as option A claims. High dropout rates often limit generalizability because the remaining participants may not represent the original population, contradicting option C. Systematic differences between dropouts and completers introduce bias, making results unrepresentative, which invalidates option D's suggestion that confounding is eliminated. Therefore, option B correctly identifies that biased results occur when attrition is non-random.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1139,
+    "subject": "science",
+    "topic": "Scientific Reasoning",
+    "question_text": "A mixed-methods study on patient experiences combines survey scores with interview themes. What is the primary strength of this design?\nA) It provides both statistical trends and contextual depth\nB) It requires fewer resources\nC) It eliminates researcher bias\nD) It guarantees causal conclusions",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B) It requires fewer resources",
+      "C) It eliminates researcher bias",
+      "D) It guarantees causal conclusions"
+    ],
+    "explanation": "The primary strength of this mixed-methods design is that it provides both statistical trends and contextual depth. By combining survey scores with interview themes, the study captures quantitative patterns alongside qualitative nuances. Option B is incorrect because mixed methods often demand more resources than single approaches. Option C is wrong since no design fully eliminates researcher bias. Option D fails because correlational data cannot guarantee causal conclusions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1646,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "A nurse is reviewing a sample of bacteria collected from a patient's skin. Microscopic examination reveals that the organisms lack a defined nucleus and membrane-bound organelles. Which characteristic best distinguishes these prokaryotic cells from eukaryotic cells found in human tissues?\nA) Prokaryotic cells contain chloroplasts for photosynthesis.\nB) Prokaryotic cells have ribosomes, while eukaryotic cells do not.\nC) Prokaryotic cells are larger than most eukaryotic cells.\nD) Prokaryotic cells lack a membrane-bound nucleus.",
+    "correct_answer": "D",
+    "wrong_answers": [
+      "Prokaryotic cells have ribosomes, while eukaryotic cells do not.",
+      "Prokaryotic cells contain chloroplasts for photosynthesis.",
+      "Prokaryotic cells are larger than most eukaryotic cells."
+    ],
+    "explanation": "The primary distinction between prokaryotic and eukaryotic cells is that prokaryotes lack a true, membrane-bound nucleus, whereas eukaryotes have one. Additionally, prokaryotes generally lack other membrane-bound organelles like mitochondria and chloroplasts. The other options are incorrect because prokaryotes do contain ribosomes, they do not typically possess chloroplasts, and they are usually smaller, not larger, than eukaryotic cells.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1647,
+    "subject": "science",
+    "topic": "Cell theory and cell types",
+    "question_text": "A nurse is reviewing a patient's history who was diagnosed with a bacterial infection caused by a microorganism that lacks a membrane-bound nucleus and organelles like mitochondria. Which of the following cell types best describes this pathogen?\nA) Animal cell\nB) Prokaryotic cell\nC) Eukaryotic cell\nD) Vegetative cell",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Eukaryotic cell",
+      "Vegetative cell",
+      "Animal cell"
+    ],
+    "explanation": "Prokaryotic cells are defined by the absence of a membrane-bound nucleus and organelles, which distinguishes them from eukaryotic cells. Since bacteria lack these structures, they are classified as prokaryotic, whereas eukaryotic, animal, and vegetative cells all possess a defined nucleus and various organelles.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1648,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "A nurse is reviewing the diet plan for a patient recovering from a burn injury who requires high energy intake for wound healing. Which nutrient should the nurse prioritize to provide the most concentrated source of energy per gram?\nA) Fat\nB) Carbohydrate\nC) Protein\nD) Nucleic acid",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Protein",
+      "Carbohydrate",
+      "Nucleic acid"
+    ],
+    "explanation": "Fats provide approximately 9 calories per gram, which is significantly more than carbohydrates or proteins (4 calories per gram) and nucleic acids (which are not used for energy storage in this context). Therefore, fats are the most concentrated energy source available in the diet.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1649,
+    "subject": "science",
+    "topic": "Macromolecules",
+    "question_text": "A nurse is preparing an educational handout for a patient with a diagnosis of Type 2 diabetes. Which of the following macromolecules should be emphasized as the primary source of energy that must be regulated through dietary carbohydrate management?\nA) Lipids\nB) Proteins\nC) arbohydrates\nD) Nucleic acids",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Lipids",
+      "Proteins",
+      "Nucleic acids"
+    ],
+    "explanation": "Carbohydrates are the body's main source of energy and are the macromolecule directly regulated in diabetes management through insulin and dietary choices. While lipids and proteins provide energy, they are not the primary fuel source, and nucleic acids are essential for genetic information rather than energy production.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1650,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "A nurse is preparing to administer medication to a client with a stomach ulcer. Which action should the nurse take to minimize gastric irritation?\nA) Administer the medication on an empty stomach to ensure rapid absorption.\nB) dminister the medication with food or an antacid\nC) Give the medication at night to reduce the likelihood of vomiting.\nD) Use a high-fat meal immediately before administration to coat the stomach lining.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Administer the medication on an empty stomach to ensure rapid absorption.",
+      "Give the medication at night to reduce the likelihood of vomiting.",
+      "Use a high-fat meal immediately before administration to coat the stomach lining."
+    ],
+    "explanation": "Acids in the stomach can irritate ulcers, so taking the medication with food or an antacid helps neutralize excess acid and protects the stomach lining. Taking it on an empty stomach would increase irritation, while high-fat meals can delay gastric emptying and absorption.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1651,
+    "subject": "science",
+    "topic": "Acids, bases, and pH",
+    "question_text": "A nurse is preparing a medication solution and observes that the liquid has a pH of 7.0. Which description best characterizes the acidity or alkalinity of this solution?\nA) The solution is alkaline because it has a pH value less than 7.\nB) The solution is highly acidic because it is a strong acid.\nC) The solution is neutral.\nD) The solution is acidic because it contains hydrogen ions.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The solution is acidic because it contains hydrogen ions.",
+      "The solution is alkaline because it has a pH value less than 7.",
+      "The solution is highly acidic because it is a strong acid."
+    ],
+    "explanation": "On the pH scale, a value of 7.0 indicates a neutral solution, while values below 7 are acidic and values above 7 are alkaline. Therefore, a pH of 7.0 specifically identifies the solution as neutral, making it safe for neutralization contexts without requiring acid or base adjustments.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1652,
+    "subject": "science",
+    "topic": "Chemical bonds",
+    "question_text": "A nurse is studying the properties of water for a patient education session on hydration. Which of the following types of chemical bonds is primarily responsible for giving water its high surface tension, allowing small insects like water striders to stand on its surface?\nA) Metallic bonding\nB) Hydrogen bonding\nC) Ionic bonding\nD) Covalent bonding",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Ionic bonding",
+      "Covalent bonding",
+      "Metallic bonding"
+    ],
+    "explanation": "Hydrogen bonds form between the partially positive hydrogen atoms of one water molecule and the partially negative oxygen atoms of another, creating strong intermolecular forces that result in high surface tension. While covalent bonds hold the atoms together within a single water molecule, hydrogen bonds are what create the cohesive behavior of the bulk liquid.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1653,
+    "subject": "science",
+    "topic": "Chemical bonds",
+    "question_text": "In a water molecule (H\u2082O), which type of interaction is primarily responsible for holding the two hydrogen atoms to the oxygen atom together?\nA) Metallic bond\nB) Hydrogen bond\nC) ovalent bond\nD) Ionic bond",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Ionic bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "explanation": "The hydrogen and oxygen atoms are chemically joined by sharing electrons, which defines a covalent bond. Ionic bonds involve electron transfer and typically occur between metals and nonmetals, while hydrogen bonds are weaker attractions that form between molecules, not within a single molecule like water.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1654,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "A physician orders a medication dose of 750 mg. Using dimensional analysis, convert this dose to grams (g). What is the correct conversion?\nA) 7.5 g\nB) 0.75 g\nC) 0.075 g\nD) 1.5 g",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "1.5 g",
+      "7.5 g",
+      "0.075 g"
+    ],
+    "explanation": "The prefix 'milli-' (m) represents one-thousandth (\\(\\frac{1}{1000}\\)) of a base unit, so there are 1000 milligrams in 1 gram. To convert from milligrams to grams, you divide by 1000 (or move the decimal point three places to the left). Dividing 750 by 1000 results in 0.75 g.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1655,
+    "subject": "science",
+    "topic": "Metric system and conversions",
+    "question_text": "A nurse needs to administer a medication dose of 0.05 grams to a patient. The medication is only available in a solution labeled with a concentration of 50 mg/mL. Using dimensional analysis, how many milliliters of the solution should the nurse administer?\nA) 1.0 mL\nB) 0.01 mL\nC) 0.1 mL\nD) 0.5 mL",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "1.0 mL",
+      "0.01 mL",
+      "0.5 mL"
+    ],
+    "explanation": "First, convert the ordered dose from grams to milligrams by multiplying by 1,000 (0.05 g \u00d7 1,000 = 50 mg). Then, divide the dose in milligrams by the concentration (50 mg / 50 mg/mL) to get the volume, which equals 0.1 mL. The other options result from common errors such as missing the zero, misplacing the decimal point, or dividing instead of multiplying during conversion.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1656,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "An intravenous nurse is preparing to administer a medication that requires precise temperature control. She needs to understand how the atomic radius of elements changes as she moves from the top of G\nA) The atomic radius decreases as you move down the group due to increased nuclear attraction.\nB) The atomic radius decreases as you move down the group because electron shielding is negligible.\nC) The atomic radius increases as you move down the group.\nD) The atomic radius remains constant regardless of the position in the group.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The atomic radius decreases as you move down the group due to increased nuclear attraction.",
+      "The atomic radius remains constant regardless of the position in the group.",
+      "The atomic radius decreases as you move down the group because electron shielding is negligible."
+    ],
+    "explanation": "Moving down a group in the periodic table, each successive element adds a new principal energy level (electron shell), which places the valence electrons further from the nucleus. This addition of shells outweighs the increased nuclear charge, resulting in a larger atomic radius. Therefore, elements at the bottom of Group 17 have significantly larger atomic radii than those at the top.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1657,
+    "subject": "science",
+    "topic": "Periodic table trends",
+    "question_text": "A nurse is studying the periodic table to understand how an element's tendency to attract electrons changes as one moves from left to right across a period. Which of the following trends correctly describes the change in electronegativity for elements in Period 3 (e.g., Sodium to Chlorine)?\nA) Electronegativity decreases as the atomic number increases.\nB) Electronegativity fluctuates randomly without a predictable pattern.\nC) Electronegativity increases\nD) Electronegativity remains constant across the period.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Electronegativity remains constant across the period.",
+      "Electronegativity decreases as the atomic number increases.",
+      "Electronegativity fluctuates randomly without a predictable pattern."
+    ],
+    "explanation": "As you move from left to right across a period, the effective nuclear charge increases while electrons are added to the same energy level, causing a stronger attraction for bonding electrons. Consequently, the ability of an atom to attract electrons (electronegativity) increases across the period.",
+    "difficulty": "medium",
+    "status": "active"
+  }
+]

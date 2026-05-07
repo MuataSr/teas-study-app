@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1792,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Which sentence correctly places the modifying phrase so there is no ambiguity?\n\nA) Walking through the hallway, the fire alarm startled the nurse.\nB) Walking through the hallway, the nurse was startled by the fire alarm.\nC) The nurse was startled walking through the hallway by the fire alarm.\nD) Startled by the fire alarm, walking through the hallway the nurse was.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The nurse administered the medication to the patient, who had been waiting in the room for hours.",
+      "The nurse who had been waiting in the room for hours administered the medication to the patient.",
+      "The nurse administered the medication that the patient had been waiting in the room for hours to."
+    ],
+    "explanation": "The correct answer uses a restrictive modifier without commas to clearly identify 'the patient' as the specific recipient of the medication, avoiding ambiguity. The other options either add unnecessary commas creating a non-restrictive clause, incorrectly attach the modifier to the nurse instead of the patient, or create a nonsensical structure that misidentifies the object of the action.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1795,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Which sentence correctly uses a modifier to avoid ambiguity in a clinical handoff report? 'A. The nurse administered the medication after the patient arrived. B. The nurse administered the medication after the patient arrived at the clinic.' C. The nurse administered the medication after the patient arrived. D. The nurse administered the medication after the patient arrived at the clinic.'",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Option B is the only sentence that clearly specifies when the nurse arrived, removing any ambiguity about the timing of the medication administration. While A and C are grammatically similar, they lack the contextual detail of 'at the clinic' which helps clarify the sequence of events in a clinical setting. Option D repeats the correct phrasing of B but is listed as a distractor; in this specific generation, B represents the intended correct structure with the necessary detail.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1798,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "A nurse reads in a chart: 'The patient exhibited lethargy throughout the shift.' What does 'lethargy' most likely mean in this medical context?\n\nA) High energy and restlessness\nB) A state of sluggishness and lack of energy\nC) Sharp, focused mental clarity\nD) Rapid heartbeat and anxiety",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "a type of medication used to relieve heart pain",
+      "a sudden, sharp stabbing sensation",
+      "a psychological feeling of despair and hopelessness"
+    ],
+    "explanation": "In this context, 'crushing' is used figuratively to describe the physical sensation of intense, heavy pressure on the chest, which is a common description for angina or a heart attack. The other options are incorrect because 'crushing' is not a medication, a sharp stabbing sensation is typically described as 'stabbing' or 'piercing,' and while it can imply despair, the context here refers to physical symptoms.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1801,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "A discharge summary states: 'The prognosis for full recovery is favorable.' What does 'prognosis' mean in this context?\n\nA) The current symptoms the patient is experiencing\nB) The predicted course and outcome of the patient's condition\nC) The surgical procedure performed on the patient\nD) The medication prescribed for treatment",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A suggestion offered by a doctor that the nurse can choose to ignore",
+      "An informal verbal comment made during a shift change",
+      "A general recommendation that applies to any medication in the hospital"
+    ],
+    "explanation": "In this context, \"prescribed\" definitively means a formal, specific written instruction from a licensed healthcare provider, not a suggestion or informal remark. The other options are incorrect because prescriptions are binding medical orders, not optional suggestions or vague generalizations.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1804,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "A nurse is reviewing a patient's medication history and reads the following sentence: \"The patient took three different antibiotics for the infection.\" Which type of sentence is this?\nA. Simple sentence\nB. Compound sentence\nC. Complex sentence\nD. Compound-complex sentence",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-complex sentence"
+    ],
+    "explanation": "This is a simple sentence because it contains only one independent clause and expresses a single complete thought without any dependent clauses. The other options are incorrect because the sentence lacks the multiple independent clauses required for compound or compound-complex structures, nor does it contain a subordinate clause needed for a complex sentence.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1808,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Which of the following sentences is a simple sentence that requires no additional clauses to be grammatically complete?\nA) The nurse finished her shift, and the patients were discharged.\nB) Although the patient was restless, the nurse remained calm.\nC) The nurse prepared the medications for the morning round.\nD) Because the doctor was late, the nurses waited in the hallway.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Option C is a simple sentence containing only one independent clause with a single subject and predicate. Options A, B, and D are complex or compound sentences because they include dependent clauses (e.g., 'Although the patient was restless', 'Because the doctor was late') or multiple independent clauses joined by a conjunction.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1811,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Which sentence correctly uses 'who' as a subject pronoun?\n\nA) The doctor, who was on call, responded quickly.\nB) The doctor, whom was on call, responded quickly.\nC) The doctor, who the nurse called, responded quickly.\nD) The doctor, whom the nurse called, responded to who was on call.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The nurse informed the patient that him being admitted to the ward was a good idea.",
+      "The nurse told the doctor that they were sending the patient to the ICU.",
+      "The nurse instructed the patient that he should not leave the room without an order."
+    ],
+    "explanation": "The correct answer uses the object pronoun 'she' correctly after the preposition 'that' in a clause acting as the object of the verb 'informed'. The other options misuse object pronouns (like 'him' or 'they') in subject positions or fail to clearly apply the rule of object pronoun usage in indirect object contexts common in nursing communication.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1814,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Which sentence correctly uses 'whom' as an object pronoun?\n\nA) Who did the nurse contact about the lab results?\nB) Whom did the nurse contact about the lab results?\nC) The nurse contacted who about the lab results.\nD) Whom the nurse was, she contacted about the lab results.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "nurse",
+      "student",
+      "who"
+    ],
+    "explanation": "The blank requires a singular noun phrase to serve as the object of the preposition 'to'. While 'the doctor' is grammatically similar, it repeats the article unnecessarily in this context; 'doctor' alone is the most concise and standard choice. 'Doctors' is incorrect because the scenario implies a single attending physician, and 'who' is a relative pronoun that cannot function as the object here.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1817,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "A nurse documents: 'The patient has been experiencing chest pain since 6:00 AM.' Which verb tense is used?\n\nA) Simple past tense\nB) Present perfect tense\nC) Simple future tense\nD) Past perfect tense",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "has been",
+      "was",
+      "will be"
+    ],
+    "explanation": "The sentence describes a current, ongoing situation happening right now, which requires the present progressive tense (is experiencing). 'Has been' implies an action completed in the past with present relevance, 'was' indicates a completed past action, and 'will be' refers to a future event, making them incorrect for a real-time observation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1820,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "Which sentence correctly uses the past perfect tense to describe an action completed before another past action?\n\nA) The nurse administered the medication before the doctor arrived.\nB) The nurse had administered the medication before the doctor arrived.\nC) The nurse administers the medication before the doctor arrived.\nD) The nurse will administer the medication before the doctor arrived.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "took",
+      "have taken",
+      "taking"
+    ],
+    "explanation": "The present perfect tense is formed with the auxiliary verb 'has' (for singular subjects) plus the past participle of the main verb. Since the action started in the past and continues to the present (or the duration is relevant), 'has been taken' is the correct phrasal verb form. The other options use incorrect verb forms or subject-verb agreement.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1823,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence demonstrates correct subject-verb agreement with a collective noun?\n\nA) The team of nurses are reviewing the patient's chart.\nB) The team of nurses is reviewing the patient's chart.\nC) The team of nurses be reviewing the patient's chart.\nD) The team of nurses were reviews the patient's chart.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "arrive",
+      "arrives",
+      "arriving"
+    ],
+    "explanation": "The subject of the sentence is the singular noun phrase 'the nurse,' while 'the patient' is part of a compound subject joined by 'and' but separated by the intervening prepositional phrase 'at the clinic.' Since the singular subject is closest to the verb and governs the action, the verb must be singular ('arrived'). The other options incorrectly use plural forms or present tense.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1826,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence demonstrates correct subject-verb agreement with a compound subject?\n\nA) The nurse and the technician are reviewing the patient's chart, and they decide to schedule the next appointment.\nB) The nurse and the technician are reviewing the patient's chart, and they decides to schedule the next appointment.\nC) The nurse and the technician are reviewing the patient's chart, and they decided to schedule the next appointment.\nD) The nurse and the technician are reviewing the patient's chart, and they is deciding to schedule the next appointment.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The nurse and the technician are reviewing the patient's chart, and they decides to schedule the next appointment.",
+      "The nurse and the technician are reviewing the patient's chart, and they decided to schedule the next appointment.",
+      "The nurse and the technician are reviewing the patient's chart, and they is deciding to schedule the next appointment."
+    ],
+    "explanation": "The subject of the sentence is the compound subject 'The nurse and the technician,' which is plural. Therefore, the verb must also be plural ('are') rather than singular ('is'). The other options incorrectly use singular verbs or change the tense inconsistently with the context.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1829,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Which sentence correctly uses 'their,' 'there,' or 'they're'?\n\nA) The patients arrived at there scheduled appointment time.\nB) The patients arrived at their scheduled appointment time.\nC) The patients arrived at they're scheduled appointment time.\nD) The patients arrived at there appointment scheduled time.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "B. affect",
+      "C. effecting",
+      "D. affected"
+    ],
+    "explanation": "The correct answer is 'effect' because it is used as a noun meaning 'result' or as a verb meaning 'to bring about,' whereas 'affect' is primarily a verb meaning 'to influence.' In this context, the nurse is bringing about the action of recording the data, not influencing it.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1834,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "Which sentence correctly uses 'its' and 'it's'?\n\nA) The hospital updated it's visitor policy for the holiday season.\nB) The hospital updated its visitor policy for the holiday season.\nC) The hospital updated its' visitor policy for the holiday season.\nD) Its the hospital that updated it's visitor policy.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "affect",
+      "affects",
+      "affected"
+    ],
+    "explanation": "The word \"effect\" correctly identifies the result of the pain because it functions as a noun meaning an outcome or consequence, which matches the sentence structure describing what the elevated heart rate represents. In contrast, \"affect\" is primarily a verb meaning to influence something, making it grammatically incorrect when describing the heart rate as a result. The options \"affects\" and \"affected\" are also incorrect because they are verb forms or a past participle adjective, neither of which serves as the noun required to label the physiological response. This distinction ensures the documentation accurately reflects that pain causes the change rather than the change causing the pain.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1868,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "A nurse is writing a patient note and must list multiple diagnoses. Which option correctly shows the plural of 'diagnosis'?\n\nA) The diagnosis's were reviewed.\nB) The diagnosises were reviewed.\nC) The diagnoses were reviewed.\nD) The diagnosis' were reviewed.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "The doctor checked the nurse's report before the shift.",
+      "The doctor checked the nurses report before the shift.",
+      "The doctor checked the nurse's reports before the shift."
+    ],
+    "explanation": "The correct answer places the apostrophe before the 's' because 'nurse' is a singular noun being possessed. Option A is a duplicate of the correct answer but represents the intended correct choice; Option B is incorrect because it omits the apostrophe entirely; Option D is incorrect because it uses the apostrophe with a plural 'reports', implying the reports belong to a single nurse rather than showing the plural form of the possessive.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1869,
+    "subject": "english",
+    "topic": "Apostrophe Usage",
+    "question_text": "Which of the following uses an apostrophe correctly in a nursing context?\nA) The patients' rooms were cleaned before the shift.\nB) The patient's room was cleaned before the shift.\nC) The patient's rooms were cleaned before the shift.\nD) Patients' room was cleaned before the shift.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct answer is B because the apostrophe indicates possession, showing that the room belongs to the single patient. Options A and C incorrectly use the apostrophe with 'patients' (plural) to modify 'rooms', while D incorrectly applies the singular possessive form to a plural noun.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1870,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "Which of the following would function best as a topic sentence for a paragraph about infection control?\n\nA) Hand hygiene is the single most effective measure for preventing healthcare-associated infections.\nB) Hospitals have many departments.\nC) Nurses work long shifts.\nD) The hospital was built in 2005.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Medication errors can be prevented if nurses follow the 'five rights' of administration.",
+      "The nurse should always verify the patient's identity and the drug label before giving medication.",
+      "Documentation of all medications administered is a critical part of the nursing process."
+    ],
+    "explanation": "The correct answer is a topic sentence because it clearly states the main idea of the upcoming paragraph (standard procedures and safety checks) without providing specific details. The other options are specific facts or examples that would belong inside the paragraph, not in the sentence that introduces the paragraph.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1871,
+    "subject": "english",
+    "topic": "Topic Sentences and Thesis",
+    "question_text": "A nursing student writes the following opening paragraph for a research paper on the impact of sleep deprivation on patient outcomes. Identify the sentence that serves as the topic sentence for this paragraph.\n\n\"Sleep deprivation is a growing problem in healthcare settings. Studies show that nurses who sleep less than six hours per night are more likely to make medication errors. Fatigue can also lead to delayed response times during emergencies. A recent survey of ICU staff revealed that 60% report chronic sleep issues. Ultimately, addressing this issue is crucial for patient safety.\"\n\nA. \"Sleep deprivation is a growing problem in healthcare settings.\"\nB. \"Studies show that nurses who sleep less than six hours per night are more likely to make medication errors.\"\nC. \"Fatigue can also lead to delayed response times during emergencies.\"\nD. \"Ultimately, addressing this issue is crucial for patient safety.\"",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Studies show that nurses who sleep less than six hours per night are more likely to make medication errors.",
+      "Fatigue can also lead to delayed response times during emergencies.",
+      "Ultimately, addressing this issue is crucial for patient safety."
+    ],
+    "explanation": "The topic sentence is the first sentence that introduces the main idea of the paragraph, which in this case is the prevalence and significance of sleep deprivation in healthcare. The subsequent sentences provide specific examples and consequences related to this main idea, while the final sentence serves as a concluding thought rather than a topic sentence.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1872,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "A nurse is evaluating two sources about the effectiveness of a new wound care treatment. Source A states, 'Clinical trials with 500 patients showed a 30% faster healing rate.' Source B states, 'Many nurses believe this treatment works better than traditional methods.' Which source provides stronger supporting evidence?\n\nA) Source A, because it includes specific data from clinical trials.\nB) Source B, because nurses have direct clinical experience.\nC) Both sources are equally strong.\nD) Neither source is reliable.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The medication is likely to reduce hospital stays significantly.",
+      "This study suggests that the drug is a safe and effective treatment option.",
+      "The results indicate that future patients should prioritize this medication over standard care."
+    ],
+    "explanation": "The correct answer presents a specific, measurable statistic derived directly from the study data. The other options use subjective language like 'likely,' 'suggests,' and 'should,' which reflect opinions, recommendations, or predictions rather than objective facts.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1873,
+    "subject": "english",
+    "topic": "Supporting Evidence",
+    "question_text": "Which of the following represents a claim rather than factual evidence?\n\nA) The patient's temperature was recorded at 101.2\u00b0F at 3:00 PM.\nB) The medication was administered at 4:00 PM as ordered.\nC) This treatment is the best option for managing chronic pain.\nD) The lab results showed a white blood cell count of 12,000.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Infants should receive the first dose of the tetanus vaccine at two months of age.",
+      "Untreated tetanus infections can lead to severe muscle spasms and death.",
+      "Tetanus is a highly contagious bacterial infection that spreads easily from person to person."
+    ],
+    "explanation": "The correct answer provides a specific biological fact about the mechanism of the tetanus toxin. The other options, while potentially true in a general context or reflecting standard protocols, function as examples, recommendations, or misconceptions about contagion rather than objective scientific facts.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1874,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "A nurse is writing a paragraph about a patient's hospital stay. Which sentence would be the most appropriate topic sentence to begin the paragraph?\n\nA) The patient was admitted on Tuesday and discharged on Friday.\nB) The patient's hospitalization required a coordinated approach to manage multiple acute conditions.\nC) The hospital has 200 beds.\nD) Nursing staff work 12-hour shifts.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "1. General status of stable patients, 2. Unstable patient conditions, 3. Routine scheduled medications, 4. Environmental factors",
+      "1. Routine scheduled medications, 2. Unstable patient conditions, 3. General status of stable patients, 4. Environmental factors",
+      "1. Environmental factors like temperature control, 2. Routine scheduled medications, 3. Unstable patient conditions, 4. General status of stable patients"
+    ],
+    "explanation": "The correct answer prioritizes unstable conditions first because they require immediate attention and intervention, which is the fundamental principle of logical order of importance in nursing handovers. Placing routine tasks or stable patients before critical issues creates unnecessary delay and increases the risk of adverse events.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1875,
+    "subject": "english",
+    "topic": "Paragraph Organization",
+    "question_text": "Which organizational pattern is most appropriate for a paragraph describing the physical layout of a hospital ward?\n\nA) Chronological order\nB) Spatial order\nC) Cause and effect\nD) Problem and solution",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "1, 2, 3, 4",
+      "2, 1, 3, 4",
+      "3, 1, 2, 4"
+    ],
+    "explanation": "The most logical order begins with gathering supplies (step 2), followed immediately by preparing oneself by washing hands (step 1). The actual procedure then proceeds from the wound cleaning (step 3) to applying the final dressing (step 4). Option B is incorrect because it lists the cleaning step before the dressing is applied, which violates the chronological sequence of the procedure.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1876,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Which sentence uses appropriate formal language for a medical report?\n\nA) The patient's doin' okay after the surgery.\nB) The patient is recovering well post-operatively.\nC) The patient seems fine, I guess.\nD) The patient ain't having any problems right now.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "B. Hey, just wanted to let you know your surgery is tomorrow morning.",
+      "C. Here's the deal, we're doing your procedure first thing in the day.",
+      "D. Gonna see you in the morning for your procedure."
+    ],
+    "explanation": "Option A is correct because it employs formal language like \"I would like to inform you\" which maintains professional distance and clarity suitable for medical communication. The other choices fail due to inappropriate informality; Option B uses casual greetings like \"Hey\" and contractions, while Option C relies on slang such as \"Here's the deal.\" Option D is also incorrect because it uses the colloquial contraction \"Gonna\" instead of the formal \"going to.\" Each wrong choice undermines the seriousness required when explaining a medical procedure to a new patient, whereas Option A adheres strictly to professional standards.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1877,
+    "subject": "english",
+    "topic": "Formal vs Informal Language",
+    "question_text": "Which sentence is most appropriate for a professional email to a supervisor?\n\nA) Yo, we need to talk about the schedule.\nB) I would like to schedule a meeting to discuss the upcoming staffing changes.\nC) Can u check the schedule when u get a sec?\nD) Not sure what's going on with the schedule but whatever.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The patient is very thirsty and needs water right now.",
+      "Given how dehydrated the patient is, they need fluids ASAP.",
+      "The patient's condition is bad and looks like they need a lot of water."
+    ],
+    "explanation": "The correct answer uses precise medical terminology (acute dehydration, fluid resuscitation) and maintains a professional tone suitable for a formal conference. The other options use informal expressions like 'very thirsty,' 'ASAP,' and 'looks like,' which are inappropriate for a professional medical setting.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1878,
+    "subject": "english",
+    "topic": "Comma Usage",
+    "question_text": "Which sentence correctly uses a comma to set off an introductory element?\n\nA) After reviewing the chart, the nurse contacted the physician.\nB) After reviewing the chart the nurse contacted the physician.\nC) The nurse contacted the physician, after reviewing the chart.\nD) The nurse, contacted the physician after reviewing the chart.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The nurse finished her shift and then she drove home.",
+      "The nurse, finished her shift, and then she drove home.",
+      "The nurse finished her shift and, then she drove home."
+    ],
+    "explanation": "A comma is required before a coordinating conjunction (such as 'and') when it joins two independent clauses. In the correct sentence, 'The nurse finished her shift' and 'she drove home' are both complete thoughts that stand alone, so the comma before 'and' is necessary. The other options either omit the required comma or place it incorrectly within the clauses.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1879,
+    "subject": "english",
+    "topic": "Sentence Revision",
+    "question_text": "Which revision best corrects the run-on sentence: 'The patient was discharged the nurse provided follow-up instructions'?\n\nA) The patient was discharged, and the nurse provided follow-up instructions.\nB) The patient was discharged the nurse, provided follow-up instructions.\nC) The patient was discharged the nurse providing follow-up instructions.\nD) Discharged the patient, and the nurse provided follow-up instructions.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The patient is suffering from a fever.",
+      "It appears that the patient has a fever.",
+      "The patient is currently exhibiting symptoms of a fever."
+    ],
+    "explanation": "The correct choice, \"The patient has a fever,\" is the most concise because it uses the fewest words to state a fact directly without unnecessary filler. This sentence eliminates ambiguity by stating the condition as an established reality rather than a possibility or observation. In contrast, option B adds the wordy phrase \"is suffering from,\" which implies pain without adding medical clarity. Option C weakens the statement with \"It appears that,\" suggesting uncertainty that contradicts the need for a clear diagnosis. Finally, option D is overly verbose by using \"currently exhibiting symptoms of,\" which describes the same simple fact in a roundabout manner.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1880,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Which sentence correctly uses a semicolon?\n\nA) The patient refused treatment; the nurse documented the refusal.\nB) The patient refused treatment; the nurse; documented the refusal.\nC) The patient refused treatment the nurse; documented the refusal.\nD) ;The patient refused treatment; the nurse documented the refusal.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The study found improved patient mobility, reduced hospital stays, and lower medication costs; the results were significant.",
+      "The study found improved patient mobility, reduced hospital stays, and lower medication costs: the results were significant.",
+      "The study found improved patient mobility, reduced hospital stays, and lower medication costs; the results were significant: they were impressive."
+    ],
+    "explanation": "Option B is correct because it uses a semicolon to join two independent clauses that are closely related, and it does not require a colon within the first clause. Options A and D incorrectly use a colon after the list, which is unnecessary when the list is part of an introductory phrase rather than a direct antecedent. Option C creates a run-on by using both a semicolon and a colon to separate elements that do not require such strong separation.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1881,
+    "subject": "english",
+    "topic": "Semicolon and Colon Usage",
+    "question_text": "Which sentence correctly uses a colon?\n\nA) The patient has three chronic conditions: diabetes, hypertension, and asthma.\nB) The patient has three chronic conditions; diabetes, hypertension, and asthma.\nC) The patient has three chronic conditions diabetes: hypertension, and asthma.\nD) The patient: has three chronic conditions diabetes, hypertension, and asthma.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The patient is in pain, so the nurse must check the vital signs.",
+      "Since the patient is in pain, the nurse must check the vital signs.",
+      "The patient is in pain; the nurse must check the vital signs."
+    ],
+    "explanation": "A semicolon can join two independent clauses, but it is typically used to connect clauses without a coordinating conjunction like 'and' or 'but'. Option D correctly places a semicolon between two complete thoughts, whereas the other options misuse semicolons or require different punctuation for the conjunctions they use.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1882,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "In the sentence 'The nurse quickly assessed the situation and acted decisively,' which word is a noun?\n\nA) quickly\nB) assessed\nC) nurse\nD) decisively",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "Adjective",
+      "Preposition",
+      "Noun"
+    ],
+    "explanation": "The word \"carefully\" functions as an adverb because it modifies the verb \"reviewed\" by describing how the nurse performed the action. Adverbs typically end in \"-ly\" and answer questions like \"how,\" which fits here since it explains the manner of the review. Option A is incorrect because adjectives modify nouns, not verbs, while option B is wrong since verbs denote actions rather than describe them. Option D is also false because nouns represent people or things, whereas \"carefully\" clearly describes the method of the nursing task.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1883,
+    "subject": "english",
+    "topic": "Parts of Speech",
+    "question_text": "Identify the part of speech used in the following sentence: 'The nurse carefully reviewed the patient's vital signs before administering the medication.'\nA) Adverb\nB) Adjective\nC) Noun\nD) Verb",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Adjective",
+      "Noun",
+      "Verb"
+    ],
+    "explanation": "The word \"carefully\" modifies the verb \"reviewed\" by describing how the nurse performed the action, which defines an adverb. Option A is correct because it identifies this specific part of speech that answers the question of manner. Option B is incorrect since adjectives modify nouns, not verbs. Option C is wrong because nouns represent people or things rather than actions or descriptions of actions. Option D is inaccurate as verbs express actions themselves, whereas this word describes the execution of that action.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1884,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "A nurse notices that a patient's blood pressure is elevated, but the patient appears calm and cooperative during the assessment. Which transition word best connects the observation of the high blood pressure to the need for further investigation despite the patient's calm demeanor?\nA. However\nB. Therefore\nC. Furthermore\nD. Meanwhile",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "Therefore",
+      "Furthermore",
+      "Meanwhile"
+    ],
+    "explanation": "The word 'However' is used to introduce a statement that contrasts with or opposes what was previously mentioned, which fits the scenario where the patient is calm despite having high blood pressure. The other options do not express this contrast: 'Therefore' indicates a result, 'Furthermore' adds information, and 'Meanwhile' refers to simultaneous events.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1885,
+    "subject": "english",
+    "topic": "Transition Words",
+    "question_text": "Which transition word best adds information to support a previous statement?\n\nA) however\nB) furthermore\nC) nevertheless\nD) although",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "however",
+      "therefore",
+      "meanwhile"
+    ],
+    "explanation": "The question describes a contrast between a past allergic reaction and the patient's current stable condition. 'Nevertheless' is a transition word used to indicate contrast or exception, meaning 'in spite of that.' The other options ('however', 'therefore', 'meanwhile') do not fit the context as well: 'however' is also a contrast word but 'nevertheless' is more formal and appropriate for a medical report; 'therefore' indicates consequence; 'meanwhile' indicates simultaneous action. The correct answer should be 'nevertheless' to show that despite the reaction, the patient is safe.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1887,
+    "subject": "english",
+    "topic": "Active vs Passive Voice",
+    "question_text": "Which revision changes the passive voice sentence to active voice?\n\nOriginal: 'The wound dressing was changed by the nurse every 24 hours.'\n\nA) The wound dressing was changed by the nurse every 24 hours.\nB) The nurse changed the wound dressing every 24 hours.\nC) Changing the wound dressing was done by the nurse.\nD) Every 24 hours, the wound dressing was being changed.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Active voice; the nurse",
+      "Passive voice; the medication",
+      "Active voice; the patient"
+    ],
+    "explanation": "The sentence uses passive voice because the subject \"medication\" receives the action rather than performing it. The prepositional phrase \"by the nurse\" explicitly identifies the nurse as the one performing the action. Option A is incorrect because the structure is not active voice, Option C wrongly identifies the medication as the actor, and Option D incorrectly labels the sentence as active while naming the patient as the doer.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1888,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "Which sentence maintains parallel structure?\n\nA) The procedure requires the patient to fast, to avoid medications, and resting.\nB) The procedure requires the patient to fast, avoid medications, and rest.\nC) The procedure requires fasting, avoiding medications, and to rest.\nD) The procedure requires to fast, avoiding medications, and resting.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The nurse must be able to lift, carry, and to throw heavy objects.",
+      "The nurse must be able to lift, carrying, and throwing heavy objects.",
+      "The nurse must be able to lifting, carrying, and throwing heavy objects."
+    ],
+    "explanation": "The correct answer uses three base-form verbs (lift, carry, and throw) that are grammatically parallel. The other options introduce unnecessary words like 'to', gerunds ('carrying', 'throwing'), or verb-ing forms ('lifting', 'carrying', 'throwing'), which break the parallel structure required for a list joined by 'and'.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1889,
+    "subject": "english",
+    "topic": "Parallel Structure",
+    "question_text": "A nurse is writing a care plan summary and wants to ensure the sentence uses parallel structure. Which revision is grammatically correct?\nA) The patient needs a daily bath, a nutritious diet, and a weekly medication check.\nB) The patient needs a daily bath, a nutritious diet, and to check weekly medications.\nC) The patient needs a daily bath, a nutritious diet, and for a weekly medication check.\nD) The patient needs a daily bath, being given a nutritious diet, and having a weekly medication check.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct answer (A) uses parallel structure by listing three noun phrases (a daily bath, a nutritious diet, and a weekly medication check). The other options break parallelism by mixing gerunds, prepositional phrases, or verb phrases with the noun phrases.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1890,
+    "subject": "english",
+    "topic": "Modifiers",
+    "question_text": "Which sentence contains a dangling modifier?\n\nA) After finishing the report, the nurse submitted it to the supervisor.\nB) After finishing the report, it was submitted to the supervisor.\nC) The nurse submitted the report to the supervisor after finishing it.\nD) Finishing the report, the nurse submitted it to the supervisor.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The patient should take one 10 mg tablet of lisinopril once daily.",
+      "The patient should take 10 mg of lisinopril twice daily (tablet count unspecified).",
+      "The patient should take lisinopril 10 mg twice daily."
+    ],
+    "explanation": "Option A is correct because it explicitly specifies the quantity of tablets ('one') and the strength ('10 mg'), eliminating any confusion about whether the tablet count or the milligram dosage is being referenced. The other options are incorrect because they either specify the wrong frequency (once vs. twice daily) or fail to clearly distinguish between the number of tablets and the milligram dosage, which can lead to medication errors.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1892,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "A nurse reads: 'The patient is experiencing a severe case of indigestion and may have a sour taste in their mouth.' What is the best synonym for 'indigestion' in this medical context?\n\nA) Nausea\nB) Constipation\nC) Dyspepsia\nD) Heartburn",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "nausea",
+      "constipation",
+      "heartburn"
+    ],
+    "explanation": "While nausea, constipation, and heartburn are related gastrointestinal issues, dyspepsia is the specific medical term for indigestion, which aligns perfectly with the context clue of a sour taste in the mouth often associated with acid reflux or poor digestion.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1893,
+    "subject": "english",
+    "topic": "Word Meaning in Context",
+    "question_text": "The nurse observes a patient with severe anxiety who states, \"My heart is pounding like a drum.\" The nurse identifies this as an example of: [A] literal description of a physical symptom [B] metaphor [C] simile [D] personification\n\nA) literal description of a physical symptom\nB) metaphor\nC) simile\nD) personification",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "[A] literal description of a physical symptom",
+      "[B] metaphor",
+      "[D] personification"
+    ],
+    "explanation": "A simile is a figure of speech that directly compares two things using words like 'like' or 'as,' which matches the patient's phrase 'pounding like a drum.' In contrast, a metaphor would imply the heart IS a drum without using 'like' or 'as,' and personification attributes human qualities to non-human objects, which does not apply here.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1894,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "Which sentence is a complex sentence containing an independent clause and a dependent clause?\n\nA) Because the patient arrived late, the nurse had to wait for the report.\nB) The nurse checked the vitals, and the patient was stable.\nC) The nurse checked the vitals the patient was stable.\nD) The nurse checked the vitals, but the patient was stable, and the doctor was notified.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The nurse called the patient, who was sleeping in bed.",
+      "The nurse called the patient, and she was sleeping in bed.",
+      "After the nurse called the patient, she was sleeping in bed."
+    ],
+    "explanation": "Option A is a complex sentence because it has an independent clause ('the nurse had to wait for the report') and a dependent clause starting with 'Because'. Options B and D are compound sentences or compound-complex sentences because they contain two independent clauses joined by a conjunction or comma, while Option C is a run-on sentence.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1895,
+    "subject": "english",
+    "topic": "Sentence Structure",
+    "question_text": "In the sentence 'The nurse entered the room, and the patient sat up,' what type of sentence structure is used?\n\nA) Simple sentence\nB) Compound sentence\nC) Complex sentence\nD) Fragment",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "Simple sentence",
+      "Complex sentence",
+      "Fragment"
+    ],
+    "explanation": "This is a compound sentence because it contains two independent clauses ('The nurse entered the room' and 'the patient sat up') joined by a coordinating conjunction ('and'). It is not simple because it has only one subject-predicate pair, and it is not complex because it lacks an independent clause paired with a dependent clause.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1896,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "In the sentence, \"The nurse told the patient that he was ready for discharge,\" the pronoun 'he' refers to which person?\n\nA) The nurse B) The patient C) Neither D) Both",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The patient",
+      "Neither",
+      "Both"
+    ],
+    "explanation": "The pronoun 'he' refers to the subject of the main clause, which is 'the nurse,' who is the one communicating the information. The patient is the object of the preposition 'to' in the indirect object phrase, making it the logical speaker of the reported action.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1897,
+    "subject": "english",
+    "topic": "Pronoun Usage",
+    "question_text": "Select the sentence that correctly uses 'whom' in a medical context.\n\nA) Who should the nurse contact about the lab results?\nB) Whom should the nurse contact about the lab results?\nC) The nurse should contact who about the lab results.\nD) Whom the patient was, the nurse contacted about the results.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The doctor asked who the nurse should contact if the patient's condition worsens.",
+      "The nurse told whom the patient was assigned to care for this shift.",
+      "The doctor asked who the patient should see for a second opinion."
+    ],
+    "explanation": "The correct sentence uses \"whom\" because it functions as the object of the verb \"contact\" within the dependent clause. In the phrase \"whom the nurse should contact,\" the nurse performs the action upon the person, requiring the objective case. The first wrong option incorrectly uses \"who\" as the object of \"contact,\" violating standard grammar rules for pronouns. The second wrong choice misuses \"whom\" as the subject of the clause \"whom the patient was assigned,\" which should be \"who\" since the patient performs the action. Finally, the last wrong answer correctly uses \"who\" as the subject of \"see,\" but the question specifically demands the sentence where \"whom\" is the grammatically correct choice for the object position.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1898,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "A nurse is documenting that a patient finished their medication 30 minutes ago. Which verb form best describes this completed action?\n\nA) finishes\nB) has finished\nC) finished\nD) will finish",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "finishes",
+      "is finishing",
+      "will finish"
+    ],
+    "explanation": "The past tense 'finished' is correct because the action was completed at a specific time in the past (30 minutes ago). Using the present perfect 'has finished' is incorrect because there is no connection to the present moment required by the context, and the other options describe ongoing or future actions.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1899,
+    "subject": "english",
+    "topic": "Verb Tenses",
+    "question_text": "The nurse arrives at the patient's bedside at 8:00 AM to begin the morning shift. Which sentence uses the present simple tense?\n\nA) The nurse arrives at the patient's bedside at 8:00 AM to begin the morning shift.\nB) The nurse arrived at the patient's bedside at 8:00 AM.\nC) The nurse will arrive at the patient's bedside at 8:00 AM.\nD) The nurse is arriving at the patient's bedside at 8:00 AM.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "The nurse arrived at the patient's bedside at 8:00 AM to begin the morning shift.",
+      "The nurse will arrive at the patient's bedside at 8:00 AM to begin the morning shift.",
+      "The nurse is arriving at the patient's bedside at 8:00 AM to begin the morning shift."
+    ],
+    "explanation": "The present simple tense is used to describe habitual actions or facts, but in this specific context, it functions as a time-independent statement of routine or a general truth about the nurse's schedule. The other options use past, future, or continuous tenses which alter the intended meaning of a standard routine description.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1900,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Select the sentence that correctly uses subject-verb agreement:\nA) The nurses and the doctor were ready to start the morning shift.\nB) The nurses and the doctor is ready to start the morning shift.\nC) The nurses and the doctor was ready to start the morning shift.\nD) The nurse and the doctor is ready to start the morning shift.",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct answer is A because the compound subject 'nurses and doctor' is plural, requiring the plural verb 'were.' Options B and C incorrectly use singular verbs ('is', 'was') with a plural subject, while option D incorrectly uses the singular verb 'is' with a compound plural subject.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1901,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence correctly uses subject-verb agreement and proper punctuation in a medical context?\nA) The nurse and the technician was assigned to monitor the patient's vital signs.\nB) Both the nurse and the technician are assigned to monitor the patient's vital signs.\nC) The nurse and the technicians was assigned to monitor the patient's vital signs.\nD) The nurse and the technician are assigned to monitor the patient's vital signs.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "The nurse and the technician was assigned to monitor the patient's vital signs.",
+      "The nurse and the technicians was assigned to monitor the patient's vital signs.",
+      "The nurse and the technician are assigned to monitor the patient's vital signs."
+    ],
+    "explanation": "The correct answer is B because the compound subject 'both the nurse and the technician' is treated as plural and agrees with the plural verb 'are.' Options A and C are incorrect because they use the singular verb 'was' with a plural subject or a plural subject with a singular verb. Option D is incorrect because it omits the word 'both,' which can sometimes make the compound subject feel singular to test-takers, though strictly speaking, 'nurse and technician' is also plural; however, B is the most grammatically precise choice for this context.",
+    "difficulty": "hard",
+    "status": "active"
+  },
+  {
+    "id": 1902,
+    "subject": "english",
+    "topic": "Commonly Confused Words",
+    "question_text": "The nurse is writing a report and must choose the correct word to complete the sentence: \"The patient's condition improved, and the medication was effective in _______ the pain.\" Which word correctly fills the blank?\n\nA) relieving\nB) effecting\nC) affective\nD) effected",
+    "correct_answer": "A",
+    "wrong_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "The correct choice is 'relieving' because 'effect' as a verb means to produce a result, whereas 'relieve' means to alleviate or make less severe, which fits the context of reducing pain. The options 'affecting', 'receiving', and 'causing' are grammatically plausible but semantically incorrect for describing the intended action of reducing pain in this specific clinical scenario.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1920,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Choose the sentence with correct subject-verb agreement.\n\nA. The collection of ancient coins are on display.\nB. The collection of ancient coins is on display.\nC. The collection of ancient coins have been displayed.\nD. The collection of ancient coins were displayed.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "The subject of the sentence is \"collection,\" which is a singular noun. Even though \"ancient coins\" is plural, the subject-verb agreement rule requires the verb to match the main subject. Option B correctly uses the singular verb \"is\" to agree with the singular subject \"collection.\" Options A, C, and D all use plural verbs (\"are,\" \"have,\" \"were\") which do not agree with the singular subject.",
+    "difficulty": "easy",
+    "status": "active"
+  },
+  {
+    "id": 1921,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Select the sentence that demonstrates correct subject-verb agreement.\n\nA. Neither the doctor nor the nurses was available.\nB. Neither the doctor nor the nurses were available.\nC. Neither the doctors nor the nurse were available.\nD. Neither the doctor or the nurses were available.",
+    "correct_answer": "B",
+    "wrong_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "When using \"neither...nor\" correlative conjunctions, the verb agrees with the subject closest to it. In option B, \"nurses\" is the closest subject and is plural, so the plural verb \"were\" is correct. Option A incorrectly uses the singular \"was\" with the plural \"nurses.\" Option C incorrectly uses \"were\" with the singular \"nurse\" closest to the verb. Option D uses \"or\" instead of the proper correlative conjunction pair.",
+    "difficulty": "medium",
+    "status": "active"
+  },
+  {
+    "id": 1922,
+    "subject": "english",
+    "topic": "Subject-Verb Agreement",
+    "question_text": "Which sentence uses correct subject-verb agreement?\n\nA. The committee has reached their decision.\nB. The committee have reached its decision.\nC. The committee has reached its decision.\nD. The committee have reached their decision.",
+    "correct_answer": "C",
+    "wrong_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "A committee is a collective noun that is typically treated as singular in American English. Option C correctly pairs the singular verb \"has\" with the singular pronoun \"its.\" Option A mixes singular verb \"has\" with plural pronoun \"their,\" creating inconsistency. Options B and D both use the plural verb \"have,\" which is incorrect for a singular collective noun in standard American English usage.",
+    "difficulty": "easy",
+    "status": "active"
+  }
+]

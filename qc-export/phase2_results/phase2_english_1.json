@@ -1,0 +1,226 @@
+[
+  {
+    "id": 506,
+    "verdict": "PASS"
+  },
+  {
+    "id": 507,
+    "verdict": "PASS"
+  },
+  {
+    "id": 508,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Marked 'hard' but the question only requires matching the past tense verb 'walked' with the time marker 'yesterday'. This is simple single-step recall."
+    ]
+  },
+  {
+    "id": 509,
+    "verdict": "PASS"
+  },
+  {
+    "id": 510,
+    "verdict": "PASS"
+  },
+  {
+    "id": 511,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error in explanation: States that Option C ('its') is incorrect because 'team is not an object.' This reasoning is nonsensical. 'Its' is wrong because 'everyone' refers to people and requires a human pronoun, not because of anything about 'team' being or not being an 'object.'"
+    ]
+  },
+  {
+    "id": 512,
+    "verdict": "PASS"
+  },
+  {
+    "id": 513,
+    "verdict": "PASS"
+  },
+  {
+    "id": 514,
+    "verdict": "PASS"
+  },
+  {
+    "id": 515,
+    "verdict": "PASS"
+  },
+  {
+    "id": 516,
+    "verdict": "PASS"
+  },
+  {
+    "id": 517,
+    "verdict": "PASS"
+  },
+  {
+    "id": 518,
+    "verdict": "PASS"
+  },
+  {
+    "id": 519,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 8 — Factual error in explanation: States that Option C ('The wound healed well, so the patient was discharged.') 'adds the conjunction \"so\" to form a complex sentence.' Two independent clauses joined by 'so' form a compound sentence, not a complex sentence. A complex sentence requires a dependent clause."
+    ]
+  },
+  {
+    "id": 520,
+    "verdict": "PASS"
+  },
+  {
+    "id": 521,
+    "verdict": "PASS"
+  },
+  {
+    "id": 522,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Marked 'hard' but the question only requires knowing that a colon follows 'as follows' to introduce a list. This is a straightforward punctuation rule — simple recall."
+    ]
+  },
+  {
+    "id": 523,
+    "verdict": "PASS"
+  },
+  {
+    "id": 524,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Marked 'hard' but the question only requires distinguishing they're/their/there — basic homophone identification. This is simple single-step recall."
+    ]
+  },
+  {
+    "id": 525,
+    "verdict": "PASS"
+  },
+  {
+    "id": 526,
+    "verdict": "PASS"
+  },
+  {
+    "id": 527,
+    "verdict": "PASS"
+  },
+  {
+    "id": 528,
+    "verdict": "PASS"
+  },
+  {
+    "id": 529,
+    "verdict": "PASS"
+  },
+  {
+    "id": 530,
+    "verdict": "PASS"
+  },
+  {
+    "id": 531,
+    "verdict": "PASS"
+  },
+  {
+    "id": 532,
+    "verdict": "PASS"
+  },
+  {
+    "id": 533,
+    "verdict": "PASS"
+  },
+  {
+    "id": 534,
+    "verdict": "PASS"
+  },
+  {
+    "id": 535,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Marked 'hard' but the question only requires identifying formal vs informal language among obviously colloquial options ('crashing,' 'doing bad,' 'Yo...lol'). This is simple single-step recognition."
+    ]
+  },
+  {
+    "id": 536,
+    "verdict": "PASS"
+  },
+  {
+    "id": 537,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Marked 'hard' but the question only requires picking the professional email greeting ('Dr. Patel, I am writing regarding...') over obviously unprofessional options ('Hey doc,' 'Sup,' 'Yo Patel'). This is simple single-step recognition."
+    ]
+  },
+  {
+    "id": 538,
+    "verdict": "PASS"
+  },
+  {
+    "id": 539,
+    "verdict": "PASS"
+  },
+  {
+    "id": 540,
+    "verdict": "PASS"
+  },
+  {
+    "id": 541,
+    "verdict": "PASS"
+  },
+  {
+    "id": 542,
+    "verdict": "PASS"
+  },
+  {
+    "id": 543,
+    "verdict": "PASS"
+  },
+  {
+    "id": 544,
+    "verdict": "PASS"
+  },
+  {
+    "id": 545,
+    "verdict": "PASS"
+  },
+  {
+    "id": 546,
+    "verdict": "PASS"
+  },
+  {
+    "id": 547,
+    "verdict": "PASS"
+  },
+  {
+    "id": 548,
+    "verdict": "PASS"
+  },
+  {
+    "id": 549,
+    "verdict": "FAIL",
+    "fail_reasons": [
+      "Rule 7 — Difficulty mismatch: Marked 'hard' but the question only requires identifying the first step in a blood pressure procedure (explain to patient). This is simple logical sequencing — single-step reasoning."
+    ]
+  },
+  {
+    "id": 550,
+    "verdict": "PASS"
+  },
+  {
+    "id": 551,
+    "verdict": "PASS"
+  },
+  {
+    "id": 552,
+    "verdict": "PASS"
+  },
+  {
+    "id": 553,
+    "verdict": "PASS"
+  },
+  {
+    "id": 554,
+    "verdict": "PASS"
+  },
+  {
+    "id": 555,
+    "verdict": "PASS"
+  }
+]
