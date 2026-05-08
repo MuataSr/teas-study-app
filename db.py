@@ -12,6 +12,8 @@ import secrets
 import sqlite3
 from datetime import datetime, timedelta
 
+from werkzeug.security import generate_password_hash, check_password_hash
+
 DB_PATH = os.path.join(os.path.dirname(__file__), "data", "user_progress.db")
 
 
@@ -107,6 +109,19 @@ def init_db():
                 played_at       TEXT NOT NULL,
                 FOREIGN KEY (user_id) REFERENCES users(id)
             );
+
+            CREATE TABLE IF NOT EXISTS active_quizzes (
+                id            TEXT PRIMARY KEY,
+                user_id       INTEGER NOT NULL,
+                subject       TEXT NOT NULL,
+                questions     TEXT NOT NULL,
+                answers       TEXT NOT NULL DEFAULT '[]',
+                current_index INTEGER NOT NULL DEFAULT 0,
+                session_id    INTEGER,
+                started_at    TEXT NOT NULL,
+                is_review     INTEGER NOT NULL DEFAULT 0,
+                FOREIGN KEY (user_id) REFERENCES users(id)
+            );
         """)
 
         # Migrate: add user_id column to existing tables if missing
@@ -114,6 +129,7 @@ def init_db():
         _migrate_add_column(conn, "answers", "user_id", "INTEGER NOT NULL DEFAULT 1")
         _migrate_add_column(conn, "answers", "confidence", "INTEGER DEFAULT NULL")
         _migrate_add_column(conn, "topic_mastery", "user_id", "INTEGER NOT NULL DEFAULT 1")
+        _migrate_add_column(conn, "users", "quiz_count", "INTEGER DEFAULT 5")
         # Note: topic_mastery.id added via table recreation if old schema exists
 
         # Ensure anonymous default user exists
@@ -362,18 +378,29 @@ def reset_all_progress(user_id):
 # ---------------------------------------------------------------------------
 
 def _hash_password(password):
-    """Hash password with salt. Returns salt:hash string."""
-    salt = secrets.token_hex(16)
-    hashed = hashlib.sha256(f"{salt}{password}".encode()).hexdigest()
-    return f"{salt}:{hashed}"
+    """Hash password using werkzeug PBKDF2 with SHA-256."""
+    return generate_password_hash(password, method='pbkdf2:sha256', salt_length=16)
 
 
 def _verify_password(password, stored):
-    """Verify password against salt:hash stored string."""
-    if not stored or ":" not in stored:
-        return False
-    salt, hashed = stored.split(":", 1)
-    return hashlib.sha256(f"{salt}{password}".encode()).hexdigest() == hashed
+    """Verify password against stored hash.
+
+    Supports both new werkzeug format and legacy salt:sha256hex format.
+    Returns (is_valid, is_legacy) tuple where is_legacy indicates an
+    old-format hash that should be upgraded on next successful login.
+    """
+    if not stored:
+        return False, False
+    # Check if it's old format: salt:sha256hex (salt is 32 hex chars)
+    if ':' in stored:
+        parts = stored.split(':', 1)
+        if len(parts[0]) == 32:  # Old SHA-256 format (salt is 32 hex chars)
+            salt, old_hash = parts
+            computed = hashlib.sha256(f"{salt}{password}".encode()).hexdigest()
+            if computed == old_hash:
+                return True, True
+            return False, False
+    return check_password_hash(stored, password), False
 
 
 def create_user(email=None, password=None, display_name="Student"):
@@ -430,7 +457,14 @@ def verify_login(email, password):
     user = get_user_by_email(email)
     if not user or not user.get("password_hash"):
         return None
-    if _verify_password(password, user["password_hash"]):
+    is_valid, is_legacy = _verify_password(password, user["password_hash"])
+    if is_valid:
+        if is_legacy:
+            new_hash = _hash_password(password)
+            with _get_conn() as conn:
+                conn.execute("UPDATE users SET password_hash=? WHERE id=?", (new_hash, user["id"]))
+                conn.commit()
+            user["password_hash"] = new_hash
         return user
     return None
 
@@ -621,3 +655,69 @@ def get_quickfire_high_scores(user_id):
             (user_id,),
         ).fetchall()
         return {r["subject"]: r["score"] for r in rows}
+
+
+def get_quiz_count(user_id, default=5):
+    """Get the user's preferred number of questions per quiz."""
+    with _get_conn() as conn:
+        row = conn.execute(
+            "SELECT quiz_count FROM users WHERE id=?", (user_id,)
+        ).fetchone()
+        return row["quiz_count"] if row and row["quiz_count"] is not None else default
+
+
+def set_quiz_count(user_id, count):
+    """Set the user's preferred number of questions per quiz."""
+    with _get_conn() as conn:
+        conn.execute(
+            "UPDATE users SET quiz_count=? WHERE id=?", (count, user_id)
+        )
+        conn.commit()
+
+
+# ---------------------------------------------------------------------------
+# Active quiz persistence
+# ---------------------------------------------------------------------------
+
+def save_quiz(quiz_id, user_id, subject, questions, answers=None, current_index=0, session_id=None, started_at=None, is_review=False):
+    """Insert or replace an active quiz. questions and answers are JSON-serialized."""
+    import json
+    with _get_conn() as conn:
+        conn.execute(
+            """INSERT OR REPLACE INTO active_quizzes 
+               (id, user_id, subject, questions, answers, current_index, session_id, started_at, is_review) 
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            (quiz_id, user_id, subject, json.dumps(questions),
+             json.dumps(answers or []), current_index, session_id,
+             started_at or datetime.utcnow().isoformat(), 1 if is_review else 0),
+        )
+        conn.commit()
+
+
+def load_quiz(quiz_id):
+    """Load an active quiz by ID. Returns dict or None."""
+    import json
+    with _get_conn() as conn:
+        row = conn.execute("SELECT * FROM active_quizzes WHERE id=?", (quiz_id,)).fetchone()
+        if not row:
+            return None
+        d = dict(row)
+        d["questions"] = json.loads(d["questions"])
+        d["answers"] = json.loads(d["answers"])
+        d["is_review"] = bool(d.get("is_review", 0))
+        return d
+
+
+def delete_quiz(quiz_id):
+    """Delete an active quiz."""
+    with _get_conn() as conn:
+        conn.execute("DELETE FROM active_quizzes WHERE id=?", (quiz_id,))
+        conn.commit()
+
+
+def cleanup_stale_quizzes(max_age_hours=24):
+    """Delete quizzes older than max_age_hours."""
+    cutoff = (datetime.utcnow() - timedelta(hours=max_age_hours)).isoformat()
+    with _get_conn() as conn:
+        conn.execute("DELETE FROM active_quizzes WHERE started_at < ?", (cutoff,))
+        conn.commit()

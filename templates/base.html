@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="csrf-token" content="{{ csrf_token() }}">
   <title>{% block title %}TEAS Study{% endblock %}</title>
   <link rel="stylesheet" href="/static/css/teas.css">
   <!-- KaTeX for math rendering (served locally, no CDN dependency) -->
@@ -93,6 +94,13 @@
         <line x1="6" y1="20" x2="6" y2="14"/>
       </svg>
       Progress
+    </a>
+    <a href="/review" class="nav-item{% if active_nav == 'review' %} active{% endif %}">
+      <svg class="nav-icon" viewBox="0 0 24 24">
+        <polyline points="1 4 1 10 7 10"/>
+        <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/>
+      </svg>
+      Review
     </a>
     <a href="/visuals" class="nav-item{% if active_nav == 'visuals' %} active{% endif %}">
       <svg class="nav-icon" viewBox="0 0 24 24">

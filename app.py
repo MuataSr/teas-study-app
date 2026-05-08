@@ -13,6 +13,7 @@ import random
 from datetime import datetime, timedelta
 from functools import wraps
 from flask import Flask, render_template, redirect, url_for, request, jsonify, session, flash
+from flask_wtf.csrf import CSRFProtect
 from kb import (
     get_math_topics, get_math_lesson, get_math_quiz_questions,
     get_science_topics, get_science_lesson, get_science_quiz_questions,
@@ -27,9 +28,9 @@ import db
 
 app = Flask(__name__)
 app.secret_key = os.environ.get("FLASK_SECRET", os.urandom(24).hex())
+csrf = CSRFProtect(app)
 
-# Active quizzes (in-memory — adequate for single-user MVP)
-_active_quizzes = {}
+
 
 
 # ---------------------------------------------------------------------------
@@ -54,6 +55,11 @@ def _get_current_user():
     if user_id:
         return db.get_user(user_id)
     return None
+
+
+@app.context_processor
+def inject_user():
+    return {"current_user": _get_current_user()}
 
 
 def login_required(f):
@@ -215,6 +221,11 @@ def dashboard():
                 weak += 1
         subj["weak_count"] = weak
 
+    # Add review due count
+    for subj in subjects:
+        due_items = db.get_due_review_items(user_id, subject=subj["slug"])
+        subj["review_due"] = len(due_items)
+
     recommendations = _build_recommendations(user_id)
     recent_sessions = _build_recent_sessions(user_id)
 
@@ -238,6 +249,85 @@ def dashboard():
         quickfire_scores=quickfire_scores,
         active_nav="home",
     )
+
+
+@app.route("/review")
+@login_required
+def review():
+    user_id = session.get("user_id", 1)
+    subject_slugs = ["math", "science", "reading", "english"]
+    review_data = []
+    total_due = 0
+    for slug in subject_slugs:
+        due_items = db.get_due_review_items(user_id, subject=slug)
+        subject_name = _SUBJECT_GETTERS.get(slug, {}).get("name", slug.title())
+        due_count = len(due_items)
+        total_due += due_count
+        review_data.append({
+            "slug": slug,
+            "name": subject_name,
+            "due_count": due_count,
+        })
+    return render_template("review.html",
+        review_data=review_data,
+        total_due=total_due,
+        active_nav="review",
+    )
+
+
+@app.route("/review/start", methods=["POST"])
+@login_required
+def review_start():
+    user_id = session.get("user_id", 1)
+    subject = request.form.get("subject", "")
+
+    if subject:
+        due_items = db.get_due_review_items(user_id, subject=subject)
+    else:
+        due_items = db.get_due_review_items(user_id)
+
+    if not due_items:
+        return redirect("/review")
+
+    questions = []
+    seen_topics = set()
+
+    for item in due_items:
+        subj = item["subject"]
+        topic = item["topic"]
+        key = (subj, topic)
+        if key in seen_topics:
+            continue
+        seen_topics.add(key)
+
+        info = _SUBJECT_GETTERS.get(subj)
+        if not info:
+            continue
+
+        qs = info["quiz"](topic=topic, count=1)
+        if qs:
+            questions.extend(qs)
+
+    if not questions:
+        return redirect("/review")
+
+    random.shuffle(questions)
+    questions = questions[:20]
+
+    quiz_id = uuid.uuid4().hex[:12]
+    db.save_quiz(
+        quiz_id=quiz_id,
+        user_id=user_id,
+        subject=subject or "review",
+        questions=questions,
+        answers=[],
+        current_index=0,
+        session_id=None,
+        started_at=datetime.now().isoformat(),
+        is_review=True,
+    )
+
+    return redirect(f"/quiz/review/{quiz_id}/0")
 
 
 @app.route("/api/stats")
@@ -276,7 +366,7 @@ def quiz_start(subject_slug):
     if not info:
         return redirect("/")
 
-    count = request.args.get("count", 5, type=int)
+    count = request.args.get("count", db.get_quiz_count(user_id, default=5), type=int)
     count = min(count, 20)
 
     questions = info["quiz"](count=count)
@@ -284,15 +374,17 @@ def quiz_start(subject_slug):
         return redirect("/")
 
     quiz_id = uuid.uuid4().hex[:12]
-    _active_quizzes[quiz_id] = {
-        "user_id": user_id,
-        "subject": subject_slug,
-        "questions": questions,
-        "current_index": 0,
-        "answers": [],
-        "started_at": datetime.now().isoformat(),
-        "session_id": None,
-    }
+    db.save_quiz(
+        quiz_id=quiz_id,
+        user_id=user_id,
+        subject=subject_slug,
+        questions=questions,
+        answers=[],
+        current_index=0,
+        session_id=None,
+        started_at=datetime.now().isoformat(),
+        is_review=False,
+    )
 
     return redirect(f"/quiz/{subject_slug}/{quiz_id}/0")
 
@@ -300,7 +392,7 @@ def quiz_start(subject_slug):
 def quiz_start_mixed():
     """Start a mixed-subject quiz."""
     user_id = session.get("user_id", 1)
-    count = request.args.get("count", 5, type=int)
+    count = request.args.get("count", db.get_quiz_count(user_id, default=5), type=int)
     count = min(count, 20)
 
     all_questions = []
@@ -319,15 +411,17 @@ def quiz_start_mixed():
         return redirect("/")
 
     quiz_id = uuid.uuid4().hex[:12]
-    _active_quizzes[quiz_id] = {
-        "user_id": user_id,
-        "subject": "mixed",
-        "questions": all_questions,
-        "current_index": 0,
-        "answers": [],
-        "started_at": datetime.now().isoformat(),
-        "session_id": None,
-    }
+    db.save_quiz(
+        quiz_id=quiz_id,
+        user_id=user_id,
+        subject="mixed",
+        questions=all_questions,
+        answers=[],
+        current_index=0,
+        session_id=None,
+        started_at=datetime.now().isoformat(),
+        is_review=False,
+    )
 
     return redirect(f"/quiz/mixed/{quiz_id}/0")
 
@@ -336,7 +430,7 @@ def quiz_start_mixed():
 @login_required
 def quiz_question(subject_slug, quiz_id, q_index):
     """Show a specific question in the quiz."""
-    quiz = _active_quizzes.get(quiz_id)
+    quiz = db.load_quiz(quiz_id)
     if not quiz:
         return redirect("/")
 
@@ -349,6 +443,8 @@ def quiz_question(subject_slug, quiz_id, q_index):
     subject_name = _SUBJECT_GETTERS.get(subject_slug, {}).get("name", "Mixed Review")
     if subject_slug == "mixed":
         subject_name = "Mixed Review"
+    elif subject_slug == "review":
+        subject_name = "Spaced Review"
 
     return render_template("quiz.html",
         question=question,
@@ -364,7 +460,7 @@ def quiz_question(subject_slug, quiz_id, q_index):
 @login_required
 def quiz_answer(subject_slug, quiz_id, q_index):
     """Process an answer and redirect to next question or results."""
-    quiz = _active_quizzes.get(quiz_id)
+    quiz = db.load_quiz(quiz_id)
     if not quiz:
         return redirect("/")
 
@@ -379,9 +475,21 @@ def quiz_answer(subject_slug, quiz_id, q_index):
     confidence = request.form.get("confidence", None, type=int)
 
     correct_answer = question.get("correct_answer", "")
-    if not correct_answer and "options" in question and question.get("correct_index", 0) < len(question["options"]):
-        correct_answer = question["options"][question["correct_index"]]
-    is_correct = (selected == correct_answer) or (str(selected).strip().lower() == str(correct_answer).strip().lower())
+    correct_index = question.get("correct_index")
+
+    if isinstance(correct_index, int) and "options" in question and 0 <= correct_index < len(question["options"]):
+        correct_answer = question["options"][correct_index]
+
+    is_correct = False
+    if isinstance(correct_index, int) and "options" in question and selected:
+        try:
+            selected_idx = question["options"].index(selected)
+            is_correct = (selected_idx == correct_index)
+        except (ValueError, TypeError):
+            pass
+
+    if not is_correct:
+        is_correct = (selected == correct_answer) or (str(selected).strip().lower() == str(correct_answer).strip().lower())
 
     answer = {
         "question_id": question.get("id", q_index),
@@ -430,6 +538,18 @@ def quiz_answer(subject_slug, quiz_id, q_index):
             confidence=confidence,
         )
 
+    db.save_quiz(
+        quiz_id=quiz_id,
+        user_id=quiz["user_id"],
+        subject=quiz["subject"],
+        questions=quiz["questions"],
+        answers=quiz["answers"],
+        current_index=q_index + 1,
+        session_id=quiz["session_id"],
+        started_at=quiz["started_at"],
+        is_review=quiz.get("is_review", False),
+    )
+
     next_index = q_index + 1
 
     # Build feedback based on confidence level
@@ -476,6 +596,9 @@ def quiz_answer(subject_slug, quiz_id, q_index):
 
         db.finish_session(quiz["session_id"], correct_count, total, pct)
 
+        # Review quizzes redirect back to /review instead of results page
+        review_next_url = "/review" if quiz.get("is_review") else f"/results/{subject_slug}/{quiz_id}"
+
         return render_template("quiz.html",
             question=question,
             current_q=q_index + 1,
@@ -491,7 +614,7 @@ def quiz_answer(subject_slug, quiz_id, q_index):
             explanation=explanation,
             feedback_mode=feedback_mode,
             related_lesson=related_lesson,
-            next_url=f"/results/{subject_slug}/{quiz_id}",
+            next_url=review_next_url,
         )
 
 
@@ -499,7 +622,7 @@ def quiz_answer(subject_slug, quiz_id, q_index):
 @login_required
 def quiz_results(subject_slug, quiz_id):
     """Show quiz results."""
-    quiz = _active_quizzes.get(quiz_id)
+    quiz = db.load_quiz(quiz_id)
     if not quiz:
         return redirect("/")
 
@@ -551,7 +674,7 @@ def quiz_results(subject_slug, quiz_id):
     if subject_slug == "mixed":
         subject_name = "Mixed Review"
 
-    del _active_quizzes[quiz_id]
+    db.delete_quiz(quiz_id)
 
     return render_template("results.html",
         score=correct_count,
@@ -677,15 +800,24 @@ def resources():
     return render_template("resources.html", resources=resources, active_nav="home")
 
 
-@app.route("/settings")
+@app.route("/settings", methods=["GET", "POST"])
 @login_required
 def settings():
     user = _get_current_user()
+    user_id = session.get("user_id", 1)
+
+    if request.method == "POST":
+        count = request.form.get("question_count", 5, type=int)
+        count = max(1, min(count, 20))
+        db.set_quiz_count(user_id, count)
+        return redirect("/settings")
+
+    quiz_count = db.get_quiz_count(user_id, default=5)
     return render_template("settings.html",
         settings={
             "dark_mode": False,
             "font_size": "medium",
-            "question_count": 5,
+            "question_count": quiz_count,
             "timer_direction": "countdown",
         },
         user=_get_current_user(),
@@ -1188,4 +1320,5 @@ def api_visual():
 
 if __name__ == "__main__":
     db.init_db()
+    db.cleanup_stale_quizzes()
     app.run(host="0.0.0.0", port=5001, debug=False)
