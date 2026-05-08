@@ -6,14 +6,14 @@
 
 <div class="settings-page">
 
-  <!-- Quiz Defaults -->
+  <!-- Study Preferences -->
   <div class="settings-section">
-    <div class="settings-section-title">Quiz Defaults</div>
-
+    <div class="settings-section-title">Study Preferences</div>
     <div class="settings-row">
       <span class="settings-label">Questions per quiz</span>
     </div>
     <form method="POST" action="/settings" style="margin-top: 8px;">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
       <div class="pill-group">
         <button type="submit" name="question_count" value="5" class="pill {% if settings.question_count == 5 %}active{% endif %}">5</button>
         <button type="submit" name="question_count" value="10" class="pill {% if settings.question_count == 10 %}active{% endif %}">10</button>
@@ -35,10 +35,50 @@
         <div class="toggle-thumb"></div>
       </label>
     </div>
+
+    <div class="settings-row" style="margin-top: 4px;">
+      <span class="settings-label">Font size</span>
+    </div>
+    <div class="font-size-pills pill-group" style="margin-top: 6px;">
+      <button type="button" class="pill pill-sm" data-size="14px">S</button>
+      <button type="button" class="pill pill-md active" data-size="16px">M</button>
+      <button type="button" class="pill pill-lg" data-size="18px">L</button>
+    </div>
+  </div>
+
+  <!-- Account -->
+  <div class="settings-section">
+    <div class="settings-section-title">Account</div>
+    <form method="POST" action="/settings/profile">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+      <div class="setting-group">
+        <label class="setting-label" for="display_name">Display Name</label>
+        <input type="text" id="display_name" name="display_name" value="{{ user.display_name }}" class="setting-input">
+      </div>
+      <div class="setting-group">
+        <label class="setting-label" for="exam_date">Exam Date</label>
+        <input type="date" id="exam_date" name="exam_date" value="{{ user.exam_date or '' }}" class="setting-input">
+      </div>
+      <button type="submit" class="btn-secondary" style="margin-top: 8px;">Save Profile</button>
+    </form>
+  </div>
+
+  <!-- Data -->
+  <div class="settings-section">
+    <div class="settings-section-title">Data</div>
+    <div class="settings-row">
+      <a href="/api/export" class="btn-secondary" style="padding: 10px 20px; font-size: 14px;">Export My Data (JSON)</a>
+    </div>
+    <div class="settings-row" style="margin-top: 12px;">
+      <form method="POST" action="/settings/reset" onsubmit="return confirm('This will erase all your progress. Are you sure?')">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+        <button type="submit" class="btn-danger">Reset All Progress</button>
+      </form>
+    </div>
   </div>
 
   <!-- About -->
-  <div class="settings-section">
+  <div class="settings-section" style="border-bottom: none;">
     <div class="settings-section-title">About</div>
     <div class="settings-row">
       <span class="settings-label">Version</span>
@@ -55,20 +95,11 @@
   </div>
 
   <!-- Resources -->
-  <div class="settings-section">
+  <div class="settings-section" style="border-bottom: none;">
     <div class="settings-section-title">Study Resources</div>
     <div class="settings-row">
       <a href="/resources" style="font-size:15px; color: var(--accent);">Curated free TEAS resources →</a>
     </div>
-  </div>
-
-  <!-- Danger Zone -->
-  <div class="settings-section" style="border-bottom: none;">
-    <div class="settings-section-title">Danger Zone</div>
-    <form method="POST" action="/settings/reset" onsubmit="return confirm('This will erase all your progress. Are you sure?')">
-      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
-      <button type="submit" class="btn-danger">Reset All Progress</button>
-    </form>
   </div>
 
   <div class="version-info">Mu2 Solutions — Built for students, by students.</div>
@@ -80,10 +111,10 @@
 {% block scripts %}
 <script>
 (function() {
+  // Dark mode toggle
   var toggle = document.getElementById("dark-toggle");
   var root = document.documentElement;
 
-  // Restore saved preference
   var saved = localStorage.getItem("teas-dark");
   if (saved === "true") {
     root.classList.add("dark");
@@ -99,6 +130,22 @@
       localStorage.setItem("teas-dark", "false");
     }
   });
+
+  // Font size pills
+  document.querySelectorAll('.font-size-pills .pill').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.font-size-pills .pill').forEach(function(b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      document.documentElement.style.fontSize = this.dataset.size;
+      localStorage.setItem('teas-font-size', this.dataset.size);
+    });
+  });
+
+  var savedFont = localStorage.getItem('teas-font-size');
+  if (savedFont) {
+    document.documentElement.style.fontSize = savedFont;
+    document.querySelectorAll('.font-size-pills .pill').forEach(function(b) { b.classList.toggle('active', b.dataset.size === savedFont); });
+  }
 })();
 </script>
 {% endblock %}

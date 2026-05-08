@@ -8,8 +8,20 @@
   <h1 style="margin: 0 0 4px 0;">Free Resources</h1>
   <p class="text-muted" style="margin: 0 0 20px 0;">Curated study guides and practice material to supplement your prep.</p>
 
+  <div class="resources-search">
+    <input type="text" id="resource-search" placeholder="Search resources..." class="search-input">
+  </div>
+
+  <div class="resources-filters">
+    <button class="filter-pill active" data-category="all">All</button>
+    <button class="filter-pill" data-category="Study Guides">📖 Guides</button>
+    <button class="filter-pill" data-category="Practice Tests">📝 Practice</button>
+    <button class="filter-pill" data-category="Video Courses">🎥 Videos</button>
+    <button class="filter-pill" data-category="Tips & Strategies">💡 Tips</button>
+  </div>
+
   {% for resource in resources %}
-  <a href="{{ resource.url }}" target="_blank" rel="noopener noreferrer" class="resource-card">
+  <a href="{{ resource.url }}" target="_blank" rel="noopener noreferrer" class="resource-card" data-category="{{ resource.category }}">
     <div class="resource-card-header">
       <span class="resource-badge">{{ resource.badge }}</span>
       <span class="resource-name">{{ resource.name }}</span>
@@ -28,5 +40,38 @@
     Third-party resources — linked because they're helpful, not controlled by us.
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var cards = document.querySelectorAll('.resource-card');
+  var pills = document.querySelectorAll('.filter-pill');
+  var search = document.getElementById('resource-search');
+  var activeCategory = 'all';
+
+  pills.forEach(function(pill) {
+    pill.addEventListener('click', function() {
+      pills.forEach(function(p) { p.classList.remove('active'); });
+      this.classList.add('active');
+      activeCategory = this.dataset.category;
+      filterCards();
+    });
+  });
+
+  if (search) {
+    search.addEventListener('input', filterCards);
+  }
+
+  function filterCards() {
+    var query = search ? search.value.toLowerCase() : '';
+    cards.forEach(function(card) {
+      var cat = card.dataset.category;
+      var text = card.textContent.toLowerCase();
+      var matchCat = activeCategory === 'all' || cat === activeCategory;
+      var matchSearch = !query || text.indexOf(query) > -1;
+      card.style.display = matchCat && matchSearch ? '' : 'none';
+    });
+  }
+});
+</script>
 
 {% endblock %}
