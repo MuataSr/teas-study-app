@@ -30,8 +30,17 @@
     return isDark() ? "#e0e0e0" : DEFAULT_COLOR;
   }
 
+  // Map dark illustration colors to light equivalents for dark mode
+  var DARK_COLOR_MAP = {
+    "#2D3436": "#dfe6e9",
+    "#2d3436": "#dfe6e9",
+    "#636e72": "#b2bec3",
+    "#636E72": "#b2bec3"
+  };
+
   function resolveColor(c) {
     if (!c) return textColor();
+    if (isDark() && DARK_COLOR_MAP[c]) return DARK_COLOR_MAP[c];
     return c;
   }
 
@@ -135,7 +144,7 @@
           if (cmd.box !== false) {
             var lb = rc.rectangle(lx - 8, ly - 4, labelW, labelH, {
               stroke: "none",
-              fill: cmd.boxColor || (isDark() ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.04)"),
+              fill: isDark() ? "rgba(255,255,255,0.08)" : (cmd.boxColor || "rgba(0,0,0,0.04)"),
               roughness: 0.3,
               bowing: 0.5
             });
@@ -186,7 +195,7 @@
           var gw = cmd.w || W, gh = cmd.h || H;
           var gx = cmd.x || 0, gy = cmd.y || 0;
           var gStep = cmd.step || 40;
-          var gColor = cmd.gridColor || (isDark() ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.06)");
+          var gColor = isDark() ? "rgba(255,255,255,0.08)" : (cmd.gridColor || "rgba(0,0,0,0.06)");
           var gStyle = { stroke: gColor, strokeWidth: 1, roughness: 0, bowing: 0 };
 
           for (var xi = gx; xi <= gx + gw; xi += gStep) {
