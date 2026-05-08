@@ -6,6 +6,15 @@
 
 <div class="stats-page">
 
+{% if not has_data %}
+<div class="empty-state">
+  <div class="empty-state-icon">📊</div>
+  <h2>No Study Data Yet</h2>
+  <p>Complete a quiz to start tracking your progress and see detailed analytics.</p>
+  <a href="/quiz/math" class="btn btn-primary" style="display:inline-block;padding:12px 24px;">Start a Quiz</a>
+</div>
+{% else %}
+
   <!-- Readiness Ring -->
   <div style="text-align: center; padding-bottom: 28px; border-bottom: 1px solid var(--border);">
     <div class="readiness-ring">
@@ -20,6 +29,21 @@
     <div class="section-title" style="margin-bottom: 4px;">Overall Readiness</div>
     <div class="text-muted" style="font-size: 13px;">Keep going — every question counts.</div>
   </div>
+
+  {% if insights %}
+  <div class="insights-section">
+    <h2 class="section-title">Insights</h2>
+    {% for insight in insights %}
+    <div class="insight-card insight-card--{{ insight.type }}">
+      <span class="insight-icon">{{ insight.icon }}</span>
+      <div class="insight-text">{{ insight.text }}</div>
+      {% if insight.action_url %}
+      <a href="{{ insight.action_url }}" class="insight-action">{{ insight.action_text }} →</a>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
 
   <!-- Subject Indicators -->
   <div style="padding: 24px 0; border-bottom: 1px solid var(--border);">
@@ -115,5 +139,7 @@
   {% endif %}
 
 </div>
+
+{% endif %}
 
 {% endblock %}

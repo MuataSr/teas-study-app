@@ -493,6 +493,17 @@ def get_total_answered(user_id):
         return row["c"] or 0
 
 
+def get_user_sessions(user_id):
+    """Return all quiz sessions for a user as list of dicts."""
+    with _get_conn() as conn:
+        rows = conn.execute(
+            "SELECT id, subject, num_questions, score, total, pct, started_at, finished_at "
+            "FROM quiz_sessions WHERE user_id=? ORDER BY started_at DESC",
+            (user_id,),
+        ).fetchall()
+        return [dict(r) for r in rows]
+
+
 # ── Spaced Repetition (SM-2 variant) ──
 
 def update_review_queue(user_id, question_id, subject, topic, is_correct, confidence):
