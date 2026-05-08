@@ -11,18 +11,30 @@
   <span class="question-counter">{{ current_q }} / {{ total_q }}</span>
 </div>
 
+{% if not feedback %}
+<!-- Quiz Timer -->
+<div class="quiz-timer" id="quiz-timer">
+  <div class="quiz-timer-pill">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+    <span id="quiz-timer-text">0:00</span>
+  </div>
+</div>
+{% endif %}
+
 <!-- Question Body -->
 <div class="question-body">
+  <div class="quiz-question-area {% if feedback %}quiz-question--dimmed{% endif %}">
   <div class="question-number-label">Question {{ current_q }}</div>
 
   <div class="question-text">
     {{ question.question_text|safe }}
   </div>
+  </div>
 
   {% if feedback %}
   {# ── FEEDBACK STATE (after submit) ── #}
 
-  <div class="choices feedback-locked">
+  <div class="choices feedback-locked" role="radiogroup" aria-label="Answer options">
     {% set letters = ['A', 'B', 'C', 'D'] %}
     {% set opts = question.options if question.options is defined else [] %}
 
@@ -34,7 +46,7 @@
       {% if is_right %}correct
       {% elif is_selected and not is_correct %}wrong
       {% endif %}"
-      id="choice-{{ i }}">
+      id="choice-{{ i }}" role="radio" aria-checked="{% if is_selected %}true{% else %}false{% endif %}" aria-label="Option {{ letters[i] }}: {{ opts[i] }}">
       <span class="choice-letter">{{ letters[i] }}</span>
       <span class="choice-text">{{ opts[i]|safe }}</span>
       {% if is_right %}
@@ -105,11 +117,11 @@
   {% endif %}
 
   <!-- Next button -->
-  <div class="submit-area" style="margin-top: 24px;">
+  <div class="submit-area btn-next-question-wrap">
     {% if next_url %}
-    <a href="{{ next_url }}" class="submit-btn next-btn">Next Question →</a>
+    <a href="{{ next_url }}" class="submit-btn btn-next-question">Next Question →</a>
     {% else %}
-    <a href="/results/{{ subject_slug }}/{{ quiz_id }}" class="submit-btn next-btn">See Results →</a>
+    <a href="/results/{{ subject_slug }}/{{ quiz_id }}" class="submit-btn btn-next-question">See Results →</a>
     {% endif %}
   </div>
 
@@ -119,12 +131,12 @@
   <!-- Choices -->
   <form method="POST" action="/quiz/{{ subject_slug }}/{{ quiz_id }}/{{ current_q - 1 }}/answer" id="quiz-form">
     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
-    <div class="choices">
+    <div class="choices" role="radiogroup" aria-label="Answer options">
       {% set letters = ['A', 'B', 'C', 'D'] %}
       {% set opts = question.options if question.options is defined else [] %}
 
       {% for i in range(opts|length) %}
-      <label class="choice" id="choice-{{ i }}">
+      <label class="choice" id="choice-{{ i }}" role="radio" aria-checked="false" aria-label="Option {{ letters[i] }}: {{ opts[i] }}">
         <input type="radio" name="selected" value="{{ opts[i] }}" hidden>
         <span class="choice-letter">{{ letters[i] }}</span>
         <span class="choice-text">{{ opts[i]|safe }}</span>
@@ -132,25 +144,34 @@
       {% endfor %}
     </div>
 
-    <!-- Confidence Slider -->
+    <!-- Confidence Buttons -->
     <div class="confidence-section">
       <div class="confidence-label">How confident are you?</div>
-      <div class="confidence-track">
-        <div class="confidence-track-fill" id="confidence-fill" data-active="0"></div>
-        <div class="confidence-node" data-value="1" id="conf-1">
-          <div class="confidence-dot"></div>
-          <span class="confidence-node-text">Not sure</span>
-        </div>
-        <div class="confidence-node" data-value="2" id="conf-2">
-          <div class="confidence-dot"></div>
-          <span class="confidence-node-text">Kinda sure</span>
-        </div>
-        <div class="confidence-node" data-value="3" id="conf-3">
-          <div class="confidence-dot"></div>
-          <span class="confidence-node-text">Got this</span>
-        </div>
+      <div class="confidence-buttons">
+        <button type="button" class="confidence-btn confidence-btn--1" data-value="1">
+          <span class="confidence-btn__emoji">📖</span>
+          <span class="confidence-btn__content">
+            <span class="confidence-btn__label">Teach Me</span>
+            <span class="confidence-btn__subtitle">Show me the full explanation</span>
+          </span>
+        </button>
+        <button type="button" class="confidence-btn confidence-btn--2" data-value="2">
+          <span class="confidence-btn__emoji">💡</span>
+          <span class="confidence-btn__content">
+            <span class="confidence-btn__label">Almost</span>
+            <span class="confidence-btn__subtitle">Give me a hint first</span>
+          </span>
+        </button>
+        <button type="button" class="confidence-btn confidence-btn--3" data-value="3">
+          <span class="confidence-btn__emoji">✅</span>
+          <span class="confidence-btn__content">
+            <span class="confidence-btn__label">Nailed It</span>
+            <span class="confidence-btn__subtitle">I know this one</span>
+          </span>
+        </button>
       </div>
-      <div class="confidence-hint" id="confidence-hint">Tap to set your confidence</div>
+      <input type="hidden" name="confidence" id="confidence-input" value="0">
+      <div class="confidence-hint" id="confidence-hint">Pick your confidence level, then submit</div>
     </div>
 
     <div class="submit-area">
@@ -186,26 +207,36 @@
   var submitted = false;
   var confidenceValue = 0;
 
+  var timerEl = document.getElementById("quiz-timer-text");
+  var timerWrap = document.getElementById("quiz-timer");
+  var timerInterval = setInterval(function() {
+    var elapsed = Math.floor((Date.now() - startTime) / 1000);
+    var m = Math.floor(elapsed / 60);
+    var s = elapsed % 60;
+    if (timerEl) timerEl.textContent = m + ":" + (s < 10 ? "0" : "") + s;
+    if (elapsed >= 120 && timerWrap) timerWrap.classList.add("quiz-timer-urgent");
+  }, 1000);
+
   var hints = {
-    0: "Tap to set your confidence",
-    1: "We'll explain the concept after you answer",
-    2: "You'll get a hint if you need it",
-    3: "Quick quiz — straight to grading"
+    0: "Pick your confidence level, then submit",
+    1: "📖 We'll explain the concept after you answer",
+    2: "💡 You'll get a hint if you need it",
+    3: "✅ Quick quiz — straight to grading"
   };
 
-  var confNodes = document.querySelectorAll(".confidence-node");
-  var confFill = document.getElementById("confidence-fill");
+  var confInput = document.getElementById("confidence-input");
   var confHint = document.getElementById("confidence-hint");
+  var confBtns = document.querySelectorAll(".confidence-btn");
 
-  confNodes.forEach(function(node) {
-    node.addEventListener("click", function() {
+  confBtns.forEach(function(btn) {
+    btn.addEventListener("click", function() {
       if (submitted) return;
-      var val = parseInt(node.getAttribute("data-value"));
+      var val = parseInt(btn.getAttribute("data-value"));
       confidenceValue = val;
+      confInput.value = val;
 
-      confNodes.forEach(function(n) { n.classList.remove("active"); });
-      node.classList.add("active");
-      confFill.setAttribute("data-active", val);
+      confBtns.forEach(function(b) { b.classList.remove("confidence-btn--active"); });
+      btn.classList.add("confidence-btn--active");
       confHint.textContent = hints[val];
       confHint.style.color = "var(--text-secondary)";
 
@@ -230,20 +261,15 @@
     submitted = true;
 
     var elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-    var input = document.createElement("input");
-    input.type = "hidden";
-    input.name = "time_elapsed";
-    input.value = elapsed;
-    form.appendChild(input);
-
-    var confInput = document.createElement("input");
-    confInput.type = "hidden";
-    confInput.name = "confidence";
-    confInput.value = confidenceValue;
-    form.appendChild(confInput);
+    var timeInput = document.createElement("input");
+    timeInput.type = "hidden";
+    timeInput.name = "time_elapsed";
+    timeInput.value = elapsed;
+    form.appendChild(timeInput);
 
     submitBtn.textContent = "Submitting…";
     submitBtn.disabled = true;
+    if (timerInterval) clearInterval(timerInterval);
   });
   {% endif %}
 })();

@@ -59,7 +59,11 @@ def _get_current_user():
 
 @app.context_processor
 def inject_user():
-    return {"current_user": _get_current_user()}
+    user = _get_current_user()
+    review_due = 0
+    if user and not user.get("is_anonymous", 1):
+        review_due = len(db.get_due_review_items(user["id"]))
+    return {"current_user": user, "review_due_count": review_due}
 
 
 def login_required(f):
@@ -653,7 +657,8 @@ def quiz_results(subject_slug, quiz_id):
             topic_map[topic]["correct"] += 1
 
     topic_breakdown = [
-        {"topic": t, "correct": v["correct"], "total": v["total"]}
+        {"topic": t, "correct": v["correct"], "total": v["total"],
+         "pct": int((v["correct"] / v["total"] * 100) if v["total"] else 0)}
         for t, v in topic_map.items()
     ]
 
@@ -746,12 +751,50 @@ def stats():
         else:
             break
 
+    # Compute insights
+    insights = []
+    subject_readiness = {s["slug"]: s["readiness_pct"] for s in subjects}
+
+    # Weakest subject
+    if subject_readiness:
+        weakest_slug = min(subject_readiness, key=subject_readiness.get)
+        weakest_name = _SUBJECT_GETTERS.get(weakest_slug, {}).get("name", weakest_slug.title())
+        weakest_pct = subject_readiness[weakest_slug]
+        if weakest_pct < 100:
+            insights.append({
+                "type": "warning",
+                "icon": "🎯",
+                "text": f"Weakest area: {weakest_name} ({weakest_pct}% readiness)",
+                "action_text": "Practice " + weakest_name,
+                "action_url": f"/quiz/{weakest_slug}",
+            })
+
+    # Strongest subject
+    strongest_slug = max(subject_readiness, key=subject_readiness.get)
+    strongest_name = _SUBJECT_GETTERS.get(strongest_slug, {}).get("name", strongest_slug.title())
+    strongest_pct = subject_readiness[strongest_slug]
+    if strongest_pct > 0:
+        insights.append({
+            "type": "success",
+            "icon": "🏆",
+            "text": f"Strongest area: {strongest_name} ({strongest_pct}% readiness)",
+        })
+
+    # Study streak insight
+    if current_streak > 0:
+        insights.append({
+            "type": "info",
+            "icon": "🔥",
+            "text": f"{current_streak} day study streak — keep it going!",
+        })
+
     return render_template("stats.html",
         overall_readiness=overall_readiness,
         subjects=subjects,
         recent_quizzes=recent_quizzes,
         weekly_activity=weekly,
         current_streak=current_streak,
+        has_data=overall_readiness > 0 or bool(recent_quizzes),
         active_nav="stats",
     )
 
@@ -766,6 +809,7 @@ def resources():
             "url": "https://nursecheung.com/ati-teas-version-7-comprehensive-study-guide/",
             "description": "Free study guides covering every TEAS subtopic — Reading, Math, Science, and English — written by a critical care nurse educator.",
             "badge": "study guides",
+            "category": "Study Guides",
             "tags": ["math", "science", "reading", "english"],
         },
         {
@@ -773,6 +817,7 @@ def resources():
             "url": "https://uniontestprep.com/teas/test",
             "description": "100% free study guides and practice tests with no paywall or email gate. Covers all four TEAS subjects.",
             "badge": "practice tests",
+            "category": "Practice Tests",
             "tags": ["math", "science", "reading", "english"],
         },
         {
@@ -780,6 +825,7 @@ def resources():
             "url": "https://nurse.org/education/teas-test-study-guide",
             "description": "Free 170-question practice test plus an 8-week study schedule to keep you on track.",
             "badge": "study plan",
+            "category": "Tips & Strategies",
             "tags": ["math", "science", "reading", "english"],
         },
         {
@@ -787,6 +833,7 @@ def resources():
             "url": "https://www.mometrix.com/academy/teas-practice-test",
             "description": "Free 170-question practice test with detailed answer explanations from a trusted test-prep company.",
             "badge": "practice tests",
+            "category": "Practice Tests",
             "tags": ["math", "science", "reading", "english"],
         },
         {
@@ -794,6 +841,7 @@ def resources():
             "url": "https://www.khanacademy.org",
             "description": "Free foundational lessons in math, science, and grammar. Not TEAS-specific, but perfect for reviewing weak areas from scratch.",
             "badge": "foundations",
+            "category": "Video Courses",
             "tags": ["math", "science", "english"],
         },
     ]
@@ -835,6 +883,32 @@ def settings_reset():
     return redirect("/settings")
 
 
+@app.route("/settings/profile", methods=["POST"])
+@login_required
+def settings_profile():
+    user_id = session.get("user_id", 1)
+    display_name = request.form.get("display_name", "")
+    exam_date = request.form.get("exam_date", "")
+    if display_name:
+        db.update_user(user_id, display_name=display_name)
+    if exam_date:
+        db.update_user(user_id, exam_date=exam_date)
+    return redirect("/settings")
+
+
+@app.route("/api/export")
+@login_required
+def api_export():
+    user_id = session.get("user_id", 1)
+    user = db.get_user(user_id)
+    sessions = db.get_user_sessions(user_id)
+    data = {
+        "user": {k: v for k, v in user.items() if k != "password_hash"} if user else {},
+        "sessions": sessions or [],
+    }
+    return jsonify(data), 200, {"Content-Disposition": "attachment; filename=teas-study-data.json"}
+
+
 # ---------------------------------------------------------------------------
 # Auth Routes
 # ---------------------------------------------------------------------------
@@ -860,7 +934,7 @@ def signup():
             session["user_id"] = user["id"]
             session.permanent = True
             flash("Account created! Welcome to TEAS Study Buddy.", "success")
-            return redirect("/")
+            return redirect("/onboarding")
         except ValueError as e:
             flash(str(e), "error")
             return render_template("signup.html")
@@ -903,29 +977,44 @@ def logout():
 @app.route("/onboarding", methods=["GET", "POST"])
 @login_required
 def onboarding():
-    """First-time setup wizard: name, exam date, target score."""
+    """First-time setup wizard: name, exam date, feature tour."""
     user_id = session.get("user_id", 1)
     user = _get_current_user()
 
     if user and user.get("onboarding_done"):
         return redirect("/")
 
+    today = datetime.now().strftime("%Y-%m-%d")
+
     if request.method == "POST":
-        display_name = request.form.get("display_name", "").strip() or "Student"
-        exam_date = request.form.get("exam_date", "").strip() or None
-        target_score = request.form.get("target_score", 80, type=int)
-        target_score = max(0, min(100, target_score))
+        step = request.form.get("step", "")
 
-        db.update_user(user_id,
-            display_name=display_name,
-            exam_date=exam_date,
-            target_score=target_score,
-            onboarding_done=1,
-        )
-        flash("Profile saved! Let's start studying.", "success")
-        return redirect("/")
+        if step == "1":
+            display_name = request.form.get("display_name", "").strip() or "Student"
+            db.update_user(user_id, display_name=display_name)
+            return redirect("/onboarding?step=2")
 
-    return render_template("onboarding.html", user=user)
+        elif step == "2":
+            exam_date = request.form.get("exam_date", "").strip() or None
+            db.update_user(user_id, exam_date=exam_date)
+            return redirect("/onboarding?step=3")
+
+        else:
+            # Legacy / final submit
+            display_name = request.form.get("display_name", "").strip() or "Student"
+            exam_date = request.form.get("exam_date", "").strip() or None
+            target_score = request.form.get("target_score", 80, type=int)
+            target_score = max(0, min(100, target_score))
+            db.update_user(user_id,
+                display_name=display_name,
+                exam_date=exam_date,
+                target_score=target_score,
+                onboarding_done=1,
+            )
+            flash("Profile saved! Let's start studying.", "success")
+            return redirect("/")
+
+    return render_template("onboarding.html", user=user, today=today)
 
 
 # ---------------------------------------------------------------------------
