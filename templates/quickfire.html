@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", () => {
 function startGame(subject) {
   fetch("/api/quickfire/start", {
     method: "POST",
-    headers: {"Content-Type": "application/json"},
+    headers: {"Content-Type": "application/json", "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content},
     body: JSON.stringify({subject})
   })
   .then(r => r.json())
@@ -140,7 +140,7 @@ function submitAnswer(answer) {
 
   fetch("/api/quickfire/answer", {
     method: "POST",
-    headers: {"Content-Type": "application/json"},
+    headers: {"Content-Type": "application/json", "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content},
     body: JSON.stringify({session_id: sessionId, answer: answer, time_left: timeLeft})
   })
   .then(r => r.json())
@@ -201,7 +201,7 @@ function startTimer() {
         waiting = true;
         fetch("/api/quickfire/answer", {
           method: "POST",
-          headers: {"Content-Type": "application/json"},
+          headers: {"Content-Type": "application/json", "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content},
           body: JSON.stringify({session_id: sessionId, answer: "SKIP", time_left: 0})
         }).then(r => r.json()).then(data => {
           stopTimer();

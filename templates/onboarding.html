@@ -8,6 +8,7 @@
   <p class="subtitle">A few quick questions to personalize your study plan.</p>
 
   <form method="POST" action="/onboarding">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
     <div class="form-group">
       <label for="display_name">What should we call you?</label>
       <input type="text" id="display_name" name="display_name"

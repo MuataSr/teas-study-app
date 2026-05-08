@@ -118,6 +118,7 @@
 
   <!-- Choices -->
   <form method="POST" action="/quiz/{{ subject_slug }}/{{ quiz_id }}/{{ current_q - 1 }}/answer" id="quiz-form">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
     <div class="choices">
       {% set letters = ['A', 'B', 'C', 'D'] %}
       {% set opts = question.options if question.options is defined else [] %}
