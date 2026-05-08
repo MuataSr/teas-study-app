@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block title %}Spaced Review{% endblock %}
+
+{% block content %}
+
+<div class="review-page">
+
+  <!-- Header -->
+  <div class="review-header">
+    <h1>Spaced Review</h1>
+    {% if total_due > 0 %}
+    <p class="review-header-sub">{{ total_due }} question{{ 's' if total_due != 1 else '' }} due for review</p>
+    {% else %}
+    <p class="review-header-sub">Nothing due — great work! 🎉</p>
+    {% endif %}
+  </div>
+
+  {% if total_due > 0 %}
+
+  <!-- Subject Cards -->
+  <div class="review-subjects">
+    <h2 class="section-title">By Subject</h2>
+
+    {% for subj in review_data %}
+    <div class="review-subject-card">
+      <div class="review-subject-info">
+        <div class="review-subject-name-row">
+          <span class="subject-dot dot-{{ subj.slug }}"></span>
+          <span class="subject-name">{{ subj.name }}</span>
+        </div>
+        {% if subj.due_count > 0 %}
+        <span class="review-due-badge">{{ subj.due_count }} due</span>
+        {% else %}
+        <span class="review-due-badge review-due-badge--none">none</span>
+        {% endif %}
+      </div>
+      {% if subj.due_count > 0 %}
+      <form method="POST" action="/review/start">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+        <input type="hidden" name="subject" value="{{ subj.slug }}">
+        <button type="submit" class="btn-primary review-start-btn">Start Review</button>
+      </form>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Review All -->
+  <form method="POST" action="/review/start" class="review-all-form">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+    <button type="submit" class="btn-primary review-all-btn">Review All</button>
+  </form>
+
+  {% else %}
+
+  <!-- Empty State -->
+  <div class="review-empty">
+    <div class="review-empty-icon">✓</div>
+    <p class="review-empty-text">You're all caught up. Come back when items are due.</p>
+  </div>
+
+  {% endif %}
+
+</div>
+
+{% endblock %}

@@ -490,6 +490,126 @@ h1, h2, h3 {
   flex-shrink: 0;
 }
 
+.review-page {
+  padding-bottom: 24px;
+}
+
+.review-header {
+  padding: 20px 0 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
+}
+
+.review-header h1 {
+  font-size: 26px;
+  font-weight: 800;
+}
+
+.review-header-sub {
+  font-size: 15px;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+.review-subjects {
+  padding-bottom: 20px;
+}
+
+.review-subject-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.review-subject-card:last-child {
+  border-bottom: none;
+}
+
+.review-subject-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.review-subject-name-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.review-due-badge {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 20px;
+  background: var(--primary);
+  color: #fff;
+}
+
+.review-due-badge--none {
+  background: transparent;
+  color: var(--text-tertiary);
+  border: 1px solid var(--border);
+}
+
+.review-start-btn {
+  padding: 8px 16px;
+  font-size: 13px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.review-all-form {
+  padding-top: 8px;
+}
+
+.review-all-btn {
+  display: block;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+}
+
+.review-empty {
+  text-align: center;
+  padding: 60px 0 40px;
+}
+
+.review-empty-icon {
+  width: 56px;
+  height: 56px;
+  margin: 0 auto 16px;
+  border-radius: 50%;
+  background: var(--correct);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.review-empty-text {
+  font-size: 15px;
+  color: var(--text-secondary);
+}
+
+.review-due-tag {
+  background: color-mix(in srgb, var(--primary) 10%, transparent);
+  border-color: color-mix(in srgb, var(--primary) 30%, transparent);
+  color: var(--primary);
+  text-decoration: none;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.review-due-tag:hover {
+  background: color-mix(in srgb, var(--primary) 18%, transparent);
+  border-color: color-mix(in srgb, var(--primary) 50%, transparent);
+}
+
 /* ══════════════════════════════════════
    PRACTICE / SUBJECT CARDS
    ══════════════════════════════════════ */

@@ -66,6 +66,9 @@
         {% if subj.weak_count and subj.weak_count > 0 %}
         <span class="review-tag">{{ subj.weak_count }} to review</span>
         {% endif %}
+        {% if subj.review_due and subj.review_due > 0 %}
+        <a href="/review?subject={{ subj.slug }}" class="review-tag review-due-tag">{{ subj.review_due }} due for review</a>
+        {% endif %}
       </div>
     </div>
     <div class="progress-track">
