@@ -22,4 +22,45 @@
 
   <p class="auth-link">New here? <a href="/signup">Create an account</a></p>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var form = document.querySelector('form');
+  if (!form) return;
+
+  function showError(input, message) {
+    var err = document.createElement('span');
+    err.className = 'form-error';
+    err.textContent = message;
+    input.parentNode.insertBefore(err, input.nextSibling);
+  }
+
+  form.addEventListener('submit', function(e) {
+    var valid = true;
+    // Clear previous errors
+    form.querySelectorAll('.form-error').forEach(function(el) { el.remove(); });
+
+    // Email
+    var email = form.querySelector('input[name="email"]');
+    if (email) {
+      if (!email.value.trim()) {
+        showError(email, 'Email is required');
+        valid = false;
+      } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.value)) {
+        showError(email, 'Please enter a valid email');
+        valid = false;
+      }
+    }
+
+    // Password
+    var pwField = form.querySelector('input[name="password"]');
+    if (pwField && !pwField.value) {
+      showError(pwField, 'Password is required');
+      valid = false;
+    }
+
+    if (!valid) e.preventDefault();
+  });
+});
+</script>
 {% endblock %}

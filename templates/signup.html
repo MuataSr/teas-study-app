@@ -26,4 +26,82 @@
 
   <p class="auth-link">Already have an account? <a href="/login">Log in</a></p>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var form = document.querySelector('form');
+  if (!form) return;
+
+  // Password strength indicator
+  var pwField = form.querySelector('input[name="password"]');
+  if (pwField) {
+    var strengthBar = document.createElement('div');
+    strengthBar.className = 'password-strength-bar';
+    strengthBar.innerHTML = '<div class="password-strength-fill"></div>';
+    pwField.parentNode.insertBefore(strengthBar, pwField.nextSibling);
+
+    pwField.addEventListener('input', function() {
+      var val = this.value;
+      var score = 0;
+      if (val.length >= 8) score++;
+      if (/[0-9]/.test(val)) score++;
+      if (/[^a-zA-Z0-9]/.test(val)) score++;
+
+      var fill = strengthBar.querySelector('.password-strength-fill');
+      fill.style.width = (score / 3 * 100) + '%';
+      fill.className = 'password-strength-fill ' + (score === 0 ? '' : score === 1 ? 'weak' : score === 2 ? 'medium' : 'strong');
+    });
+  }
+
+  function showError(input, message) {
+    var err = document.createElement('span');
+    err.className = 'form-error';
+    err.textContent = message;
+    input.parentNode.insertBefore(err, input.nextSibling);
+  }
+
+  form.addEventListener('submit', function(e) {
+    var valid = true;
+    // Clear previous errors
+    form.querySelectorAll('.form-error').forEach(function(el) { el.remove(); });
+
+    // Display name: required, min 2 chars
+    var nameField = form.querySelector('input[name="display_name"]');
+    if (nameField) {
+      if (!nameField.value.trim()) {
+        showError(nameField, 'Display name is required');
+        valid = false;
+      } else if (nameField.value.trim().length < 2) {
+        showError(nameField, 'Name must be at least 2 characters');
+        valid = false;
+      }
+    }
+
+    // Email format
+    var email = form.querySelector('input[name="email"]');
+    if (email) {
+      if (!email.value.trim()) {
+        showError(email, 'Email is required');
+        valid = false;
+      } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.value)) {
+        showError(email, 'Please enter a valid email');
+        valid = false;
+      }
+    }
+
+    // Password min length
+    if (pwField) {
+      if (!pwField.value) {
+        showError(pwField, 'Password is required');
+        valid = false;
+      } else if (pwField.value.length < 8) {
+        showError(pwField, 'Password must be at least 8 characters');
+        valid = false;
+      }
+    }
+
+    if (!valid) e.preventDefault();
+  });
+});
+</script>
 {% endblock %}

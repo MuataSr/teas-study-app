@@ -3,31 +3,88 @@
 {% block bottom_nav %}{% endblock %}
 
 {% block content %}
-<div class="auth-card">
-  <h1>Let's Get Started</h1>
-  <p class="subtitle">A few quick questions to personalize your study plan.</p>
+<div class="auth-card onboarding">
 
-  <form method="POST" action="/onboarding">
-    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
-    <div class="form-group">
-      <label for="display_name">What should we call you?</label>
-      <input type="text" id="display_name" name="display_name"
-             placeholder="Your first name"
-             value="{{ user.display_name if user and user.display_name != 'Student' else '' }}">
+  <div class="onboarding-steps">
+    <div class="onboarding-step-dot active" data-step="1"></div>
+    <div class="onboarding-step-dot" data-step="2"></div>
+    <div class="onboarding-step-dot" data-step="3"></div>
+  </div>
+
+  <!-- Step 1: Welcome -->
+  <div class="onboarding-panel" id="step-1">
+    <h1>Welcome to TEAS Study! 👋</h1>
+    <p class="subtitle">Let's get you set up in 30 seconds so we can personalize your study experience.</p>
+    <form method="POST" action="/onboarding">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+      <input type="hidden" name="step" value="1">
+      <div class="form-group">
+        <label for="display_name">What should we call you?</label>
+        <input type="text" id="display_name" name="display_name"
+               placeholder="Your first name"
+               value="{{ user.display_name if user and user.display_name != 'Student' else '' }}"
+               required>
+      </div>
+      <button type="submit" class="submit-btn">Next →</button>
+    </form>
+  </div>
+
+  <!-- Step 2: Exam Date -->
+  <div class="onboarding-panel hidden" id="step-2">
+    <h1>When's your exam?</h1>
+    <p class="subtitle">We'll create a study countdown just for you.</p>
+    <form method="POST" action="/onboarding">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+      <input type="hidden" name="step" value="2">
+      <div class="form-group">
+        <label for="exam_date">Exam date</label>
+        <input type="date" id="exam_date" name="exam_date" min="{{ today }}">
+      </div>
+      <button type="submit" class="submit-btn">Next →</button>
+    </form>
+  </div>
+
+  <!-- Step 3: Feature Tour -->
+  <div class="onboarding-panel hidden" id="step-3">
+    <h1>You're all set! 🎉</h1>
+    <p class="subtitle">Here's what you can do:</p>
+    <div class="onboarding-tour">
+      <div class="tour-card">
+        <span class="tour-icon">📝</span>
+        <div><strong>Quizzes</strong><br><span class="tour-desc">Practice with adaptive questions</span></div>
+      </div>
+      <div class="tour-card">
+        <span class="tour-icon">⚡</span>
+        <div><strong>Quickfire</strong><br><span class="tour-desc">60-second speed rounds</span></div>
+      </div>
+      <div class="tour-card">
+        <span class="tour-icon">🔄</span>
+        <div><strong>Spaced Review</strong><br><span class="tour-desc">Smart review based on your confidence</span></div>
+      </div>
     </div>
-    <div class="form-group">
-      <label for="exam_date">When is your TEAS exam?</label>
-      <input type="date" id="exam_date" name="exam_date"
-             value="{{ user.exam_date if user and user.exam_date else '' }}">
-    </div>
-    <div class="form-group">
-      <label for="target_score">Target score (0–100)</label>
-      <input type="number" id="target_score" name="target_score"
-             min="0" max="100" value="{{ user.target_score if user else 80 }}">
-    </div>
-    <button type="submit" class="submit-btn" style="margin-top:8px">Start Studying</button>
-  </form>
+    <a href="/" class="submit-btn" style="display:block;text-align:center;text-decoration:none;margin-top:20px;">Start Studying!</a>
+  </div>
 
   <p class="auth-link"><a href="/">Skip for now</a></p>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var params = new URLSearchParams(window.location.search);
+  var step = parseInt(params.get('step') || '1', 10);
+  if (step < 1 || step > 3) step = 1;
+  showStep(step);
+
+  function showStep(n) {
+    document.querySelectorAll('.onboarding-panel').forEach(function(p) {
+      p.classList.add('hidden');
+    });
+    var panel = document.getElementById('step-' + n);
+    if (panel) panel.classList.remove('hidden');
+    document.querySelectorAll('.onboarding-step-dot').forEach(function(d, i) {
+      d.classList.toggle('active', i < n);
+    });
+  }
+});
+</script>
 {% endblock %}

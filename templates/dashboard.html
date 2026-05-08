@@ -18,7 +18,18 @@
   {% endif %}
 </div>
 
-<!-- Stats Row -->
+<!-- Welcome card for new users -->
+{% if overall_pct == 0 and not recent_sessions %}
+<div class="welcome-card">
+  <div class="welcome-card-icon">📚</div>
+  <h2>Start Your TEAS Journey</h2>
+  <p>Complete your first quiz to see your progress and get personalized recommendations.</p>
+  <a href="/quiz/math" class="btn btn-primary" style="display:inline-block;padding:12px 24px;margin-top:8px;">Start a Quiz</a>
+</div>
+{% endif %}
+
+<!-- Stats Row (only when there's data) -->
+{% if overall_pct > 0 or recent_sessions %}
 <div class="stats">
   <div class="stat">
     <div class="stat-number">{{ overall_pct }}%</div>
@@ -33,6 +44,9 @@
     <div class="stat-label">Streak</div>
   </div>
 </div>
+{% endif %}
+
+<div class="section-divider"></div>
 
 <!-- Quickfire Card -->
 <a href="/quickfire" class="quickfire-card">
@@ -51,6 +65,7 @@
 </a>
 
 <!-- Subjects -->
+<div class="section-divider"></div>
 <div class="subjects">
   <h2 class="section-title">Subjects</h2>
 
@@ -63,11 +78,14 @@
       </div>
       <div class="subject-meta">
         <span class="subject-count">{{ subj.readiness_pct }}%</span>
-        {% if subj.weak_count and subj.weak_count > 0 %}
+        {% set has_weak = subj.weak_count and subj.weak_count > 0 %}
+        {% set has_due = subj.review_due and subj.review_due > 0 %}
+        {% if has_weak and has_due %}
+        <a href="/review?subject={{ subj.slug }}" class="review-tag review-due-tag">{{ subj.weak_count }} weak &middot; {{ subj.review_due }} due</a>
+        {% elif has_weak %}
         <span class="review-tag">{{ subj.weak_count }} to review</span>
-        {% endif %}
-        {% if subj.review_due and subj.review_due > 0 %}
-        <a href="/review?subject={{ subj.slug }}" class="review-tag review-due-tag">{{ subj.review_due }} due for review</a>
+        {% elif has_due %}
+        <a href="/review?subject={{ subj.slug }}" class="review-tag review-due-tag">{{ subj.review_due }} due</a>
         {% endif %}
       </div>
     </div>
