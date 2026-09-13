@@ -8,8 +8,24 @@ import time
 import sys
 import os
 
+def _env_key(name):
+    """Read a credential from the environment, falling back to a repo-root .env.
+    Credentials are never committed - see .env.example."""
+    v = os.environ.get(name, "")
+    if not v and os.path.exists(".env"):
+        for _line in open(".env"):
+            if _line.strip().startswith(name + "="):
+                v = _line.split("=", 1)[1].strip().strip("\"'")
+                break
+    if not v:
+        raise SystemExit(
+            f"{name} is not set. Copy .env.example to .env and fill it in, "
+            f"or export {name}."
+        )
+    return v
+
 # ── Config ──
-API_KEY = "REMOVED-ROTATED-KEY"
+API_KEY = _env_key("ZAI_API_KEY")
 BASE_URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
 MODEL = "glm-5-turbo"
 UNIFIED_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "kb", "teas_unified.db")

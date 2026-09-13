@@ -48,3 +48,9 @@ design/
 
 # IDE
 .vscode/
+
+# Template IS committed; real .env files are not.
+.env*
+!.env.example
+data/*.db-shm
+data/*.db-wal
